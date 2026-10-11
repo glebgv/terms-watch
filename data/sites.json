@@ -1,0 +1,104 @@
+{
+  "sites": [
+    {
+      "id": "hh",
+      "name": "HeadHunter",
+      "url": "https://hh.ru/credit/legal",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "offer",
+          "title": "Оферта / Правовые условия",
+          "url": "https://hh.ru/credit/legal"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://hh.ru/privacy"
+        }
+      ]
+    },
+    {
+      "id": "habr",
+      "name": "Habr Career",
+      "url": "https://career.habr.com/habr_career/terms/",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "offer",
+          "title": "Оферта",
+          "url": "https://career.habr.com/habr_career/terms/"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://career.habr.com/habr_career/privacy/"
+        }
+      ]
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/legal/user-agreement",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "offer",
+          "title": "User Agreement",
+          "url": "https://www.linkedin.com/legal/user-agreement"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Privacy Policy",
+          "url": "https://www.linkedin.com/legal/privacy-policy"
+        }
+      ]
+    },
+    {
+      "id": "indeed",
+      "name": "Indeed",
+      "url": "https://www.indeed.com/hire/terms",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "offer",
+          "title": "Terms of Service",
+          "url": "https://www.indeed.com/hire/terms"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Privacy Policy",
+          "url": "https://www.indeed.com/legal/privacy"
+        }
+      ]
+    },
+    {
+      "id": "superjob",
+      "name": "SuperJob",
+      "url": "https://www.superjob.ru/use/",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "offer",
+          "title": "Пользовательское соглашение",
+          "url": "https://www.superjob.ru/use/"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://www.superjob.ru/politika-konfidencialnosti/"
+        }
+      ]
+    }
+  ]
+}
