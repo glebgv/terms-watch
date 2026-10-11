@@ -1,0 +1,12 @@
+{
+  "id": "hh",
+  "doc_id": "privacy",
+  "name": "HeadHunter",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://hh.ru/article/personal_data",
+  "selector": "main, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "4cfb4bb06ae55fbc913ebad28cb016ac93974772707095d5a001208c71a26be7"
+}

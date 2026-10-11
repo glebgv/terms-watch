@@ -3,20 +3,20 @@
     {
       "id": "hh",
       "name": "HeadHunter",
-      "url": "https://hh.ru/credit/legal",
+      "url": "https://hh.ru/terms",
       "category": "job-board",
       "added": "2026-10-11",
       "active": true,
       "docs": [
         {
           "doc_id": "offer",
-          "title": "Оферта / Правовые условия",
-          "url": "https://hh.ru/credit/legal"
+          "title": "Правила использования сервиса",
+          "url": "https://hh.ru/terms"
         },
         {
           "doc_id": "privacy",
           "title": "Политика конфиденциальности",
-          "url": "https://hh.ru/privacy"
+          "url": "https://hh.ru/article/personal_data"
         }
       ]
     },
@@ -83,20 +83,15 @@
     {
       "id": "superjob",
       "name": "SuperJob",
-      "url": "https://www.superjob.ru/use/",
+      "url": "https://www.superjob.ru/info/privacy-policy.html",
       "category": "job-board",
       "added": "2026-10-11",
       "active": true,
       "docs": [
         {
-          "doc_id": "offer",
-          "title": "Пользовательское соглашение",
-          "url": "https://www.superjob.ru/use/"
-        },
-        {
           "doc_id": "privacy",
           "title": "Политика конфиденциальности",
-          "url": "https://www.superjob.ru/politika-konfidencialnosti/"
+          "url": "https://www.superjob.ru/info/privacy-policy.html"
         }
       ]
     }

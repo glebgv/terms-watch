@@ -1,0 +1,12 @@
+{
+  "id": "superjob",
+  "doc_id": "privacy",
+  "name": "SuperJob",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://www.superjob.ru/info/privacy-policy.html",
+  "selector": "main, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "dc59dbaff7216b7f5b780bc42127e92e739f517c43e3897cbd673af3e88b3f22"
+}
