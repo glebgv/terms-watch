@@ -2,11 +2,11 @@
   "id": "hh",
   "doc_id": "offer",
   "name": "HeadHunter",
-  "doc_title": "Правила использования сервиса",
-  "url": "https://hh.ru/terms",
-  "selector": "main, [data-qa='legal-page'], body",
+  "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+  "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
+  "selector": "main, body",
   "first_check": "2026-10-11",
   "last_check": "2026-10-11",
-  "total_versions": 1,
-  "last_hash": "0aebec1fa2bec6dc72f3a3bd37fc0db398b89175d4ff050c51000582f6bf57f2"
+  "total_versions": 2,
+  "last_hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e"
 }

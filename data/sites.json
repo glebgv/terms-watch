@@ -3,15 +3,15 @@
     {
       "id": "hh",
       "name": "HeadHunter",
-      "url": "https://hh.ru/terms",
+      "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
       "category": "job-board",
       "added": "2026-10-11",
       "active": true,
       "docs": [
         {
           "doc_id": "offer",
-          "title": "Правила использования сервиса",
-          "url": "https://hh.ru/terms"
+          "title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+          "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main"
         },
         {
           "doc_id": "privacy",
@@ -26,7 +26,7 @@
       "url": "https://career.habr.com/habr_career/terms/",
       "category": "job-board",
       "added": "2026-10-11",
-      "active": true,
+      "active": false,
       "docs": [
         {
           "doc_id": "offer",
@@ -66,7 +66,7 @@
       "url": "https://www.indeed.com/hire/terms",
       "category": "job-board",
       "added": "2026-10-11",
-      "active": true,
+      "active": false,
       "docs": [
         {
           "doc_id": "offer",

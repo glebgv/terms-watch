@@ -2,8 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Terms Watch — мониторинг оферт</title>
   <link href="https://glebgv.github.io/terms-watch/"/>
-  <updated>2026-10-11T08:11:11+00:00</updated>
+  <updated>2026-10-11T08:15:21+00:00</updated>
   <author><name>Terms Watch</name></author>
   <id>https://glebgv.github.io/terms-watch/feed.xml</id>
-
+  <entry>
+    <title>HeadHunter: Соглашение по содействию в трудоустройстве и иных видах занятости</title>
+    <link href="https://glebgv.github.io/terms-watch/site/hh.html#2026-10-11"/>
+    <id>tag:terms-watch,2026-10-11:hh-offer</id>
+    <updated>2026-10-11T08:15:21+00:00</updated>
+    <summary>Затронуты темы: персональные данные, ответственность, расторжение, оплата, суд, хранение данных, согласие, cookies. Добавлено строк: 313, удалено: 672, изменено: 313.</summary>
+  </entry>
 </feed>
