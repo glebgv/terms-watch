@@ -3,7 +3,7 @@ name: Deploy Pages
 on:
   push:
     branches: [main]
-    paths: ['site/**', 'data/**', 'changelog.json', 'feed.xml']
+    paths: ['site/**', 'data/**', 'changelog.json', 'feed.xml', '.github/workflows/deploy-pages.yml']
   workflow_dispatch:
 
 permissions:
@@ -23,9 +23,18 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - name: Stage site
+        run: |
+          mkdir -p _stage
+          cp -r site/* _stage/
+          touch _stage/.nojekyll
+          # данные и фиды доступны по корневым путям: /data/..., /changelog.json, /feed.xml
+          cp -r data _stage/data
+          cp changelog.json _stage/ 2>/dev/null || echo '{"updated":null,"entries":[]}' > _stage/changelog.json
+          cp feed.xml _stage/ 2>/dev/null || true
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _stage
       - id: deployment
         uses: actions/deploy-pages@v4
