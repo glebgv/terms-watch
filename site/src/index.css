@@ -18,11 +18,10 @@ body {
   100% { background-position: 200% center; }
 }
 
-/* одиночное переливание: туда и обратно */
+/* одиночное переливание: один проход */
 @keyframes silver-shine-once {
   0%   { background-position: 0% center; }
-  50%  { background-position: 100% center; }
-  100% { background-position: 0% center; }
+  100% { background-position: 100% center; }
 }
 
 .silver-text {
