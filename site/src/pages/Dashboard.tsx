@@ -5,9 +5,11 @@ import ChangeCard from '../components/ChangeCard'
 import { Badge, Card, ErrorBox, Spinner } from '../components/ui'
 import { motion } from 'framer-motion'
 import { Search, Globe, FileText, GitCommitHorizontal, Clock, History } from 'lucide-react'
+import type { ChangelogEntry } from '../lib/types'
 import { STALE_THRESHOLD_HOURS } from '../lib/constants'
 
 const PAGE_SIZE = 50
+const RECENT_WINDOW_MS = 90 * 24 * 3600 * 1000 // 3 месяца
 
 export default function Dashboard() {
   const { data, loading, error } = useQuery(() => api.index(), [])
@@ -27,7 +29,17 @@ export default function Dashboard() {
   const ageHours = (Date.now() - new Date(data!.generated_at).getTime()) / 36e5
   const isStale = ageHours > STALE_THRESHOLD_HOURS
 
-  let entries = data!.changelog
+  // последнее изменение каждого документа, не старше 3 месяцев
+  const recentCutoff = Date.now() - RECENT_WINDOW_MS
+  const latest = new Map<string, ChangelogEntry>()
+  for (const e of data!.changelog) {
+    const k = `${e.site_id}/${e.doc_id}`
+    if (latest.has(k)) continue // changelog отсортирован по убыванию даты
+    const ts = new Date(e.date.slice(0, 10)).getTime()
+    if (ts >= recentCutoff) latest.set(k, e)
+  }
+  let entries = Array.from(latest.values())
+
   if (site) entries = entries.filter((e) => e.site_id === site)
   if (kw) entries = entries.filter((e) => e.keywords.includes(kw))
   if (year) entries = entries.filter((e) => e.date.startsWith(year))
@@ -107,7 +119,7 @@ export default function Dashboard() {
         </div>
 
         <h2 className="text-xs uppercase tracking-wider text-gray-500 mb-3 flex items-center gap-2">
-          лента изменений <Badge color="gray">{entries.length}</Badge>
+          последние изменения по документам <Badge color="gray">{entries.length}</Badge>
         </h2>
         <div className="space-y-3">
           {entries.length === 0 && (
