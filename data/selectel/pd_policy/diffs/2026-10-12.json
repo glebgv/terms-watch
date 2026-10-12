@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0
+  },
+  "is_major": false,
+  "keywords": [],
+  "changes": [],
+  "site": "selectel",
+  "doc_id": "pd_policy",
+  "doc_title": "Политика обработки и защиты персональных данных",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-12",
+  "from_hash": "force1",
+  "to_hash": "7f313eaf41465a9873f3d3c20d6d51fe357d08364d336ad71d5fbba941c43938",
+  "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+  "ai_summary": "Добавлено строк: 0, удалено: 0, изменено: 0."
+}

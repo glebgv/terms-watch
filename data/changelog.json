@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-11T11:31:12+00:00",
+  "updated": "2026-10-12T06:53:46+00:00",
   "entries": [
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T06:53:46+00:00",
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
+      "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/selectel/pd_policy/diffs/2026-10-12.json"
+    },
     {
       "date": "2026-10-11",
       "checked_at": "2026-10-11T11:30:11+00:00",

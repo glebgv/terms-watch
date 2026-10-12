@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:19:12+00:00",
+  "generated_at": "2026-10-12T06:55:55+00:00",
   "sites": [
     {
       "site": {
@@ -596,13 +596,25 @@
           "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
           "selector": "",
           "first_check": "2026-10-11",
-          "last_check": "2026-10-11",
-          "total_versions": 1,
+          "last_check": "2026-10-12",
+          "total_versions": 2,
           "last_hash": "7f313eaf41465a9873f3d3c20d6d51fe357d08364d336ad71d5fbba941c43938"
         }
       ],
-      "last_change": null,
-      "changes_count": 0
+      "last_change": {
+        "date": "2026-10-12",
+        "checked_at": "2026-10-12T06:53:46+00:00",
+        "site_id": "selectel",
+        "site_name": "Selectel",
+        "doc_id": "pd_policy",
+        "doc_title": "Политика обработки и защиты персональных данных",
+        "is_major": false,
+        "keywords": [],
+        "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
+        "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+        "diff_path": "/home/tetra10/proverka/monitor/data-public/selectel/pd_policy/diffs/2026-10-12.json"
+      },
+      "changes_count": 1
     },
     {
       "site": {
@@ -825,6 +837,19 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T06:53:46+00:00",
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
+      "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/selectel/pd_policy/diffs/2026-10-12.json"
+    },
     {
       "date": "2026-10-11",
       "checked_at": "2026-10-11T11:30:11+00:00",
