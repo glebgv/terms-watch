@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:45:12+00:00",
+  "updated": "2026-10-12T12:57:50+00:00",
   "entries": [
     {
       "date": "2026-10-12",
@@ -85,6 +85,9 @@
         "ответственность",
         "хранение данных"
       ],
+      "summary": "Изменено 11% документа: +38 / −44 строк",
+      "diff_path": "hh/offer/diffs/2026-07-29-1039.json",
+      "wayback_url": "https://web.archive.org/web/20260729/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -98,6 +101,9 @@
       "keywords": [
         "персональные данные"
       ],
+      "summary": "Изменено 24% документа: +1 / −36 строк",
+      "diff_path": "hh/privacy/diffs/2026-07-23-1635.json",
+      "wayback_url": "https://web.archive.org/web/20260723/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -109,6 +115,9 @@
       "ratio": 0.0176,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +4 / −1 строк",
+      "diff_path": "yandex/rules/diffs/2026-05-30-1248.json",
+      "wayback_url": "https://web.archive.org/web/20260530/https://yandex.ru/legal/rules/ru/",
       "retrospective": true
     },
     {
@@ -122,6 +131,9 @@
       "keywords": [
         "согласие"
       ],
+      "summary": "Изменено 3% документа: +5 / −5 строк",
+      "diff_path": "hh/privacy/diffs/2026-05-03-1014.json",
+      "wayback_url": "https://web.archive.org/web/20260503/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -133,6 +145,9 @@
       "ratio": 0.011,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +2 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2026-05-01-0824.json",
+      "wayback_url": "https://web.archive.org/web/20260501/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -149,6 +164,9 @@
         "суд",
         "согласие"
       ],
+      "summary": "Изменено 7% документа: +43 / −23 строк",
+      "diff_path": "hh/offer/diffs/2026-04-30-0503.json",
+      "wayback_url": "https://web.archive.org/web/20260430/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -160,6 +178,9 @@
       "ratio": 0.0076,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "yandex/cloud_terms/diffs/2026-02-14-2232.json",
+      "wayback_url": "https://web.archive.org/web/20260214/https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru",
       "retrospective": true
     },
     {
@@ -171,6 +192,9 @@
       "ratio": 0.1916,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 19% документа: +26 / −11 строк",
+      "diff_path": "hh/privacy/diffs/2026-01-13-1600.json",
+      "wayback_url": "https://web.archive.org/web/20260113/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -186,6 +210,9 @@
         "согласие",
         "cookies"
       ],
+      "summary": "Изменено 21% документа: +13 / −28 строк",
+      "diff_path": "hh/privacy/diffs/2025-12-29-2224.json",
+      "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -203,6 +230,9 @@
         "согласие",
         "cookies"
       ],
+      "summary": "Изменено 2% документа: +10 / −9 строк",
+      "diff_path": "hh/offer/diffs/2025-12-29-2217.json",
+      "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -216,6 +246,9 @@
       "keywords": [
         "персональные данные"
       ],
+      "summary": "Изменено 1% документа: +2 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2025-12-27-1947.json",
+      "wayback_url": "https://web.archive.org/web/20251227/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -227,6 +260,9 @@
       "ratio": 0.0526,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 5% документа: +3 / −2 строк",
+      "diff_path": "profi/recommendation/diffs/2025-12-24-1614.json",
+      "wayback_url": "https://web.archive.org/web/20251224/https://profi.ru/documents/recommendation-algorithms/",
       "retrospective": true
     },
     {
@@ -243,6 +279,9 @@
         "суд",
         "согласие"
       ],
+      "summary": "Изменено 6% документа: +35 / −11 строк",
+      "diff_path": "hh/offer/diffs/2025-08-15-2334.json",
+      "wayback_url": "https://web.archive.org/web/20250815/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -254,6 +293,9 @@
       "ratio": 0.0166,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2025-08-02-1556.json",
+      "wayback_url": "https://web.archive.org/web/20250802/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -265,6 +307,9 @@
       "ratio": 0.0055,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2025-06-20-1645.json",
+      "wayback_url": "https://web.archive.org/web/20250620/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -281,6 +326,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 43% документа: +5 / −13 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2025-05-23-0909.json",
+      "wayback_url": "https://web.archive.org/web/20250523/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -292,6 +340,9 @@
       "ratio": 0.0166,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "diff_path": "hh/privacy/diffs/2025-05-22-0536.json",
+      "wayback_url": "https://web.archive.org/web/20250522/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -306,6 +357,9 @@
         "персональные данные",
         "согласие"
       ],
+      "summary": "Изменено 2% документа: +12 / −6 строк",
+      "diff_path": "hh/offer/diffs/2025-04-30-0934.json",
+      "wayback_url": "https://web.archive.org/web/20250430/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -317,6 +371,9 @@
       "ratio": 0.0055,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +2 / −1 строк",
+      "diff_path": "hh/offer/diffs/2025-01-14-2315.json",
+      "wayback_url": "https://web.archive.org/web/20250114/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -331,6 +388,9 @@
         "персональные данные",
         "согласие"
       ],
+      "summary": "Изменено 57% документа: +6 / −38 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2025-01-14-2305.json",
+      "wayback_url": "https://web.archive.org/web/20250114/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -344,6 +404,9 @@
       "keywords": [
         "персональные данные"
       ],
+      "summary": "Изменено 5% документа: +5 / −8 строк",
+      "diff_path": "hh/privacy/diffs/2025-01-08-1534.json",
+      "wayback_url": "https://web.archive.org/web/20250108/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -359,6 +422,9 @@
         "ответственность",
         "суд"
       ],
+      "summary": "Изменено 3% документа: +5 / −5 строк",
+      "diff_path": "profi/privacy/diffs/2024-12-17-0007.json",
+      "wayback_url": "https://web.archive.org/web/20241217/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -376,6 +442,9 @@
         "суд",
         "хранение данных"
       ],
+      "summary": "Изменено 40% документа: +187 / −169 строк",
+      "diff_path": "hh/offer/diffs/2024-12-03-0628.json",
+      "wayback_url": "https://web.archive.org/web/20241203/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -387,6 +456,9 @@
       "ratio": 0.1734,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 17% документа: +23 / −10 строк",
+      "diff_path": "hh/privacy/diffs/2024-11-26-1834.json",
+      "wayback_url": "https://web.archive.org/web/20241126/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -400,6 +472,9 @@
       "keywords": [
         "персональные данные"
       ],
+      "summary": "Изменено 3% документа: +78 / −1 строк",
+      "diff_path": "selectel/pd_policy/diffs/2024-11-18-0219.json",
+      "wayback_url": "https://web.archive.org/web/20241118/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true
     },
     {
@@ -415,6 +490,9 @@
         "согласие",
         "cookies"
       ],
+      "summary": "Изменено 13% документа: +183 / −37 строк",
+      "diff_path": "selectel/pd_policy/diffs/2024-09-05-1704.json",
+      "wayback_url": "https://web.archive.org/web/20240905/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true
     },
     {
@@ -429,6 +507,9 @@
         "персональные данные",
         "согласие"
       ],
+      "summary": "Изменено 3% документа: +5 / −5 строк",
+      "diff_path": "profi/privacy/diffs/2024-08-29-1607.json",
+      "wayback_url": "https://web.archive.org/web/20240829/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -440,6 +521,9 @@
       "ratio": 0.0063,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2024-07-05-0116.json",
+      "wayback_url": "https://web.archive.org/web/20240705/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -453,6 +537,9 @@
       "keywords": [
         "third party"
       ],
+      "summary": "Изменено 6% документа: +6 / −6 строк",
+      "diff_path": "vk/terms/diffs/2024-07-03-0918.json",
+      "wayback_url": "https://web.archive.org/web/20240703/https://vk.ru/terms",
       "retrospective": true
     },
     {
@@ -464,6 +551,9 @@
       "ratio": 0.1037,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 10% документа: +7 / −11 строк",
+      "diff_path": "hh/privacy/diffs/2024-04-02-0425.json",
+      "wayback_url": "https://web.archive.org/web/20240402/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -475,6 +565,9 @@
       "ratio": 0.0045,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 0% документа: +2 / −1 строк",
+      "diff_path": "hh/offer/diffs/2024-03-06-0959.json",
+      "wayback_url": "https://web.archive.org/web/20240306/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -486,6 +579,9 @@
       "ratio": 0.0168,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2024-02-28-1706.json",
+      "wayback_url": "https://web.archive.org/web/20240228/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -503,6 +599,9 @@
         "оплата",
         "суд"
       ],
+      "summary": "Изменено 84% документа: +200 / −13 строк",
+      "diff_path": "hh/offer/diffs/2024-02-09-1704.json",
+      "wayback_url": "https://web.archive.org/web/20240209/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -514,6 +613,9 @@
       "ratio": 0.006,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2024-01-01-1729.json",
+      "wayback_url": "https://web.archive.org/web/20240101/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -531,6 +633,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 46% документа: +66 / −43 строк",
+      "diff_path": "hh/privacy/diffs/2023-12-31-1701.json",
+      "wayback_url": "https://web.archive.org/web/20231231/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -548,6 +653,9 @@
         "суд",
         "хранение данных"
       ],
+      "summary": "Изменено 23% документа: +7 / −6 строк",
+      "diff_path": "hh/offer/diffs/2023-12-22-2344.json",
+      "wayback_url": "https://web.archive.org/web/20231222/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -565,6 +673,9 @@
         "согласие",
         "cookies"
       ],
+      "summary": "Изменено 32% документа: +109 / −72 строк",
+      "diff_path": "selectel/pd_policy/diffs/2023-11-27-0842.json",
+      "wayback_url": "https://web.archive.org/web/20231127/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true
     },
     {
@@ -581,6 +692,9 @@
         "суд",
         "согласие"
       ],
+      "summary": "Изменено 44% документа: +59 / −17 строк",
+      "diff_path": "profi/privacy/diffs/2023-11-02-0007.json",
+      "wayback_url": "https://web.archive.org/web/20231102/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -598,6 +712,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 56% документа: +57 / −84 строк",
+      "diff_path": "hh/privacy/diffs/2023-08-17-1749.json",
+      "wayback_url": "https://web.archive.org/web/20230817/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -609,6 +726,9 @@
       "ratio": 0.0093,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "vk/terms/diffs/2023-08-02-1956.json",
+      "wayback_url": "https://web.archive.org/web/20230802/https://vk.ru/terms",
       "retrospective": true
     },
     {
@@ -620,6 +740,9 @@
       "ratio": 0.0098,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2023-08-02-0937.json",
+      "wayback_url": "https://web.archive.org/web/20230802/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -631,6 +754,9 @@
       "ratio": 0.02,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +2 / −2 строк",
+      "diff_path": "superjob/personal_data/diffs/2023-06-21-1157.json",
+      "wayback_url": "https://web.archive.org/web/20230621/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -642,6 +768,9 @@
       "ratio": 0.0196,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +2 / −2 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2023-06-06-0051.json",
+      "wayback_url": "https://web.archive.org/web/20230606/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -653,6 +782,9 @@
       "ratio": 0.0278,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 3% документа: +3 / −3 строк",
+      "diff_path": "vk/terms/diffs/2023-05-18-1519.json",
+      "wayback_url": "https://web.archive.org/web/20230518/https://vk.ru/terms",
       "retrospective": true
     },
     {
@@ -670,6 +802,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 10% документа: +3 / −3 строк",
+      "diff_path": "hh/offer/diffs/2023-04-28-0114.json",
+      "wayback_url": "https://web.archive.org/web/20230428/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -681,6 +816,9 @@
       "ratio": 0.0345,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 3% документа: +6 / −4 строк",
+      "diff_path": "hh/privacy/diffs/2023-04-11-0403.json",
+      "wayback_url": "https://web.archive.org/web/20230411/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -695,6 +833,9 @@
         "ответственность",
         "хранение данных"
       ],
+      "summary": "Изменено 2% документа: +2 / −2 строк",
+      "diff_path": "superjob/personal_data/diffs/2023-03-07-0414.json",
+      "wayback_url": "https://web.archive.org/web/20230307/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -706,6 +847,9 @@
       "ratio": 0.0549,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 5% документа: +5 / −0 строк",
+      "diff_path": "superjob/privacy/diffs/2023-02-28-0119.json",
+      "wayback_url": "https://web.archive.org/web/20230228/https://www.superjob.ru/info/privacy-policy.html",
       "retrospective": true
     },
     {
@@ -717,6 +861,9 @@
       "ratio": 0.0612,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 6% документа: +5 / −1 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2023-02-20-1500.json",
+      "wayback_url": "https://web.archive.org/web/20230220/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -728,6 +875,9 @@
       "ratio": 0.0526,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 5% документа: +5 / −0 строк",
+      "diff_path": "superjob/personal_data/diffs/2023-02-20-1459.json",
+      "wayback_url": "https://web.archive.org/web/20230220/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -743,6 +893,9 @@
         "согласие",
         "cookies"
       ],
+      "summary": "Изменено 16% документа: +20 / −200 строк",
+      "diff_path": "selectel/pd_policy/diffs/2023-02-19-2250.json",
+      "wayback_url": "https://web.archive.org/web/20230219/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true
     },
     {
@@ -760,6 +913,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 3% документа: +1 / −1 строк",
+      "diff_path": "hh/offer/diffs/2023-02-17-0226.json",
+      "wayback_url": "https://web.archive.org/web/20230217/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -771,6 +927,9 @@
       "ratio": 0.0093,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "vk/terms/diffs/2023-02-03-1753.json",
+      "wayback_url": "https://web.archive.org/web/20230203/https://vk.ru/terms",
       "retrospective": true
     },
     {
@@ -788,6 +947,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 58% документа: +84 / −85 строк",
+      "diff_path": "hh/privacy/diffs/2023-01-01-0825.json",
+      "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -801,6 +963,9 @@
       "keywords": [
         "персональные данные"
       ],
+      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "diff_path": "hh/privacy/diffs/2022-12-31-1342.json",
+      "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -818,6 +983,9 @@
         "оплата",
         "суд"
       ],
+      "summary": "Изменено 50% документа: +15 / −15 строк",
+      "diff_path": "hh/offer/diffs/2022-12-31-0812.json",
+      "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -833,6 +1001,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 12% документа: +9 / −9 строк",
+      "diff_path": "profi/privacy/diffs/2022-12-09-2027.json",
+      "wayback_url": "https://web.archive.org/web/20221209/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -850,6 +1021,9 @@
         "оплата",
         "суд"
       ],
+      "summary": "Изменено 50% документа: +15 / −15 строк",
+      "diff_path": "hh/offer/diffs/2022-12-03-0327.json",
+      "wayback_url": "https://web.archive.org/web/20221203/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -865,6 +1039,9 @@
         "ответственность",
         "согласие"
       ],
+      "summary": "Изменено 3% документа: +1 / −1 строк",
+      "diff_path": "hh/offer/diffs/2022-10-18-2230.json",
+      "wayback_url": "https://web.archive.org/web/20221018/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -882,6 +1059,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 58% документа: +84 / −84 строк",
+      "diff_path": "hh/privacy/diffs/2022-10-01-0551.json",
+      "wayback_url": "https://web.archive.org/web/20221001/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -895,6 +1075,9 @@
       "keywords": [
         "third party"
       ],
+      "summary": "Изменено 22% документа: +17 / −8 строк",
+      "diff_path": "superjob/privacy/diffs/2022-07-31-0526.json",
+      "wayback_url": "https://web.archive.org/web/20220731/https://www.superjob.ru/info/privacy-policy.html",
       "retrospective": true
     },
     {
@@ -906,6 +1089,9 @@
       "ratio": 0.033,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 3% документа: +2 / −3 строк",
+      "diff_path": "superjob/personal_data/diffs/2022-06-03-1502.json",
+      "wayback_url": "https://web.archive.org/web/20220603/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -917,6 +1103,9 @@
       "ratio": 0.1198,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 12% документа: +3 / −23 строк",
+      "diff_path": "hh/privacy/diffs/2022-06-01-1326.json",
+      "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -928,6 +1117,9 @@
       "ratio": 0.0319,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 3% документа: +2 / −2 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2022-04-26-0727.json",
+      "wayback_url": "https://web.archive.org/web/20220426/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -945,6 +1137,9 @@
         "суд",
         "хранение данных"
       ],
+      "summary": "Изменено 20% документа: +6 / −6 строк",
+      "diff_path": "hh/offer/diffs/2022-03-14-0725.json",
+      "wayback_url": "https://web.archive.org/web/20220314/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -959,6 +1154,9 @@
         "персональные данные",
         "согласие"
       ],
+      "summary": "Изменено 2% документа: +2 / −1 строк",
+      "diff_path": "profi/privacy/diffs/2022-03-14-0312.json",
+      "wayback_url": "https://web.archive.org/web/20220314/https://profi.ru/documents/privacy-policy/",
       "retrospective": true
     },
     {
@@ -970,6 +1168,9 @@
       "ratio": 0.0549,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 5% документа: +4 / −1 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2022-03-14-0016.json",
+      "wayback_url": "https://web.archive.org/web/20220314/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -981,6 +1182,9 @@
       "ratio": 0.0222,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +2 / −0 строк",
+      "diff_path": "superjob/personal_data/diffs/2022-03-10-0256.json",
+      "wayback_url": "https://web.archive.org/web/20220310/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -992,6 +1196,9 @@
       "ratio": 0.0094,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 1% документа: +2 / −2 строк",
+      "diff_path": "hh/privacy/diffs/2022-01-01-1810.json",
+      "wayback_url": "https://web.archive.org/web/20220101/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -1009,6 +1216,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 36% документа: +67 / −43 строк",
+      "diff_path": "hh/privacy/diffs/2021-12-31-1724.json",
+      "wayback_url": "https://web.archive.org/web/20211231/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -1026,6 +1236,9 @@
         "согласие",
         "cookies"
       ],
+      "summary": "Изменено 39% документа: +25 / −17 строк",
+      "diff_path": "superjob/personal_data/diffs/2021-11-30-1234.json",
+      "wayback_url": "https://web.archive.org/web/20211130/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -1039,6 +1252,9 @@
       "keywords": [
         "персональные данные"
       ],
+      "summary": "Изменено 21% документа: +12 / −10 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2021-10-21-1934.json",
+      "wayback_url": "https://web.archive.org/web/20211021/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -1050,6 +1266,9 @@
       "ratio": 0.2273,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 23% документа: +11 / −9 строк",
+      "diff_path": "superjob/privacy/diffs/2021-10-11-0557.json",
+      "wayback_url": "https://web.archive.org/web/20211011/https://www.superjob.ru/info/privacy-policy.html",
       "retrospective": true
     },
     {
@@ -1067,6 +1286,9 @@
         "суд",
         "хранение данных"
       ],
+      "summary": "Изменено 10% документа: +3 / −3 строк",
+      "diff_path": "hh/offer/diffs/2021-10-11-0134.json",
+      "wayback_url": "https://web.archive.org/web/20211011/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -1078,6 +1300,9 @@
       "ratio": 0.0366,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 4% документа: +6 / −6 строк",
+      "diff_path": "hh/privacy/diffs/2021-08-30-0430.json",
+      "wayback_url": "https://web.archive.org/web/20210830/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -1094,6 +1319,9 @@
         "хранение данных",
         "согласие"
       ],
+      "summary": "Изменено 18% документа: +12 / −8 строк",
+      "diff_path": "superjob/personal_data/diffs/2021-06-06-0640.json",
+      "wayback_url": "https://web.archive.org/web/20210606/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -1105,6 +1333,9 @@
       "ratio": 0.0432,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 4% документа: +7 / −5 строк",
+      "diff_path": "hh/privacy/diffs/2021-05-14-0413.json",
+      "wayback_url": "https://web.archive.org/web/20210514/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -1116,6 +1347,9 @@
       "ratio": 0.0244,
       "is_major": false,
       "keywords": [],
+      "summary": "Изменено 2% документа: +2 / −0 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2021-04-21-0255.json",
+      "wayback_url": "https://web.archive.org/web/20210421/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     }
   ]
