@@ -60,7 +60,7 @@ body {
     transparent 70%
   );
   background-size: 250% 100%;
-  animation: silver-shine 5s linear infinite;
+  animation: silver-shine-once 5s ease-in-out 1 both;
   pointer-events: none;
 }
 
