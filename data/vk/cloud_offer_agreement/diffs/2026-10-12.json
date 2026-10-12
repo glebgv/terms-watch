@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0046
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "ответственность",
+    "оплата"
+  ],
+  "changes": [
+    {
+      "type": "add",
+      "position": 218,
+      "text": "Содержание"
+    },
+    {
+      "type": "add",
+      "position": 219,
+      "text": "1. ОБЩИЕ УСЛОВИЯ 2. ПРЕДМЕТ ДОГОВОРА 3. АКЦЕПТ ОФЕРТЫ 4. ОПЛАТА УСЛУГ КОМПАНИИ 5. ПРИЕМКА УСЛУГ 6. ПРАВА И ОБЯЗАННОСТИ СТОРОН 7.ОТВЕТСТВЕННОСТЬ СТОРОН 8. ПРИОСТАНОВКА ОКАЗАНИЯ УСЛУГ 9. ОБСТОЯТЕЛЬСТВА НЕПРЕОДОЛИМОЙ СИЛЫ 10. ДЕЙСТВИЕ ДОГОВОРА 11. РАЗРЕШЕНИЕ СПОРОВ И ПРИМЕНИМОЕ ПРАВО 12. КОНФИДЕНЦИАЛЬНОСТЬ 13. АНТИКОРРУПЦИОННАЯ ОГОВОРКА 14. ПРОЧИЕ УСЛОВИЯ"
+    }
+  ],
+  "site": "vk",
+  "doc_id": "cloud_offer_agreement",
+  "doc_title": "Договор-оферта (VK Cloud)",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-12",
+  "from_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47",
+  "to_hash": "b734fabc348b84086f8a5c2decdb3eb4c13e40cc01526c8d3b7b57f0d6f6607c",
+  "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+  "ai_summary": "Затронуты темы: ответственность, оплата. Добавлено строк: 2, удалено: 0, изменено: 0."
+}

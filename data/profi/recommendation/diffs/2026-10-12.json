@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0333
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 1,
+      "text": "Главная"
+    },
+    {
+      "type": "add",
+      "position": 2,
+      "text": "На информационном ресурсе применяются рекомендательные технологии"
+    }
+  ],
+  "site": "profi",
+  "doc_id": "recommendation",
+  "doc_title": "Правила применения рекомендательных алгоритмов",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-12",
+  "from_hash": "68e3185ddd73a63747d4351d9c8306f0a7eb617be19db7b6e31862059e19a95e",
+  "to_hash": "151dd5b4a567c72c1ea459920bf0aa6d0ec3bf290a3c2840c0ffb006f315c302",
+  "url": "https://profi.ru/documents/recommendation-algorithms/",
+  "ai_summary": "Добавлено строк: 2, удалено: 0, изменено: 0."
+}

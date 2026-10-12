@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0238
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 42,
+      "text": "Содержание"
+    },
+    {
+      "type": "add",
+      "position": 43,
+      "text": "1. Общие положения 2. При использовании Платформы и отдельных Услуг Заказчику и Пользователям запрещается: 3. Запрет на Недобросовестное использование 4. Специальные условия использования Услуг"
+    }
+  ],
+  "site": "vk",
+  "doc_id": "cloud_special_conditions",
+  "doc_title": "Специальные условия (VK Cloud)",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-12",
+  "from_hash": "56193068a31d15f6b93d59e99b668755bbc95f4409539e923966cc04661fac34",
+  "to_hash": "a803db59ebab08e8e5f72f50d41523092852bf3685f5b83fa1307dc2c816d595",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions",
+  "ai_summary": "Добавлено строк: 2, удалено: 0, изменено: 0."
+}

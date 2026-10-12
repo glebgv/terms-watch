@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0105
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 1,
+      "text": "Главная"
+    },
+    {
+      "type": "add",
+      "position": 2,
+      "text": "Политика конфиденциальности"
+    }
+  ],
+  "site": "profi",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-12",
+  "from_hash": "4d8027fbab17dc0d515c2f0be183224374c53ac79644d81d7c2c2de96f9dd0b0",
+  "to_hash": "7f2a43a95c2524cfc8475a8cb64f4b1ddd1335edfbc42bcede41c8b90381554d",
+  "url": "https://profi.ru/documents/privacy-policy/",
+  "ai_summary": "Добавлено строк: 2, удалено: 0, изменено: 0."
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:55:55+00:00",
+  "generated_at": "2026-10-12T08:17:50+00:00",
   "sites": [
     {
       "site": {
@@ -245,9 +245,9 @@
           "url": "https://profi.ru/documents/recommendation-algorithms/",
           "selector": "main, article, body",
           "first_check": "2026-10-11",
-          "last_check": "2026-10-11",
-          "total_versions": 1,
-          "last_hash": "68e3185ddd73a63747d4351d9c8306f0a7eb617be19db7b6e31862059e19a95e"
+          "last_check": "2026-10-12",
+          "total_versions": 2,
+          "last_hash": "151dd5b4a567c72c1ea459920bf0aa6d0ec3bf290a3c2840c0ffb006f315c302"
         },
         {
           "id": "profi",
@@ -257,13 +257,25 @@
           "url": "https://profi.ru/documents/privacy-policy/",
           "selector": "main, article, body",
           "first_check": "2026-10-11",
-          "last_check": "2026-10-11",
-          "total_versions": 1,
-          "last_hash": "4d8027fbab17dc0d515c2f0be183224374c53ac79644d81d7c2c2de96f9dd0b0"
+          "last_check": "2026-10-12",
+          "total_versions": 2,
+          "last_hash": "7f2a43a95c2524cfc8475a8cb64f4b1ddd1335edfbc42bcede41c8b90381554d"
         }
       ],
-      "last_change": null,
-      "changes_count": 0
+      "last_change": {
+        "date": "2026-10-12",
+        "checked_at": "2026-10-12T08:12:44+00:00",
+        "site_id": "profi",
+        "site_name": "Profi.ru",
+        "doc_id": "privacy",
+        "doc_title": "Политика конфиденциальности",
+        "is_major": false,
+        "keywords": [],
+        "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+        "url": "https://profi.ru/documents/privacy-policy/",
+        "diff_path": "/home/tetra10/proverka/monitor/data-public/profi/privacy/diffs/2026-10-12.json"
+      },
+      "changes_count": 2
     },
     {
       "site": {
@@ -363,9 +375,9 @@
           "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions",
           "selector": "main, article, body",
           "first_check": "2026-10-11",
-          "last_check": "2026-10-11",
-          "total_versions": 1,
-          "last_hash": "56193068a31d15f6b93d59e99b668755bbc95f4409539e923966cc04661fac34"
+          "last_check": "2026-10-12",
+          "total_versions": 2,
+          "last_hash": "a803db59ebab08e8e5f72f50d41523092852bf3685f5b83fa1307dc2c816d595"
         },
         {
           "id": "vk",
@@ -375,13 +387,28 @@
           "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
           "selector": "main, article, body",
           "first_check": "2026-10-11",
-          "last_check": "2026-10-11",
-          "total_versions": 1,
-          "last_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47"
+          "last_check": "2026-10-12",
+          "total_versions": 2,
+          "last_hash": "b734fabc348b84086f8a5c2decdb3eb4c13e40cc01526c8d3b7b57f0d6f6607c"
         }
       ],
-      "last_change": null,
-      "changes_count": 0
+      "last_change": {
+        "date": "2026-10-12",
+        "checked_at": "2026-10-12T08:14:33+00:00",
+        "site_id": "vk",
+        "site_name": "VK",
+        "doc_id": "cloud_offer_agreement",
+        "doc_title": "Договор-оферта (VK Cloud)",
+        "is_major": false,
+        "keywords": [
+          "ответственность",
+          "оплата"
+        ],
+        "summary": "Затронуты темы: ответственность, оплата. Добавлено строк: 2, удалено: 0, изменено: 0.",
+        "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+        "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cloud_offer_agreement/diffs/2026-10-12.json"
+      },
+      "changes_count": 2
     },
     {
       "site": {
@@ -837,6 +864,61 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:14:33+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cloud_offer_agreement",
+      "doc_title": "Договор-оферта (VK Cloud)",
+      "is_major": false,
+      "keywords": [
+        "ответственность",
+        "оплата"
+      ],
+      "summary": "Затронуты темы: ответственность, оплата. Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cloud_offer_agreement/diffs/2026-10-12.json"
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:14:26+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cloud_special_conditions",
+      "doc_title": "Специальные условия (VK Cloud)",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cloud_special_conditions/diffs/2026-10-12.json"
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:12:44+00:00",
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://profi.ru/documents/privacy-policy/",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/profi/privacy/diffs/2026-10-12.json"
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:12:40+00:00",
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "recommendation",
+      "doc_title": "Правила применения рекомендательных алгоритмов",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://profi.ru/documents/recommendation-algorithms/",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/profi/recommendation/diffs/2026-10-12.json"
+    },
     {
       "date": "2026-10-12",
       "checked_at": "2026-10-12T06:53:46+00:00",

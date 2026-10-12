@@ -1,6 +1,61 @@
 {
-  "updated": "2026-10-12T06:53:46+00:00",
+  "updated": "2026-10-12T08:14:33+00:00",
   "entries": [
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:14:33+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cloud_offer_agreement",
+      "doc_title": "Договор-оферта (VK Cloud)",
+      "is_major": false,
+      "keywords": [
+        "ответственность",
+        "оплата"
+      ],
+      "summary": "Затронуты темы: ответственность, оплата. Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cloud_offer_agreement/diffs/2026-10-12.json"
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:14:26+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cloud_special_conditions",
+      "doc_title": "Специальные условия (VK Cloud)",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cloud_special_conditions/diffs/2026-10-12.json"
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:12:44+00:00",
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://profi.ru/documents/privacy-policy/",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/profi/privacy/diffs/2026-10-12.json"
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T08:12:40+00:00",
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "recommendation",
+      "doc_title": "Правила применения рекомендательных алгоритмов",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 2, удалено: 0, изменено: 0.",
+      "url": "https://profi.ru/documents/recommendation-algorithms/",
+      "diff_path": "/home/tetra10/proverka/monitor/data-public/profi/recommendation/diffs/2026-10-12.json"
+    },
     {
       "date": "2026-10-12",
       "checked_at": "2026-10-12T06:53:46+00:00",
