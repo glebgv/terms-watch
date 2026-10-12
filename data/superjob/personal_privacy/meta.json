@@ -1,0 +1,12 @@
+{
+  "id": "superjob",
+  "doc_id": "personal_privacy",
+  "name": "SuperJob",
+  "doc_title": "Политика обработки персональных данных (физлица)",
+  "url": "https://www.superjob.ru/info/personal_privacy.html",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "11da52f1adf5eba3e3286b0295643d0205ffccd2953f5a562358a4d60dd5726d"
+}

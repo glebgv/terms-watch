@@ -1,0 +1,12 @@
+{
+  "id": "superjob",
+  "doc_id": "oferta_poruchenie",
+  "name": "SuperJob",
+  "doc_title": "Согласие на обработку ПД по поручению",
+  "url": "https://www.superjob.ru/info/oferta-poruchenie-privacy.html",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "c531b69450f5aad56b07148d06f67372dcd1fd4347b00cb77e7bc68f2a96b5d4"
+}

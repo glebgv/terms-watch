@@ -1,0 +1,12 @@
+{
+  "id": "vk",
+  "doc_id": "licence",
+  "name": "VK",
+  "doc_title": "Лицензия на использование контента",
+  "url": "https://vk.ru/licence",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "1fb7d93c1f93bac6da6eafb78db74ee0399c7594b94a76f0b2038cad7ed235ba"
+}

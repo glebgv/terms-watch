@@ -1,0 +1,12 @@
+{
+  "id": "cloudru",
+  "doc_id": "limitations",
+  "name": "Cloud.ru",
+  "doc_title": "Вводимые ограничения (Evolution)",
+  "url": "https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "90992f0ed0fa595f3e062e0a002b320b917c79b36a5adfcf6c687824a0f1d7f8"
+}

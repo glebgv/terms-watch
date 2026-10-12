@@ -1,0 +1,12 @@
+{
+  "id": "habr",
+  "doc_id": "api_rules",
+  "name": "Habr Career",
+  "doc_title": "Правила использования API",
+  "url": "https://career.habr.com/info/legal/api_rules",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "4cef5fc233baebf25e5da89aa332f353d4432704abf89140e231bb910159cbea"
+}

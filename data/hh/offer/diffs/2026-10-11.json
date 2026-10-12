@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0
+  },
+  "is_major": false,
+  "keywords": [],
+  "changes": [],
+  "site": "hh",
+  "doc_id": "offer",
+  "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-11",
+  "from_hash": "force4",
+  "to_hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e",
+  "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
+  "ai_summary": "Добавлено строк: 0, удалено: 0, изменено: 0."
+}

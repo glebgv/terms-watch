@@ -1,0 +1,12 @@
+{
+  "id": "timeweb",
+  "doc_id": "sla",
+  "name": "Timeweb Cloud",
+  "doc_title": "Соглашение об уровне обслуживания (SLA)",
+  "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/sla.pdf",
+  "selector": "",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "049f4a33f0a72b2734fca72e77683e18e44e056aad2e0570a29f97795cf6cedc"
+}

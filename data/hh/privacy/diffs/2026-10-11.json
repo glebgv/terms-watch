@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0
+  },
+  "is_major": false,
+  "keywords": [],
+  "changes": [],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-11",
+  "from_hash": "force5",
+  "to_hash": "4cfb4bb06ae55fbc913ebad28cb016ac93974772707095d5a001208c71a26be7",
+  "url": "https://hh.ru/article/personal_data",
+  "ai_summary": "Добавлено строк: 0, удалено: 0, изменено: 0."
+}

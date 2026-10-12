@@ -1,0 +1,12 @@
+{
+  "id": "superjob",
+  "doc_id": "privacy_agreement",
+  "name": "SuperJob",
+  "doc_title": "Соглашение о конфиденциальности",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "acdb98409869213e624024b5ecba3eb21896d490ba099793d31fdfda4a613235"
+}

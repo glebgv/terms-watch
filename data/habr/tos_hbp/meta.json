@@ -1,0 +1,12 @@
+{
+  "id": "habr",
+  "doc_id": "tos_hbp",
+  "name": "Habr Career",
+  "doc_title": "Правила использования Хабр Карьера для работодателей",
+  "url": "https://career.habr.com/info/legal/tos_hbp",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "e87c5651eb2b69223a578c5139eaa17943734e5b3de1c53cd313c11f495b11f9"
+}

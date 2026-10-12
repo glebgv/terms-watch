@@ -1,0 +1,12 @@
+{
+  "id": "profi",
+  "doc_id": "recommendation",
+  "name": "Profi.ru",
+  "doc_title": "Правила применения рекомендательных алгоритмов",
+  "url": "https://profi.ru/documents/recommendation-algorithms/",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "68e3185ddd73a63747d4351d9c8306f0a7eb617be19db7b6e31862059e19a95e"
+}

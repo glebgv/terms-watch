@@ -1,0 +1,12 @@
+{
+  "id": "habr",
+  "doc_id": "recommendation_rules",
+  "name": "Habr Career",
+  "doc_title": "Правила работы рекомендательной системы",
+  "url": "https://career.habr.com/info/legal/recommendation-rules",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "51b1eb69cfc3fdea17038fef5e5cb9fd73d3cb05243e176c665affdb488cb9f0"
+}

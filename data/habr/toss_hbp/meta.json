@@ -1,0 +1,12 @@
+{
+  "id": "habr",
+  "doc_id": "toss_hbp",
+  "name": "Habr Career",
+  "doc_title": "Правила использования сервиса для соискателей (HBP)",
+  "url": "https://career.habr.com/info/legal/toss_hbp",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "9a5d72bb3d7ef33d2a5fb3bc5c66d7fbf9f3fec514ef336640a96e489a6ee4af"
+}

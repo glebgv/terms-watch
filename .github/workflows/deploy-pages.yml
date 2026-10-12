@@ -3,7 +3,7 @@ name: Deploy Pages
 on:
   push:
     branches: [main]
-    paths: ['site/**', 'data/**', 'changelog.json', 'feed.xml', '.github/workflows/deploy-pages.yml']
+    paths: ['data/**', 'site/**', '.github/workflows/deploy-pages.yml']
   workflow_dispatch:
 
 permissions:
@@ -16,25 +16,27 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build-deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - name: Stage site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Build site
+        working-directory: site
+        env:
+          VITE_BASE: /terms-watch/
         run: |
-          mkdir -p _stage
-          cp -r site/* _stage/
-          touch _stage/.nojekyll
-          # данные и фиды доступны по корневым путям: /data/..., /changelog.json, /feed.xml
-          cp -r data _stage/data
-          cp changelog.json _stage/ 2>/dev/null || echo '{"updated":null,"entries":[]}' > _stage/changelog.json
-          cp feed.xml _stage/ 2>/dev/null || true
-      - uses: actions/configure-pages@v5
+          npm ci
+          npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: _stage
+          path: site/dist
       - id: deployment
         uses: actions/deploy-pages@v4

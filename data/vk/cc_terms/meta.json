@@ -1,0 +1,12 @@
+{
+  "id": "vk",
+  "doc_id": "cc_terms",
+  "name": "VK",
+  "doc_title": "Условия использования сервиса «VK Реклама»",
+  "url": "https://vk.ru/help?page=cc_terms",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "311cb3bcdc2264a02dc9f7ea2079163807515c5def1eecdd7414fd3ba235ac86"
+}

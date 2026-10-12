@@ -1,0 +1,12 @@
+{
+  "id": "habr",
+  "doc_id": "agreement",
+  "name": "Habr Career",
+  "doc_title": "Соглашение об использовании сервиса",
+  "url": "https://career.habr.com/info/legal/agreement",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "d80e5ab75d34756846e810dc6de1696a0ce9976c7c45cd89d0ef64f06a457917"
+}

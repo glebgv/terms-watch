@@ -1,68 +1,13 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Terms Watch — мониторинг оферт для соискателей</title>
-<script src="https://cdn.tailwindcss.com"></script>
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
-<link rel="stylesheet" href="style.css">
-</head>
-<body class="bg-gray-950 text-gray-100 min-h-screen">
-<header class="border-b border-gray-800">
-  <div class="max-w-5xl mx-auto px-4 py-6 flex items-center justify-between">
-    <h1 class="text-2xl font-bold">⚖️ Terms Watch</h1>
-    <nav class="text-sm space-x-4">
-      <a class="hover:underline" href="/feed.xml">RSS</a>
-      <a class="hover:underline" href="https://t.me/terms_watch">Telegram</a>
-      <a class="hover:underline" href="https://github.com/glebgv/terms-watch/tree/main/mcp-server">MCP</a>
-    </nav>
-  </div>
-</header>
-
-<main class="max-w-5xl mx-auto px-4 py-8">
-  <section class="mb-8">
-    <p class="text-gray-300">
-      Платформа отслеживает изменения пользовательских соглашений, оферт и политик
-      конфиденциальности сайтов для поиска работы. Мы публикуем только диффы
-      изменений, хэши и ссылки на первоисточники — так вы узнаёте, когда платформа
-      в одностороннем порядке меняет условия об арбитраже, персональных данныхх,
-      ответственности и расторжении договора.
-    </p>
-    <div id="stats" class="mt-4 grid grid-cols-3 gap-4 text-center">
-      <div class="bg-gray-900 rounded-lg p-4"><div id="stat-sites" class="text-3xl font-bold">…</div><div class="text-sm text-gray-400">сайтов</div></div>
-      <div class="bg-gray-900 rounded-lg p-4"><div id="stat-changes" class="text-3xl font-bold">…</div><div class="text-sm text-gray-400">изменений</div></div>
-      <div class="bg-gray-900 rounded-lg p-4"><div id="stat-updated" class="text-sm font-bold mt-2">…</div><div class="text-sm text-gray-400">последнее обновление</div></div>
-    </div>
-  </section>
-
-  <section class="mb-6 flex flex-wrap gap-3 items-center">
-    <input id="search" type="search" placeholder="Поиск по диффам…"
-           class="bg-gray-900 border border-gray-700 rounded px-3 py-2 flex-1 min-w-48">
-    <select id="filter-site" class="bg-gray-900 border border-gray-700 rounded px-3 py-2">
-      <option value="">Все сайты</option>
-    </select>
-    <select id="filter-kw" class="bg-gray-900 border border-gray-700 rounded px-3 py-2">
-      <option value="">Все ключевые слова</option>
-      <option>арбитраж</option><option>персональные данные</option><option>ответственность</option>
-      <option>расторжение</option><option>оплата</option><option>суд</option>
-    </select>
-  </section>
-
-  <section id="feed" class="space-y-4"></section>
-</main>
-
-<footer class="border-t border-gray-800 mt-12">
-  <div class="max-w-5xl mx-auto px-4 py-6 text-sm text-gray-400 space-y-2">
-    <p>Проект публикует только фрагменты изменений в информационных целях
-       (ст. 1274 ГК РФ). Полные тексты документов доступны по ссылкам на
-       первоисточники и Wayback Machine. Правообладатель может запросить
-       удаление любого фрагмента — см.
-       <a class="underline" href="https://github.com/glebgv/terms-watch/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
-    <p>Код — MIT, данные — CC BY-SA 4.0.</p>
-  </div>
-</footer>
-
-<script src="app.js"></script>
-</body>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>terms·watch — монитор правовых документов</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>

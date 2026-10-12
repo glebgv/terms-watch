@@ -1,0 +1,12 @@
+{
+  "id": "cloudru",
+  "doc_id": "sla_general",
+  "name": "Cloud.ru",
+  "doc_title": "SLA — общее соглашение",
+  "url": "https://cloud.ru/documents/contracts/terms-of-service/general/service-level-agreement?source-platform=",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "544b4c4f3383bf8fc2a9e5675350175703aa2e4e00199efe392b087eb70a3163"
+}

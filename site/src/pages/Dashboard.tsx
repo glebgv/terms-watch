@@ -1,0 +1,145 @@
+import { useState } from 'react'
+import { useQuery } from '../components/hooks'
+import { api } from '../lib/api'
+import ChangeCard from '../components/ChangeCard'
+import { Badge, Card, ErrorBox, PageTitle, Spinner } from '../components/ui'
+import { motion } from 'framer-motion'
+import { Search, Globe, FileText, GitCommitHorizontal, Clock } from 'lucide-react'
+import { STALE_THRESHOLD_HOURS } from '../lib/constants'
+
+export default function Dashboard() {
+  const { data, loading, error } = useQuery(() => api.index(), [])
+  const [q, setQ] = useState('')
+  const [site, setSite] = useState('')
+  const [kw, setKw] = useState('')
+
+  if (loading) return <Spinner />
+  if (error) return <ErrorBox msg={error} />
+
+  const sites = data!.sites.filter((s) => s.site.active)
+  const totalDocs = sites.reduce((n: number, s: any) => n + s.docs.length, 0)
+  const totalChanges = sites.reduce((n: number, s: any) => n + s.changes_count, 0)
+  const lastGen = data!.generated_at.slice(0, 16).replace('T', ' ')
+  const ageHours = (Date.now() - new Date(data!.generated_at).getTime()) / 36e5
+  const isStale = ageHours > STALE_THRESHOLD_HOURS
+
+  let entries = data!.changelog
+  if (site) entries = entries.filter((e) => e.site_id === site)
+  if (kw) entries = entries.filter((e) => e.keywords.includes(kw))
+  if (q) {
+    const ql = q.toLowerCase()
+    entries = entries.filter((e) => JSON.stringify(e).toLowerCase().includes(ql))
+  }
+
+  const allKeywords = [...new Set<string>(data!.changelog.flatMap((e) => e.keywords))]
+
+  return (
+    <div className="space-y-8">
+      <PageTitle sub="мониторинг изменений пользовательских соглашений, оферт и политик конфиденциальности">
+        обзор
+      </PageTitle>
+
+      <section className="grid grid-cols-2 lg:grid-cols-4 gap-3">
+        <Stat icon={<Globe size={16} />} label="сайтов" value={sites.length} />
+        <Stat icon={<FileText size={16} />} label="документов" value={totalDocs} />
+        <Stat icon={<GitCommitHorizontal size={16} />} label="изменений" value={totalChanges} />
+        <Stat icon={<Clock size={16} />} label="обновлено (UTC)" value={lastGen} small
+              stale={isStale} />
+      </section>
+
+      <section>
+        <h2 className="text-xs uppercase tracking-wider text-gray-500 mb-3">сайты</h2>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3">
+          {sites.map(({ site: s, changes_count, last_change }: any, i: number) => (
+            <motion.a
+              key={s.id}
+              href={`#/site/${s.id}`}
+              initial={{ opacity: 0, scale: 0.96 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: Math.min(i * 0.03, 0.3) }}
+            >
+              <Card hover className="p-3.5 block">
+                <div className="font-semibold text-sm truncate">{s.name}</div>
+                <div className="text-xs text-gray-500 mt-1 space-y-0.5">
+                  <div><span className="text-gray-400 tabular-nums">{s.docs.length}</span> док. · <span className="text-gray-400 tabular-nums">{changes_count}</span> изм.</div>
+                  {last_change && <div className="text-gray-600">посл. {last_change.date.slice(0, 10)}</div>}
+                </div>
+              </Card>
+            </motion.a>
+          ))}
+        </div>
+      </section>
+
+      <section>
+        <div className="flex flex-wrap gap-2 mb-4 items-center">
+          <label className="relative flex-1 min-w-52">
+            <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-600" />
+            <input
+              type="search"
+              placeholder="поиск по изменениям…"
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              className="w-full bg-[#11151c] border border-[#21262d] rounded-lg pl-9 pr-3 py-2 text-sm
+                         focus:outline-none focus:border-emerald-500/50 focus:ring-1 focus:ring-emerald-500/30
+                         placeholder:text-gray-600 transition-all"
+            />
+          </label>
+          <Select value={site} onChange={setSite} placeholder="все сайты"
+                  options={sites.map(({ site: s }: any) => [s.id, s.name])} />
+          <Select value={kw} onChange={setKw} placeholder="все темы"
+                  options={allKeywords.map((k) => [k, k])} />
+        </div>
+
+        <h2 className="text-xs uppercase tracking-wider text-gray-500 mb-3 flex items-center gap-2">
+          лента изменений <Badge color="gray">{entries.length}</Badge>
+        </h2>
+        <div className="space-y-3">
+          {entries.length === 0 && (
+            <p className="text-gray-600 text-sm py-8 text-center border border-dashed border-[#21262d] rounded-xl">
+              ничего не найдено
+            </p>
+          )}
+          {entries.slice(0, 50).map((e: any, i: number) => (
+            <ChangeCard key={`${e.site_id}-${e.doc_id}-${e.date}-${i}`} e={e} index={i} />
+          ))}
+        </div>
+      </section>
+    </div>
+  )
+}
+
+function Stat({ icon, label, value, small, stale }: {
+  icon: React.ReactNode; label: string; value: string | number; small?: boolean
+  stale?: boolean
+}) {
+  return (
+    <Card className={`p-4 ${stale ? 'border-amber-500/40' : ''}`}>
+      <div className={`flex items-center gap-2 text-xs uppercase tracking-wider ${stale ? 'text-amber-400' : 'text-gray-500'}`}>
+        {icon}{label}
+      </div>
+      <div className={small
+        ? `text-sm font-semibold mt-2 tabular-nums ${stale ? 'text-amber-300' : 'text-gray-300'}`
+        : 'text-3xl font-bold mt-1 tabular-nums text-emerald-400'}>
+        {value}
+      </div>
+    </Card>
+  )
+}
+
+function Select({ value, onChange, placeholder, options }: {
+  value: string; onChange: (v: string) => void; placeholder: string
+  options: [string, string][]
+}) {
+  return (
+    <select
+      value={value}
+      onChange={(e) => onChange(e.target.value)}
+      className="bg-[#11151c] border border-[#21262d] rounded-lg px-3 py-2 text-sm
+                 focus:outline-none focus:border-emerald-500/50 hover:border-[#30363d]
+                 transition-colors cursor-pointer"
+    >
+      <option value="">{placeholder}</option>
+      {options.map(([v, l]) => <option key={v} value={v}>{l}</option>)}
+    </select>
+  )
+}

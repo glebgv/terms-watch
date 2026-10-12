@@ -1,0 +1,12 @@
+{
+  "id": "profi",
+  "doc_id": "privacy",
+  "name": "Profi.ru",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://profi.ru/documents/privacy-policy/",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "4d8027fbab17dc0d515c2f0be183224374c53ac79644d81d7c2c2de96f9dd0b0"
+}

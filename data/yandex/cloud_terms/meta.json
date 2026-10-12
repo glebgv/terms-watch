@@ -1,0 +1,12 @@
+{
+  "id": "yandex",
+  "doc_id": "cloud_terms",
+  "name": "Yandex",
+  "doc_title": "Условия использования Яндекс Cloud",
+  "url": "https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "2fee455b9bb511af14345d9c14c1da4fc59a4e6a796ed9b30fb2d96d6a8c5151"
+}

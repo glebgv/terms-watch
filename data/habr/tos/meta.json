@@ -1,0 +1,12 @@
+{
+  "id": "habr",
+  "doc_id": "tos",
+  "name": "Habr Career",
+  "doc_title": "Правила использования сервиса",
+  "url": "https://career.habr.com/info/legal/tos",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "3557ededc9f41801b66698d6e6a4ab8704760242537ed6065b922ec081fe4ed6"
+}

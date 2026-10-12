@@ -1,0 +1,12 @@
+{
+  "id": "vk",
+  "doc_id": "cloud_offer_agreement",
+  "name": "VK",
+  "doc_title": "Договор-оферта (VK Cloud)",
+  "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47"
+}

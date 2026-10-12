@@ -1,0 +1,12 @@
+{
+  "id": "vk",
+  "doc_id": "privacy",
+  "name": "VK",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://vk.ru/privacy",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "7c1b2e072961509bd3d8714e500273ae4cb582dae1839bddcbb394113505e68d"
+}

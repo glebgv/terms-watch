@@ -1,0 +1,12 @@
+{
+  "id": "cloudru",
+  "doc_id": "sla_advanced",
+  "name": "Cloud.ru",
+  "doc_title": "SLA — Advanced",
+  "url": "https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "f50b6ef73e4c254d4045c0c33b38b59f580c41a083197aa51a7e28429532524f"
+}

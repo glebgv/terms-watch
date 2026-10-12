@@ -1,0 +1,12 @@
+{
+  "id": "cloudru",
+  "doc_id": "tos_restrictions",
+  "name": "Cloud.ru",
+  "doc_title": "Условия оказания услуг и ограничения (Evolution)",
+  "url": "https://cloud.ru/documents/contracts/other-terms-of-service/terms-of-service-and-restrictions?source-platform=Evolution",
+  "selector": "main, article, body",
+  "first_check": "2026-10-11",
+  "last_check": "2026-10-11",
+  "total_versions": 1,
+  "last_hash": "dc2dc7ca69d7ec55ed75d960957d330b04005655a162be1f8014dd33dd5f080b"
+}

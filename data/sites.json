@@ -3,7 +3,7 @@
     {
       "id": "hh",
       "name": "HeadHunter",
-      "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
+      "url": "https://hh.ru/account/agreement",
       "category": "job-board",
       "added": "2026-10-11",
       "active": true,
@@ -11,7 +11,7 @@
         {
           "doc_id": "offer",
           "title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-          "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main"
+          "url": "https://hh.ru/account/agreement"
         },
         {
           "doc_id": "privacy",
@@ -23,40 +23,110 @@
     {
       "id": "habr",
       "name": "Habr Career",
-      "url": "https://career.habr.com/habr_career/terms/",
-      "category": "job-board",
-      "added": "2026-10-11",
-      "active": false,
-      "docs": [
-        {
-          "doc_id": "offer",
-          "title": "Оферта",
-          "url": "https://career.habr.com/habr_career/terms/"
-        },
-        {
-          "doc_id": "privacy",
-          "title": "Политика конфиденциальности",
-          "url": "https://career.habr.com/habr_career/privacy/"
-        }
-      ]
-    },
-    {
-      "id": "linkedin",
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/legal/user-agreement",
+      "url": "https://career.habr.com/info/legal/agreement",
       "category": "job-board",
       "added": "2026-10-11",
       "active": true,
       "docs": [
         {
-          "doc_id": "offer",
-          "title": "User Agreement",
-          "url": "https://www.linkedin.com/legal/user-agreement"
+          "doc_id": "agreement",
+          "title": "Соглашение об использовании сервиса",
+          "url": "https://career.habr.com/info/legal/agreement"
+        },
+        {
+          "doc_id": "tos",
+          "title": "Правила использования сервиса",
+          "url": "https://career.habr.com/info/legal/tos"
+        },
+        {
+          "doc_id": "toss",
+          "title": "Правила использования сервиса для соискателей",
+          "url": "https://career.habr.com/info/legal/toss"
+        },
+        {
+          "doc_id": "tos_hbp",
+          "title": "Правила использования Хабр Карьера для работодателей",
+          "url": "https://career.habr.com/info/legal/tos_hbp"
+        },
+        {
+          "doc_id": "toss_hbp",
+          "title": "Правила использования сервиса для соискателей (HBP)",
+          "url": "https://career.habr.com/info/legal/toss_hbp"
+        },
+        {
+          "doc_id": "api_rules",
+          "title": "Правила использования API",
+          "url": "https://career.habr.com/info/legal/api_rules"
+        },
+        {
+          "doc_id": "recommendation_rules",
+          "title": "Правила работы рекомендательной системы",
+          "url": "https://career.habr.com/info/legal/recommendation-rules"
+        },
+        {
+          "doc_id": "price",
+          "title": "Тарифы и цены",
+          "url": "https://career.habr.com/price"
+        }
+      ]
+    },
+    {
+      "id": "profi",
+      "name": "Profi.ru",
+      "url": "https://profi.ru/documents/recommendation-algorithms/",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "recommendation",
+          "title": "Правила применения рекомендательных алгоритмов",
+          "url": "https://profi.ru/documents/recommendation-algorithms/"
         },
         {
           "doc_id": "privacy",
-          "title": "Privacy Policy",
-          "url": "https://www.linkedin.com/legal/privacy-policy"
+          "title": "Политика конфиденциальности",
+          "url": "https://profi.ru/documents/privacy-policy/"
+        }
+      ]
+    },
+    {
+      "id": "vk",
+      "name": "VK",
+      "url": "https://vk.ru/terms",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "terms",
+          "title": "Условия использования",
+          "url": "https://vk.ru/terms"
+        },
+        {
+          "doc_id": "licence",
+          "title": "Лицензия на использование контента",
+          "url": "https://vk.ru/licence"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://vk.ru/privacy"
+        },
+        {
+          "doc_id": "cc_terms",
+          "title": "Условия использования сервиса «VK Реклама»",
+          "url": "https://vk.ru/help?page=cc_terms"
+        },
+        {
+          "doc_id": "cloud_special_conditions",
+          "title": "Специальные условия (VK Cloud)",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions"
+        },
+        {
+          "doc_id": "cloud_offer_agreement",
+          "title": "Договор-оферта (VK Cloud)",
+          "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement"
         }
       ]
     },
@@ -92,6 +162,136 @@
           "doc_id": "privacy",
           "title": "Политика конфиденциальности",
           "url": "https://www.superjob.ru/info/privacy-policy.html"
+        },
+        {
+          "doc_id": "personal_data",
+          "title": "Согласие на обработку персональных данных",
+          "url": "https://www.superjob.ru/info/personalnye_dannye.html"
+        },
+        {
+          "doc_id": "personal_privacy",
+          "title": "Политика обработки персональных данных (физлица)",
+          "url": "https://www.superjob.ru/info/personal_privacy.html"
+        },
+        {
+          "doc_id": "oferta_poruchenie",
+          "title": "Согласие на обработку ПД по поручению",
+          "url": "https://www.superjob.ru/info/oferta-poruchenie-privacy.html"
+        },
+        {
+          "doc_id": "privacy_agreement",
+          "title": "Соглашение о конфиденциальности",
+          "url": "https://www.superjob.ru/info/privacy_agreement.html"
+        }
+      ]
+    },
+    {
+      "id": "yandex",
+      "name": "Yandex",
+      "url": "https://yandex.ru/legal/rules/ru/",
+      "category": "job-board",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "rules",
+          "title": "Условия использования сервисов Яндекса",
+          "url": "https://yandex.ru/legal/rules/ru/"
+        },
+        {
+          "doc_id": "cloud_terms",
+          "title": "Условия использования Яндекс Cloud",
+          "url": "https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru"
+        }
+      ]
+    },
+    {
+      "id": "selectel",
+      "name": "Selectel",
+      "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "category": "cloud",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "pd_policy",
+          "title": "Политика обработки и защиты персональных данных",
+          "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cloudru",
+      "name": "Cloud.ru",
+      "url": "https://cdn.cloud.ru/docs/legal/security/cybersecurity-pd/confidentiality-policy.pdf",
+      "category": "cloud",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "confidentiality",
+          "title": "Политика конфиденциальности",
+          "url": "https://cdn.cloud.ru/docs/legal/security/cybersecurity-pd/confidentiality-policy.pdf"
+        },
+        {
+          "doc_id": "desc_terms",
+          "title": "Общее описание и условия предоставления услуг (Прил. 1.0)",
+          "url": "https://cloud.ru/documents/contracts/terms-of-service/general/description-and-terms-of-services?source-platform="
+        },
+        {
+          "doc_id": "sla_general",
+          "title": "SLA — общее соглашение",
+          "url": "https://cloud.ru/documents/contracts/terms-of-service/general/service-level-agreement?source-platform="
+        },
+        {
+          "doc_id": "tos_restrictions",
+          "title": "Условия оказания услуг и ограничения (Evolution)",
+          "url": "https://cloud.ru/documents/contracts/other-terms-of-service/terms-of-service-and-restrictions?source-platform=Evolution"
+        },
+        {
+          "doc_id": "limitations",
+          "title": "Вводимые ограничения (Evolution)",
+          "url": "https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution"
+        },
+        {
+          "doc_id": "sla_evolution",
+          "title": "SLA — Evolution",
+          "url": "https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform="
+        },
+        {
+          "doc_id": "sla_advanced",
+          "title": "SLA — Advanced",
+          "url": "https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform="
+        }
+      ]
+    },
+    {
+      "id": "timeweb",
+      "name": "Timeweb Cloud",
+      "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/personal-data-policy.pdf",
+      "category": "cloud",
+      "added": "2026-10-11",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "pd_policy",
+          "title": "Политика обработки персональных данных",
+          "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/personal-data-policy.pdf"
+        },
+        {
+          "doc_id": "offer",
+          "title": "Публичная оферта",
+          "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/timeweb-cloud-public-offer.pdf"
+        },
+        {
+          "doc_id": "platform_rules",
+          "title": "Правила платформы",
+          "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/platform-rules.pdf"
+        },
+        {
+          "doc_id": "sla",
+          "title": "Соглашение об уровне обслуживания (SLA)",
+          "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/sla.pdf"
         }
       ]
     }

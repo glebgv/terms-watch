@@ -1,0 +1,1 @@
+export const STALE_THRESHOLD_HOURS = 48
