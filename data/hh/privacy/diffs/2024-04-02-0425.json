@@ -1,0 +1,118 @@
+{
+  "stats": {
+    "lines_added": 7,
+    "lines_removed": 11,
+    "lines_changed": 1,
+    "change_ratio": 0.1037
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 64,
+      "text": "Кандидаты по профессиям"
+    },
+    {
+      "type": "remove",
+      "position": 65,
+      "text": "Поиск работы"
+    },
+    {
+      "type": "remove",
+      "position": 66,
+      "text": "Switch to English"
+    },
+    {
+      "type": "modify",
+      "position": 70,
+      "old_text": "Условия оказания услуг",
+      "new_text": "Кандидаты по профессиям",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Условия оказания услуг"
+        },
+        {
+          "type": "add",
+          "text": "Кандидаты по профессиям"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 74,
+      "text": "Условия использования сайтов"
+    },
+    {
+      "type": "add",
+      "position": 73,
+      "text": "Безопасный HeadHunter"
+    },
+    {
+      "type": "add",
+      "position": 74,
+      "text": "HeadHunter API"
+    },
+    {
+      "type": "add",
+      "position": 75,
+      "text": "Поиск работы"
+    },
+    {
+      "type": "add",
+      "position": 76,
+      "text": "Этика и комплаенс"
+    },
+    {
+      "type": "add",
+      "position": 77,
+      "text": "Оказание услуг"
+    },
+    {
+      "type": "add",
+      "position": 78,
+      "text": "Использование сайтов"
+    },
+    {
+      "type": "remove",
+      "position": 78,
+      "text": "Безопасный HeadHunter"
+    },
+    {
+      "type": "remove",
+      "position": 79,
+      "text": "Этика и комплаенс"
+    },
+    {
+      "type": "remove",
+      "position": 80,
+      "text": "HeadHunter API"
+    },
+    {
+      "type": "remove",
+      "position": 81,
+      "text": "Кандидаты по профессиям"
+    },
+    {
+      "type": "remove",
+      "position": 82,
+      "text": "Поиск работы"
+    },
+    {
+      "type": "remove",
+      "position": 84,
+      "text": "Сегодня на сайте 1185783 вакансии , 66496055 резюме , 2117111 компаний и за неделю 1752681 приглашение"
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2024-01-01-1729",
+  "to_date": "2024-04-02-0425",
+  "from_hash": "dd63d99b98a7a18bf7bae980b8e6288ba49fa8423fff18a14b7c347cca9ebd37",
+  "to_hash": "022e05c24d2f6c6803c8cad6f1c385b304568fc4fa6dd4ab36a48c344672621b",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

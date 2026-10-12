@@ -1,0 +1,67 @@
+{
+  "stats": {
+    "lines_added": 3,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.0166
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 52,
+      "old_text": "Вы в любой момент можете исправить свои данные, удалить их самостоятельно либо попросить нас об этом. Если вы считаете, что мы:",
+      "new_text": "Вы в любой момент можете исправить свои данные, удалить их самостоятельно либо попросить нас об этом . Если вы считаете, что мы:",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Вы в любой момент можете исправить свои данные, удалить их самостоятельно либо попросить нас об"
+        },
+        {
+          "type": "remove",
+          "text": "этом."
+        },
+        {
+          "type": "add",
+          "text": "этом ."
+        },
+        {
+          "type": "keep",
+          "text": "Если вы считаете, что мы:"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 70,
+      "old_text": "hh PRO новое",
+      "new_text": "Сетка: соцсеть для нетворкинга",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "hh PRO новое"
+        },
+        {
+          "type": "add",
+          "text": "Сетка: соцсеть для нетворкинга"
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 71,
+      "text": "hh PRO Новое"
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2025-01-08-1534",
+  "to_date": "2025-05-22-0536",
+  "from_hash": "31ba1be38bb0a5a812bc01b87a902997ef5c7b56cd08460049db718ff4ee726d",
+  "to_hash": "ee6c33ecf7ba11e726bed23fb425703b0739fbe9bf13a2352aa5e061fb6d5ea3",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

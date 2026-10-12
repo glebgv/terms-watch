@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0055
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 252,
+      "text": "hh PRO новое"
+    },
+    {
+      "type": "remove",
+      "position": 255,
+      "text": "Продвижение резюме"
+    },
+    {
+      "type": "add",
+      "position": 260,
+      "text": "О компаниях в игровой форме"
+    }
+  ],
+  "site": "hh",
+  "doc_id": "offer",
+  "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+  "from_date": "2024-12-03-0628",
+  "to_date": "2025-01-14-2315",
+  "from_hash": "9d583eae12a8caa800114f1994c94f46c002b26394057aacb6e5f77b75fa4ee5",
+  "to_hash": "51a38289ea5ef625271f36d9369947500aea44e8a877763e109f530805c2de67",
+  "url": "https://hh.ru/account/agreement",
+  "retrospective": true
+}

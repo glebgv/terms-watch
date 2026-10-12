@@ -1,6 +1,62 @@
 {
   "versions": [
     {
+      "date": "2021-01-19-0746",
+      "hash": "e247948309608595ffd3cea5cf0673b3ac38c63e4190443529fc7dffa56baa6e",
+      "length": 11868,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-06-06-0640",
+      "hash": "b7d0e1b57cf45129442600e6784bcb1bd9023e7bfc76a40047217ae971241055",
+      "length": 13210,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-11-30-1234",
+      "hash": "1fb549a69ff9eeb3e3bfa2680c1625f7dd27669a05088e4332b0dfcf3d345a53",
+      "length": 3948,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-03-10-0256",
+      "hash": "d56944fac9362d9eee4c4bda61890a7623445cfd10368a3258bb1c085580cd60",
+      "length": 3993,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-06-03-1502",
+      "hash": "c6063d88d4ec1cc3699bfa6ef75fb5b5008a69c54a04b15468bcd71fb8b88d8d",
+      "length": 3955,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-02-20-1459",
+      "hash": "ef275da2d4d4f5ea5192839a39c20fefcc8ee01316bac0770be7fcab4b727cfd",
+      "length": 4042,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-03-07-0414",
+      "hash": "1eaf5bc30680b868e87d26d52d83a36634bb894d8e77916078afbc03bf09d21a",
+      "length": 3968,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-06-21-1157",
+      "hash": "2e0ebe4169cadb95ddfae2ef27fe70d26c559995087ea5640864dbbade641ce7",
+      "length": 3968,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "d90efa8ab3e6daf61cce0515c4c8014fa8569a1d966b73be04c0afb492d44d73",
       "wayback_url": "http://web.archive.org/web/20251206075015/https://www.superjob.ru/info/personalnye_dannye.html",

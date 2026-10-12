@@ -3,10 +3,10 @@
   "doc_id": "offer",
   "name": "HeadHunter",
   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-  "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
+  "url": "https://hh.ru/account/agreement",
   "selector": "main, body",
-  "first_check": "2026-10-11",
+  "first_check": "2021-08-14-2029",
   "last_check": "2026-10-11",
-  "total_versions": 3,
+  "total_versions": 21,
   "last_hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e"
 }

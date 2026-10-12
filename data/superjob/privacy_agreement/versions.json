@@ -1,6 +1,76 @@
 {
   "versions": [
     {
+      "date": "2021-03-16-0445",
+      "hash": "ad245bc097017aceed212d53fb7d826d429f4249b68077165d9aab655dbcb69d",
+      "length": 5085,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-04-21-0255",
+      "hash": "eb288a0a1998792f2f4ea7998b9dd929dd9f7178d3dbfb77f1404b90416fbae5",
+      "length": 5132,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-10-21-1934",
+      "hash": "bcb0c7903babd3ffc421fbfd47a464b60f6a187a83ed2fef11747e3bc0560d26",
+      "length": 5141,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-03-14-0016",
+      "hash": "c15eb60d22bc0502b8acc675565e4a814eb793f369f5e40829444db46135e784",
+      "length": 5228,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-04-26-0727",
+      "hash": "6e2294f25b435e5f9aed9cbd2d805eda9239dee30e378db96530dcdcee290e33",
+      "length": 5219,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-02-20-1500",
+      "hash": "d1eb89b18331ba671f213832a25e28e12800fb23bf7d84c9a265556899fea21f",
+      "length": 5277,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-06-06-0051",
+      "hash": "661522e7226e71e5fb136cb3c8d418608bec5626d2b7c4acc729f3c913bb210d",
+      "length": 5277,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-08-02-0937",
+      "hash": "04b6f4bc7fbef68cc6dd0112743f44745d3eb35db7598f1324d8e54d60f4dfbe",
+      "length": 5281,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-01-14-2305",
+      "hash": "2ff3d1a9e96c62f1f7b69d65b08492c98c8c627519fe8da1de139c3227f130b4",
+      "length": 4570,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-05-23-0909",
+      "hash": "b38843ff53afaecfc5f133d9b229a4ed185f635e73331bde17dbc95c6571f0cd",
+      "length": 1435,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "acdb98409869213e624024b5ecba3eb21896d490ba099793d31fdfda4a613235",
       "wayback_url": null,

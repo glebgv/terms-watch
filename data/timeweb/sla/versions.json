@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "date": "2026-08-31-1103",
+      "hash": "3212b7ba8e3304c7132d8b7414ea632c627d99d2a7d275e9aaf2d46cbe376f6c",
+      "length": 21430,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "049f4a33f0a72b2734fca72e77683e18e44e056aad2e0570a29f97795cf6cedc",
       "wayback_url": "http://web.archive.org/web/20260914202248/https://s3.twcstorage.ru/tw-cloud-static/legal-info/sla.pdf",

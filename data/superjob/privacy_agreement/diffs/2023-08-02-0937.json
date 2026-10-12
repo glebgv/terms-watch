@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0098
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 33,
+      "old_text": "Реклама вакансий",
+      "new_text": "Продвижение вакансий",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Реклама"
+        },
+        {
+          "type": "add",
+          "text": "Продвижение"
+        },
+        {
+          "type": "keep",
+          "text": "вакансий"
+        }
+      ]
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy_agreement",
+  "doc_title": "Соглашение о конфиденциальности",
+  "from_date": "2023-06-06-0051",
+  "to_date": "2023-08-02-0937",
+  "from_hash": "661522e7226e71e5fb136cb3c8d418608bec5626d2b7c4acc729f3c913bb210d",
+  "to_hash": "04b6f4bc7fbef68cc6dd0112743f44745d3eb35db7598f1324d8e54d60f4dfbe",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "retrospective": true
+}

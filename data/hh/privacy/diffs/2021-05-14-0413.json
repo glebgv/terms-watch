@@ -1,0 +1,164 @@
+{
+  "stats": {
+    "lines_added": 7,
+    "lines_removed": 5,
+    "lines_changed": 5,
+    "change_ratio": 0.0432
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 6,
+      "old_text": "Вместе справимся",
+      "new_text": "Журнал «Ohh!»",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Вместе справимся"
+        },
+        {
+          "type": "add",
+          "text": "Журнал «Ohh!»"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 7,
+      "old_text": "Как мы поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям",
+      "new_text": "Как мы создаем сервисы hh.ru для работодателей",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Как мы"
+        },
+        {
+          "type": "remove",
+          "text": "поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям"
+        },
+        {
+          "type": "add",
+          "text": "создаем сервисы hh.ru для работодателей"
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 13,
+      "text": "Аналитика и исследования"
+    },
+    {
+      "type": "add",
+      "position": 14,
+      "text": "Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии"
+    },
+    {
+      "type": "modify",
+      "position": 59,
+      "old_text": "Вместе справимся",
+      "new_text": "Журнал «Ohh!»",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Вместе справимся"
+        },
+        {
+          "type": "add",
+          "text": "Журнал «Ohh!»"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 60,
+      "old_text": "Как мы поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям",
+      "new_text": "Как мы создаем сервисы hh.ru для работодателей",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Как мы"
+        },
+        {
+          "type": "remove",
+          "text": "поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям"
+        },
+        {
+          "type": "add",
+          "text": "создаем сервисы hh.ru для работодателей"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 82,
+      "old_text": "On the site today: 754 246 vacancies, 48 872 178 resumes, 1 381 395 employers and in a week: 504 419 invitations",
+      "new_text": "On the site today: 1 004 047 vacancies, 51 195 941 resume, 1 483 067 employers and in a week: 1 501 297 invitations",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "On the site today:"
+        },
+        {
+          "type": "remove",
+          "text": "754 246"
+        },
+        {
+          "type": "add",
+          "text": "1 004 047"
+        },
+        {
+          "type": "keep",
+          "text": "vacancies,"
+        },
+        {
+          "type": "remove",
+          "text": "48 872 178 resumes,"
+        },
+        {
+          "type": "add",
+          "text": "51 195 941 resume,"
+        },
+        {
+          "type": "keep",
+          "text": "1"
+        },
+        {
+          "type": "remove",
+          "text": "381 395"
+        },
+        {
+          "type": "add",
+          "text": "483 067"
+        },
+        {
+          "type": "keep",
+          "text": "employers and in a week:"
+        },
+        {
+          "type": "remove",
+          "text": "504 419"
+        },
+        {
+          "type": "add",
+          "text": "1 501 297"
+        },
+        {
+          "type": "keep",
+          "text": "invitations"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2021-01-01-0624",
+  "to_date": "2021-05-14-0413",
+  "from_hash": "58600abf07255c84df5eb3d8564911e371df36594722882d504d6d50e9f22d14",
+  "to_hash": "3f82ea50fa4a650c02ff7bb05d2f35a2ff871aac969e82e77a5b230fa4193f1d",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

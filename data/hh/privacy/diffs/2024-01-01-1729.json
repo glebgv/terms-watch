@@ -1,0 +1,66 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.006
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 84,
+      "old_text": "Сегодня на сайте 1185631 вакансия , 66491375 резюме , 2117111 компаний и за неделю 1829328 приглашений",
+      "new_text": "Сегодня на сайте 1185783 вакансии , 66496055 резюме , 2117111 компаний и за неделю 1752681 приглашение",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Сегодня на сайте"
+        },
+        {
+          "type": "remove",
+          "text": "1185631 вакансия"
+        },
+        {
+          "type": "add",
+          "text": "1185783 вакансии"
+        },
+        {
+          "type": "keep",
+          "text": ","
+        },
+        {
+          "type": "remove",
+          "text": "66491375"
+        },
+        {
+          "type": "add",
+          "text": "66496055"
+        },
+        {
+          "type": "keep",
+          "text": "резюме , 2117111 компаний и за неделю"
+        },
+        {
+          "type": "remove",
+          "text": "1829328 приглашений"
+        },
+        {
+          "type": "add",
+          "text": "1752681 приглашение"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2023-12-31-1701",
+  "to_date": "2024-01-01-1729",
+  "from_hash": "c81d627c1ac85a86b8295c408301250d29a772d3f2e51faa18c6d5e01f1904ce",
+  "to_hash": "dd63d99b98a7a18bf7bae980b8e6288ba49fa8423fff18a14b7c347cca9ebd37",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

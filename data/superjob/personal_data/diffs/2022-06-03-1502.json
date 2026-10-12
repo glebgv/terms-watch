@@ -1,0 +1,59 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 3,
+    "lines_changed": 2,
+    "change_ratio": 0.033
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 26,
+      "old_text": "Спецпредложения работодателю",
+      "new_text": "Советы для работодателей",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Спецпредложения работодателю"
+        },
+        {
+          "type": "add",
+          "text": "Советы для работодателей"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 32,
+      "text": "Партнерская программа"
+    },
+    {
+      "type": "modify",
+      "position": 39,
+      "old_text": "Калькулятор дней отпуска",
+      "new_text": "Калькуляторы",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Калькулятор дней отпуска"
+        },
+        {
+          "type": "add",
+          "text": "Калькуляторы"
+        }
+      ]
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "personal_data",
+  "doc_title": "Согласие на обработку персональных данных",
+  "from_date": "2022-03-10-0256",
+  "to_date": "2022-06-03-1502",
+  "from_hash": "d56944fac9362d9eee4c4bda61890a7623445cfd10368a3258bb1c085580cd60",
+  "to_hash": "c6063d88d4ec1cc3699bfa6ef75fb5b5008a69c54a04b15468bcd71fb8b88d8d",
+  "url": "https://www.superjob.ru/info/personalnye_dannye.html",
+  "retrospective": true
+}

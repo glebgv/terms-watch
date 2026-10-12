@@ -1,0 +1,106 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.0094
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 105,
+      "old_text": "© 2021 HeadHunter Group of Companies",
+      "new_text": "© 2022 HeadHunter Group of Companies",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "©"
+        },
+        {
+          "type": "remove",
+          "text": "2021"
+        },
+        {
+          "type": "add",
+          "text": "2022"
+        },
+        {
+          "type": "keep",
+          "text": "HeadHunter Group of Companies"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 106,
+      "old_text": "On the site today: 923 606 vacancies, 55 589 409 resumes, 1 677 255 companies and in a week: 1 117 844 invitations",
+      "new_text": "On the site today: 920 121 vacancy, 55 593 698 resumes, 1 677 258 companies and in a week: 901 352 invitations",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "On the site today:"
+        },
+        {
+          "type": "remove",
+          "text": "923 606 vacancies,"
+        },
+        {
+          "type": "add",
+          "text": "920 121 vacancy,"
+        },
+        {
+          "type": "keep",
+          "text": "55"
+        },
+        {
+          "type": "remove",
+          "text": "589 409"
+        },
+        {
+          "type": "add",
+          "text": "593 698"
+        },
+        {
+          "type": "keep",
+          "text": "resumes, 1 677"
+        },
+        {
+          "type": "remove",
+          "text": "255"
+        },
+        {
+          "type": "add",
+          "text": "258"
+        },
+        {
+          "type": "keep",
+          "text": "companies and in a week:"
+        },
+        {
+          "type": "remove",
+          "text": "1 117 844"
+        },
+        {
+          "type": "add",
+          "text": "901 352"
+        },
+        {
+          "type": "keep",
+          "text": "invitations"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2021-12-31-1724",
+  "to_date": "2022-01-01-1810",
+  "from_hash": "a1eb2ac77444c493f6196666be525db558648844ecbbd2e9ea9b2698b9a63275",
+  "to_hash": "e9473f298e474d80cca92e896a65e8525955e07eddcc618a716bd66eb740555c",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

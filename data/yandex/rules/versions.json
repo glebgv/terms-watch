@@ -1,6 +1,20 @@
 {
   "versions": [
     {
+      "date": "2025-10-15-2236",
+      "hash": "782053519f823e2e811c08ce1eb2a64423fedeeb50d4f3b80598d4a63b25383d",
+      "length": 24100,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2026-05-30-1248",
+      "hash": "c267c4fe792fb83d2ac5308b8f62b72647813cd0b591b52eff559eabddaf1e62",
+      "length": 24232,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "7cc81e34327aa17b4d6d9ff21a122c6d75bc5940d539abdb2e194b66f18a6d5d",
       "wayback_url": "http://web.archive.org/web/20261011072101/https://yandex.ru/legal/rules/ru/",

@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "date": "2025-08-31-0109",
+      "hash": "bcbcd33702fb41f988b83c5a2fa78edba7a4ec45242c725abc59e1e65e138b33",
+      "length": 9783,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "c531b69450f5aad56b07148d06f67372dcd1fd4347b00cb77e7bc68f2a96b5d4",
       "wayback_url": "http://web.archive.org/web/20251101213307/https://www.superjob.ru/info/oferta-poruchenie-privacy.html",

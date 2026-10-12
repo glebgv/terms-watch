@@ -1,0 +1,152 @@
+{
+  "stats": {
+    "lines_added": 11,
+    "lines_removed": 9,
+    "lines_changed": 5,
+    "change_ratio": 0.2273
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 12,
+      "text": "Новости сервиса"
+    },
+    {
+      "type": "modify",
+      "position": 13,
+      "old_text": "Правила размещения резюме",
+      "new_text": "Каталог профессий",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Правила размещения резюме"
+        },
+        {
+          "type": "add",
+          "text": "Каталог профессий"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 14,
+      "old_text": "Условия работы с сайтом",
+      "new_text": "Конструктор резюме",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Условия работы с сайтом"
+        },
+        {
+          "type": "add",
+          "text": "Конструктор резюме"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 19,
+      "text": "Новости и события"
+    },
+    {
+      "type": "modify",
+      "position": 19,
+      "old_text": "Правила составления вакансии",
+      "new_text": "Спецпредложения работодателю",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Правила составления вакансии"
+        },
+        {
+          "type": "add",
+          "text": "Спецпредложения работодателю"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 22,
+      "text": "Правила работы с сервисом"
+    },
+    {
+      "type": "modify",
+      "position": 21,
+      "old_text": "Правила размещения рекламы",
+      "new_text": "Реклама вакансий",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Правила размещения рекламы"
+        },
+        {
+          "type": "add",
+          "text": "Реклама вакансий"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 25,
+      "text": "API"
+    },
+    {
+      "type": "modify",
+      "position": 25,
+      "old_text": "Наши вакансии",
+      "new_text": "Новости сервиса",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Наши вакансии"
+        },
+        {
+          "type": "add",
+          "text": "Новости сервиса"
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 26,
+      "text": "Работа в Superjob"
+    },
+    {
+      "type": "add",
+      "position": 29,
+      "text": "Профориентация"
+    },
+    {
+      "type": "add",
+      "position": 31,
+      "text": "Базы данных Superjob"
+    },
+    {
+      "type": "add",
+      "position": 32,
+      "text": "Базы данных Поиск услуг"
+    },
+    {
+      "type": "add",
+      "position": 33,
+      "text": "Рекламный кабинет"
+    },
+    {
+      "type": "add",
+      "position": 34,
+      "text": "Иные документы"
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2021-01-19-0748",
+  "to_date": "2021-10-11-0557",
+  "from_hash": "8254eb75f68d48a8c611219483d83a515f2c0a932d41a7783cc9479eacf4bf7f",
+  "to_hash": "726431a84e41ee481b40afa43d28d8279e21f102b9f0fa86644ecd11728b590e",
+  "url": "https://www.superjob.ru/info/privacy-policy.html",
+  "retrospective": true
+}

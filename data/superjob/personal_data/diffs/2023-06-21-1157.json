@@ -1,0 +1,70 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.02
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 45,
+      "old_text": "Базы данных Superjob",
+      "new_text": "База данных SuperJob",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Базы"
+        },
+        {
+          "type": "add",
+          "text": "База"
+        },
+        {
+          "type": "keep",
+          "text": "данных"
+        },
+        {
+          "type": "remove",
+          "text": "Superjob"
+        },
+        {
+          "type": "add",
+          "text": "SuperJob"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 47,
+      "old_text": "Базы данных Поиск услуг",
+      "new_text": "База данных Поиск услуг",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Базы"
+        },
+        {
+          "type": "add",
+          "text": "База"
+        },
+        {
+          "type": "keep",
+          "text": "данных Поиск услуг"
+        }
+      ]
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "personal_data",
+  "doc_title": "Согласие на обработку персональных данных",
+  "from_date": "2023-03-07-0414",
+  "to_date": "2023-06-21-1157",
+  "from_hash": "1eaf5bc30680b868e87d26d52d83a36634bb894d8e77916078afbc03bf09d21a",
+  "to_hash": "2e0ebe4169cadb95ddfae2ef27fe70d26c559995087ea5640864dbbade641ce7",
+  "url": "https://www.superjob.ru/info/personalnye_dannye.html",
+  "retrospective": true
+}

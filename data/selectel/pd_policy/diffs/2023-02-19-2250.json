@@ -1,0 +1,1262 @@
+{
+  "stats": {
+    "lines_added": 20,
+    "lines_removed": 200,
+    "lines_changed": 20,
+    "change_ratio": 0.1639
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "персональные данные",
+    "согласие",
+    "cookies"
+  ],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 2,
+      "old_text": "Редакция, действующая с 01.09.2022 года.",
+      "new_text": "Редакция, действующая с 14.11.2022 года.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Редакция, действующая с"
+        },
+        {
+          "type": "remove",
+          "text": "01.09.2022"
+        },
+        {
+          "type": "add",
+          "text": "14.11.2022"
+        },
+        {
+          "type": "keep",
+          "text": "года."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 3,
+      "old_text": "Настоящая",
+      "new_text": "Настоящая Политика в отношении обработки и защиты персональных данных (далее —",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Настоящая"
+        },
+        {
+          "type": "add",
+          "text": "Политика в отношении обработки и защиты персональных данных (далее —"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 4,
+      "old_text": "Политика",
+      "new_text": "«Политика») принята и действует в ООО «Селектел», расположенном по адресу:  196006, СанктПетербург, ул. Цветочная, д. 21, лит А (далее — «Компания»).",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Политика"
+        },
+        {
+          "type": "add",
+          "text": "«Политика») принята и действует в ООО «Селектел», расположенном по адресу: 196006, СанктПетербург, ул. Цветочная, д. 21, лит А (далее — «Компания»)."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 5,
+      "old_text": "в",
+      "new_text": "Мы собираем, используем и охраняем персональные данные (относящуюся к Вам прямо или",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "в"
+        },
+        {
+          "type": "add",
+          "text": "Мы собираем, используем и охраняем персональные данные (относящуюся к Вам прямо или"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 6,
+      "old_text": "отношении",
+      "new_text": "косвенно информацию), которые Вы предоставляете нам при использовании нашего сайта",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "отношении"
+        },
+        {
+          "type": "add",
+          "text": "косвенно информацию), которые Вы предоставляете нам при использовании нашего сайта"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 7,
+      "old_text": "обработки",
+      "new_text": "www.selectel.ru, включая поддомены (далее — «Сайт») с любого устройства и при коммуникации с",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "обработки"
+        },
+        {
+          "type": "add",
+          "text": "www.selectel.ru, включая поддомены (далее — «Сайт») с любого устройства и при коммуникации с"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 8,
+      "old_text": "и",
+      "new_text": "нами в любой форме, в соответствии с данной Политикой и Политикой в отношении использования",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "нами в любой форме, в соответствии с данной Политикой"
+        },
+        {
+          "type": "keep",
+          "text": "и"
+        },
+        {
+          "type": "add",
+          "text": "Политикой в отношении использования"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 9,
+      "old_text": "защиты",
+      "new_text": "файлов cookie.",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "защиты"
+        },
+        {
+          "type": "add",
+          "text": "файлов cookie."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 10,
+      "old_text": "персональных",
+      "new_text": "Используя наш Сайт и предоставляя нам свои персональные данные, Вы даете согласие на",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "персональных"
+        },
+        {
+          "type": "add",
+          "text": "Используя наш Сайт и предоставляя нам свои персональные данные, Вы даете согласие на"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 11,
+      "old_text": "данных",
+      "new_text": "обработку Ваших персональных данных в соответствии с данной Политикой и Политикой в",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "обработку Ваших персональных"
+        },
+        {
+          "type": "keep",
+          "text": "данных"
+        },
+        {
+          "type": "add",
+          "text": "в соответствии с данной Политикой и Политикой в"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 12,
+      "old_text": "(далее",
+      "new_text": "отношении обработки в отношении файлов cookie.",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "(далее"
+        },
+        {
+          "type": "add",
+          "text": "отношении обработки в отношении файлов cookie."
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 13,
+      "text": "—"
+    },
+    {
+      "type": "remove",
+      "position": 14,
+      "text": "«Политика»)"
+    },
+    {
+      "type": "remove",
+      "position": 15,
+      "text": "принята"
+    },
+    {
+      "type": "remove",
+      "position": 16,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 17,
+      "text": "действует"
+    },
+    {
+      "type": "remove",
+      "position": 18,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 19,
+      "text": "ООО"
+    },
+    {
+      "type": "remove",
+      "position": 20,
+      "text": "«Селектел»,"
+    },
+    {
+      "type": "remove",
+      "position": 21,
+      "text": "расположенном"
+    },
+    {
+      "type": "remove",
+      "position": 22,
+      "text": "по"
+    },
+    {
+      "type": "remove",
+      "position": 23,
+      "text": "адресу:"
+    },
+    {
+      "type": "remove",
+      "position": 24,
+      "text": "Санкт-Петербург,"
+    },
+    {
+      "type": "remove",
+      "position": 25,
+      "text": "ул. Цветочная, д. 21, лит А (далее — «Компания»)."
+    },
+    {
+      "type": "remove",
+      "position": 26,
+      "text": "Мы"
+    },
+    {
+      "type": "remove",
+      "position": 27,
+      "text": "собираем,"
+    },
+    {
+      "type": "remove",
+      "position": 28,
+      "text": "используем"
+    },
+    {
+      "type": "remove",
+      "position": 29,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 30,
+      "text": "охраняем"
+    },
+    {
+      "type": "remove",
+      "position": 31,
+      "text": "персональные"
+    },
+    {
+      "type": "remove",
+      "position": 32,
+      "text": "данные"
+    },
+    {
+      "type": "remove",
+      "position": 33,
+      "text": "(относящуюся"
+    },
+    {
+      "type": "remove",
+      "position": 34,
+      "text": "к"
+    },
+    {
+      "type": "remove",
+      "position": 35,
+      "text": "Вам"
+    },
+    {
+      "type": "remove",
+      "position": 36,
+      "text": "прямо"
+    },
+    {
+      "type": "remove",
+      "position": 37,
+      "text": "или"
+    },
+    {
+      "type": "remove",
+      "position": 38,
+      "text": "косвенно"
+    },
+    {
+      "type": "remove",
+      "position": 39,
+      "text": "информацию),"
+    },
+    {
+      "type": "remove",
+      "position": 40,
+      "text": "которые"
+    },
+    {
+      "type": "remove",
+      "position": 41,
+      "text": "Вы"
+    },
+    {
+      "type": "remove",
+      "position": 42,
+      "text": "предоставляете"
+    },
+    {
+      "type": "remove",
+      "position": 43,
+      "text": "нам"
+    },
+    {
+      "type": "remove",
+      "position": 44,
+      "text": "при"
+    },
+    {
+      "type": "remove",
+      "position": 45,
+      "text": "использовании"
+    },
+    {
+      "type": "remove",
+      "position": 46,
+      "text": "нашего"
+    },
+    {
+      "type": "remove",
+      "position": 47,
+      "text": "сайта"
+    },
+    {
+      "type": "remove",
+      "position": 48,
+      "text": "www.selectel.ru"
+    },
+    {
+      "type": "remove",
+      "position": 49,
+      "text": ","
+    },
+    {
+      "type": "remove",
+      "position": 50,
+      "text": "включая"
+    },
+    {
+      "type": "remove",
+      "position": 51,
+      "text": "поддомены"
+    },
+    {
+      "type": "remove",
+      "position": 52,
+      "text": "(далее"
+    },
+    {
+      "type": "remove",
+      "position": 53,
+      "text": "—"
+    },
+    {
+      "type": "remove",
+      "position": 54,
+      "text": "«Сайт»)"
+    },
+    {
+      "type": "remove",
+      "position": 55,
+      "text": "с"
+    },
+    {
+      "type": "remove",
+      "position": 56,
+      "text": "любого"
+    },
+    {
+      "type": "remove",
+      "position": 57,
+      "text": "устройства"
+    },
+    {
+      "type": "remove",
+      "position": 58,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 59,
+      "text": "при"
+    },
+    {
+      "type": "remove",
+      "position": 60,
+      "text": "коммуникации"
+    },
+    {
+      "type": "remove",
+      "position": 61,
+      "text": "с"
+    },
+    {
+      "type": "remove",
+      "position": 62,
+      "text": "нами"
+    },
+    {
+      "type": "remove",
+      "position": 63,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 64,
+      "text": "любой"
+    },
+    {
+      "type": "remove",
+      "position": 65,
+      "text": "форме,"
+    },
+    {
+      "type": "remove",
+      "position": 66,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 67,
+      "text": "соответствии"
+    },
+    {
+      "type": "remove",
+      "position": 68,
+      "text": "с"
+    },
+    {
+      "type": "remove",
+      "position": 69,
+      "text": "данной"
+    },
+    {
+      "type": "remove",
+      "position": 70,
+      "text": "Политикой"
+    },
+    {
+      "type": "remove",
+      "position": 71,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 72,
+      "text": "Политикой"
+    },
+    {
+      "type": "remove",
+      "position": 73,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 74,
+      "text": "отношении"
+    },
+    {
+      "type": "remove",
+      "position": 75,
+      "text": "обработки"
+    },
+    {
+      "type": "remove",
+      "position": 76,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 77,
+      "text": "отношении файлов"
+    },
+    {
+      "type": "remove",
+      "position": 78,
+      "text": "cookie."
+    },
+    {
+      "type": "remove",
+      "position": 79,
+      "text": "Используя"
+    },
+    {
+      "type": "remove",
+      "position": 80,
+      "text": "наш"
+    },
+    {
+      "type": "remove",
+      "position": 81,
+      "text": "Сайт"
+    },
+    {
+      "type": "remove",
+      "position": 82,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 83,
+      "text": "предоставляя"
+    },
+    {
+      "type": "remove",
+      "position": 84,
+      "text": "нам"
+    },
+    {
+      "type": "remove",
+      "position": 85,
+      "text": "свои"
+    },
+    {
+      "type": "remove",
+      "position": 86,
+      "text": "персональные"
+    },
+    {
+      "type": "remove",
+      "position": 87,
+      "text": "данные,"
+    },
+    {
+      "type": "remove",
+      "position": 88,
+      "text": "Вы"
+    },
+    {
+      "type": "remove",
+      "position": 89,
+      "text": "даете"
+    },
+    {
+      "type": "remove",
+      "position": 90,
+      "text": "согласие"
+    },
+    {
+      "type": "remove",
+      "position": 91,
+      "text": "на"
+    },
+    {
+      "type": "remove",
+      "position": 92,
+      "text": "обработку"
+    },
+    {
+      "type": "remove",
+      "position": 93,
+      "text": "Ваших"
+    },
+    {
+      "type": "remove",
+      "position": 94,
+      "text": "персональных"
+    },
+    {
+      "type": "remove",
+      "position": 95,
+      "text": "данных"
+    },
+    {
+      "type": "remove",
+      "position": 96,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 97,
+      "text": "соответствии"
+    },
+    {
+      "type": "remove",
+      "position": 98,
+      "text": "с"
+    },
+    {
+      "type": "remove",
+      "position": 99,
+      "text": "данной"
+    },
+    {
+      "type": "remove",
+      "position": 100,
+      "text": "Политикой"
+    },
+    {
+      "type": "remove",
+      "position": 101,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 102,
+      "text": "Политикой"
+    },
+    {
+      "type": "remove",
+      "position": 103,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 104,
+      "text": "отношении обработки в отношении файлов"
+    },
+    {
+      "type": "remove",
+      "position": 105,
+      "text": "cookie"
+    },
+    {
+      "type": "remove",
+      "position": 106,
+      "text": "."
+    },
+    {
+      "type": "modify",
+      "position": 14,
+      "old_text": "Компания",
+      "new_text": "Компания обрабатывает Ваши персональные данные на основании Конституции РФ, Конвенции о",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Компания"
+        },
+        {
+          "type": "add",
+          "text": "обрабатывает Ваши персональные данные на основании Конституции РФ, Конвенции о"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 15,
+      "old_text": "обрабатывает",
+      "new_text": "защите физических лиц в отношении автоматизированной обработки данных личного характера",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "обрабатывает"
+        },
+        {
+          "type": "add",
+          "text": "защите физических лиц в отношении автоматизированной обработки данных личного характера"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 16,
+      "old_text": "Ваши",
+      "new_text": "(ETS № 108, заключена в г. Страс бурге 28.01.1981 г.), Федерального закона РФ № 152 -ФЗ от",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Ваши"
+        },
+        {
+          "type": "add",
+          "text": "(ETS № 108, заключена в г. Страс бурге 28.01.1981 г.), Федерального закона РФ № 152 -ФЗ от"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 17,
+      "old_text": "персональные",
+      "new_text": "27.07.2006 г. «О персональных данных», иных федеральных законов и подзаконных актов РФ,",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "персональные"
+        },
+        {
+          "type": "add",
+          "text": "27.07.2006 г. «О персональных данных», иных федеральных законов и подзаконных актов РФ,"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 18,
+      "old_text": "данные",
+      "new_text": "определяющими случаи и особенности обработки персональных данных и обеспечения",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "данные"
+        },
+        {
+          "type": "add",
+          "text": "определяющими случаи и особенности обработки персональных данных и обеспечения"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 19,
+      "old_text": "на",
+      "new_text": "безопасности и конфиденциальност и такой информации, а также Вашего согласия,",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "на"
+        },
+        {
+          "type": "add",
+          "text": "безопасности и конфиденциальност и такой информации, а также Вашего согласия,"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 114,
+      "text": "основании"
+    },
+    {
+      "type": "remove",
+      "position": 115,
+      "text": "Конституции"
+    },
+    {
+      "type": "remove",
+      "position": 116,
+      "text": "РФ,"
+    },
+    {
+      "type": "remove",
+      "position": 117,
+      "text": "Конвенции"
+    },
+    {
+      "type": "remove",
+      "position": 118,
+      "text": "о"
+    },
+    {
+      "type": "remove",
+      "position": 119,
+      "text": "защите"
+    },
+    {
+      "type": "remove",
+      "position": 120,
+      "text": "физических"
+    },
+    {
+      "type": "remove",
+      "position": 121,
+      "text": "лиц"
+    },
+    {
+      "type": "remove",
+      "position": 122,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 123,
+      "text": "отношении"
+    },
+    {
+      "type": "remove",
+      "position": 124,
+      "text": "автоматизированной"
+    },
+    {
+      "type": "remove",
+      "position": 125,
+      "text": "обработки"
+    },
+    {
+      "type": "remove",
+      "position": 126,
+      "text": "данных"
+    },
+    {
+      "type": "remove",
+      "position": 127,
+      "text": "личного"
+    },
+    {
+      "type": "remove",
+      "position": 128,
+      "text": "характера"
+    },
+    {
+      "type": "remove",
+      "position": 129,
+      "text": "(ETS"
+    },
+    {
+      "type": "remove",
+      "position": 130,
+      "text": "№"
+    },
+    {
+      "type": "remove",
+      "position": 131,
+      "text": "108,"
+    },
+    {
+      "type": "remove",
+      "position": 132,
+      "text": "заключена"
+    },
+    {
+      "type": "remove",
+      "position": 133,
+      "text": "в"
+    },
+    {
+      "type": "remove",
+      "position": 134,
+      "text": "г."
+    },
+    {
+      "type": "remove",
+      "position": 135,
+      "text": "Страсбурге"
+    },
+    {
+      "type": "remove",
+      "position": 136,
+      "text": "28.01.1981"
+    },
+    {
+      "type": "remove",
+      "position": 137,
+      "text": "г.),"
+    },
+    {
+      "type": "remove",
+      "position": 138,
+      "text": "Федерального"
+    },
+    {
+      "type": "remove",
+      "position": 139,
+      "text": "закона"
+    },
+    {
+      "type": "remove",
+      "position": 140,
+      "text": "РФ"
+    },
+    {
+      "type": "remove",
+      "position": 141,
+      "text": "№"
+    },
+    {
+      "type": "remove",
+      "position": 142,
+      "text": "152-ФЗ"
+    },
+    {
+      "type": "remove",
+      "position": 143,
+      "text": "от"
+    },
+    {
+      "type": "remove",
+      "position": 144,
+      "text": "27.07.2006"
+    },
+    {
+      "type": "remove",
+      "position": 145,
+      "text": "г."
+    },
+    {
+      "type": "remove",
+      "position": 146,
+      "text": "«О"
+    },
+    {
+      "type": "remove",
+      "position": 147,
+      "text": "персональных"
+    },
+    {
+      "type": "remove",
+      "position": 148,
+      "text": "данных»,"
+    },
+    {
+      "type": "remove",
+      "position": 149,
+      "text": "иных"
+    },
+    {
+      "type": "remove",
+      "position": 150,
+      "text": "федеральных"
+    },
+    {
+      "type": "remove",
+      "position": 151,
+      "text": "законов"
+    },
+    {
+      "type": "remove",
+      "position": 152,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 153,
+      "text": "подзаконных"
+    },
+    {
+      "type": "remove",
+      "position": 154,
+      "text": "актов"
+    },
+    {
+      "type": "remove",
+      "position": 155,
+      "text": "РФ,"
+    },
+    {
+      "type": "remove",
+      "position": 156,
+      "text": "определяющими"
+    },
+    {
+      "type": "remove",
+      "position": 157,
+      "text": "случаи"
+    },
+    {
+      "type": "remove",
+      "position": 158,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 159,
+      "text": "особенности"
+    },
+    {
+      "type": "remove",
+      "position": 160,
+      "text": "обработки"
+    },
+    {
+      "type": "remove",
+      "position": 161,
+      "text": "персональных"
+    },
+    {
+      "type": "remove",
+      "position": 162,
+      "text": "данных"
+    },
+    {
+      "type": "remove",
+      "position": 163,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 164,
+      "text": "обеспечения"
+    },
+    {
+      "type": "remove",
+      "position": 165,
+      "text": "безопасности"
+    },
+    {
+      "type": "remove",
+      "position": 166,
+      "text": "и"
+    },
+    {
+      "type": "remove",
+      "position": 167,
+      "text": "конфиденциальности"
+    },
+    {
+      "type": "remove",
+      "position": 168,
+      "text": "такой"
+    },
+    {
+      "type": "remove",
+      "position": 169,
+      "text": "информации,"
+    },
+    {
+      "type": "remove",
+      "position": 170,
+      "text": "а"
+    },
+    {
+      "type": "remove",
+      "position": 171,
+      "text": "также"
+    },
+    {
+      "type": "remove",
+      "position": 172,
+      "text": "Вашего"
+    },
+    {
+      "type": "remove",
+      "position": 173,
+      "text": "согласия,"
+    },
+    {
+      "type": "modify",
+      "position": 23,
+      "old_text": "●",
+      "new_text": "● персональные данные, которые Вы предоставляете нам при заполн ении",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "●"
+        },
+        {
+          "type": "add",
+          "text": "персональные данные, которые Вы предоставляете нам при заполн ении"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 24,
+      "old_text": "персональные",
+      "new_text": "информационных полей на Сайте при заполнении контактной формы, при подписке на",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "персональные"
+        },
+        {
+          "type": "add",
+          "text": "информационных полей на Сайте при заполнении контактной формы, при подписке на"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 25,
+      "old_text": "данные,",
+      "new_text": "новостную рассылку, при регистрации на мероприятия, такие как Ваше имя, номер",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "данные,"
+        },
+        {
+          "type": "add",
+          "text": "новостную рассылку, при регистрации на мероприятия, такие как Ваше имя, номер"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 180,
+      "text": "которые"
+    },
+    {
+      "type": "remove",
+      "position": 181,
+      "text": "Вы"
+    },
+    {
+      "type": "remove",
+      "position": 182,
+      "text": "предоставляете"
+    },
+    {
+      "type": "remove",
+      "position": 183,
+      "text": "нам"
+    },
+    {
+      "type": "remove",
+      "position": 184,
+      "text": "при"
+    },
+    {
+      "type": "remove",
+      "position": 185,
+      "text": "заполнении"
+    },
+    {
+      "type": "remove",
+      "position": 186,
+      "text": "информационных"
+    },
+    {
+      "type": "remove",
+      "position": 187,
+      "text": "полей"
+    },
+    {
+      "type": "remove",
+      "position": 188,
+      "text": "на"
+    },
+    {
+      "type": "remove",
+      "position": 189,
+      "text": "Сайте"
+    },
+    {
+      "type": "remove",
+      "position": 190,
+      "text": "при"
+    },
+    {
+      "type": "remove",
+      "position": 191,
+      "text": "заполнении"
+    },
+    {
+      "type": "remove",
+      "position": 192,
+      "text": "контактной"
+    },
+    {
+      "type": "remove",
+      "position": 193,
+      "text": "формы,"
+    },
+    {
+      "type": "remove",
+      "position": 194,
+      "text": "при"
+    },
+    {
+      "type": "remove",
+      "position": 195,
+      "text": "подписке"
+    },
+    {
+      "type": "remove",
+      "position": 196,
+      "text": "на"
+    },
+    {
+      "type": "remove",
+      "position": 197,
+      "text": "новостную"
+    },
+    {
+      "type": "remove",
+      "position": 198,
+      "text": "рассылку,"
+    },
+    {
+      "type": "remove",
+      "position": 199,
+      "text": "при"
+    },
+    {
+      "type": "remove",
+      "position": 200,
+      "text": "регистрации"
+    },
+    {
+      "type": "remove",
+      "position": 201,
+      "text": "на"
+    },
+    {
+      "type": "remove",
+      "position": 202,
+      "text": "мероприятия,"
+    },
+    {
+      "type": "remove",
+      "position": 203,
+      "text": "такие"
+    },
+    {
+      "type": "remove",
+      "position": 204,
+      "text": "как"
+    },
+    {
+      "type": "remove",
+      "position": 205,
+      "text": "Ваше"
+    }
+  ],
+  "site": "selectel",
+  "doc_id": "pd_policy",
+  "doc_title": "Политика обработки и защиты персональных данных",
+  "from_date": "2022-09-25-1428",
+  "to_date": "2023-02-19-2250",
+  "from_hash": "655827894bc1462a1ce55bceb859140430930adbcfa155da11235b095b79fad9",
+  "to_hash": "d104f1181df04b0ed22734bf618ea752895c932185c086528b45e7d54656ded7",
+  "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+  "retrospective": true
+}

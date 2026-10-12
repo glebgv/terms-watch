@@ -1,0 +1,70 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.0196
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 46,
+      "old_text": "Базы данных Superjob",
+      "new_text": "База данных SuperJob",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Базы"
+        },
+        {
+          "type": "add",
+          "text": "База"
+        },
+        {
+          "type": "keep",
+          "text": "данных"
+        },
+        {
+          "type": "remove",
+          "text": "Superjob"
+        },
+        {
+          "type": "add",
+          "text": "SuperJob"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 48,
+      "old_text": "Базы данных Поиск услуг",
+      "new_text": "База данных Поиск услуг",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Базы"
+        },
+        {
+          "type": "add",
+          "text": "База"
+        },
+        {
+          "type": "keep",
+          "text": "данных Поиск услуг"
+        }
+      ]
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy_agreement",
+  "doc_title": "Соглашение о конфиденциальности",
+  "from_date": "2023-02-20-1500",
+  "to_date": "2023-06-06-0051",
+  "from_hash": "d1eb89b18331ba671f213832a25e28e12800fb23bf7d84c9a265556899fea21f",
+  "to_hash": "661522e7226e71e5fb136cb3c8d418608bec5626d2b7c4acc729f3c913bb210d",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "retrospective": true
+}

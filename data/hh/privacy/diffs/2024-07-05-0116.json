@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0063
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 61,
+      "old_text": "Расскажем кандидатам, почему у вас интересно работать",
+      "new_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Расскажем кандидатам, почему у вас интересно работать"
+        },
+        {
+          "type": "add",
+          "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2024-04-02-0425",
+  "to_date": "2024-07-05-0116",
+  "from_hash": "022e05c24d2f6c6803c8cad6f1c385b304568fc4fa6dd4ab36a48c344672621b",
+  "to_hash": "b558d8c66ac1fcc6fb5909d5af485dedaf01598166e1bf4081d511705014eabd",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

@@ -1,0 +1,223 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 36,
+    "lines_changed": 1,
+    "change_ratio": 0.2449
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "персональные данные"
+  ],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 2,
+      "old_text": "Редакция от 13 февраля 2026 года",
+      "new_text": "Редакция от 21 мая 2026 года",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Редакция от"
+        },
+        {
+          "type": "remove",
+          "text": "13 февраля"
+        },
+        {
+          "type": "add",
+          "text": "21 мая"
+        },
+        {
+          "type": "keep",
+          "text": "2026 года"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 57,
+      "text": "Размещение вакансий"
+    },
+    {
+      "type": "remove",
+      "position": 58,
+      "text": "Поиск по резюме"
+    },
+    {
+      "type": "remove",
+      "position": 59,
+      "text": "О компании"
+    },
+    {
+      "type": "remove",
+      "position": 60,
+      "text": "Наши вакансии"
+    },
+    {
+      "type": "remove",
+      "position": 61,
+      "text": "Реклама на сайте"
+    },
+    {
+      "type": "remove",
+      "position": 62,
+      "text": "Требования к ПО"
+    },
+    {
+      "type": "remove",
+      "position": 63,
+      "text": "Безопасный HeadHunter"
+    },
+    {
+      "type": "remove",
+      "position": 64,
+      "text": "HeadHunter API"
+    },
+    {
+      "type": "remove",
+      "position": 65,
+      "text": "Партнерам"
+    },
+    {
+      "type": "remove",
+      "position": 66,
+      "text": "Инвесторам"
+    },
+    {
+      "type": "remove",
+      "position": 67,
+      "text": "Каталог компаний"
+    },
+    {
+      "type": "remove",
+      "position": 68,
+      "text": "Поиск по вакансиям в Москве"
+    },
+    {
+      "type": "remove",
+      "position": 69,
+      "text": "Работа рядом с метро"
+    },
+    {
+      "type": "remove",
+      "position": 70,
+      "text": "hh PRO"
+    },
+    {
+      "type": "remove",
+      "position": 71,
+      "text": "Готовое резюме"
+    },
+    {
+      "type": "remove",
+      "position": 72,
+      "text": "Все сервисы"
+    },
+    {
+      "type": "remove",
+      "position": 73,
+      "text": "Профориентация"
+    },
+    {
+      "type": "remove",
+      "position": 74,
+      "text": "Хочу у вас работать"
+    },
+    {
+      "type": "remove",
+      "position": 75,
+      "text": "Производственный календарь"
+    },
+    {
+      "type": "remove",
+      "position": 76,
+      "text": "Экспертная рекомендация"
+    },
+    {
+      "type": "remove",
+      "position": 77,
+      "text": "Рынок труда"
+    },
+    {
+      "type": "remove",
+      "position": 78,
+      "text": "О компаниях в игровой форме"
+    },
+    {
+      "type": "remove",
+      "position": 79,
+      "text": "Жизнь в компании"
+    },
+    {
+      "type": "remove",
+      "position": 80,
+      "text": "ИТ-проекты"
+    },
+    {
+      "type": "remove",
+      "position": 81,
+      "text": "Рейтинг работодателей России"
+    },
+    {
+      "type": "remove",
+      "position": 82,
+      "text": "Карьера для молодых специалистов"
+    },
+    {
+      "type": "remove",
+      "position": 83,
+      "text": "Школа программистов"
+    },
+    {
+      "type": "remove",
+      "position": 84,
+      "text": "Карьера в некоммерческих организациях"
+    },
+    {
+      "type": "remove",
+      "position": 85,
+      "text": "Боты для уведомлений"
+    },
+    {
+      "type": "remove",
+      "position": 86,
+      "text": "Этика и комплаенс"
+    },
+    {
+      "type": "remove",
+      "position": 87,
+      "text": "Оказание услуг"
+    },
+    {
+      "type": "remove",
+      "position": 88,
+      "text": "Использование сайтов"
+    },
+    {
+      "type": "remove",
+      "position": 89,
+      "text": "Защита персональных данных"
+    },
+    {
+      "type": "remove",
+      "position": 90,
+      "text": "Пользовательское соглашение"
+    },
+    {
+      "type": "remove",
+      "position": 91,
+      "text": "ИТ аккредитация"
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2026-05-03-1014",
+  "to_date": "2026-07-23-1635",
+  "from_hash": "ea400a7d08b9d97934fb23546b2fb45e30a1185474395a9aa228442072e42195",
+  "to_hash": "b1f2803b1588fd237e5257a484f1a2e55b15e1a52b90c34592749475464d7e9b",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

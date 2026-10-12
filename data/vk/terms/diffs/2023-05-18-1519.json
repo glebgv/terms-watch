@@ -1,0 +1,202 @@
+{
+  "stats": {
+    "lines_added": 3,
+    "lines_removed": 3,
+    "lines_changed": 3,
+    "change_ratio": 0.0278
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 1,
+      "old_text": "1.1. The VK site (or the Site) is the internet resource consisting of a set of (a) computer programs (software code running on a computer) and (b) the information (content) placed in them by the Administration and / or users. The VK Site is maintained in an information system that provides the access to the aforesaid information in Internet when addressed by the domain name [LINK] (including all levels of the specified domain functioning on the moment of adoption of these Terms by the User as well as added after that).",
+      "new_text": "1.1. The VK site (or the Site) , also known as VKontakte, is an internet resource consisting of a set of (a) computer programs (software code running on a computer) and (b) the information (content) placed in them by the Administration and / or users. The VK Site is maintained in an information system that provides the access to the aforesaid information on the Internet when addressed by the domain names VK.com , VK.ru (including all levels of the specified domains functioning on the moment of adoption of these Terms by the User as well as those added after that).",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "1.1. The VK site (or the Site)"
+        },
+        {
+          "type": "add",
+          "text": ", also known as VKontakte,"
+        },
+        {
+          "type": "keep",
+          "text": "is"
+        },
+        {
+          "type": "remove",
+          "text": "the"
+        },
+        {
+          "type": "add",
+          "text": "an"
+        },
+        {
+          "type": "keep",
+          "text": "internet resource consisting of a set of (a) computer programs (software code running on a computer) and (b) the information (content) placed in them by the Administration and / or users. The VK Site is maintained in an information system that provides the access to the aforesaid information"
+        },
+        {
+          "type": "remove",
+          "text": "in"
+        },
+        {
+          "type": "add",
+          "text": "on the"
+        },
+        {
+          "type": "keep",
+          "text": "Internet when addressed by the domain"
+        },
+        {
+          "type": "remove",
+          "text": "name [LINK]"
+        },
+        {
+          "type": "add",
+          "text": "names VK.com , VK.ru"
+        },
+        {
+          "type": "keep",
+          "text": "(including all levels of the specified"
+        },
+        {
+          "type": "remove",
+          "text": "domain"
+        },
+        {
+          "type": "add",
+          "text": "domains"
+        },
+        {
+          "type": "keep",
+          "text": "functioning on the moment of adoption of these Terms by the User as well as"
+        },
+        {
+          "type": "add",
+          "text": "those"
+        },
+        {
+          "type": "keep",
+          "text": "added after that)."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 17,
+      "old_text": "5.5. After submitting the information specified in clause 5.3 hereof, the User has to complete a number of authentification procedures, namely: (a) confirm the registration by recognizing an automated text to tell computers and humans apart (CAPTCHA); (b) confirm his/her registration by entering a code in a special Site form, the code is sent via SMS by the Site Administration to the User’s mobile phone number provided by the User. In case the whole sequence of the registration actions is completed successfully, the User’s personal page with the network address: [LINK] [number] is created at the Site. The User has the right to assign to its personal page a short (sub-domain) name replacing the id ordinal number for web addressing purposes. The sub-domain name cannot be selected from the words and names the use of which is prohibited in accordance with these Terms, effective Russian legislation and international legal acts, including without limitation obscene words, names registered as trademarks (regardless of the MKTU class), brand names and commercial designations, unless the User is their exclusive owner. In case a breach of these conditions is detected, the Site Administration has the right to prohibit the User from using his/her sub-domain name and, among other things, transfer the right of its use to the appropriate person (representative of the right owner), if applicable. The User may register a maximum of one personal page at the Site.",
+      "new_text": "5.5. After submitting the information specified in clause 5.3 hereof, the User has to complete a number of authentication procedures, namely: (a) confirm the registration by recognizing an automated text to tell computers and humans apart (CAPTCHA); (b) confirm their registration by entering a code in a special Site form, the code is sent via SMS by the Site Administration to the User’s mobile phone number provided by the User. In case the whole sequence of the registration actions is completed successfully, the User’s personal page with the network address: [LINK] [number] is created at the Site. The User has the right to assign to its personal page a short (subdomain) name replacing the id ordinal number for web addressing purposes. The subdomain name cannot be selected from the words and names the use of which is prohibited in accordance with these Terms, effective Russian legislation and international legal acts, including without limitation obscene words, names registered as trademarks (regardless of the MKTU class), brand names and commercial designations, unless the User is their exclusive owner. In case a breach of these conditions is detected, the Site Administration has the right to prohibit the User from using their subdomain name and, among other things, transfer the right of its use to the appropriate person (representative of the right owner), if applicable.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "5.5. After submitting the information specified in clause 5.3 hereof, the User has to complete a number of"
+        },
+        {
+          "type": "remove",
+          "text": "authentification"
+        },
+        {
+          "type": "add",
+          "text": "authentication"
+        },
+        {
+          "type": "keep",
+          "text": "procedures, namely: (a) confirm the registration by recognizing an automated text to tell computers and humans apart (CAPTCHA); (b) confirm"
+        },
+        {
+          "type": "remove",
+          "text": "his/her"
+        },
+        {
+          "type": "add",
+          "text": "their"
+        },
+        {
+          "type": "keep",
+          "text": "registration by entering a code in a special Site form, the code is sent via SMS by the Site Administration to the User’s mobile phone number provided by the User. In case the whole sequence of the registration actions is completed successfully, the User’s personal page with the network address: [LINK] [number] is created at the Site. The User has the right to assign to its personal page a short"
+        },
+        {
+          "type": "remove",
+          "text": "(sub-domain)"
+        },
+        {
+          "type": "add",
+          "text": "(subdomain)"
+        },
+        {
+          "type": "keep",
+          "text": "name replacing the id ordinal number for web addressing purposes. The"
+        },
+        {
+          "type": "remove",
+          "text": "sub-domain"
+        },
+        {
+          "type": "add",
+          "text": "subdomain"
+        },
+        {
+          "type": "keep",
+          "text": "name cannot be selected from the words and names the use of which is prohibited in accordance with these Terms, effective Russian legislation and international legal acts, including without limitation obscene words, names registered as trademarks (regardless of the MKTU class), brand names and commercial designations, unless the User is their exclusive owner. In case a breach of these conditions is detected, the Site Administration has the right to prohibit the User from using"
+        },
+        {
+          "type": "remove",
+          "text": "his/her sub-domain"
+        },
+        {
+          "type": "add",
+          "text": "their subdomain"
+        },
+        {
+          "type": "keep",
+          "text": "name and, among other things, transfer the right of its use to the appropriate person (representative of the right owner), if applicable."
+        },
+        {
+          "type": "remove",
+          "text": "The User may register a maximum of one personal page at the Site."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 54,
+      "old_text": "Date of Last Revision: May 21, 2018",
+      "new_text": "Date of Last Revision: 6 May 2023",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Date of Last Revision:"
+        },
+        {
+          "type": "add",
+          "text": "6"
+        },
+        {
+          "type": "keep",
+          "text": "May"
+        },
+        {
+          "type": "remove",
+          "text": "21, 2018"
+        },
+        {
+          "type": "add",
+          "text": "2023"
+        }
+      ]
+    }
+  ],
+  "site": "vk",
+  "doc_id": "terms",
+  "doc_title": "Условия использования",
+  "from_date": "2023-02-03-1753",
+  "to_date": "2023-05-18-1519",
+  "from_hash": "0f29484e5a5ca20efc93adfb038b4b9b6878103263e69af0f8d2b822d9609f14",
+  "to_hash": "6980c092e723a2a62db969662ca5c9ea5ae0c9ff88cb9bd893a3490ccb364086",
+  "url": "https://vk.ru/terms",
+  "retrospective": true
+}

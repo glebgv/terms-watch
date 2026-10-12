@@ -1,0 +1,71 @@
+{
+  "stats": {
+    "lines_added": 3,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.0166
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 17,
+      "old_text": "история взаимодействия с Пользователем.",
+      "new_text": "история взаимодействия с Пользователем;",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "история взаимодействия с"
+        },
+        {
+          "type": "remove",
+          "text": "Пользователем."
+        },
+        {
+          "type": "add",
+          "text": "Пользователем;"
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 18,
+      "text": "информация о проведенных платежных операциях (сумма, валюта)."
+    },
+    {
+      "type": "modify",
+      "position": 50,
+      "old_text": "предоставления услуг и клиентской поддержки по запросу Пользователей;",
+      "new_text": "предоставления Сервиса и клиентской поддержки по запросу Пользователей;",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "предоставления"
+        },
+        {
+          "type": "remove",
+          "text": "услуг"
+        },
+        {
+          "type": "add",
+          "text": "Сервиса"
+        },
+        {
+          "type": "keep",
+          "text": "и клиентской поддержки по запросу Пользователей;"
+        }
+      ]
+    }
+  ],
+  "site": "profi",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2024-12-17-0007",
+  "to_date": "2025-08-02-1556",
+  "from_hash": "eb1c01a653016eb950ed250f21f4e4cb071926d244ce3d1514286128fbe52cb0",
+  "to_hash": "73fa6ee69686751c6edfed1d84ea492199f0882b928c98794c53cba798b0f755",
+  "url": "https://profi.ru/documents/privacy-policy/",
+  "retrospective": true
+}

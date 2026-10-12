@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0222
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 20,
+      "text": "Зарплаты по профессиям"
+    },
+    {
+      "type": "add",
+      "position": 32,
+      "text": "Партнерская программа"
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "personal_data",
+  "doc_title": "Согласие на обработку персональных данных",
+  "from_date": "2021-11-30-1234",
+  "to_date": "2022-03-10-0256",
+  "from_hash": "1fb549a69ff9eeb3e3bfa2680c1625f7dd27669a05088e4332b0dfcf3d345a53",
+  "to_hash": "d56944fac9362d9eee4c4bda61890a7623445cfd10368a3258bb1c085580cd60",
+  "url": "https://www.superjob.ru/info/personalnye_dannye.html",
+  "retrospective": true
+}

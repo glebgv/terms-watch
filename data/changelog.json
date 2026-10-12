@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:39:38+00:00",
+  "updated": "2026-10-12T12:45:12+00:00",
   "entries": [
     {
       "date": "2026-10-12",
@@ -71,6 +71,1052 @@
       "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
       "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
       "diff_path": "/home/tetra10/proverka/monitor/data-public/hh/offer/diffs/2026-10-11.json"
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2026-07-29-1039",
+      "ratio": 0.1141,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-07-23-1635",
+      "ratio": 0.2449,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "yandex",
+      "site_name": "Yandex",
+      "doc_id": "rules",
+      "doc_title": "Условия использования сервисов Яндекса",
+      "date": "2026-05-30-1248",
+      "ratio": 0.0176,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-05-03-1014",
+      "ratio": 0.033,
+      "is_major": false,
+      "keywords": [
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-05-01-0824",
+      "ratio": 0.011,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2026-04-30-0503",
+      "ratio": 0.0719,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "yandex",
+      "site_name": "Yandex",
+      "doc_id": "cloud_terms",
+      "doc_title": "Условия использования Яндекс Cloud",
+      "date": "2026-02-14-2232",
+      "ratio": 0.0076,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-01-13-1600",
+      "ratio": 0.1916,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-12-29-2224",
+      "ratio": 0.2096,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-12-29-2217",
+      "ratio": 0.0182,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-12-27-1947",
+      "ratio": 0.011,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "recommendation",
+      "doc_title": "Правила применения рекомендательных алгоритмов",
+      "date": "2025-12-24-1614",
+      "ratio": 0.0526,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-08-15-2334",
+      "ratio": 0.0621,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-08-02-1556",
+      "ratio": 0.0166,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-06-20-1645",
+      "ratio": 0.0055,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2025-05-23-0909",
+      "ratio": 0.4333,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-05-22-0536",
+      "ratio": 0.0166,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-04-30-0934",
+      "ratio": 0.0218,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-01-14-2315",
+      "ratio": 0.0055,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2025-01-14-2305",
+      "ratio": 0.5714,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-01-08-1534",
+      "ratio": 0.0546,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-12-17-0007",
+      "ratio": 0.0278,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2024-12-03-0628",
+      "ratio": 0.4049,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-11-26-1834",
+      "ratio": 0.1734,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2024-11-18-0219",
+      "ratio": 0.0282,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2024-09-05-1704",
+      "ratio": 0.1305,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-08-29-1607",
+      "ratio": 0.0278,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-07-05-0116",
+      "ratio": 0.0063,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2024-07-03-0918",
+      "ratio": 0.0556,
+      "is_major": false,
+      "keywords": [
+        "third party"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-04-02-0425",
+      "ratio": 0.1037,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2024-03-06-0959",
+      "ratio": 0.0045,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-02-28-1706",
+      "ratio": 0.0168,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2024-02-09-1704",
+      "ratio": 0.8403,
+      "is_major": true,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "суд"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-01-01-1729",
+      "ratio": 0.006,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-12-31-1701",
+      "ratio": 0.4552,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2023-12-22-2344",
+      "ratio": 0.2258,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2023-11-27-0842",
+      "ratio": 0.3178,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-11-02-0007",
+      "ratio": 0.4412,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "оплата",
+        "суд",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-08-17-1749",
+      "ratio": 0.5638,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2023-08-02-1956",
+      "ratio": 0.0093,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2023-08-02-0937",
+      "ratio": 0.0098,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2023-06-21-1157",
+      "ratio": 0.02,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2023-06-06-0051",
+      "ratio": 0.0196,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2023-05-18-1519",
+      "ratio": 0.0278,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2023-04-28-0114",
+      "ratio": 0.1,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-04-11-0403",
+      "ratio": 0.0345,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2023-03-07-0414",
+      "ratio": 0.02,
+      "is_major": false,
+      "keywords": [
+        "ответственность",
+        "хранение данных"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-02-28-0119",
+      "ratio": 0.0549,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2023-02-20-1500",
+      "ratio": 0.0612,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2023-02-20-1459",
+      "ratio": 0.0526,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2023-02-19-2250",
+      "ratio": 0.1639,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2023-02-17-0226",
+      "ratio": 0.0333,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2023-02-03-1753",
+      "ratio": 0.0093,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-01-01-0825",
+      "ratio": 0.5838,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-12-31-1342",
+      "ratio": 0.0173,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-12-31-0812",
+      "ratio": 0.5,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "суд"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-12-09-2027",
+      "ratio": 0.117,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-12-03-0327",
+      "ratio": 0.5,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "суд"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-10-18-2230",
+      "ratio": 0.0333,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-10-01-0551",
+      "ratio": 0.5814,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-07-31-0526",
+      "ratio": 0.2208,
+      "is_major": false,
+      "keywords": [
+        "third party"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2022-06-03-1502",
+      "ratio": 0.033,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-06-01-1326",
+      "ratio": 0.1198,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2022-04-26-0727",
+      "ratio": 0.0319,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-03-14-0725",
+      "ratio": 0.2,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-03-14-0312",
+      "ratio": 0.0215,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2022-03-14-0016",
+      "ratio": 0.0549,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2022-03-10-0256",
+      "ratio": 0.0222,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-01-01-1810",
+      "ratio": 0.0094,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-12-31-1724",
+      "ratio": 0.3564,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2021-11-30-1234",
+      "ratio": 0.3875,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2021-10-21-1934",
+      "ratio": 0.2093,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-10-11-0557",
+      "ratio": 0.2273,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2021-10-11-0134",
+      "ratio": 0.1,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-08-30-0430",
+      "ratio": 0.0366,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2021-06-06-0640",
+      "ratio": 0.1765,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие"
+      ],
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-05-14-0413",
+      "ratio": 0.0432,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2021-04-21-0255",
+      "ratio": 0.0244,
+      "is_major": false,
+      "keywords": [],
+      "retrospective": true
     }
   ]
 }

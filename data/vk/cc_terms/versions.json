@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "date": "2026-08-20-0000",
+      "hash": "4a33d55030f396e17c5b4792f05c8f45153d66129fb11aeb6504307557f1efe9",
+      "length": 13999,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "311cb3bcdc2264a02dc9f7ea2079163807515c5def1eecdd7414fd3ba235ac86",
       "wayback_url": null,

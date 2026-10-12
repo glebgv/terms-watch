@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0055
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 2,
+      "old_text": "Редакция от 01 декабря 2024 года",
+      "new_text": "Редакция от 06 мая 2025 года",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Редакция от"
+        },
+        {
+          "type": "remove",
+          "text": "01 декабря 2024"
+        },
+        {
+          "type": "add",
+          "text": "06 мая 2025"
+        },
+        {
+          "type": "keep",
+          "text": "года"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2025-05-22-0536",
+  "to_date": "2025-06-20-1645",
+  "from_hash": "ee6c33ecf7ba11e726bed23fb425703b0739fbe9bf13a2352aa5e061fb6d5ea3",
+  "to_hash": "bc7915da3524d12ebd6cdec6c0e5787a60e9dca0c7d67533f4bb692c0574491f",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

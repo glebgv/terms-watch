@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "lines_added": 4,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0549
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 20,
+      "text": "Cписок компаний по индустриям"
+    },
+    {
+      "type": "add",
+      "position": 21,
+      "text": "Зарплаты по профессиям"
+    },
+    {
+      "type": "add",
+      "position": 33,
+      "text": "Партнерская программа"
+    },
+    {
+      "type": "add",
+      "position": 41,
+      "text": "Калькулятор дней отпуска"
+    },
+    {
+      "type": "remove",
+      "position": 43,
+      "text": "API SuperJob"
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy_agreement",
+  "doc_title": "Соглашение о конфиденциальности",
+  "from_date": "2021-10-21-1934",
+  "to_date": "2022-03-14-0016",
+  "from_hash": "bcb0c7903babd3ffc421fbfd47a464b60f6a187a83ed2fef11747e3bc0560d26",
+  "to_hash": "c15eb60d22bc0502b8acc675565e4a814eb793f369f5e40829444db46135e784",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "retrospective": true
+}

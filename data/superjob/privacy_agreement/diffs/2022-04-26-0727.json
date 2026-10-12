@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 2,
+    "lines_changed": 1,
+    "change_ratio": 0.0319
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 28,
+      "text": "Советы для работодателей"
+    },
+    {
+      "type": "remove",
+      "position": 33,
+      "text": "Партнерская программа"
+    },
+    {
+      "type": "modify",
+      "position": 41,
+      "old_text": "Калькулятор дней отпуска",
+      "new_text": "Калькуляторы",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Калькулятор дней отпуска"
+        },
+        {
+          "type": "add",
+          "text": "Калькуляторы"
+        }
+      ]
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy_agreement",
+  "doc_title": "Соглашение о конфиденциальности",
+  "from_date": "2022-03-14-0016",
+  "to_date": "2022-04-26-0727",
+  "from_hash": "c15eb60d22bc0502b8acc675565e4a814eb793f369f5e40829444db46135e784",
+  "to_hash": "6e2294f25b435e5f9aed9cbd2d805eda9239dee30e378db96530dcdcee290e33",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "retrospective": true
+}

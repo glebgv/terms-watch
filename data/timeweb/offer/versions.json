@@ -1,6 +1,13 @@
 {
   "versions": [
     {
+      "date": "2026-09-14-2022",
+      "hash": "f673ed0ccaca6b60a17c5ed2a0850315ca43020a46577fec0a503d56ae230c07",
+      "length": 55995,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "7981614287a10cbc78bc5fe38aa112a7b5cb72b31e41994c70f42cd79b66dc42",
       "wayback_url": "http://web.archive.org/web/20260914202248/https://s3.twcstorage.ru/tw-cloud-static/legal-info/timeweb-cloud-public-offer.pdf",

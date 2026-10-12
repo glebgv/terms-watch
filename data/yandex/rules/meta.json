@@ -5,8 +5,8 @@
   "doc_title": "Условия использования сервисов Яндекса",
   "url": "https://yandex.ru/legal/rules/ru/",
   "selector": "main, article, body",
-  "first_check": "2026-10-11",
+  "first_check": "2025-10-15-2236",
   "last_check": "2026-10-11",
-  "total_versions": 1,
+  "total_versions": 3,
   "last_hash": "7cc81e34327aa17b4d6d9ff21a122c6d75bc5940d539abdb2e194b66f18a6d5d"
 }

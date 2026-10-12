@@ -1,0 +1,425 @@
+{
+  "stats": {
+    "lines_added": 78,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0282
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "персональные данные"
+  ],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 12,
+      "old_text": "08.07.2024",
+      "new_text": "17.09.2024",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "08.07.2024"
+        },
+        {
+          "type": "add",
+          "text": "17.09.2024"
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 454,
+      "text": "организация"
+    },
+    {
+      "type": "add",
+      "position": 455,
+      "text": "Вашего"
+    },
+    {
+      "type": "add",
+      "position": 456,
+      "text": "участия"
+    },
+    {
+      "type": "add",
+      "position": 457,
+      "text": "в"
+    },
+    {
+      "type": "add",
+      "position": 458,
+      "text": "Программе"
+    },
+    {
+      "type": "add",
+      "position": 459,
+      "text": "внешних"
+    },
+    {
+      "type": "add",
+      "position": 460,
+      "text": "рекомендаций"
+    },
+    {
+      "type": "add",
+      "position": 461,
+      "text": "кандидатов"
+    },
+    {
+      "type": "add",
+      "position": 462,
+      "text": "Selectel"
+    },
+    {
+      "type": "add",
+      "position": 463,
+      "text": "персональные"
+    },
+    {
+      "type": "add",
+      "position": 464,
+      "text": "данные,"
+    },
+    {
+      "type": "add",
+      "position": 465,
+      "text": "которые"
+    },
+    {
+      "type": "add",
+      "position": 466,
+      "text": "Вы"
+    },
+    {
+      "type": "add",
+      "position": 467,
+      "text": "предоставляете"
+    },
+    {
+      "type": "add",
+      "position": 468,
+      "text": "нам"
+    },
+    {
+      "type": "add",
+      "position": 469,
+      "text": "при"
+    },
+    {
+      "type": "add",
+      "position": 470,
+      "text": "заполнении"
+    },
+    {
+      "type": "add",
+      "position": 471,
+      "text": "информационных"
+    },
+    {
+      "type": "add",
+      "position": 472,
+      "text": "полей"
+    },
+    {
+      "type": "add",
+      "position": 473,
+      "text": "на"
+    },
+    {
+      "type": "add",
+      "position": 474,
+      "text": "Сайте,"
+    },
+    {
+      "type": "add",
+      "position": 475,
+      "text": "такие"
+    },
+    {
+      "type": "add",
+      "position": 476,
+      "text": "как"
+    },
+    {
+      "type": "add",
+      "position": 477,
+      "text": "Ваше"
+    },
+    {
+      "type": "add",
+      "position": 478,
+      "text": "имя,"
+    },
+    {
+      "type": "add",
+      "position": 479,
+      "text": "фамилия,"
+    },
+    {
+      "type": "add",
+      "position": 480,
+      "text": "отчество,"
+    },
+    {
+      "type": "add",
+      "position": 481,
+      "text": "номер"
+    },
+    {
+      "type": "add",
+      "position": 482,
+      "text": "телефона,"
+    },
+    {
+      "type": "add",
+      "position": 483,
+      "text": "адрес"
+    },
+    {
+      "type": "add",
+      "position": 484,
+      "text": "электронной"
+    },
+    {
+      "type": "add",
+      "position": 485,
+      "text": "почты,"
+    },
+    {
+      "type": "add",
+      "position": 486,
+      "text": "а"
+    },
+    {
+      "type": "add",
+      "position": 487,
+      "text": "также"
+    },
+    {
+      "type": "add",
+      "position": 488,
+      "text": "предоставляемые"
+    },
+    {
+      "type": "add",
+      "position": 489,
+      "text": "Вами"
+    },
+    {
+      "type": "add",
+      "position": 490,
+      "text": "персональные"
+    },
+    {
+      "type": "add",
+      "position": 491,
+      "text": "данные"
+    },
+    {
+      "type": "add",
+      "position": 492,
+      "text": "рекомендуемого"
+    },
+    {
+      "type": "add",
+      "position": 493,
+      "text": "кандидата"
+    },
+    {
+      "type": "add",
+      "position": 494,
+      "text": "на"
+    },
+    {
+      "type": "add",
+      "position": 495,
+      "text": "вакантную"
+    },
+    {
+      "type": "add",
+      "position": 496,
+      "text": "должность:"
+    },
+    {
+      "type": "add",
+      "position": 497,
+      "text": "имя,"
+    },
+    {
+      "type": "add",
+      "position": 498,
+      "text": "фамилия,"
+    },
+    {
+      "type": "add",
+      "position": 499,
+      "text": "отчество,"
+    },
+    {
+      "type": "add",
+      "position": 500,
+      "text": "номер"
+    },
+    {
+      "type": "add",
+      "position": 501,
+      "text": "телефона,"
+    },
+    {
+      "type": "add",
+      "position": 502,
+      "text": "адрес"
+    },
+    {
+      "type": "add",
+      "position": 503,
+      "text": "электронной"
+    },
+    {
+      "type": "add",
+      "position": 504,
+      "text": "почты,"
+    },
+    {
+      "type": "add",
+      "position": 505,
+      "text": "сведения,"
+    },
+    {
+      "type": "add",
+      "position": 506,
+      "text": "содержащиеся"
+    },
+    {
+      "type": "add",
+      "position": 507,
+      "text": "в"
+    },
+    {
+      "type": "add",
+      "position": 508,
+      "text": "резюме"
+    },
+    {
+      "type": "add",
+      "position": 509,
+      "text": "рекомендуемого"
+    },
+    {
+      "type": "add",
+      "position": 510,
+      "text": "кандидата"
+    },
+    {
+      "type": "add",
+      "position": 511,
+      "text": "на"
+    },
+    {
+      "type": "add",
+      "position": 512,
+      "text": "вакантную"
+    },
+    {
+      "type": "add",
+      "position": 513,
+      "text": "должность,"
+    },
+    {
+      "type": "add",
+      "position": 514,
+      "text": "включая"
+    },
+    {
+      "type": "add",
+      "position": 515,
+      "text": "возраст,"
+    },
+    {
+      "type": "add",
+      "position": 516,
+      "text": "данные"
+    },
+    {
+      "type": "add",
+      "position": 517,
+      "text": "об"
+    },
+    {
+      "type": "add",
+      "position": 518,
+      "text": "образовании"
+    },
+    {
+      "type": "add",
+      "position": 519,
+      "text": "и"
+    },
+    {
+      "type": "add",
+      "position": 520,
+      "text": "опыте"
+    },
+    {
+      "type": "add",
+      "position": 521,
+      "text": "работы,"
+    },
+    {
+      "type": "add",
+      "position": 522,
+      "text": "адрес"
+    },
+    {
+      "type": "add",
+      "position": 523,
+      "text": "и"
+    },
+    {
+      "type": "add",
+      "position": 524,
+      "text": "другие"
+    },
+    {
+      "type": "add",
+      "position": 525,
+      "text": "персональные"
+    },
+    {
+      "type": "add",
+      "position": 526,
+      "text": "данные,"
+    },
+    {
+      "type": "add",
+      "position": 527,
+      "text": "указанные"
+    },
+    {
+      "type": "add",
+      "position": 528,
+      "text": "в"
+    },
+    {
+      "type": "add",
+      "position": 529,
+      "text": "резюме"
+    },
+    {
+      "type": "add",
+      "position": 530,
+      "text": "кандидата"
+    }
+  ],
+  "site": "selectel",
+  "doc_id": "pd_policy",
+  "doc_title": "Политика обработки и защиты персональных данных",
+  "from_date": "2024-09-05-1704",
+  "to_date": "2024-11-18-0219",
+  "from_hash": "4756e2ac5f021fe0c661dbda89a3d17041b7e88193993ef110282897bf380c4e",
+  "to_hash": "06a9c3153d3fb4eab24bbc2b5431b000d1b53d11de87d9aa03de6d78ac6741ad",
+  "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+  "retrospective": true
+}

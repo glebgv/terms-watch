@@ -1,6 +1,167 @@
 {
   "versions": [
     {
+      "date": "2021-01-01-0624",
+      "hash": "58600abf07255c84df5eb3d8564911e371df36594722882d504d6d50e9f22d14",
+      "length": 11769,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-05-14-0413",
+      "hash": "3f82ea50fa4a650c02ff7bb05d2f35a2ff871aac969e82e77a5b230fa4193f1d",
+      "length": 11784,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-08-30-0430",
+      "hash": "9e9b78e3e09a6f2b5469bb02a32be5f7578b027f57d971d3520a8e9846b6593a",
+      "length": 11782,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2021-12-31-1724",
+      "hash": "a1eb2ac77444c493f6196666be525db558648844ecbbd2e9ea9b2698b9a63275",
+      "length": 11433,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-01-01-1810",
+      "hash": "e9473f298e474d80cca92e896a65e8525955e07eddcc618a716bd66eb740555c",
+      "length": 11429,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-06-01-1326",
+      "hash": "e65fa1c0511a8d0e3b6a75f907c43dce1e7bec73237e3176389be92a6445f5a3",
+      "length": 10893,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-10-01-0551",
+      "hash": "10926a17e6bff88262fca71ec776e92e9c500e6ecc32dac40b8cc4b2a237d3e6",
+      "length": 11546,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2022-12-31-1342",
+      "hash": "ed5198cf704b47cf2f70690a837b92e86d2ae77288328b664f37583870cdc203",
+      "length": 11797,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-01-01-0825",
+      "hash": "6ce3c9c45732daa5bd8fa77826127506d1a8d095fff8e847b87253cfcdf225d2",
+      "length": 10905,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-04-11-0403",
+      "hash": "a1018170bf74b863cc3853f7390384a711e97c9a0e34495ea625717a286f802f",
+      "length": 10948,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-08-17-1749",
+      "hash": "ef89b3f394c59ff25c3b9b57209bc7ccbd9d642663d749616f708aefcba318a0",
+      "length": 11460,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2023-12-31-1701",
+      "hash": "c81d627c1ac85a86b8295c408301250d29a772d3f2e51faa18c6d5e01f1904ce",
+      "length": 8842,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2024-01-01-1729",
+      "hash": "dd63d99b98a7a18bf7bae980b8e6288ba49fa8423fff18a14b7c347cca9ebd37",
+      "length": 8842,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2024-04-02-0425",
+      "hash": "022e05c24d2f6c6803c8cad6f1c385b304568fc4fa6dd4ab36a48c344672621b",
+      "length": 8668,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2024-07-05-0116",
+      "hash": "b558d8c66ac1fcc6fb5909d5af485dedaf01598166e1bf4081d511705014eabd",
+      "length": 8677,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2024-11-26-1834",
+      "hash": "598dc785906f9974bdd0af6c22226450d3acfbad770e6df1efdbf6ba44817579",
+      "length": 8823,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-01-08-1534",
+      "hash": "31ba1be38bb0a5a812bc01b87a902997ef5c7b56cd08460049db718ff4ee726d",
+      "length": 8147,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-05-22-0536",
+      "hash": "ee6c33ecf7ba11e726bed23fb425703b0739fbe9bf13a2352aa5e061fb6d5ea3",
+      "length": 8179,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-06-20-1645",
+      "hash": "bc7915da3524d12ebd6cdec6c0e5787a60e9dca0c7d67533f4bb692c0574491f",
+      "length": 8175,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-12-29-2224",
+      "hash": "75509b80c235853cca48bbc5b7ad84a6b73c76c77023e88677081c7828344050",
+      "length": 8067,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2026-01-13-1600",
+      "hash": "8e0c4c9a84945f46cd6e6a747a007a1b4538eda55483f8ad731353ac332ce9ec",
+      "length": 8226,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2026-05-03-1014",
+      "hash": "ea400a7d08b9d97934fb23546b2fb45e30a1185474395a9aa228442072e42195",
+      "length": 8377,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2026-07-23-1635",
+      "hash": "b1f2803b1588fd237e5257a484f1a2e55b15e1a52b90c34592749475464d7e9b",
+      "length": 7701,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-11",
       "hash": "4cfb4bb06ae55fbc913ebad28cb016ac93974772707095d5a001208c71a26be7",
       "wayback_url": "http://web.archive.org/web/20260924050338/https://hh.ru/article/personal_data",

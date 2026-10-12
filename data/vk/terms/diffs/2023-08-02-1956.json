@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0093
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 46,
+      "old_text": "8.10. The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services. </span></li> </ul>",
+      "new_text": "8.10. The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "8.10. The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services."
+        },
+        {
+          "type": "remove",
+          "text": "</span></li> </ul>"
+        }
+      ]
+    }
+  ],
+  "site": "vk",
+  "doc_id": "terms",
+  "doc_title": "Условия использования",
+  "from_date": "2023-05-18-1519",
+  "to_date": "2023-08-02-1956",
+  "from_hash": "6980c092e723a2a62db969662ca5c9ea5ae0c9ff88cb9bd893a3490ccb364086",
+  "to_hash": "ad9fd7e3a634094e89fbe16d5673b7c0405a47e9f984d399d0bcfc28aa74e189",
+  "url": "https://vk.ru/terms",
+  "retrospective": true
+}

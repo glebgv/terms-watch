@@ -1,0 +1,120 @@
+{
+  "stats": {
+    "lines_added": 6,
+    "lines_removed": 4,
+    "lines_changed": 4,
+    "change_ratio": 0.0345
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 65,
+      "old_text": "Помогает повысить качество откликов",
+      "new_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Помогает повысить качество откликов"
+        },
+        {
+          "type": "add",
+          "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 66,
+      "old_text": "Design vacancies, a company page, and email templates in a corporate style",
+      "new_text": "Экономия времени, сил и бюджета на подбор ИТ-кандидатов любого уровня",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Design vacancies, a company page, and email templates in a corporate style"
+        },
+        {
+          "type": "add",
+          "text": "Экономия времени, сил и бюджета на подбор ИТ-кандидатов любого уровня"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 67,
+      "old_text": "For convenient work with the resume database and personnel",
+      "new_text": "CRM-system for candidate selection",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "For convenient work with the resume database and personnel"
+        },
+        {
+          "type": "add",
+          "text": "CRM-system for candidate selection"
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 68,
+      "text": "Кандидаты по профессиям"
+    },
+    {
+      "type": "add",
+      "position": 85,
+      "text": "Кандидаты по профессиям"
+    },
+    {
+      "type": "modify",
+      "position": 88,
+      "old_text": "Today 831113 vacancies , , 61480442 resumes , , 1836840 companies on the website and 1208888 invitations within the week",
+      "new_text": "Today on the website 1172779 vacancies , 63295000 resumes , 1903254 companies and 3056165 invitations within the week",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Today"
+        },
+        {
+          "type": "remove",
+          "text": "831113 vacancies , , 61480442 resumes , , 1836840 companies"
+        },
+        {
+          "type": "keep",
+          "text": "on the website"
+        },
+        {
+          "type": "add",
+          "text": "1172779 vacancies , 63295000 resumes , 1903254 companies"
+        },
+        {
+          "type": "keep",
+          "text": "and"
+        },
+        {
+          "type": "remove",
+          "text": "1208888"
+        },
+        {
+          "type": "add",
+          "text": "3056165"
+        },
+        {
+          "type": "keep",
+          "text": "invitations within the week"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2023-01-01-0825",
+  "to_date": "2023-04-11-0403",
+  "from_hash": "6ce3c9c45732daa5bd8fa77826127506d1a8d095fff8e847b87253cfcdf225d2",
+  "to_hash": "a1018170bf74b863cc3853f7390384a711e97c9a0e34495ea625717a286f802f",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

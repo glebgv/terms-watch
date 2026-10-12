@@ -1,0 +1,178 @@
+{
+  "stats": {
+    "lines_added": 6,
+    "lines_removed": 6,
+    "lines_changed": 6,
+    "change_ratio": 0.0366
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 15,
+      "old_text": "Services under development",
+      "new_text": "Beta services",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Services under development"
+        },
+        {
+          "type": "add",
+          "text": "Beta services"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 16,
+      "old_text": "Try new services that we can introduce on hh.ru in the future",
+      "new_text": "Try out the new services that may appear on hh.ru in the future",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Try"
+        },
+        {
+          "type": "add",
+          "text": "out the"
+        },
+        {
+          "type": "keep",
+          "text": "new services that"
+        },
+        {
+          "type": "remove",
+          "text": "we can introduce"
+        },
+        {
+          "type": "add",
+          "text": "may appear"
+        },
+        {
+          "type": "keep",
+          "text": "on hh.ru in the future"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 57,
+      "old_text": "Labour market studies",
+      "new_text": "Rating of russian employers",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Labour market studies"
+        },
+        {
+          "type": "add",
+          "text": "Rating of russian employers"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 58,
+      "old_text": "To assess the level of competition, demand and supply in the labour market",
+      "new_text": "Регистрация бесплатная. Допускаются компании от 100 сотрудников",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "To assess the level of competition, demand and supply in the labour market"
+        },
+        {
+          "type": "add",
+          "text": "Регистрация бесплатная. Допускаются компании от 100 сотрудников"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 81,
+      "old_text": "© 2021 HeadHunter Group",
+      "new_text": "© 2021 HeadHunter Group of Companies",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "© 2021 HeadHunter Group"
+        },
+        {
+          "type": "add",
+          "text": "of Companies"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 82,
+      "old_text": "On the site today: 1 004 047 vacancies, 51 195 941 resume, 1 483 067 employers and in a week: 1 501 297 invitations",
+      "new_text": "On the site today: 1 058 688 vacancies, 53 177 767 resumes, 1 580 827 companies and in a week: 2 223 398 invitations",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "On the site today: 1"
+        },
+        {
+          "type": "remove",
+          "text": "004 047"
+        },
+        {
+          "type": "add",
+          "text": "058 688"
+        },
+        {
+          "type": "keep",
+          "text": "vacancies,"
+        },
+        {
+          "type": "remove",
+          "text": "51 195 941 resume,"
+        },
+        {
+          "type": "add",
+          "text": "53 177 767 resumes,"
+        },
+        {
+          "type": "keep",
+          "text": "1"
+        },
+        {
+          "type": "remove",
+          "text": "483 067 employers"
+        },
+        {
+          "type": "add",
+          "text": "580 827 companies"
+        },
+        {
+          "type": "keep",
+          "text": "and in a week:"
+        },
+        {
+          "type": "remove",
+          "text": "1 501 297"
+        },
+        {
+          "type": "add",
+          "text": "2 223 398"
+        },
+        {
+          "type": "keep",
+          "text": "invitations"
+        }
+      ]
+    }
+  ],
+  "site": "hh",
+  "doc_id": "privacy",
+  "doc_title": "Политика конфиденциальности",
+  "from_date": "2021-05-14-0413",
+  "to_date": "2021-08-30-0430",
+  "from_hash": "3f82ea50fa4a650c02ff7bb05d2f35a2ff871aac969e82e77a5b230fa4193f1d",
+  "to_hash": "9e9b78e3e09a6f2b5469bb02a32be5f7578b027f57d971d3520a8e9846b6593a",
+  "url": "https://hh.ru/article/personal_data",
+  "retrospective": true
+}

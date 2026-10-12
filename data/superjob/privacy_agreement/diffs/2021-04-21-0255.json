@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0244
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 19,
+      "text": "Каталог профессий"
+    },
+    {
+      "type": "add",
+      "position": 30,
+      "text": "Спецпредложения работодателю"
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy_agreement",
+  "doc_title": "Соглашение о конфиденциальности",
+  "from_date": "2021-03-16-0445",
+  "to_date": "2021-04-21-0255",
+  "from_hash": "ad245bc097017aceed212d53fb7d826d429f4249b68077165d9aab655dbcb69d",
+  "to_hash": "eb288a0a1998792f2f4ea7998b9dd929dd9f7178d3dbfb77f1404b90416fbae5",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "retrospective": true
+}

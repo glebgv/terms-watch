@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "lines_added": 5,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0612
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 22,
+      "text": "Курсы"
+    },
+    {
+      "type": "add",
+      "position": 23,
+      "text": "Каталог кадровых агентств"
+    },
+    {
+      "type": "remove",
+      "position": 27,
+      "text": "Спецпредложения работодателю"
+    },
+    {
+      "type": "add",
+      "position": 30,
+      "text": "Каталог резюме"
+    },
+    {
+      "type": "add",
+      "position": 47,
+      "text": "Услуги"
+    },
+    {
+      "type": "add",
+      "position": 50,
+      "text": "Агрегатор образовательных курсов"
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "privacy_agreement",
+  "doc_title": "Соглашение о конфиденциальности",
+  "from_date": "2022-04-26-0727",
+  "to_date": "2023-02-20-1500",
+  "from_hash": "6e2294f25b435e5f9aed9cbd2d805eda9239dee30e378db96530dcdcee290e33",
+  "to_hash": "d1eb89b18331ba671f213832a25e28e12800fb23bf7d84c9a265556899fea21f",
+  "url": "https://www.superjob.ru/info/privacy_agreement.html",
+  "retrospective": true
+}

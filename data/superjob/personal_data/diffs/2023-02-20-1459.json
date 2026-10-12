@@ -1,0 +1,47 @@
+{
+  "stats": {
+    "lines_added": 5,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0526
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "add",
+      "position": 21,
+      "text": "Курсы"
+    },
+    {
+      "type": "add",
+      "position": 22,
+      "text": "Каталог кадровых агентств"
+    },
+    {
+      "type": "add",
+      "position": 29,
+      "text": "Каталог резюме"
+    },
+    {
+      "type": "add",
+      "position": 46,
+      "text": "Услуги"
+    },
+    {
+      "type": "add",
+      "position": 49,
+      "text": "Агрегатор образовательных курсов"
+    }
+  ],
+  "site": "superjob",
+  "doc_id": "personal_data",
+  "doc_title": "Согласие на обработку персональных данных",
+  "from_date": "2022-06-03-1502",
+  "to_date": "2023-02-20-1459",
+  "from_hash": "c6063d88d4ec1cc3699bfa6ef75fb5b5008a69c54a04b15468bcd71fb8b88d8d",
+  "to_hash": "ef275da2d4d4f5ea5192839a39c20fefcc8ee01316bac0770be7fcab4b727cfd",
+  "url": "https://www.superjob.ru/info/personalnye_dannye.html",
+  "retrospective": true
+}

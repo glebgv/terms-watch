@@ -5,8 +5,8 @@
   "doc_title": "Правила применения рекомендательных алгоритмов",
   "url": "https://profi.ru/documents/recommendation-algorithms/",
   "selector": "main, article, body",
-  "first_check": "2026-10-11",
+  "first_check": "2024-02-15-2121",
   "last_check": "2026-10-12",
-  "total_versions": 2,
-  "last_hash": "151dd5b4a567c72c1ea459920bf0aa6d0ec3bf290a3c2840c0ffb006f315c302"
+  "total_versions": 3,
+  "last_hash": "68e3185ddd73a63747d4351d9c8306f0a7eb617be19db7b6e31862059e19a95e"
 }
