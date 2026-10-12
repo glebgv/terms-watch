@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:57:50+00:00",
+  "updated": "2026-10-12T20:47:05+00:00",
   "entries": [
     {
       "date": "2026-10-12",
@@ -467,12 +467,14 @@
       "doc_id": "pd_policy",
       "doc_title": "Политика обработки и защиты персональных данных",
       "date": "2024-11-18-0219",
-      "ratio": 0.0282,
+      "ratio": 0.0587,
       "is_major": false,
       "keywords": [
-        "персональные данные"
+        "персональные данные",
+        "согласие",
+        "cookies"
       ],
-      "summary": "Изменено 3% документа: +78 / −1 строк",
+      "summary": "Изменено 6% документа: +21 / −5 строк",
       "diff_path": "selectel/pd_policy/diffs/2024-11-18-0219.json",
       "wayback_url": "https://web.archive.org/web/20241118/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true
@@ -483,14 +485,15 @@
       "doc_id": "pd_policy",
       "doc_title": "Политика обработки и защиты персональных данных",
       "date": "2024-09-05-1704",
-      "ratio": 0.1305,
+      "ratio": 0.2825,
       "is_major": false,
       "keywords": [
         "персональные данные",
+        "суд",
         "согласие",
         "cookies"
       ],
-      "summary": "Изменено 13% документа: +183 / −37 строк",
+      "summary": "Изменено 28% документа: +81 / −100 строк",
       "diff_path": "selectel/pd_policy/diffs/2024-09-05-1704.json",
       "wayback_url": "https://web.archive.org/web/20240905/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true
@@ -886,14 +889,15 @@
       "doc_id": "pd_policy",
       "doc_title": "Политика обработки и защиты персональных данных",
       "date": "2023-02-19-2250",
-      "ratio": 0.1639,
+      "ratio": 0.1419,
       "is_major": false,
       "keywords": [
         "персональные данные",
+        "хранение данных",
         "согласие",
         "cookies"
       ],
-      "summary": "Изменено 16% документа: +20 / −200 строк",
+      "summary": "Изменено 14% документа: +40 / −44 строк",
       "diff_path": "selectel/pd_policy/diffs/2023-02-19-2250.json",
       "wayback_url": "https://web.archive.org/web/20230219/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
       "retrospective": true

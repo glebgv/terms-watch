@@ -9,10 +9,10 @@
     },
     {
       "date": "2026-10-11",
-      "hash": "98834acc3e883701d9c1b1e096104bf9a7f37fe9b129cfac8ba0b49f428d5cbe",
-      "wayback_url": "http://web.archive.org/web/20260907223813/https://cdn.cloud.ru/docs/legal/security/cybersecurity-pd/confidentiality-policy.pdf",
-      "text_length": 45306,
-      "notes": "первая зафиксированная версия"
+      "hash": "ddb75e7106c0f92cf3ddd0384fa2cef31f770839cc9672f48251feae17664a15",
+      "length": 45230,
+      "source": "monitor",
+      "retrospective": false
     }
   ]
 }

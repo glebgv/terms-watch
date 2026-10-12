@@ -2,8 +2,8 @@
   "versions": [
     {
       "date": "2022-09-25-1428",
-      "hash": "655827894bc1462a1ce55bceb859140430930adbcfa155da11235b095b79fad9",
-      "length": 10336,
+      "hash": "167eaa35e073b5758dafc7f7ddda2ff38bab77caca577816539c2a19a7f10499",
+      "length": 10330,
       "source": "wayback",
       "retrospective": true
     },
@@ -23,31 +23,31 @@
     },
     {
       "date": "2024-09-05-1704",
-      "hash": "4756e2ac5f021fe0c661dbda89a3d17041b7e88193993ef110282897bf380c4e",
-      "length": 10600,
+      "hash": "0916f5f561d55b741ed677913f68c8904b92b434c91ef14b0dc6d9e6be596bed",
+      "length": 10586,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2024-11-18-0219",
-      "hash": "06a9c3153d3fb4eab24bbc2b5431b000d1b53d11de87d9aa03de6d78ac6741ad",
-      "length": 11221,
+      "hash": "5b034bcdfc95efad0ab449b5e4b66af78edd69994e9fb2baa90abf1ae204cb1e",
+      "length": 11205,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2026-10-11",
-      "hash": "7f313eaf41465a9873f3d3c20d6d51fe357d08364d336ad71d5fbba941c43938",
-      "wayback_url": null,
-      "text_length": 61078,
-      "notes": "первая зафиксированная версия"
+      "hash": "c6b489a35d23e3a449cff2f42182ae05c461371134701df8b0c1d8b3b049a8ad",
+      "length": 61059,
+      "source": "monitor",
+      "retrospective": false
     },
     {
       "date": "2026-10-12",
-      "hash": "7f313eaf41465a9873f3d3c20d6d51fe357d08364d336ad71d5fbba941c43938",
-      "wayback_url": null,
-      "text_length": 61078,
-      "notes": ""
+      "hash": "c6b489a35d23e3a449cff2f42182ae05c461371134701df8b0c1d8b3b049a8ad",
+      "length": 61059,
+      "source": "monitor",
+      "retrospective": false
     }
   ]
 }
