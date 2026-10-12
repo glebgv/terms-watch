@@ -6,7 +6,7 @@
   "url": "https://vk.ru/help?page=cc_terms",
   "selector": "main, article, body",
   "first_check": "2026-10-11",
-  "last_check": "2026-10-11",
-  "total_versions": 1,
-  "last_hash": "311cb3bcdc2264a02dc9f7ea2079163807515c5def1eecdd7414fd3ba235ac86"
+  "last_check": "2026-10-12",
+  "total_versions": 2,
+  "last_hash": "8f4f00efadba25d0592222c0c7155b9ad1f79a0f75dd4f3f0fac1c793da0a057"
 }
