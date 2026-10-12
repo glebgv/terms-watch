@@ -14,12 +14,12 @@ export default function App() {
     <div className="min-h-screen flex flex-col">
       <header className="border-b border-[#21262d] sticky top-0 z-20 bg-[#0d1117]/80 backdrop-blur-xl">
         <div className="max-w-6xl mx-auto px-4 h-14 flex items-center gap-6">
-          <Link to="/" className="flex items-center gap-2 group">
+          <Link to="/" className="flex items-center gap-2.5 group">
             <span className="text-emerald-400 group-hover:text-emerald-300 transition-colors">
-              <Scale size={22} strokeWidth={2.2} />
+              <Scale size={24} strokeWidth={2.2} />
             </span>
-            <span className="text-lg font-bold tracking-tight">
-              terms<span className="text-emerald-400">·</span>watch
+            <span className="text-xl font-bold tracking-tight silver-text">
+              terms·watch
             </span>
           </Link>
           <nav className="flex gap-1">
@@ -46,8 +46,8 @@ export default function App() {
               )
             })}
           </nav>
-          <span className="ml-auto text-xs text-gray-600 hidden md:flex items-center gap-1.5">
-            <ShieldCheck size={13} />
+          <span className="ml-auto hidden md:block text-sm font-medium text-gray-300 border border-[#21262d] bg-[#11151c] rounded-full px-3.5 py-1.5">
+            <ShieldCheck size={14} className="inline mr-1.5 -mt-0.5 text-emerald-400" />
             открытый монитор правовых документов
           </span>
         </div>

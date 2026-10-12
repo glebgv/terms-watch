@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { useQuery } from '../components/hooks'
 import { api } from '../lib/api'
 import ChangeCard from '../components/ChangeCard'
-import { Badge, Card, ErrorBox, PageTitle, Spinner } from '../components/ui'
+import { Badge, Card, ErrorBox, Spinner } from '../components/ui'
 import { motion } from 'framer-motion'
 import { Search, Globe, FileText, GitCommitHorizontal, Clock } from 'lucide-react'
 import { STALE_THRESHOLD_HOURS } from '../lib/constants'
@@ -35,9 +35,17 @@ export default function Dashboard() {
 
   return (
     <div className="space-y-8">
-      <PageTitle sub="мониторинг изменений пользовательских соглашений, оферт и политик конфиденциальности">
-        обзор
-      </PageTitle>
+      <section className="silver-bar border border-[#21262d] rounded-2xl bg-gradient-to-b from-[#141a24] to-[#11151c] px-6 py-7">
+        <h1 className="text-3xl font-bold tracking-tight">
+          <span className="silver-text">terms·watch</span>
+          <span className="text-gray-600 font-normal mx-2">—</span>
+          обзор
+        </h1>
+        <p className="text-base md:text-lg text-gray-200 font-medium mt-3 max-w-3xl leading-relaxed">
+          мониторинг изменений пользовательских соглашений, оферт
+          и политик конфиденциальности
+        </p>
+      </section>
 
       <section className="grid grid-cols-2 lg:grid-cols-4 gap-3">
         <Stat icon={<Globe size={16} />} label="сайтов" value={sites.length} />
