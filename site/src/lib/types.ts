@@ -80,6 +80,7 @@ export interface Diff {
   url: string
   stats: DiffStats
   is_major: boolean
+  reordering_only?: boolean
   keywords: string[]
   changes: DiffChange[]
   ai_summary?: string

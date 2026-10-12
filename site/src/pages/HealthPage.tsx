@@ -20,6 +20,12 @@ export default function HealthPage() {
   const ok = rows.filter(([, h]) => (h.consecutive_errors || 0) === 0).length
   const degraded = rows.length - ok
 
+  const deadDays = (h: { last_success: string | null }) => {
+    if (!h.last_success) return null
+    const days = Math.floor((Date.now() - new Date(h.last_success).getTime()) / 864e5)
+    return days > 0 ? days : null
+  }
+
   return (
     <div className="space-y-5">
       <PageTitle sub="доступность документов при последних проверках">статус</PageTitle>
@@ -60,7 +66,11 @@ export default function HealthPage() {
                   </td>
                   <td className="px-4 py-2.5">
                     {bad
-                      ? <Badge color="red">{h.consecutive_errors}</Badge>
+                      ? <Badge color={deadDays(h) && deadDays(h)! >= 7 ? 'red' : 'yellow'}>
+                          {deadDays(h)
+                            ? `мёртв ${deadDays(h)} дн.`
+                            : `${h.consecutive_errors} ошибок`}
+                        </Badge>
                       : <Badge color="green">0</Badge>}
                   </td>
                   <td className="px-4 py-2.5 text-xs text-red-400/70 max-w-72 truncate">

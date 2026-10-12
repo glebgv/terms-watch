@@ -33,6 +33,9 @@ export default function DiffPage() {
         {d.is_major && (
           <Badge color="yellow" className="mb-6"><AlertTriangle size={11} /> is_major</Badge>
         )}
+        {d.reordering_only && (
+          <Badge color="blue" className="mb-6">↕ текст переставлен без правок</Badge>
+        )}
       </div>
 
       <Card className="px-4 py-3">
