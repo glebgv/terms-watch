@@ -35,6 +35,8 @@ jobs:
         run: |
           npm ci
           npm run build
+      - name: Stage data alongside site
+        run: cp -r data site/dist/data
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site/dist
