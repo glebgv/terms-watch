@@ -48,7 +48,7 @@ export default function App() {
           </nav>
           <span className="ml-auto text-xs text-gray-600 hidden md:flex items-center gap-1.5">
             <ShieldCheck size={13} />
-            локальный монитор правовых документов
+            открытый монитор правовых документов
           </span>
         </div>
       </header>
