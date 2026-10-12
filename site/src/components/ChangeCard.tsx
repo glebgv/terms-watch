@@ -29,6 +29,9 @@ export default function ChangeCard({ e, index = 0 }: { e: ChangelogEntry; index?
             {e.is_major && (
               <Badge color="yellow"><AlertTriangle size={11} /> переписан</Badge>
             )}
+            {e.retrospective && (
+              <Badge color="blue">из архива</Badge>
+            )}
             <time className="text-xs text-gray-500 tabular-nums">{fmtDate(e.date)}</time>
           </div>
         </div>
@@ -52,10 +55,17 @@ export default function ChangeCard({ e, index = 0 }: { e: ChangelogEntry; index?
               <GitCompareArrows size={13} /> дифф
             </Link>
           )}
-          <a href={e.url} target="_blank" rel="noreferrer"
-             className="flex items-center gap-1 text-gray-500 hover:text-gray-300 transition-colors">
-            <ExternalLink size={13} /> первоисточник
-          </a>
+          {e.retrospective && e.wayback_url ? (
+            <a href={e.wayback_url} target="_blank" rel="noreferrer"
+               className="flex items-center gap-1 text-amber-400/80 hover:text-amber-300 transition-colors">
+              <ExternalLink size={13} /> снимок в архиве
+            </a>
+          ) : (
+            <a href={e.url} target="_blank" rel="noreferrer"
+               className="flex items-center gap-1 text-gray-500 hover:text-gray-300 transition-colors">
+              <ExternalLink size={13} /> первоисточник
+            </a>
+          )}
         </div>
       </Card>
     </motion.div>

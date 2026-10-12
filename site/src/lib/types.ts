@@ -46,6 +46,9 @@ export interface ChangelogEntry {
   summary: string
   url: string
   diff_path: string | null
+  retrospective?: boolean
+  wayback_url?: string | null
+  ratio?: number | null
 }
 
 export interface WordDiffPart {

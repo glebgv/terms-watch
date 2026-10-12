@@ -28,12 +28,13 @@ jobs:
           node-version: 22
           cache: npm
           cache-dependency-path: site/package-lock.json
-      - name: Build site
+      - name: Typecheck & Build site
         working-directory: site
         env:
           VITE_BASE: /terms-watch/
         run: |
           npm ci
+          npx tsc -b --noEmit
           npm run build
       - name: Stage data alongside site
         run: cp -r data site/dist/data

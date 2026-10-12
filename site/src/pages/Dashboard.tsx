@@ -4,14 +4,18 @@ import { api } from '../lib/api'
 import ChangeCard from '../components/ChangeCard'
 import { Badge, Card, ErrorBox, Spinner } from '../components/ui'
 import { motion } from 'framer-motion'
-import { Search, Globe, FileText, GitCommitHorizontal, Clock } from 'lucide-react'
+import { Search, Globe, FileText, GitCommitHorizontal, Clock, History } from 'lucide-react'
 import { STALE_THRESHOLD_HOURS } from '../lib/constants'
+
+const PAGE_SIZE = 50
 
 export default function Dashboard() {
   const { data, loading, error } = useQuery(() => api.index(), [])
   const [q, setQ] = useState('')
   const [site, setSite] = useState('')
   const [kw, setKw] = useState('')
+  const [year, setYear] = useState('')
+  const [visible, setVisible] = useState(PAGE_SIZE)
 
   if (loading) return <Spinner />
   if (error) return <ErrorBox msg={error} />
@@ -26,12 +30,14 @@ export default function Dashboard() {
   let entries = data!.changelog
   if (site) entries = entries.filter((e) => e.site_id === site)
   if (kw) entries = entries.filter((e) => e.keywords.includes(kw))
+  if (year) entries = entries.filter((e) => e.date.startsWith(year))
   if (q) {
     const ql = q.toLowerCase()
     entries = entries.filter((e) => JSON.stringify(e).toLowerCase().includes(ql))
   }
 
   const allKeywords = [...new Set<string>(data!.changelog.flatMap((e) => e.keywords))]
+  const allYears = [...new Set<string>(data!.changelog.map((e) => e.date.slice(0, 4)))].sort().reverse()
 
   return (
     <div className="space-y-8">
@@ -96,6 +102,8 @@ export default function Dashboard() {
                   options={sites.map(({ site: s }: any) => [s.id, s.name])} />
           <Select value={kw} onChange={setKw} placeholder="все темы"
                   options={allKeywords.map((k) => [k, k])} />
+          <Select value={year} onChange={setYear} placeholder="все годы"
+                  options={allYears.map((y) => [y, y])} />
         </div>
 
         <h2 className="text-xs uppercase tracking-wider text-gray-500 mb-3 flex items-center gap-2">
@@ -107,9 +115,19 @@ export default function Dashboard() {
               ничего не найдено
             </p>
           )}
-          {entries.slice(0, 50).map((e: any, i: number) => (
+          {entries.slice(0, visible).map((e: any, i: number) => (
             <ChangeCard key={`${e.site_id}-${e.doc_id}-${e.date}-${i}`} e={e} index={i} />
           ))}
+          {entries.length > visible && (
+            <button
+              onClick={() => setVisible((v) => v + PAGE_SIZE)}
+              className="w-full py-2.5 text-sm text-emerald-400/80 hover:text-emerald-300
+                         border border-dashed border-[#21262d] hover:border-emerald-500/40
+                         rounded-xl transition-colors flex items-center justify-center gap-2"
+            >
+              <History size={14} /> показать ещё ({entries.length - visible})
+            </button>
+          )}
         </div>
       </section>
     </div>
