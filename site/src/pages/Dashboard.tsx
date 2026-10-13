@@ -11,6 +11,13 @@ import { STALE_THRESHOLD_HOURS } from '../lib/constants'
 const PAGE_SIZE = 50
 const RECENT_WINDOW_MS = 90 * 24 * 3600 * 1000 // 3 месяца
 
+const SITE_ICONS: Record<string, string> = {
+  hh: 'hh.png',
+  superjob: 'superjob.png',
+  selectel: 'selectel.png',
+  vk: 'vk.png',
+}
+
 export default function Dashboard() {
   const { data, loading, error } = useQuery(() => api.index(), [])
   const [q, setQ] = useState('')
@@ -85,8 +92,24 @@ export default function Dashboard() {
               transition={{ delay: Math.min(i * 0.03, 0.3) }}
             >
               <Card hover className="p-3.5 block">
-                <div className="font-semibold text-sm truncate">{s.name}</div>
-                <div className="text-xs text-gray-500 mt-1 space-y-0.5">
+                <div className="flex items-center gap-2.5">
+                  <span className="shrink-0 size-9 rounded-lg overflow-hidden bg-white/10 border border-[#21262d] flex items-center justify-center">
+                    {SITE_ICONS[s.id] ? (
+                      <img
+                        src={`${import.meta.env.BASE_URL}icons/${SITE_ICONS[s.id]}`}
+                        alt={s.name}
+                        className="size-full object-contain"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <span className="text-sm font-bold text-gray-400">
+                        {s.name.charAt(0).toUpperCase()}
+                      </span>
+                    )}
+                  </span>
+                  <div className="font-semibold text-sm truncate">{s.name}</div>
+                </div>
+                <div className="text-xs text-gray-500 mt-2.5 space-y-0.5">
                   <div><span className="text-gray-400 tabular-nums">{s.docs.length}</span> док. · <span className="text-gray-400 tabular-nums">{changes_count}</span> изм.</div>
                   {last_change && <div className="text-gray-600">посл. {last_change.date.slice(0, 10)}</div>}
                 </div>
