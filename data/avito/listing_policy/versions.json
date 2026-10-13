@@ -1,0 +1,18 @@
+{
+  "versions": [
+    {
+      "date": "2026-10-13",
+      "hash": "77454caa6ed80393ec52d2ee5a2ac8eed02cb3792cc2b49572d9a3c3cddcd4a2",
+      "wayback_url": null,
+      "text_length": 20465,
+      "notes": "первая зафиксированная версия"
+    },
+    {
+      "date": "2026-10-13-1916",
+      "hash": "f6ae082537521f7dac652be87a6b32f069d96807dd85ed941e63189a493bc70b",
+      "wayback_url": null,
+      "text_length": 20467,
+      "notes": ""
+    }
+  ]
+}

@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T16:54:10+00:00",
+  "updated": "2026-10-13T19:16:44+00:00",
   "entries": [
+    {
+      "date": "2026-10-13",
+      "checked_at": "2026-10-13T19:16:44+00:00",
+      "site_id": "avito",
+      "site_name": "Avito",
+      "doc_id": "listing_policy",
+      "doc_title": "Политика размещения объявлений",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд"
+      ],
+      "summary": "Затронуты темы: персональные данные, суд. Добавлено строк: 11, удалено: 11, изменено: 11.",
+      "url": "https://www.avito.ru/legal/rules/listings/listing-policy",
+      "diff_path": "avito/listing_policy/diffs/2026-10-13-1916.json"
+    },
     {
       "site_id": "fl",
       "site_name": "FL.ru",

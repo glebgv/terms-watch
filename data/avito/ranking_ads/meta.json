@@ -1,0 +1,12 @@
+{
+  "id": "avito",
+  "doc_id": "ranking_ads",
+  "name": "Avito",
+  "doc_title": "Ранжирование объявлений",
+  "url": "https://www.avito.ru/legal/rules/ranking-ads",
+  "selector": "main, article, body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "0104c03545c31702aa94a4bb21d0a004fd2d5888a5d0e6ac99bad08880c15860"
+}

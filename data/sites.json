@@ -324,6 +324,51 @@
           "url": "https://st.fl.ru/about/documents/cookie_accept.pdf"
         }
       ]
+    },
+    {
+      "id": "avito",
+      "name": "Avito",
+      "url": "https://www.avito.ru/legal/rules/privacy-policy",
+      "category": "marketplace",
+      "added": "2026-10-13",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://www.avito.ru/legal/rules/privacy-policy"
+        },
+        {
+          "doc_id": "services_agreement",
+          "title": "Соглашение об использовании сервисов",
+          "url": "https://www.avito.ru/legal/rules/services-agreement"
+        },
+        {
+          "doc_id": "rec_technologies",
+          "title": "Рекомендательные технологии",
+          "url": "https://www.avito.ru/legal/rules/rec-technologies/"
+        },
+        {
+          "doc_id": "ranking_ads",
+          "title": "Ранжирование объявлений",
+          "url": "https://www.avito.ru/legal/rules/ranking-ads"
+        },
+        {
+          "doc_id": "listing_policy",
+          "title": "Политика размещения объявлений",
+          "url": "https://www.avito.ru/legal/rules/listings/listing-policy"
+        },
+        {
+          "doc_id": "realty_listings",
+          "title": "Правила размещения объявлений о недвижимости",
+          "url": "https://www.avito.ru/legal/realty_rules/real-estate-listings"
+        },
+        {
+          "doc_id": "prohibited_items",
+          "title": "Запрещённые предметы",
+          "url": "https://www.avito.ru/legal/rules/listings/prohibited-items"
+        }
+      ]
     }
   ]
 }

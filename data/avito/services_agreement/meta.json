@@ -1,0 +1,12 @@
+{
+  "id": "avito",
+  "doc_id": "services_agreement",
+  "name": "Avito",
+  "doc_title": "Соглашение об использовании сервисов",
+  "url": "https://www.avito.ru/legal/rules/services-agreement",
+  "selector": "main, article, body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "7b588b4910c2894d574f80ed286a985d91d467bd6915f8f76a17b4fee03e66c4"
+}

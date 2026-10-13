@@ -1,0 +1,12 @@
+{
+  "id": "avito",
+  "doc_id": "rec_technologies",
+  "name": "Avito",
+  "doc_title": "Рекомендательные технологии",
+  "url": "https://www.avito.ru/legal/rules/rec-technologies/",
+  "selector": "main, article, body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "e7a8638d983d0328c6a1ff86ad7a054b1245de78d4845419037a3fc9deb341b2"
+}

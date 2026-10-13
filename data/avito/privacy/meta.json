@@ -1,0 +1,12 @@
+{
+  "id": "avito",
+  "doc_id": "privacy",
+  "name": "Avito",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://www.avito.ru/legal/rules/privacy-policy",
+  "selector": "main, article, body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "14a30d553c43adfe582191f54d2c42a5b4f9d1211e4a4714dca75315047945e0"
+}

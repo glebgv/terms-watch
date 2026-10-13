@@ -1,0 +1,12 @@
+{
+  "id": "avito",
+  "doc_id": "listing_policy",
+  "name": "Avito",
+  "doc_title": "Политика размещения объявлений",
+  "url": "https://www.avito.ru/legal/rules/listings/listing-policy",
+  "selector": "main, article, body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13-1916",
+  "total_versions": 2,
+  "last_hash": "f6ae082537521f7dac652be87a6b32f069d96807dd85ed941e63189a493bc70b"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "avito",
+  "doc_id": "prohibited_items",
+  "name": "Avito",
+  "doc_title": "Запрещённые предметы",
+  "url": "https://www.avito.ru/legal/rules/listings/prohibited-items",
+  "selector": "main, article, body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "a4056251361b39ca1b8a6103f0ffcd8103547c99a587642e571170a147cb25e0"
+}
