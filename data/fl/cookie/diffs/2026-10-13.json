@@ -1,0 +1,152 @@
+{
+  "stats": {
+    "lines_added": 6,
+    "lines_removed": 9,
+    "lines_changed": 6,
+    "change_ratio": 0.0989
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "cookies"
+  ],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 2,
+      "old_text": "Посещая сайт FL.RU в сети «Интернет», принадлежащий ООО",
+      "new_text": "Посещая сайт FL.RU в сети «Интернет», принадлежащий",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Посещая сайт FL.RU в сети «Интернет», принадлежащий"
+        },
+        {
+          "type": "remove",
+          "text": "ООО"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 3,
+      "old_text": "«Ваан», посетитель сайта соглашается с настоящими правилами, в том",
+      "new_text": "ООО «Ваан», посетитель сайта соглашается с настоящими правилами, в",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "ООО"
+        },
+        {
+          "type": "keep",
+          "text": "«Ваан», посетитель сайта соглашается с настоящими правилами, в"
+        },
+        {
+          "type": "remove",
+          "text": "том"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 4,
+      "old_text": "числе с тем, что ООО «Ваан» может использовать файлы cookie и иные",
+      "new_text": "том числе с тем, что ООО «Ваан» может использовать файлы cookie и",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "том"
+        },
+        {
+          "type": "keep",
+          "text": "числе с тем, что ООО «Ваан» может использовать файлы cookie и"
+        },
+        {
+          "type": "remove",
+          "text": "иные"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 5,
+      "old_text": "данные для их последующей обработки системами Google Analytics,",
+      "new_text": "иные данные для их последующей обработки системой Яндекс.Метрика.",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "иные"
+        },
+        {
+          "type": "keep",
+          "text": "данные для их последующей обработки"
+        },
+        {
+          "type": "remove",
+          "text": "системами Google Analytics,"
+        },
+        {
+          "type": "add",
+          "text": "системой Яндекс.Метрика."
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 6,
+      "text": "Яндекс.Метрика, Firebase, Appsflyer и др., а также может передавать их"
+    },
+    {
+      "type": "remove",
+      "position": 7,
+      "text": "третьим лицам для проведения исследований, выполнения работ или"
+    },
+    {
+      "type": "remove",
+      "position": 8,
+      "text": "оказания услуг."
+    },
+    {
+      "type": "modify",
+      "position": 21,
+      "old_text": "При посещении посетителями сайта FL.RU в сети «Интернет» файлы",
+      "new_text": "При посещении посетителями сайта FL.RU в сети «Интернет»",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "При посещении посетителями сайта FL.RU в сети «Интернет»"
+        },
+        {
+          "type": "remove",
+          "text": "файлы"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 22,
+      "old_text": "cookie могут использоваться для:",
+      "new_text": "файлы cookie могут использоваться для:",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "файлы"
+        },
+        {
+          "type": "keep",
+          "text": "cookie могут использоваться для:"
+        }
+      ]
+    }
+  ],
+  "site": "fl",
+  "doc_id": "cookie",
+  "doc_title": "Использование cookie",
+  "from_date": "2021-07-08-0447",
+  "to_date": "2026-10-13",
+  "from_hash": "dfea35961d2300f4e37d1b0e129d9384fa7e360c9347d6a41788c8d546106b80",
+  "to_hash": "d23582dd8c064c5479c80b52985cf3bb4f6474768f75ce121251e2d1dc0958c8",
+  "url": "https://st.fl.ru/about/documents/cookie_accept.pdf",
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/cookie_accept.pdf"
+}

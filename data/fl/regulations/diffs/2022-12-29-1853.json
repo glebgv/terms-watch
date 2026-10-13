@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "lines_added": 2,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.0056
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 15,
+      "old_text": "Орлова Анатолия Евгеньевича, действующего на основании Устава, и любым лицом,",
+      "new_text": "Сысуенкова Михаила Андреевича , действующего на основании Устава, и любым лицом,",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "Орлова Анатолия Евгеньевича,"
+        },
+        {
+          "type": "add",
+          "text": "Сысуенкова Михаила Андреевича ,"
+        },
+        {
+          "type": "keep",
+          "text": "действующего на основании Устава, и любым лицом,"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 177,
+      "old_text": "Генеральный директор /Орлов А.Е./",
+      "new_text": "Генеральный директор /Сысуенков М.А./",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Генеральный директор"
+        },
+        {
+          "type": "remove",
+          "text": "/Орлов А.Е./"
+        },
+        {
+          "type": "add",
+          "text": "/Сысуенков М.А./"
+        }
+      ]
+    }
+  ],
+  "site": "fl",
+  "doc_id": "regulations",
+  "doc_title": "Регламент (Приложение 2)",
+  "from_date": "2022-03-27-0706",
+  "to_date": "2022-12-29-1853",
+  "from_hash": "be332039cf97c7e5e1f84a31c1395ae3628c9d9568511ed53868770113354a33",
+  "to_hash": "a85310d4ffae1789bd5a718d1b6b0883a82074150bc4b91ea80f5307a6b6c4ab",
+  "url": "https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20221229/https://st.fl.ru/about/documents/appendix_2_regulations.pdf"
+}

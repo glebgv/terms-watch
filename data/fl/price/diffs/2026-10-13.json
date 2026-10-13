@@ -1,0 +1,101 @@
+{
+  "stats": {
+    "lines_added": 3,
+    "lines_removed": 5,
+    "lines_changed": 3,
+    "change_ratio": 0.0057
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 70,
+      "text": "● размещение опубликованных работ в разделе «Работы» раздела Фрилансеры;"
+    },
+    {
+      "type": "modify",
+      "position": 310,
+      "old_text": "● возможность переходить в профили фрилансеров с бесплатными аккаунтами из каталога и",
+      "new_text": "● скидки на публикацию в разделе «Вакансии»;",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "●"
+        },
+        {
+          "type": "remove",
+          "text": "возможность переходить"
+        },
+        {
+          "type": "add",
+          "text": "скидки на публикацию"
+        },
+        {
+          "type": "keep",
+          "text": "в"
+        },
+        {
+          "type": "remove",
+          "text": "профили фрилансеров с бесплатными аккаунтами из каталога и"
+        },
+        {
+          "type": "add",
+          "text": "разделе «Вакансии»;"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 311,
+      "old_text": "поиска;",
+      "new_text": "● скидки на часть прочих Платных сервисов на Сайте;",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "поиска;"
+        },
+        {
+          "type": "add",
+          "text": "● скидки на часть прочих Платных сервисов на Сайте;"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 312,
+      "old_text": "● скидки на публикации в разделе «Вакансии»;",
+      "new_text": "● расширенная поисковая выдача профилей фрилансеров https://www.fl.ru/search/.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "●"
+        },
+        {
+          "type": "remove",
+          "text": "скидки на публикации в разделе «Вакансии»;"
+        },
+        {
+          "type": "add",
+          "text": "расширенная поисковая выдача профилей фрилансеров https://www.fl.ru/search/."
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 314,
+      "text": "● скидки на часть прочих Платных сервисов на Сайте."
+    }
+  ],
+  "site": "fl",
+  "doc_id": "price",
+  "doc_title": "Прейскурант (Приложение 1)",
+  "from_date": "2026-02-22-0615",
+  "to_date": "2026-10-13",
+  "from_hash": "e5ca1b1c1bdaaa5b7cfc5c7fcc52386320097c76972055122fe7a129ef816e3e",
+  "to_hash": "e45d9227628ae89ee244090f6b7d3b6f37296a58bccd87680a7be8eeeeadd19e",
+  "url": "https://st.fl.ru/about/documents/appendix_1_price.pdf",
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_1_price.pdf"
+}

@@ -1,6 +1,27 @@
 {
   "versions": [
     {
+      "date": "2022-03-14-0224",
+      "hash": "f770fd0a7aa3e2b02dd1933d38ac6caec21311c812ad99ea7e3d217609348ec1",
+      "length": 8451,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-03-05-2315",
+      "hash": "0ebfc5bdde12c773e4216ea271089472ffbf13186e3f8be2467fb57d0fd9305f",
+      "length": 9132,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
+      "date": "2025-08-21-0202",
+      "hash": "bb7e52a6cbd4865341e6d33026f6839c10ffaf2ee6d62e03a6963ffbce871621",
+      "length": 9053,
+      "source": "wayback",
+      "retrospective": true
+    },
+    {
       "date": "2026-10-13",
       "hash": "b7f97cf3c064feab02db321ae0e4cc856547c14b4f5046d45ada118fb792edad",
       "wayback_url": null,

@@ -1,0 +1,131 @@
+{
+  "stats": {
+    "lines_added": 4,
+    "lines_removed": 4,
+    "lines_changed": 4,
+    "change_ratio": 0.005
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 78,
+      "old_text": "Стоимость 1 дня размещения в любой специализации раздела Фрилансеры равна 140 ₽.",
+      "new_text": "Стоимость 1 дня размещения в любой специализации раздела Фрилансеры равна 150 ₽.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Стоимость 1 дня размещения в любой специализации раздела Фрилансеры равна"
+        },
+        {
+          "type": "remove",
+          "text": "140"
+        },
+        {
+          "type": "add",
+          "text": "150"
+        },
+        {
+          "type": "keep",
+          "text": "₽."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 164,
+      "old_text": "Платный сервис, предоставляющий фрилансеру пакеты из 25 и 60 откликов. Покупка доступна",
+      "new_text": "Платный сервис, предоставляющий фрилансеру пакеты из 30 и 60 откликов. Покупка доступна",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Платный сервис, предоставляющий фрилансеру пакеты из"
+        },
+        {
+          "type": "remove",
+          "text": "25"
+        },
+        {
+          "type": "add",
+          "text": "30"
+        },
+        {
+          "type": "keep",
+          "text": "и 60 откликов. Покупка доступна"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 171,
+      "old_text": "• стоимость Платного сервиса «Пакет из 25 откликов» составляет 2 000 рублей;",
+      "new_text": "• стоимость Платного сервиса «Пакет из 30 откликов» составляет 2 400 рублей;",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "• стоимость Платного сервиса «Пакет из"
+        },
+        {
+          "type": "remove",
+          "text": "25"
+        },
+        {
+          "type": "add",
+          "text": "30"
+        },
+        {
+          "type": "keep",
+          "text": "откликов» составляет 2"
+        },
+        {
+          "type": "remove",
+          "text": "000"
+        },
+        {
+          "type": "add",
+          "text": "400"
+        },
+        {
+          "type": "keep",
+          "text": "рублей;"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 220,
+      "old_text": "специализаций в категории), то стоимость поднятия составит 140 ₽.",
+      "new_text": "специализаций в категории), то стоимость поднятия составит 150 ₽.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "специализаций в категории), то стоимость поднятия составит"
+        },
+        {
+          "type": "remove",
+          "text": "140"
+        },
+        {
+          "type": "add",
+          "text": "150"
+        },
+        {
+          "type": "keep",
+          "text": "₽."
+        }
+      ]
+    }
+  ],
+  "site": "fl",
+  "doc_id": "price",
+  "doc_title": "Прейскурант (Приложение 1)",
+  "from_date": "2025-02-21-1643",
+  "to_date": "2025-05-27-0926",
+  "from_hash": "0698424086f18491c40e5242a5337127970ebe52c15ec8254381b636a60d0ffd",
+  "to_hash": "065f3dadb67c9c8cd47064721dcb9d3acfbfc3a217745b20921a30234ec3fce7",
+  "url": "https://st.fl.ru/about/documents/appendix_1_price.pdf",
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20250527/https://st.fl.ru/about/documents/appendix_1_price.pdf"
+}

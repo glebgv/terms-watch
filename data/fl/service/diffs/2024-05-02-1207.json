@@ -1,0 +1,148 @@
+{
+  "stats": {
+    "lines_added": 6,
+    "lines_removed": 7,
+    "lines_changed": 5,
+    "change_ratio": 0.0672
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "оплата"
+  ],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 25,
+      "text": "feedback.fl.ru"
+    },
+    {
+      "type": "modify",
+      "position": 33,
+      "old_text": "задания с пост- или предоплатой, либо оплатой через",
+      "new_text": "задания",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "задания"
+        },
+        {
+          "type": "remove",
+          "text": "с пост- или предоплатой, либо оплатой через"
+        }
+      ]
+    },
+    {
+      "type": "remove",
+      "position": 35,
+      "text": "платный сервис «Безопасная Cделка»."
+    },
+    {
+      "type": "modify",
+      "position": 44,
+      "old_text": "Юридический адрес: 127018, г. Москва, вн.тер.г.",
+      "new_text": "Юридический адрес: 127299, г. Москва,",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Юридический адрес:"
+        },
+        {
+          "type": "remove",
+          "text": "127018,"
+        },
+        {
+          "type": "add",
+          "text": "127299,"
+        },
+        {
+          "type": "keep",
+          "text": "г. Москва,"
+        },
+        {
+          "type": "remove",
+          "text": "вн.тер.г."
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 45,
+      "old_text": "муниципальный округ Марьина роща, ул. Сущёвский Вал, д. 18,",
+      "new_text": "вн.тер.г. муниципальный округ Коптево,",
+      "word_diff": [
+        {
+          "type": "add",
+          "text": "вн.тер.г."
+        },
+        {
+          "type": "keep",
+          "text": "муниципальный округ"
+        },
+        {
+          "type": "remove",
+          "text": "Марьина роща, ул. Сущёвский Вал, д. 18,"
+        },
+        {
+          "type": "add",
+          "text": "Коптево,"
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 46,
+      "old_text": "этаж 15, кабинет 11. Почтовый адрес: 129223, Москва, а/я 33.",
+      "new_text": "ул. Клары Цеткин, д. 2, помещ. 3А/2 .",
+      "word_diff": [
+        {
+          "type": "remove",
+          "text": "этаж 15, кабинет 11. Почтовый адрес: 129223, Москва, а/я 33."
+        },
+        {
+          "type": "add",
+          "text": "ул. Клары Цеткин, д. 2, помещ. 3А/2 ."
+        }
+      ]
+    },
+    {
+      "type": "add",
+      "position": 47,
+      "text": "Почтовый адрес: 129223, Москва, а/я 33."
+    },
+    {
+      "type": "modify",
+      "position": 59,
+      "old_text": "Генеральный директор /Орлов А.Е./",
+      "new_text": "Генеральный директор /Орлов. А.Е./",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Генеральный директор"
+        },
+        {
+          "type": "remove",
+          "text": "/Орлов"
+        },
+        {
+          "type": "add",
+          "text": "/Орлов."
+        },
+        {
+          "type": "keep",
+          "text": "А.Е./"
+        }
+      ]
+    }
+  ],
+  "site": "fl",
+  "doc_id": "service",
+  "doc_title": "Описание сервиса (Приложение 4)",
+  "from_date": "2022-03-31-2206",
+  "to_date": "2024-05-02-1207",
+  "from_hash": "9321cd121d9cbadc34145f1759a4f670f0722c0cf286be0973c1b96318b88320",
+  "to_hash": "962a8dbccb3aba39d91b60851d10a6f3f975ab2f5a7e2d78f2135aa5725917c7",
+  "url": "https://st.fl.ru/about/documents/appendix_4_service.pdf",
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/appendix_4_service.pdf"
+}
