@@ -1,0 +1,12 @@
+{
+  "id": "ok",
+  "doc_id": "childsafety",
+  "name": "Одноклассники",
+  "doc_title": "Безопасность детей",
+  "url": "https://st.okcdn.ru/static/la/la-1-1-272/childsafety/internal/ru/general/web/?cssMod=light-theme",
+  "selector": "body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "1caa86b3187970817e6feab145ec8197a7ae87892c43d5096bd6be6145d8aa5a"
+}

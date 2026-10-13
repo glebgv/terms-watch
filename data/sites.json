@@ -369,6 +369,41 @@
           "url": "https://www.avito.ru/legal/rules/listings/prohibited-items"
         }
       ]
+    },
+    {
+      "id": "ok",
+      "name": "Одноклассники",
+      "url": "https://st.okcdn.ru/static/la/la-1-1-272/regulations/internal/ru/general/web/?cssMod=light-theme",
+      "category": "social",
+      "added": "2026-10-13",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "regulations",
+          "title": "Регламент оказания услуг социальной сети",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/regulations/internal/ru/general/web/?cssMod=light-theme"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/privacypolicy/internal/ru/general/web/?cssMod=light-theme"
+        },
+        {
+          "doc_id": "rtterms",
+          "title": "Условия использования рекомендательных технологий",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/rtterms/internal/ru/general/web/?cssMod=light-theme"
+        },
+        {
+          "doc_id": "claimterms",
+          "title": "Правила рассмотрения обращений правообладателей",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/claimterms/internal/ru/general/web/?cssMod=light-theme"
+        },
+        {
+          "doc_id": "childsafety",
+          "title": "Безопасность детей",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/childsafety/internal/ru/general/web/?cssMod=light-theme"
+        }
+      ]
     }
   ]
 }

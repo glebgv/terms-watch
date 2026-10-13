@@ -1,0 +1,12 @@
+{
+  "id": "ok",
+  "doc_id": "regulations",
+  "name": "Одноклассники",
+  "doc_title": "Регламент оказания услуг социальной сети",
+  "url": "https://st.okcdn.ru/static/la/la-1-1-272/regulations/internal/ru/general/web/?cssMod=light-theme",
+  "selector": "body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "c8036fdd94a9b9d1fe19c7084fccfbde66e1bc2384f44d1a9f187e7367a642af"
+}

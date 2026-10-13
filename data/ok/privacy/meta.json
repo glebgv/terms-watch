@@ -1,0 +1,12 @@
+{
+  "id": "ok",
+  "doc_id": "privacy",
+  "name": "Одноклассники",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://st.okcdn.ru/static/la/la-1-1-272/privacypolicy/internal/ru/general/web/?cssMod=light-theme",
+  "selector": "body",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "3605918d5b5136708d5fe017c2055b2ed41742cb1542522ca306879b2b86aae7"
+}

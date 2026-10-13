@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:19:02+00:00",
+  "generated_at": "2026-10-13T21:26:03+00:00",
   "sites": [
     {
       "site": {
@@ -1187,6 +1187,107 @@
         "diff_path": "avito/listing_policy/diffs/2026-10-13-1916.json"
       },
       "changes_count": 1
+    },
+    {
+      "site": {
+        "id": "ok",
+        "name": "Одноклассники",
+        "url": "https://st.okcdn.ru/static/la/la-1-1-272/regulations/internal/ru/general/web/?cssMod=light-theme",
+        "category": "social",
+        "added": "2026-10-13",
+        "active": true,
+        "docs": [
+          {
+            "doc_id": "regulations",
+            "title": "Регламент оказания услуг социальной сети",
+            "url": "https://st.okcdn.ru/static/la/la-1-1-272/regulations/internal/ru/general/web/?cssMod=light-theme"
+          },
+          {
+            "doc_id": "privacy",
+            "title": "Политика конфиденциальности",
+            "url": "https://st.okcdn.ru/static/la/la-1-1-272/privacypolicy/internal/ru/general/web/?cssMod=light-theme"
+          },
+          {
+            "doc_id": "rtterms",
+            "title": "Условия использования рекомендательных технологий",
+            "url": "https://st.okcdn.ru/static/la/la-1-1-272/rtterms/internal/ru/general/web/?cssMod=light-theme"
+          },
+          {
+            "doc_id": "claimterms",
+            "title": "Правила рассмотрения обращений правообладателей",
+            "url": "https://st.okcdn.ru/static/la/la-1-1-272/claimterms/internal/ru/general/web/?cssMod=light-theme"
+          },
+          {
+            "doc_id": "childsafety",
+            "title": "Безопасность детей",
+            "url": "https://st.okcdn.ru/static/la/la-1-1-272/childsafety/internal/ru/general/web/?cssMod=light-theme"
+          }
+        ]
+      },
+      "docs": [
+        {
+          "id": "ok",
+          "doc_id": "regulations",
+          "name": "Одноклассники",
+          "doc_title": "Регламент оказания услуг социальной сети",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/regulations/internal/ru/general/web/?cssMod=light-theme",
+          "selector": "body",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "c8036fdd94a9b9d1fe19c7084fccfbde66e1bc2384f44d1a9f187e7367a642af"
+        },
+        {
+          "id": "ok",
+          "doc_id": "privacy",
+          "name": "Одноклассники",
+          "doc_title": "Политика конфиденциальности",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/privacypolicy/internal/ru/general/web/?cssMod=light-theme",
+          "selector": "body",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "3605918d5b5136708d5fe017c2055b2ed41742cb1542522ca306879b2b86aae7"
+        },
+        {
+          "id": "ok",
+          "doc_id": "rtterms",
+          "name": "Одноклассники",
+          "doc_title": "Условия использования рекомендательных технологий",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/rtterms/internal/ru/general/web/?cssMod=light-theme",
+          "selector": "body",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "124fa3aaa435c625e5edf8abec80695599d9e14b684cfd190193e8f3a50508a3"
+        },
+        {
+          "id": "ok",
+          "doc_id": "claimterms",
+          "name": "Одноклассники",
+          "doc_title": "Правила рассмотрения обращений правообладателей",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/claimterms/internal/ru/general/web/?cssMod=light-theme",
+          "selector": "body",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "4b65f272271741ab94cd63b88f34ed13e3eb4da4a249e51d8c9c49cf56d20895"
+        },
+        {
+          "id": "ok",
+          "doc_id": "childsafety",
+          "name": "Одноклассники",
+          "doc_title": "Безопасность детей",
+          "url": "https://st.okcdn.ru/static/la/la-1-1-272/childsafety/internal/ru/general/web/?cssMod=light-theme",
+          "selector": "body",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "1caa86b3187970817e6feab145ec8197a7ae87892c43d5096bd6be6145d8aa5a"
+        }
+      ],
+      "last_change": null,
+      "changes_count": 0
     }
   ],
   "changelog": [
