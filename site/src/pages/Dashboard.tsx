@@ -19,6 +19,8 @@ const SITE_ICONS: Record<string, string> = {
   timeweb: 'timeweb.png',
   profi: 'profi.png',
   habr: 'habr.png',
+  cloudru: 'cloudru.png',
+  yandex: 'yandex.png',
 }
 
 export default function Dashboard() {
