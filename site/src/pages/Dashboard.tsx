@@ -23,6 +23,8 @@ const SITE_ICONS: Record<string, string> = {
   cloudru: 'cloudru.png',
   yandex: 'yandex.png',
   fl: 'fl.png',
+  avito: 'avito.png',
+  ok: 'ok.png',
 }
 
 export default function Dashboard() {
