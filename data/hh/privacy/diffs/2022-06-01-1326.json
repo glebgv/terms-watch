@@ -166,5 +166,6 @@
   "from_hash": "e9473f298e474d80cca92e896a65e8525955e07eddcc618a716bd66eb740555c",
   "to_hash": "e65fa1c0511a8d0e3b6a75f907c43dce1e7bec73237e3176389be92a6445f5a3",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data"
 }

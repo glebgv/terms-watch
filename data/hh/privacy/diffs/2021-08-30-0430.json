@@ -174,5 +174,6 @@
   "from_hash": "3f82ea50fa4a650c02ff7bb05d2f35a2ff871aac969e82e77a5b230fa4193f1d",
   "to_hash": "9e9b78e3e09a6f2b5469bb02a32be5f7578b027f57d971d3520a8e9846b6593a",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20210830/https://hh.ru/article/personal_data"
 }

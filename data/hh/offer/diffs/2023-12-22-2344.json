@@ -291,5 +291,6 @@
   "from_hash": "f41148aa8f02da8089f528cb8e18a09a2f91ec242ed44729e6a3f790fca143b4",
   "to_hash": "d1237060b1ca31fc6b4fe91e230020428cfbe16917be00becde04266b05e244c",
   "url": "https://hh.ru/account/agreement",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20231222/https://hh.ru/account/agreement"
 }

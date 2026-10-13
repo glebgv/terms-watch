@@ -6,7 +6,7 @@
   "url": "https://www.superjob.ru/info/personalnye_dannye.html",
   "selector": "main, article, body",
   "first_check": "2021-01-19-0746",
-  "last_check": "2026-10-11",
-  "total_versions": 9,
+  "last_check": "2026-10-13",
+  "total_versions": 10,
   "last_hash": "d90efa8ab3e6daf61cce0515c4c8014fa8569a1d966b73be04c0afb492d44d73"
 }

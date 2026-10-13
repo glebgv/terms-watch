@@ -34,5 +34,6 @@
   "from_hash": "6980c092e723a2a62db969662ca5c9ea5ae0c9ff88cb9bd893a3490ccb364086",
   "to_hash": "ad9fd7e3a634094e89fbe16d5673b7c0405a47e9f984d399d0bcfc28aa74e189",
   "url": "https://vk.ru/terms",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20230802/https://vk.ru/terms"
 }

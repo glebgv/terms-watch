@@ -291,5 +291,6 @@
   "from_hash": "bc7915da3524d12ebd6cdec6c0e5787a60e9dca0c7d67533f4bb692c0574491f",
   "to_hash": "75509b80c235853cca48bbc5b7ad84a6b73c76c77023e88677081c7828344050",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/article/personal_data"
 }

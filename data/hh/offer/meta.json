@@ -6,7 +6,7 @@
   "url": "https://hh.ru/account/agreement",
   "selector": "main, body",
   "first_check": "2021-08-14-2029",
-  "last_check": "2026-10-11",
-  "total_versions": 21,
-  "last_hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e"
+  "last_check": "2026-10-13",
+  "total_versions": 22,
+  "last_hash": "b56379db6e6d56c18c134279bd21e53cfa66cb71b2557df7438f64c3e4ca7316"
 }

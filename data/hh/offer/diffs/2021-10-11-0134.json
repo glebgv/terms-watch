@@ -105,5 +105,6 @@
   "from_hash": "54380e67c6f50a7688af8dce30cbabaa49875d1e2498dac4ec1da41fe07357fd",
   "to_hash": "272f1bf2a560fd19432e85070fd4d9c43a2c46af8af37e77ca6579bcb82472c1",
   "url": "https://hh.ru/account/agreement",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20211011/https://hh.ru/account/agreement"
 }

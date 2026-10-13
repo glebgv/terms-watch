@@ -688,5 +688,6 @@
   "from_hash": "a554edc6ef994147f2c13e2b9add95c10189fb10e358a7b0a02bec7c6b164dda",
   "to_hash": "9128c34d8dffd21ac4fa7b854ce4623442a22849a21a6b1eea68c15d25b9dfe5",
   "url": "https://hh.ru/account/agreement",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/account/agreement"
 }

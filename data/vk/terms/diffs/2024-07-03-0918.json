@@ -288,5 +288,6 @@
   "from_hash": "ad9fd7e3a634094e89fbe16d5673b7c0405a47e9f984d399d0bcfc28aa74e189",
   "to_hash": "5ee20787455155d9322e6ab098f5be2137710430f8d8cd264eb6e5cc73f4abe6",
   "url": "https://vk.ru/terms",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20240703/https://vk.ru/terms"
 }

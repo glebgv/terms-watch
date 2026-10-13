@@ -247,5 +247,6 @@
   "from_hash": "afcb7b862edaa22ba7b5ea786f63c7f3d3608860ea971ab6821b397dbdde2123",
   "to_hash": "a52cb9d07a497bf75d0b6db57c415ce2f8cfc1164a603f828cfa4fce8b7f44be",
   "url": "https://hh.ru/account/agreement",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/account/agreement"
 }

@@ -38,5 +38,6 @@
   "from_hash": "58386028994ec50a5507bb7ffba79f356a9b8c2e292cf6dc265878a6130f9947",
   "to_hash": "4ddeb37a44d436a730ad6c1ec64d22884ec782882d5c9491333c7b78aa5f4324",
   "url": "https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20260214/https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru"
 }

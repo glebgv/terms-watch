@@ -1335,5 +1335,6 @@
   "from_hash": "ed5198cf704b47cf2f70690a837b92e86d2ae77288328b664f37583870cdc203",
   "to_hash": "6ce3c9c45732daa5bd8fa77826127506d1a8d095fff8e847b87253cfcdf225d2",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data"
 }

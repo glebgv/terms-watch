@@ -72,5 +72,6 @@
   "from_hash": "9128c34d8dffd21ac4fa7b854ce4623442a22849a21a6b1eea68c15d25b9dfe5",
   "to_hash": "45abccf94cd11995794da9c7e81a44c362279db3b9153bc69a36ae26f8300493",
   "url": "https://hh.ru/account/agreement",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20230217/https://hh.ru/account/agreement"
 }

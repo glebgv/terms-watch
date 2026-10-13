@@ -198,5 +198,6 @@
   "from_hash": "0f29484e5a5ca20efc93adfb038b4b9b6878103263e69af0f8d2b822d9609f14",
   "to_hash": "6980c092e723a2a62db969662ca5c9ea5ae0c9ff88cb9bd893a3490ccb364086",
   "url": "https://vk.ru/terms",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20230518/https://vk.ru/terms"
 }

@@ -53,5 +53,6 @@
   "from_hash": "782053519f823e2e811c08ce1eb2a64423fedeeb50d4f3b80598d4a63b25383d",
   "to_hash": "c267c4fe792fb83d2ac5308b8f62b72647813cd0b591b52eff559eabddaf1e62",
   "url": "https://yandex.ru/legal/rules/ru/",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20260530/https://yandex.ru/legal/rules/ru/"
 }

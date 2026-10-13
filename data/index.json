@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:54:06+00:00",
+  "generated_at": "2026-10-13T09:17:25+00:00",
   "sites": [
     {
       "site": {
@@ -31,9 +31,9 @@
           "url": "https://hh.ru/account/agreement",
           "selector": "main, body",
           "first_check": "2021-08-14-2029",
-          "last_check": "2026-10-11",
-          "total_versions": 21,
-          "last_hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e"
+          "last_check": "2026-10-13",
+          "total_versions": 22,
+          "last_hash": "b56379db6e6d56c18c134279bd21e53cfa66cb71b2557df7438f64c3e4ca7316"
         },
         {
           "id": "hh",
@@ -43,8 +43,8 @@
           "url": "https://hh.ru/article/personal_data",
           "selector": "main, body",
           "first_check": "2021-01-01-0624",
-          "last_check": "2026-10-11",
-          "total_versions": 27,
+          "last_check": "2026-10-13",
+          "total_versions": 28,
           "last_hash": "4cfb4bb06ae55fbc913ebad28cb016ac93974772707095d5a001208c71a26be7"
         }
       ],
@@ -333,8 +333,8 @@
           "url": "https://vk.ru/terms",
           "selector": "main, article, body",
           "first_check": "2022-09-04-0842",
-          "last_check": "2026-10-11",
-          "total_versions": 6,
+          "last_check": "2026-10-13",
+          "total_versions": 7,
           "last_hash": "ffb78ce34f65ad4d04e337edf1822cd574cddcb89172a59b6ff8f1e20ceb2b7a"
         },
         {
@@ -357,8 +357,8 @@
           "url": "https://vk.ru/privacy",
           "selector": "main, article, body",
           "first_check": "2023-08-02-2037",
-          "last_check": "2026-10-11",
-          "total_versions": 2,
+          "last_check": "2026-10-13",
+          "total_versions": 3,
           "last_hash": "7c1b2e072961509bd3d8714e500273ae4cb582dae1839bddcbb394113505e68d"
         },
         {
@@ -464,8 +464,8 @@
           "url": "https://www.superjob.ru/info/privacy-policy.html",
           "selector": "main, body",
           "first_check": "2021-01-19-0748",
-          "last_check": "2026-10-11",
-          "total_versions": 7,
+          "last_check": "2026-10-13",
+          "total_versions": 8,
           "last_hash": "dc59dbaff7216b7f5b780bc42127e92e739f517c43e3897cbd673af3e88b3f22"
         },
         {
@@ -476,8 +476,8 @@
           "url": "https://www.superjob.ru/info/personalnye_dannye.html",
           "selector": "main, article, body",
           "first_check": "2021-01-19-0746",
-          "last_check": "2026-10-11",
-          "total_versions": 9,
+          "last_check": "2026-10-13",
+          "total_versions": 10,
           "last_hash": "d90efa8ab3e6daf61cce0515c4c8014fa8569a1d966b73be04c0afb492d44d73"
         },
         {
@@ -488,8 +488,8 @@
           "url": "https://www.superjob.ru/info/personal_privacy.html",
           "selector": "main, article, body",
           "first_check": "2025-08-31-0109",
-          "last_check": "2026-10-11",
-          "total_versions": 2,
+          "last_check": "2026-10-13",
+          "total_versions": 3,
           "last_hash": "11da52f1adf5eba3e3286b0295643d0205ffccd2953f5a562358a4d60dd5726d"
         },
         {
@@ -500,8 +500,8 @@
           "url": "https://www.superjob.ru/info/oferta-poruchenie-privacy.html",
           "selector": "main, article, body",
           "first_check": "2025-08-31-0109",
-          "last_check": "2026-10-11",
-          "total_versions": 2,
+          "last_check": "2026-10-13",
+          "total_versions": 3,
           "last_hash": "c531b69450f5aad56b07148d06f67372dcd1fd4347b00cb77e7bc68f2a96b5d4"
         },
         {
@@ -568,8 +568,8 @@
           "url": "https://yandex.ru/legal/rules/ru/",
           "selector": "main, article, body",
           "first_check": "2025-10-15-2236",
-          "last_check": "2026-10-11",
-          "total_versions": 3,
+          "last_check": "2026-10-13",
+          "total_versions": 4,
           "last_hash": "7cc81e34327aa17b4d6d9ff21a122c6d75bc5940d539abdb2e194b66f18a6d5d"
         },
         {
@@ -580,8 +580,8 @@
           "url": "https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru",
           "selector": "main, article, body",
           "first_check": "2025-11-28-0659",
-          "last_check": "2026-10-11",
-          "total_versions": 3,
+          "last_check": "2026-10-13",
+          "total_versions": 4,
           "last_hash": "2fee455b9bb511af14345d9c14c1da4fc59a4e6a796ed9b30fb2d96d6a8c5151"
         }
       ],
@@ -706,8 +706,8 @@
           "url": "https://cdn.cloud.ru/docs/legal/security/cybersecurity-pd/confidentiality-policy.pdf",
           "selector": "",
           "first_check": "2025-07-11-1529",
-          "last_check": "2026-10-11",
-          "total_versions": 2,
+          "last_check": "2026-10-13",
+          "total_versions": 3,
           "last_hash": "ddb75e7106c0f92cf3ddd0384fa2cef31f770839cc9672f48251feae17664a15"
         },
         {
@@ -838,8 +838,8 @@
           "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/timeweb-cloud-public-offer.pdf",
           "selector": "",
           "first_check": "2026-09-14-2022",
-          "last_check": "2026-10-11",
-          "total_versions": 2,
+          "last_check": "2026-10-13",
+          "total_versions": 3,
           "last_hash": "6b7701fccc4cb645c7fcd12d7321b091d21f02af1699e433d0401d23c15c46e8"
         },
         {
@@ -862,8 +862,8 @@
           "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/sla.pdf",
           "selector": "",
           "first_check": "2026-08-31-1103",
-          "last_check": "2026-10-11",
-          "total_versions": 2,
+          "last_check": "2026-10-13",
+          "total_versions": 3,
           "last_hash": "8041a2c75234e9f503905b35f39029ac4b809005ef3a5416a81c39b2b989fb3c"
         }
       ],

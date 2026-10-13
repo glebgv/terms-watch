@@ -946,5 +946,6 @@
   "from_hash": "9e9b78e3e09a6f2b5469bb02a32be5f7578b027f57d971d3520a8e9846b6593a",
   "to_hash": "a1eb2ac77444c493f6196666be525db558648844ecbbd2e9ea9b2698b9a63275",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true
+  "retrospective": true,
+  "wayback_url": "https://web.archive.org/web/20211231/https://hh.ru/article/personal_data"
 }
