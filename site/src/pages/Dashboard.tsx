@@ -16,6 +16,9 @@ const SITE_ICONS: Record<string, string> = {
   superjob: 'superjob.png',
   selectel: 'selectel.png',
   vk: 'vk.png',
+  timeweb: 'timeweb.png',
+  profi: 'profi.png',
+  habr: 'habr.png',
 }
 
 export default function Dashboard() {
