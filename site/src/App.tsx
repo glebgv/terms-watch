@@ -72,7 +72,7 @@ export default function App() {
         </div>
       </header>
       <StaleBanner />
-      <main className="max-w-6xl w-full mx-auto px-4 py-8 flex-1">
+      <main className="max-w-6xl w-full mx-auto px-4 py-6 flex-1">
         <Outlet />
       </main>
       <footer className="border-t border-[#21262d] py-4 text-center text-xs text-gray-600">

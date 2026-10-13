@@ -65,14 +65,14 @@ export default function Dashboard() {
   const allYears = [...new Set<string>(data!.changelog.map((e) => e.date.slice(0, 4)))].sort().reverse()
 
   return (
-    <div className="space-y-8">
-      <section className="silver-bar border border-[#21262d] rounded-2xl bg-gradient-to-b from-[#141a24] to-[#11151c] px-6 py-7">
-        <h1 className="text-3xl font-bold tracking-tight">
+    <div className="space-y-6">
+      <section className="silver-bar border border-[#21262d] rounded-2xl bg-gradient-to-b from-[#141a24] to-[#11151c] px-6 py-4">
+        <h1 className="text-2xl font-bold tracking-tight">
           <span className="silver-text">terms·watch</span>
           <span className="text-gray-600 font-normal mx-2">—</span>
           обзор
         </h1>
-        <p className="text-base md:text-lg text-gray-200 font-medium mt-3 max-w-3xl leading-relaxed">
+        <p className="text-sm text-gray-200 font-medium mt-1.5 max-w-3xl leading-relaxed">
           мониторинг изменений пользовательских соглашений, оферт
           и политик конфиденциальности
         </p>
