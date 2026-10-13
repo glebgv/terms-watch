@@ -22,6 +22,7 @@ const SITE_ICONS: Record<string, string> = {
   habr: 'habr.png',
   cloudru: 'cloudru.png',
   yandex: 'yandex.png',
+  fl: 'fl.png',
 }
 
 export default function Dashboard() {
