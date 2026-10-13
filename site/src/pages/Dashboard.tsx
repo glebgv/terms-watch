@@ -4,9 +4,10 @@ import { api } from '../lib/api'
 import ChangeCard from '../components/ChangeCard'
 import { Badge, Card, ErrorBox, Spinner } from '../components/ui'
 import { motion } from 'framer-motion'
-import { Search, Globe, FileText, GitCommitHorizontal, Clock, History } from 'lucide-react'
+import { Globe, FileText, GitCommitHorizontal, Clock, History } from 'lucide-react'
 import type { ChangelogEntry } from '../lib/types'
 import { STALE_THRESHOLD_HOURS } from '../lib/constants'
+import { useGlobalSearch } from '../App'
 
 const PAGE_SIZE = 50
 const RECENT_WINDOW_MS = 90 * 24 * 3600 * 1000 // 3 месяца
@@ -25,7 +26,7 @@ const SITE_ICONS: Record<string, string> = {
 
 export default function Dashboard() {
   const { data, loading, error } = useQuery(() => api.index(), [])
-  const [q, setQ] = useState('')
+  const { q } = useGlobalSearch()
   const [site, setSite] = useState('')
   const [kw, setKw] = useState('')
   const [year, setYear] = useState('')
@@ -125,19 +126,7 @@ export default function Dashboard() {
       </section>
 
       <section>
-        <div className="flex flex-wrap gap-2 mb-4 items-center">
-          <label className="relative flex-1 min-w-52">
-            <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-600" />
-            <input
-              type="search"
-              placeholder="поиск по изменениям…"
-              value={q}
-              onChange={(e) => setQ(e.target.value)}
-              className="w-full bg-[#11151c] border border-[#21262d] rounded-lg pl-9 pr-3 py-2 text-sm
-                         focus:outline-none focus:border-emerald-500/50 focus:ring-1 focus:ring-emerald-500/30
-                         placeholder:text-gray-600 transition-all"
-            />
-          </label>
+        <div className="flex flex-wrap gap-2 mb-4 items-center justify-end">
           <Select value={site} onChange={setSite} placeholder="все сайты"
                   options={sites.map(({ site: s }: any) => [s.id, s.name])} />
           <Select value={kw} onChange={setKw} placeholder="все темы"

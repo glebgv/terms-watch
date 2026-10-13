@@ -1,7 +1,12 @@
 import { Link, Outlet, useLocation } from 'react-router-dom'
-import { Scale, Activity, ShieldCheck } from 'lucide-react'
+import { Scale, Activity, ShieldCheck, Search } from 'lucide-react'
 import { motion } from 'framer-motion'
+import { createContext, useContext, useState } from 'react'
 import StaleBanner from './components/StaleBanner'
+
+export const SearchCtx = createContext<{ q: string; setQ: (v: string) => void }>(
+  { q: '', setQ: () => {} })
+export const useGlobalSearch = () => useContext(SearchCtx)
 
 const nav = [
   { to: '/', label: 'обзор', icon: Activity },
@@ -10,7 +15,9 @@ const nav = [
 
 export default function App() {
   const { pathname } = useLocation()
+  const [q, setQ] = useState('')
   return (
+    <SearchCtx.Provider value={{ q, setQ }}>
     <div className="min-h-screen flex flex-col">
       <header className="border-b border-[#21262d] sticky top-0 z-20 bg-[#0d1117]/80 backdrop-blur-xl">
         <div className="max-w-6xl mx-auto px-4 h-14 flex items-center gap-6">
@@ -46,7 +53,19 @@ export default function App() {
               )
             })}
           </nav>
-          <span className="ml-auto hidden md:block text-sm font-medium text-gray-300 border border-[#21262d] bg-[#11151c] rounded-full px-3.5 py-1.5">
+          <label className="relative ml-auto hidden md:block w-56">
+            <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-600" />
+            <input
+              type="search"
+              placeholder="поиск по изменениям…"
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              className="w-full bg-[#11151c] border border-[#21262d] rounded-full pl-9 pr-3 py-1.5 text-sm
+                         focus:outline-none focus:border-emerald-500/50 focus:ring-1 focus:ring-emerald-500/30
+                         placeholder:text-gray-600 transition-all"
+            />
+          </label>
+          <span className="hidden lg:block text-sm font-medium text-gray-300 border border-[#21262d] bg-[#11151c] rounded-full px-3.5 py-1.5">
             <ShieldCheck size={14} className="inline mr-1.5 -mt-0.5 text-emerald-400" />
             открытый монитор правовых документов
           </span>
@@ -60,5 +79,6 @@ export default function App() {
         полные тексты хранятся локально · диффы цитируются в информационных целях
       </footer>
     </div>
+    </SearchCtx.Provider>
   )
 }
