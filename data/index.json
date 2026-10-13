@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:47:37+00:00",
+  "generated_at": "2026-10-13T06:48:12+00:00",
   "sites": [
     {
       "site": {
@@ -49,19 +49,24 @@
         }
       ],
       "last_change": {
-        "date": "2026-10-11",
-        "checked_at": "2026-10-11T11:29:56+00:00",
         "site_id": "hh",
         "site_name": "HeadHunter",
-        "doc_id": "privacy",
-        "doc_title": "Политика конфиденциальности",
+        "doc_id": "offer",
+        "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+        "date": "2026-07-29-1039",
+        "ratio": 0.1141,
         "is_major": false,
-        "keywords": [],
-        "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-        "url": "https://hh.ru/article/personal_data",
-        "diff_path": "/home/tetra10/proverka/monitor/data-public/hh/privacy/diffs/2026-10-11.json"
+        "keywords": [
+          "персональные данные",
+          "ответственность",
+          "хранение данных"
+        ],
+        "summary": "Изменено 11% документа: +38 / −44 строк",
+        "diff_path": "hh/offer/diffs/2026-07-29-1039.json",
+        "wayback_url": "https://web.archive.org/web/20260729/https://hh.ru/account/agreement",
+        "retrospective": true
       },
-      "changes_count": 41
+      "changes_count": 39
     },
     {
       "site": {
@@ -410,7 +415,7 @@
         ],
         "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 46, удалено: 0, изменено: 0.",
         "url": "https://vk.ru/help?page=cc_terms",
-        "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cc_terms/diffs/2026-10-12.json"
+        "diff_path": "vk/cc_terms/diffs/2026-10-12.json"
       },
       "changes_count": 5
     },
@@ -538,19 +543,25 @@
         }
       ],
       "last_change": {
-        "date": "2026-10-11",
-        "checked_at": "2026-10-11T11:30:11+00:00",
         "site_id": "superjob",
         "site_name": "SuperJob",
-        "doc_id": "privacy",
-        "doc_title": "Политика конфиденциальности",
+        "doc_id": "privacy_agreement",
+        "doc_title": "Соглашение о конфиденциальности",
+        "date": "2025-05-23-0909",
+        "ratio": 0.4333,
         "is_major": false,
-        "keywords": [],
-        "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-        "url": "https://www.superjob.ru/info/privacy-policy.html",
-        "diff_path": "/home/tetra10/proverka/monitor/data-public/superjob/privacy/diffs/2026-10-11.json"
+        "keywords": [
+          "персональные данные",
+          "ответственность",
+          "хранение данных",
+          "согласие"
+        ],
+        "summary": "Изменено 43% документа: +5 / −13 строк",
+        "diff_path": "superjob/privacy_agreement/diffs/2025-05-23-0909.json",
+        "wayback_url": "https://web.archive.org/web/20250523/https://www.superjob.ru/info/privacy_agreement.html",
+        "retrospective": true
       },
-      "changes_count": 20
+      "changes_count": 19
     },
     {
       "site": {
@@ -646,19 +657,24 @@
         }
       ],
       "last_change": {
-        "date": "2026-10-12",
-        "checked_at": "2026-10-12T06:53:46+00:00",
         "site_id": "selectel",
         "site_name": "Selectel",
         "doc_id": "pd_policy",
         "doc_title": "Политика обработки и защиты персональных данных",
+        "date": "2024-11-18-0219",
+        "ratio": 0.0587,
         "is_major": false,
-        "keywords": [],
-        "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-        "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
-        "diff_path": "/home/tetra10/proverka/monitor/data-public/selectel/pd_policy/diffs/2026-10-12.json"
+        "keywords": [
+          "персональные данные",
+          "согласие",
+          "cookies"
+        ],
+        "summary": "Изменено 6% документа: +21 / −5 строк",
+        "diff_path": "selectel/pd_policy/diffs/2024-11-18-0219.json",
+        "wayback_url": "https://web.archive.org/web/20241118/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+        "retrospective": true
       },
-      "changes_count": 5
+      "changes_count": 4
     },
     {
       "site": {
@@ -898,59 +914,7 @@
       ],
       "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 46, удалено: 0, изменено: 0.",
       "url": "https://vk.ru/help?page=cc_terms",
-      "diff_path": "/home/tetra10/proverka/monitor/data-public/vk/cc_terms/diffs/2026-10-12.json"
-    },
-    {
-      "date": "2026-10-12",
-      "checked_at": "2026-10-12T06:53:46+00:00",
-      "site_id": "selectel",
-      "site_name": "Selectel",
-      "doc_id": "pd_policy",
-      "doc_title": "Политика обработки и защиты персональных данных",
-      "is_major": false,
-      "keywords": [],
-      "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-      "url": "https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
-      "diff_path": "/home/tetra10/proverka/monitor/data-public/selectel/pd_policy/diffs/2026-10-12.json"
-    },
-    {
-      "date": "2026-10-11",
-      "checked_at": "2026-10-11T11:30:11+00:00",
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
-      "is_major": false,
-      "keywords": [],
-      "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-      "url": "https://www.superjob.ru/info/privacy-policy.html",
-      "diff_path": "/home/tetra10/proverka/monitor/data-public/superjob/privacy/diffs/2026-10-11.json"
-    },
-    {
-      "date": "2026-10-11",
-      "checked_at": "2026-10-11T11:29:56+00:00",
-      "site_id": "hh",
-      "site_name": "HeadHunter",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
-      "is_major": false,
-      "keywords": [],
-      "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-      "url": "https://hh.ru/article/personal_data",
-      "diff_path": "/home/tetra10/proverka/monitor/data-public/hh/privacy/diffs/2026-10-11.json"
-    },
-    {
-      "date": "2026-10-11",
-      "checked_at": "2026-10-11T11:29:53+00:00",
-      "site_id": "hh",
-      "site_name": "HeadHunter",
-      "doc_id": "offer",
-      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-      "is_major": false,
-      "keywords": [],
-      "summary": "Добавлено строк: 0, удалено: 0, изменено: 0.",
-      "url": "https://spb.hh.ru/account/agreement?from=footer_new&hhtmFromLabel=footer_new&hhtmFrom=main",
-      "diff_path": "/home/tetra10/proverka/monitor/data-public/hh/offer/diffs/2026-10-11.json"
+      "diff_path": "vk/cc_terms/diffs/2026-10-12.json"
     },
     {
       "site_id": "hh",
