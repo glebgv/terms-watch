@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:48:12+00:00",
+  "generated_at": "2026-10-13T07:54:06+00:00",
   "sites": [
     {
       "site": {
@@ -418,31 +418,6 @@
         "diff_path": "vk/cc_terms/diffs/2026-10-12.json"
       },
       "changes_count": 5
-    },
-    {
-      "site": {
-        "id": "indeed",
-        "name": "Indeed",
-        "url": "https://www.indeed.com/hire/terms",
-        "category": "job-board",
-        "added": "2026-10-11",
-        "active": false,
-        "docs": [
-          {
-            "doc_id": "offer",
-            "title": "Terms of Service",
-            "url": "https://www.indeed.com/hire/terms"
-          },
-          {
-            "doc_id": "privacy",
-            "title": "Privacy Policy",
-            "url": "https://www.indeed.com/legal/privacy"
-          }
-        ]
-      },
-      "docs": [],
-      "last_change": null,
-      "changes_count": 0
     },
     {
       "site": {
