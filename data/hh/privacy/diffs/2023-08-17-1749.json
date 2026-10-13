@@ -1,11 +1,11 @@
 {
   "stats": {
-    "lines_added": 57,
-    "lines_removed": 84,
-    "lines_changed": 57,
-    "change_ratio": 0.5638
+    "lines_added": 43,
+    "lines_removed": 67,
+    "lines_changed": 43,
+    "change_ratio": 0.6091
   },
-  "is_major": false,
+  "is_major": true,
   "reordering_only": false,
   "keywords": [
     "персональные данные",
@@ -762,100 +762,34 @@
       ]
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 44,
-      "old_text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected.",
-      "new_text": "О компании",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected."
-        },
-        {
-          "type": "add",
-          "text": "О компании"
-        }
-      ]
+      "text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected."
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 45,
-      "old_text": "4. Rights of personal data subject",
-      "new_text": "Наши вакансии",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "4. Rights of personal data subject"
-        },
-        {
-          "type": "add",
-          "text": "Наши вакансии"
-        }
-      ]
+      "text": "4. Rights of personal data subject"
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 46,
-      "old_text": "The personal data subject has the right (unless otherwise provided by law):",
-      "new_text": "Партнерам",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "The personal data subject has the right (unless otherwise provided by law):"
-        },
-        {
-          "type": "add",
-          "text": "Партнерам"
-        }
-      ]
+      "text": "The personal data subject has the right (unless otherwise provided by law):"
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 47,
-      "old_text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;",
-      "new_text": "Реклама на сайте",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;"
-        },
-        {
-          "type": "add",
-          "text": "Реклама на сайте"
-        }
-      ]
+      "text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;"
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 48,
-      "old_text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;",
-      "new_text": "Новости и статьи",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;"
-        },
-        {
-          "type": "add",
-          "text": "Новости и статьи"
-        }
-      ]
+      "text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;"
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 49,
-      "old_text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;",
-      "new_text": "Инвесторам",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;"
-        },
-        {
-          "type": "add",
-          "text": "Инвесторам"
-        }
-      ]
+      "text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;"
     },
     {
       "type": "remove",
@@ -946,207 +880,6 @@
       "type": "remove",
       "position": 67,
       "text": "CRM-system for candidate selection"
-    },
-    {
-      "type": "remove",
-      "position": 68,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "remove",
-      "position": 69,
-      "text": "Job search"
-    },
-    {
-      "type": "remove",
-      "position": 70,
-      "text": "Russian version"
-    },
-    {
-      "type": "remove",
-      "position": 71,
-      "text": "About the company"
-    },
-    {
-      "type": "remove",
-      "position": 72,
-      "text": "Our vacancies"
-    },
-    {
-      "type": "remove",
-      "position": 73,
-      "text": "For partners"
-    },
-    {
-      "type": "remove",
-      "position": 74,
-      "text": "Advertising on the website"
-    },
-    {
-      "type": "remove",
-      "position": 75,
-      "text": "News and articles"
-    },
-    {
-      "type": "remove",
-      "position": 76,
-      "text": "Investors"
-    },
-    {
-      "type": "modify",
-      "position": 52,
-      "old_text": "Production calendar",
-      "new_text": "Производственный календарь",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Production calendar"
-        },
-        {
-          "type": "add",
-          "text": "Производственный календарь"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 53,
-      "old_text": "Software requirements",
-      "new_text": "Требования к ПО",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Software requirements"
-        },
-        {
-          "type": "add",
-          "text": "Требования к ПО"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 54,
-      "old_text": "Personal data protection",
-      "new_text": "Защита персональных данных",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Personal data protection"
-        },
-        {
-          "type": "add",
-          "text": "Защита персональных данных"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 55,
-      "old_text": "Secure HeadHunter",
-      "new_text": "Безопасный HeadHunter",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Secure"
-        },
-        {
-          "type": "add",
-          "text": "Безопасный"
-        },
-        {
-          "type": "keep",
-          "text": "HeadHunter"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 56,
-      "old_text": "Ethics and compliance",
-      "new_text": "Этика и комплаенс",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Ethics and compliance"
-        },
-        {
-          "type": "add",
-          "text": "Этика и комплаенс"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 59,
-      "old_text": "Job search",
-      "new_text": "Поиск работы",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Job search"
-        },
-        {
-          "type": "add",
-          "text": "Поиск работы"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 60,
-      "old_text": "Russian version",
-      "new_text": "Switch to English",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Russian version"
-        },
-        {
-          "type": "add",
-          "text": "Switch to English"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 61,
-      "old_text": "Today on the website 1172779 vacancies , 63295000 resumes , 1903254 companies and 3056165 invitations within the week",
-      "new_text": "Сегодня на сайте 1450113 вакансий , 64084443 резюме , 2014222 компании и за неделю 4040741 приглашение",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Today on the website 1172779 vacancies"
-        },
-        {
-          "type": "add",
-          "text": "Сегодня на сайте 1450113 вакансий"
-        },
-        {
-          "type": "keep",
-          "text": ","
-        },
-        {
-          "type": "remove",
-          "text": "63295000 resumes"
-        },
-        {
-          "type": "add",
-          "text": "64084443 резюме"
-        },
-        {
-          "type": "keep",
-          "text": ","
-        },
-        {
-          "type": "remove",
-          "text": "1903254 companies and 3056165 invitations within the week"
-        },
-        {
-          "type": "add",
-          "text": "2014222 компании и за неделю 4040741 приглашение"
-        }
-      ]
     }
   ],
   "site": "hh",
@@ -1154,8 +887,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2023-04-11-0403",
   "to_date": "2023-08-17-1749",
-  "from_hash": "a1018170bf74b863cc3853f7390384a711e97c9a0e34495ea625717a286f802f",
-  "to_hash": "ef89b3f394c59ff25c3b9b57209bc7ccbd9d642663d749616f708aefcba318a0",
+  "from_hash": "af36bceea1c00b9f2723eac3acc17f951985986cdce2c38968d111f4a8295e78",
+  "to_hash": "5b1586b7b2371eb1b614c335fe5deae79dac9de662db7c97583905d737da4c16",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20230817/https://hh.ru/article/personal_data"

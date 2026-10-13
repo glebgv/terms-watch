@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 5,
-    "lines_removed": 5,
-    "lines_changed": 4,
-    "change_ratio": 0.033
+    "lines_added": 3,
+    "lines_removed": 3,
+    "lines_changed": 3,
+    "change_ratio": 0.0268
   },
   "is_major": false,
   "reordering_only": false,
@@ -102,44 +102,6 @@
           "text": "ООО «Хэдхантер» или свяжитесь с нами по адресу: [LINK] ,"
         }
       ]
-    },
-    {
-      "type": "remove",
-      "position": 60,
-      "text": "Помощь"
-    },
-    {
-      "type": "modify",
-      "position": 68,
-      "old_text": "Работа по профессиям",
-      "new_text": "Поиск по вакансиям в Москве",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Работа"
-        },
-        {
-          "type": "add",
-          "text": "Поиск"
-        },
-        {
-          "type": "keep",
-          "text": "по"
-        },
-        {
-          "type": "remove",
-          "text": "профессиям"
-        },
-        {
-          "type": "add",
-          "text": "вакансиям в Москве"
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 91,
-      "text": "ИТ аккредитация"
     }
   ],
   "site": "hh",
@@ -147,8 +109,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2026-01-13-1600",
   "to_date": "2026-05-03-1014",
-  "from_hash": "8e0c4c9a84945f46cd6e6a747a007a1b4538eda55483f8ad731353ac332ce9ec",
-  "to_hash": "ea400a7d08b9d97934fb23546b2fb45e30a1185474395a9aa228442072e42195",
+  "from_hash": "55c62f583f68eb3c751a3cab3d406c4f2cba105591be8b9dcd82c7538cdbe5b4",
+  "to_hash": "bedb4c6b9494b471d6ee6a304400f7f7768c071d84788cfa3577a397977a873a",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20260503/https://hh.ru/article/personal_data"

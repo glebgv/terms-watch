@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 13,
-    "lines_removed": 28,
-    "lines_changed": 6,
-    "change_ratio": 0.2096
+    "lines_added": 6,
+    "lines_removed": 3,
+    "lines_changed": 3,
+    "change_ratio": 0.0522
   },
   "is_major": false,
   "reordering_only": false,
@@ -90,20 +90,9 @@
       ]
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 57,
-      "old_text": "Поиск сотрудников",
-      "new_text": "Покажем вашу ИТ-команду изнутри и снаружи в статье про ИТ-проекты",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Поиск сотрудников"
-        },
-        {
-          "type": "add",
-          "text": "Покажем вашу ИТ-команду изнутри и снаружи в статье про ИТ-проекты"
-        }
-      ]
+      "text": "Покажем вашу ИТ-команду изнутри и снаружи в статье про ИТ-проекты"
     },
     {
       "type": "add",
@@ -114,173 +103,6 @@
       "type": "add",
       "position": 59,
       "text": "Автоматизируйте сбор откликов, настройте воронку, собирайте аналитику в 2 клика"
-    },
-    {
-      "type": "remove",
-      "position": 59,
-      "text": "Помощь"
-    },
-    {
-      "type": "add",
-      "position": 62,
-      "text": "Партнерам"
-    },
-    {
-      "type": "add",
-      "position": 64,
-      "text": "Новости и статьи"
-    },
-    {
-      "type": "add",
-      "position": 65,
-      "text": "Инвесторам"
-    },
-    {
-      "type": "add",
-      "position": 66,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "add",
-      "position": 67,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "modify",
-      "position": 71,
-      "old_text": "Партнерам",
-      "new_text": "Поиск работы",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Партнерам"
-        },
-        {
-          "type": "add",
-          "text": "Поиск работы"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 72,
-      "old_text": "Инвесторам",
-      "new_text": "Поиск по резюме",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Инвесторам"
-        },
-        {
-          "type": "add",
-          "text": "Поиск по резюме"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 67,
-      "text": "Каталог компаний"
-    },
-    {
-      "type": "remove",
-      "position": 68,
-      "text": "Работа по профессиям"
-    },
-    {
-      "type": "remove",
-      "position": 69,
-      "text": "Работа рядом с метро"
-    },
-    {
-      "type": "remove",
-      "position": 70,
-      "text": "Сетка: соцсеть для нетворкинга"
-    },
-    {
-      "type": "remove",
-      "position": 71,
-      "text": "hh PRO Новое"
-    },
-    {
-      "type": "remove",
-      "position": 72,
-      "text": "Готовое резюме"
-    },
-    {
-      "type": "remove",
-      "position": 73,
-      "text": "Все сервисы"
-    },
-    {
-      "type": "remove",
-      "position": 74,
-      "text": "Профориентация"
-    },
-    {
-      "type": "remove",
-      "position": 75,
-      "text": "Хочу у вас работать"
-    },
-    {
-      "type": "remove",
-      "position": 76,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "remove",
-      "position": 77,
-      "text": "Экспертная рекомендация"
-    },
-    {
-      "type": "remove",
-      "position": 78,
-      "text": "Рынок труда"
-    },
-    {
-      "type": "remove",
-      "position": 79,
-      "text": "О компаниях в игровой форме"
-    },
-    {
-      "type": "remove",
-      "position": 80,
-      "text": "Жизнь в компании"
-    },
-    {
-      "type": "remove",
-      "position": 81,
-      "text": "ИТ-проекты"
-    },
-    {
-      "type": "remove",
-      "position": 82,
-      "text": "Рейтинг работодателей России"
-    },
-    {
-      "type": "remove",
-      "position": 83,
-      "text": "Карьера для молодых специалистов"
-    },
-    {
-      "type": "remove",
-      "position": 84,
-      "text": "Школа программистов"
-    },
-    {
-      "type": "remove",
-      "position": 85,
-      "text": "Карьера в некоммерческих организациях"
-    },
-    {
-      "type": "remove",
-      "position": 86,
-      "text": "Боты для уведомлений"
-    },
-    {
-      "type": "remove",
-      "position": 91,
-      "text": "Пользовательское соглашение"
     }
   ],
   "site": "hh",
@@ -288,8 +110,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2025-06-20-1645",
   "to_date": "2025-12-29-2224",
-  "from_hash": "bc7915da3524d12ebd6cdec6c0e5787a60e9dca0c7d67533f4bb692c0574491f",
-  "to_hash": "75509b80c235853cca48bbc5b7ad84a6b73c76c77023e88677081c7828344050",
+  "from_hash": "7aa16d86048b38db09d5beea19f9fa5108bf609e7277da1b12dfcc3b23aa375f",
+  "to_hash": "2250e84b4e6b000eee62301a95543870accc9ebc85e4dce9246d68d2ac5c0dfc",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/article/personal_data"

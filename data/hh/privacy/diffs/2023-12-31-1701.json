@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 66,
-    "lines_removed": 43,
-    "lines_changed": 43,
-    "change_ratio": 0.4552
+    "lines_added": 62,
+    "lines_removed": 42,
+    "lines_changed": 42,
+    "change_ratio": 0.5849
   },
   "is_major": false,
   "reordering_only": false,
@@ -1267,77 +1267,6 @@
       "type": "add",
       "position": 63,
       "text": "Управляйте этапами, назначайте собеседования, добавляйте заказчиков"
-    },
-    {
-      "type": "add",
-      "position": 64,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "add",
-      "position": 65,
-      "text": "Поиск работы"
-    },
-    {
-      "type": "add",
-      "position": 66,
-      "text": "Switch to English"
-    },
-    {
-      "type": "modify",
-      "position": 84,
-      "old_text": "Сегодня на сайте 1450113 вакансий , 64084443 резюме , 2014222 компании и за неделю 4040741 приглашение",
-      "new_text": "Сегодня на сайте 1185631 вакансия , 66491375 резюме , 2117111 компаний и за неделю 1829328 приглашений",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Сегодня на сайте"
-        },
-        {
-          "type": "remove",
-          "text": "1450113 вакансий"
-        },
-        {
-          "type": "add",
-          "text": "1185631 вакансия"
-        },
-        {
-          "type": "keep",
-          "text": ","
-        },
-        {
-          "type": "remove",
-          "text": "64084443"
-        },
-        {
-          "type": "add",
-          "text": "66491375"
-        },
-        {
-          "type": "keep",
-          "text": "резюме ,"
-        },
-        {
-          "type": "remove",
-          "text": "2014222 компании"
-        },
-        {
-          "type": "add",
-          "text": "2117111 компаний"
-        },
-        {
-          "type": "keep",
-          "text": "и за неделю"
-        },
-        {
-          "type": "remove",
-          "text": "4040741 приглашение"
-        },
-        {
-          "type": "add",
-          "text": "1829328 приглашений"
-        }
-      ]
     }
   ],
   "site": "hh",
@@ -1345,8 +1274,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2023-08-17-1749",
   "to_date": "2023-12-31-1701",
-  "from_hash": "ef89b3f394c59ff25c3b9b57209bc7ccbd9d642663d749616f708aefcba318a0",
-  "to_hash": "c81d627c1ac85a86b8295c408301250d29a772d3f2e51faa18c6d5e01f1904ce",
+  "from_hash": "5b1586b7b2371eb1b614c335fe5deae79dac9de662db7c97583905d737da4c16",
+  "to_hash": "92bcc5b41fb01ed19d4df45ac9b6d09c7c21ed2ab1cd2e37371c47aae62b93a4",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20231231/https://hh.ru/article/personal_data"

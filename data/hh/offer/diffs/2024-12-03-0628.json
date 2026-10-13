@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 187,
+    "lines_added": 184,
     "lines_removed": 169,
     "lines_changed": 156,
-    "change_ratio": 0.4049
+    "change_ratio": 0.4273
   },
   "is_major": false,
   "reordering_only": false,
@@ -5577,21 +5577,6 @@
       "type": "add",
       "position": 238,
       "text": "10.5. Если Соискатель нарушит условия Соглашения Исполнитель вправе заблокировать его Учетную информацию, размещенные на Сайте Резюме, прочие материалы и информацию, без компенсации в связи с этим. Соглашение может быть расторгнуто в случае нарушения Соглашения с блокировкой аккаунта и резюме"
-    },
-    {
-      "type": "add",
-      "position": 239,
-      "text": "Поиск сотрудников"
-    },
-    {
-      "type": "add",
-      "position": 240,
-      "text": "О компании"
-    },
-    {
-      "type": "add",
-      "position": 241,
-      "text": "Помощь"
     }
   ],
   "site": "hh",
@@ -5600,7 +5585,7 @@
   "from_date": "2024-03-06-0959",
   "to_date": "2024-12-03-0628",
   "from_hash": "a0c659ab8149a3ea85d1f89ca5b09cbf01eda2210efdd4e067bba5f64aabea9f",
-  "to_hash": "9d583eae12a8caa800114f1994c94f46c002b26394057aacb6e5f77b75fa4ee5",
+  "to_hash": "9caa7e758dfecda39aef645d41023f6398420ca28498fe5b61e167d8e60024ba",
   "url": "https://hh.ru/account/agreement",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20241203/https://hh.ru/account/agreement"

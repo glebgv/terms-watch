@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 35,
-    "lines_removed": 11,
-    "lines_changed": 10,
-    "change_ratio": 0.0621
+    "lines_added": 33,
+    "lines_removed": 10,
+    "lines_changed": 9,
+    "change_ratio": 0.0668
   },
   "is_major": false,
   "reordering_only": false,
@@ -338,27 +338,6 @@
           "text": "Исполнитель вправе в любое время по своему усмотрению и без предварительного согласования с Соискателем вносить изменения в настоящее Соглашение. В таком случае изменения и дополнения вступают в силу с момента их опубликования на Сайте."
         }
       ]
-    },
-    {
-      "type": "modify",
-      "position": 267,
-      "old_text": "Поиск сотрудников",
-      "new_text": "Размещение вакансий",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Поиск сотрудников"
-        },
-        {
-          "type": "add",
-          "text": "Размещение вакансий"
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 268,
-      "text": "Поиск по резюме"
     }
   ],
   "site": "hh",
@@ -366,8 +345,8 @@
   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
   "from_date": "2025-04-30-0934",
   "to_date": "2025-08-15-2334",
-  "from_hash": "95faf150bb1e4e0195b22ffdf347f652951ca4f98cb5bf861de6cf72e9f0799b",
-  "to_hash": "afcb7b862edaa22ba7b5ea786f63c7f3d3608860ea971ab6821b397dbdde2123",
+  "from_hash": "8648172b5998ddeda872beb5b2ce0515b4cc63ab9189ef126db26a42e4d69c16",
+  "to_hash": "8f8fefb12689aa9f3c0f2e9bc6dd25312a7b420608519c00eb837b30300e062d",
   "url": "https://hh.ru/account/agreement",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20250815/https://hh.ru/account/agreement"

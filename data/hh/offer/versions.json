@@ -79,43 +79,43 @@
     },
     {
       "date": "2024-12-03-0628",
-      "hash": "9d583eae12a8caa800114f1994c94f46c002b26394057aacb6e5f77b75fa4ee5",
-      "length": 58721,
+      "hash": "9caa7e758dfecda39aef645d41023f6398420ca28498fe5b61e167d8e60024ba",
+      "length": 58099,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2025-01-14-2315",
-      "hash": "51a38289ea5ef625271f36d9369947500aea44e8a877763e109f530805c2de67",
-      "length": 58743,
+      "hash": "9caa7e758dfecda39aef645d41023f6398420ca28498fe5b61e167d8e60024ba",
+      "length": 58099,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2025-04-30-0934",
-      "hash": "95faf150bb1e4e0195b22ffdf347f652951ca4f98cb5bf861de6cf72e9f0799b",
-      "length": 60651,
+      "hash": "8648172b5998ddeda872beb5b2ce0515b4cc63ab9189ef126db26a42e4d69c16",
+      "length": 59976,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2025-08-15-2334",
-      "hash": "afcb7b862edaa22ba7b5ea786f63c7f3d3608860ea971ab6821b397dbdde2123",
-      "length": 67528,
+      "hash": "8f8fefb12689aa9f3c0f2e9bc6dd25312a7b420608519c00eb837b30300e062d",
+      "length": 66835,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2025-12-29-2217",
-      "hash": "a52cb9d07a497bf75d0b6db57c415ce2f8cfc1164a603f828cfa4fce8b7f44be",
-      "length": 68027,
+      "hash": "3fd69c6f1bd194c220e88184f72f09180a950a919e1dad8eef0169dd03fcb8a2",
+      "length": 67334,
       "source": "wayback",
       "retrospective": true
     },
     {
       "date": "2026-04-30-0503",
-      "hash": "064654543cf3191d788fe21cd42496891eed0e5413faba45aca86368e17f1832",
-      "length": 73986,
+      "hash": "b09b6ef8afe93c2b02484194a9e09e217923087010845aceb44782dd97f13048",
+      "length": 73314,
       "source": "wayback",
       "retrospective": true
     },
@@ -128,24 +128,10 @@
     },
     {
       "date": "2026-10-11",
-      "hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e",
-      "wayback_url": null,
-      "text_length": 79073,
-      "notes": "первая зафиксированная версия"
-    },
-    {
-      "date": "2026-10-11",
-      "hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e",
-      "wayback_url": "http://web.archive.org/web/20260823111154/https://spb.hh.ru/account/agreement?hhtmFrom=main&from=footer_new&hhtmFromLabel=footer_new",
-      "text_length": 79073,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-11",
-      "hash": "e05020bfaff9c23a2b689ff58480b616c099e9f0dc43fd55c401df7ebeb2784e",
-      "wayback_url": "http://web.archive.org/web/20260823111154/https://spb.hh.ru/account/agreement?hhtmFrom=main&from=footer_new&hhtmFromLabel=footer_new",
-      "text_length": 79073,
-      "notes": ""
+      "hash": "b56379db6e6d56c18c134279bd21e53cfa66cb71b2557df7438f64c3e4ca7316",
+      "length": 79062,
+      "source": "monitor",
+      "retrospective": false
     }
   ]
 }

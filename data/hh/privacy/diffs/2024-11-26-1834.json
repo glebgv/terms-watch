@@ -1,29 +1,18 @@
 {
   "stats": {
-    "lines_added": 23,
-    "lines_removed": 10,
-    "lines_changed": 3,
-    "change_ratio": 0.1734
+    "lines_added": 0,
+    "lines_removed": 3,
+    "lines_changed": 0,
+    "change_ratio": 0.0244
   },
   "is_major": false,
   "reordering_only": false,
   "keywords": [],
   "changes": [
     {
-      "type": "modify",
+      "type": "remove",
       "position": 61,
-      "old_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru",
-      "new_text": "Поиск сотрудников",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
-        },
-        {
-          "type": "add",
-          "text": "Поиск сотрудников"
-        }
-      ]
+      "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
     },
     {
       "type": "remove",
@@ -34,163 +23,6 @@
       "type": "remove",
       "position": 63,
       "text": "Управляйте этапами, назначайте собеседования, добавляйте заказчиков"
-    },
-    {
-      "type": "add",
-      "position": 63,
-      "text": "Помощь"
-    },
-    {
-      "type": "remove",
-      "position": 66,
-      "text": "Партнерам"
-    },
-    {
-      "type": "remove",
-      "position": 68,
-      "text": "Новости и статьи"
-    },
-    {
-      "type": "remove",
-      "position": 69,
-      "text": "Инвесторам"
-    },
-    {
-      "type": "remove",
-      "position": 70,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "remove",
-      "position": 71,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "modify",
-      "position": 69,
-      "old_text": "Поиск работы",
-      "new_text": "Партнерам",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Поиск работы"
-        },
-        {
-          "type": "add",
-          "text": "Партнерам"
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 70,
-      "text": "Инвесторам"
-    },
-    {
-      "type": "add",
-      "position": 71,
-      "text": "Каталог компаний"
-    },
-    {
-      "type": "add",
-      "position": 72,
-      "text": "Работа по профессиям"
-    },
-    {
-      "type": "add",
-      "position": 73,
-      "text": "Работа рядом с метро"
-    },
-    {
-      "type": "add",
-      "position": 74,
-      "text": "Готовое резюме"
-    },
-    {
-      "type": "add",
-      "position": 75,
-      "text": "Все сервисы"
-    },
-    {
-      "type": "add",
-      "position": 76,
-      "text": "Профориентация"
-    },
-    {
-      "type": "add",
-      "position": 77,
-      "text": "Продвижение резюме"
-    },
-    {
-      "type": "add",
-      "position": 78,
-      "text": "Хочу у вас работать"
-    },
-    {
-      "type": "add",
-      "position": 79,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "add",
-      "position": 80,
-      "text": "Экспертная рекомендация"
-    },
-    {
-      "type": "add",
-      "position": 81,
-      "text": "Рынок труда"
-    },
-    {
-      "type": "add",
-      "position": 82,
-      "text": "Жизнь в компании"
-    },
-    {
-      "type": "add",
-      "position": 83,
-      "text": "ИТ-проекты"
-    },
-    {
-      "type": "add",
-      "position": 84,
-      "text": "Рейтинг работодателей России"
-    },
-    {
-      "type": "add",
-      "position": 85,
-      "text": "Карьера для молодых специалистов"
-    },
-    {
-      "type": "add",
-      "position": 86,
-      "text": "Школа программистов"
-    },
-    {
-      "type": "add",
-      "position": 87,
-      "text": "Карьера в некоммерческих организациях"
-    },
-    {
-      "type": "add",
-      "position": 88,
-      "text": "Боты для уведомлений"
-    },
-    {
-      "type": "modify",
-      "position": 93,
-      "old_text": "Switch to English",
-      "new_text": "Пользовательское соглашение",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Switch to English"
-        },
-        {
-          "type": "add",
-          "text": "Пользовательское соглашение"
-        }
-      ]
     }
   ],
   "site": "hh",
@@ -198,8 +30,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2024-07-05-0116",
   "to_date": "2024-11-26-1834",
-  "from_hash": "b558d8c66ac1fcc6fb5909d5af485dedaf01598166e1bf4081d511705014eabd",
-  "to_hash": "598dc785906f9974bdd0af6c22226450d3acfbad770e6df1efdbf6ba44817579",
+  "from_hash": "23c6d4b95bb891e7ff93313498b5138137ba8235638f93d32f218d3893e7faf6",
+  "to_hash": "301686003c6bc7b446f5711a1ca7bb0b3e2487ed5865b26fffc507200acaa228",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20241126/https://hh.ru/article/personal_data"

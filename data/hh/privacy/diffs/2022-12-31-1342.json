@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 3,
-    "lines_removed": 2,
-    "lines_changed": 2,
-    "change_ratio": 0.0173
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0125
   },
   "is_major": false,
   "reordering_only": false,
@@ -30,67 +30,6 @@
           "text": "Сайт; — дата и время посещения сайта; — источник перехода (UTM метка); — значение UTM меток от source до content; — уникальный идентификатор, присваиваемый интернет-сторонним сервисом, обеспечивающим обработку статистических данных."
         }
       ]
-    },
-    {
-      "type": "add",
-      "position": 74,
-      "text": "Экспертная рекомендация"
-    },
-    {
-      "type": "modify",
-      "position": 87,
-      "old_text": "Сегодня на сайте 990379 вакансии , 61342920 резюме , 1780239 компаний и за неделю 2574678 приглашения",
-      "new_text": "Сегодня на сайте 842245 вакансии , 61478863 резюме , 1836824 компании и за неделю 1270051 приглашение",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Сегодня на сайте"
-        },
-        {
-          "type": "remove",
-          "text": "990379"
-        },
-        {
-          "type": "add",
-          "text": "842245"
-        },
-        {
-          "type": "keep",
-          "text": "вакансии ,"
-        },
-        {
-          "type": "remove",
-          "text": "61342920"
-        },
-        {
-          "type": "add",
-          "text": "61478863"
-        },
-        {
-          "type": "keep",
-          "text": "резюме ,"
-        },
-        {
-          "type": "remove",
-          "text": "1780239 компаний"
-        },
-        {
-          "type": "add",
-          "text": "1836824 компании"
-        },
-        {
-          "type": "keep",
-          "text": "и за неделю"
-        },
-        {
-          "type": "remove",
-          "text": "2574678 приглашения"
-        },
-        {
-          "type": "add",
-          "text": "1270051 приглашение"
-        }
-      ]
     }
   ],
   "site": "hh",
@@ -98,8 +37,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2022-10-01-0551",
   "to_date": "2022-12-31-1342",
-  "from_hash": "10926a17e6bff88262fca71ec776e92e9c500e6ecc32dac40b8cc4b2a237d3e6",
-  "to_hash": "ed5198cf704b47cf2f70690a837b92e86d2ae77288328b664f37583870cdc203",
+  "from_hash": "0d6a9e6b49bb1fd6b52d497fe401f146de9e6cb909757410d9191539c4d0f384",
+  "to_hash": "99c1722a127fe3e4bca48afee86e0225b42387acb6b5ac8410b98bab22604ada",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/article/personal_data"

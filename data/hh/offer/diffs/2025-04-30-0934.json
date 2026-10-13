@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 12,
-    "lines_removed": 6,
-    "lines_changed": 6,
-    "change_ratio": 0.0218
+    "lines_added": 10,
+    "lines_removed": 5,
+    "lines_changed": 5,
+    "change_ratio": 0.0208
   },
   "is_major": false,
   "reordering_only": false,
@@ -148,27 +148,6 @@
           "text": "вакансий)."
         }
       ]
-    },
-    {
-      "type": "modify",
-      "position": 257,
-      "old_text": "hh PRO новое",
-      "new_text": "Сетка: соцсеть для нетворкинга",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "hh PRO новое"
-        },
-        {
-          "type": "add",
-          "text": "Сетка: соцсеть для нетворкинга"
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 258,
-      "text": "hh PRO Новое"
     }
   ],
   "site": "hh",
@@ -176,8 +155,8 @@
   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
   "from_date": "2025-01-14-2315",
   "to_date": "2025-04-30-0934",
-  "from_hash": "51a38289ea5ef625271f36d9369947500aea44e8a877763e109f530805c2de67",
-  "to_hash": "95faf150bb1e4e0195b22ffdf347f652951ca4f98cb5bf861de6cf72e9f0799b",
+  "from_hash": "9caa7e758dfecda39aef645d41023f6398420ca28498fe5b61e167d8e60024ba",
+  "to_hash": "8648172b5998ddeda872beb5b2ce0515b4cc63ab9189ef126db26a42e4d69c16",
   "url": "https://hh.ru/account/agreement",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20250430/https://hh.ru/account/agreement"

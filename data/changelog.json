@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:42:43+00:00",
+  "updated": "2026-10-13T11:33:08+00:00",
   "entries": [
     {
       "date": "2026-10-12",
@@ -23,17 +23,50 @@
     {
       "site_id": "hh",
       "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-10-11",
+      "ratio": 0.4078,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 41% документа: +32 / −41 строк",
+      "diff_path": "hh/privacy/diffs/2026-10-11.json",
+      "wayback_url": "https://web.archive.org/web/20261011/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2026-10-11",
+      "ratio": 0.0047,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 0% документа: +3 / −2 строк",
+      "diff_path": "hh/offer/diffs/2026-10-11.json",
+      "wayback_url": "https://web.archive.org/web/20261011/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
       "doc_id": "offer",
       "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
       "date": "2026-07-29-1039",
-      "ratio": 0.1141,
+      "ratio": 0.0628,
       "is_major": false,
       "keywords": [
         "персональные данные",
         "ответственность",
         "хранение данных"
       ],
-      "summary": "Изменено 11% документа: +38 / −44 строк",
+      "summary": "Изменено 6% документа: +38 / −9 строк",
       "diff_path": "hh/offer/diffs/2026-07-29-1039.json",
       "wayback_url": "https://web.archive.org/web/20260729/https://hh.ru/account/agreement",
       "retrospective": true
@@ -44,12 +77,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2026-07-23-1635",
-      "ratio": 0.2449,
+      "ratio": 0.0089,
       "is_major": false,
-      "keywords": [
-        "персональные данные"
-      ],
-      "summary": "Изменено 24% документа: +1 / −36 строк",
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
       "diff_path": "hh/privacy/diffs/2026-07-23-1635.json",
       "wayback_url": "https://web.archive.org/web/20260723/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -74,12 +105,12 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2026-05-03-1014",
-      "ratio": 0.033,
+      "ratio": 0.0268,
       "is_major": false,
       "keywords": [
         "согласие"
       ],
-      "summary": "Изменено 3% документа: +5 / −5 строк",
+      "summary": "Изменено 3% документа: +3 / −3 строк",
       "diff_path": "hh/privacy/diffs/2026-05-03-1014.json",
       "wayback_url": "https://web.archive.org/web/20260503/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -104,7 +135,7 @@
       "doc_id": "offer",
       "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
       "date": "2026-04-30-0503",
-      "ratio": 0.0719,
+      "ratio": 0.0721,
       "is_major": false,
       "keywords": [
         "персональные данные",
@@ -112,7 +143,7 @@
         "суд",
         "согласие"
       ],
-      "summary": "Изменено 7% документа: +43 / −23 строк",
+      "summary": "Изменено 7% документа: +40 / −19 строк",
       "diff_path": "hh/offer/diffs/2026-04-30-0503.json",
       "wayback_url": "https://web.archive.org/web/20260430/https://hh.ru/account/agreement",
       "retrospective": true
@@ -137,10 +168,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2026-01-13-1600",
-      "ratio": 0.1916,
+      "ratio": 0.0348,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 19% документа: +26 / −11 строк",
+      "summary": "Изменено 3% документа: +1 / −4 строк",
       "diff_path": "hh/privacy/diffs/2026-01-13-1600.json",
       "wayback_url": "https://web.archive.org/web/20260113/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -151,14 +182,14 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2025-12-29-2224",
-      "ratio": 0.2096,
+      "ratio": 0.0522,
       "is_major": false,
       "keywords": [
         "персональные данные",
         "согласие",
         "cookies"
       ],
-      "summary": "Изменено 21% документа: +13 / −28 строк",
+      "summary": "Изменено 5% документа: +6 / −3 строк",
       "diff_path": "hh/privacy/diffs/2025-12-29-2224.json",
       "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -169,7 +200,7 @@
       "doc_id": "offer",
       "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
       "date": "2025-12-29-2217",
-      "ratio": 0.0182,
+      "ratio": 0.0206,
       "is_major": false,
       "keywords": [
         "персональные данные",
@@ -219,7 +250,7 @@
       "doc_id": "offer",
       "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
       "date": "2025-08-15-2334",
-      "ratio": 0.0621,
+      "ratio": 0.0668,
       "is_major": false,
       "keywords": [
         "персональные данные",
@@ -227,7 +258,7 @@
         "суд",
         "согласие"
       ],
-      "summary": "Изменено 6% документа: +35 / −11 строк",
+      "summary": "Изменено 7% документа: +33 / −10 строк",
       "diff_path": "hh/offer/diffs/2025-08-15-2334.json",
       "wayback_url": "https://web.archive.org/web/20250815/https://hh.ru/account/agreement",
       "retrospective": true
@@ -252,7 +283,7 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2025-06-20-1645",
-      "ratio": 0.0055,
+      "ratio": 0.0089,
       "is_major": false,
       "keywords": [],
       "summary": "Изменено 1% документа: +1 / −1 строк",
@@ -285,10 +316,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2025-05-22-0536",
-      "ratio": 0.0166,
+      "ratio": 0.0089,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "summary": "Изменено 1% документа: +1 / −1 строк",
       "diff_path": "hh/privacy/diffs/2025-05-22-0536.json",
       "wayback_url": "https://web.archive.org/web/20250522/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -299,29 +330,15 @@
       "doc_id": "offer",
       "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
       "date": "2025-04-30-0934",
-      "ratio": 0.0218,
+      "ratio": 0.0208,
       "is_major": false,
       "keywords": [
         "персональные данные",
         "согласие"
       ],
-      "summary": "Изменено 2% документа: +12 / −6 строк",
+      "summary": "Изменено 2% документа: +10 / −5 строк",
       "diff_path": "hh/offer/diffs/2025-04-30-0934.json",
       "wayback_url": "https://web.archive.org/web/20250430/https://hh.ru/account/agreement",
-      "retrospective": true
-    },
-    {
-      "site_id": "hh",
-      "site_name": "HeadHunter",
-      "doc_id": "offer",
-      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-      "date": "2025-01-14-2315",
-      "ratio": 0.0055,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 1% документа: +2 / −1 строк",
-      "diff_path": "hh/offer/diffs/2025-01-14-2315.json",
-      "wayback_url": "https://web.archive.org/web/20250114/https://hh.ru/account/agreement",
       "retrospective": true
     },
     {
@@ -347,12 +364,12 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2025-01-08-1534",
-      "ratio": 0.0546,
+      "ratio": 0.0603,
       "is_major": false,
       "keywords": [
         "персональные данные"
       ],
-      "summary": "Изменено 5% документа: +5 / −8 строк",
+      "summary": "Изменено 6% документа: +3 / −7 строк",
       "diff_path": "hh/privacy/diffs/2025-01-08-1534.json",
       "wayback_url": "https://web.archive.org/web/20250108/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -381,7 +398,7 @@
       "doc_id": "offer",
       "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
       "date": "2024-12-03-0628",
-      "ratio": 0.4049,
+      "ratio": 0.4273,
       "is_major": false,
       "keywords": [
         "персональные данные",
@@ -390,7 +407,7 @@
         "суд",
         "хранение данных"
       ],
-      "summary": "Изменено 40% документа: +187 / −169 строк",
+      "summary": "Изменено 43% документа: +184 / −169 строк",
       "diff_path": "hh/offer/diffs/2024-12-03-0628.json",
       "wayback_url": "https://web.archive.org/web/20241203/https://hh.ru/account/agreement",
       "retrospective": true
@@ -401,10 +418,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2024-11-26-1834",
-      "ratio": 0.1734,
+      "ratio": 0.0244,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 17% документа: +23 / −10 строк",
+      "summary": "Изменено 2% документа: +0 / −3 строк",
       "diff_path": "hh/privacy/diffs/2024-11-26-1834.json",
       "wayback_url": "https://web.archive.org/web/20241126/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -469,7 +486,7 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2024-07-05-0116",
-      "ratio": 0.0063,
+      "ratio": 0.0079,
       "is_major": false,
       "keywords": [],
       "summary": "Изменено 1% документа: +1 / −1 строк",
@@ -491,20 +508,6 @@
       "summary": "Изменено 6% документа: +6 / −6 строк",
       "diff_path": "vk/terms/diffs/2024-07-03-0918.json",
       "wayback_url": "https://web.archive.org/web/20240703/https://vk.ru/terms",
-      "retrospective": true
-    },
-    {
-      "site_id": "hh",
-      "site_name": "HeadHunter",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
-      "date": "2024-04-02-0425",
-      "ratio": 0.1037,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 10% документа: +7 / −11 строк",
-      "diff_path": "hh/privacy/diffs/2024-04-02-0425.json",
-      "wayback_url": "https://web.archive.org/web/20240402/https://hh.ru/article/personal_data",
       "retrospective": true
     },
     {
@@ -560,22 +563,8 @@
       "site_name": "HeadHunter",
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
-      "date": "2024-01-01-1729",
-      "ratio": 0.006,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 1% документа: +1 / −1 строк",
-      "diff_path": "hh/privacy/diffs/2024-01-01-1729.json",
-      "wayback_url": "https://web.archive.org/web/20240101/https://hh.ru/article/personal_data",
-      "retrospective": true
-    },
-    {
-      "site_id": "hh",
-      "site_name": "HeadHunter",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
       "date": "2023-12-31-1701",
-      "ratio": 0.4552,
+      "ratio": 0.5849,
       "is_major": false,
       "keywords": [
         "персональные данные",
@@ -584,7 +573,7 @@
         "хранение данных",
         "согласие"
       ],
-      "summary": "Изменено 46% документа: +66 / −43 строк",
+      "summary": "Изменено 58% документа: +62 / −42 строк",
       "diff_path": "hh/privacy/diffs/2023-12-31-1701.json",
       "wayback_url": "https://web.archive.org/web/20231231/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -654,8 +643,8 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2023-08-17-1749",
-      "ratio": 0.5638,
-      "is_major": false,
+      "ratio": 0.6091,
+      "is_major": true,
       "keywords": [
         "персональные данные",
         "ответственность",
@@ -663,7 +652,7 @@
         "хранение данных",
         "согласие"
       ],
-      "summary": "Изменено 56% документа: +57 / −84 строк",
+      "summary": "Изменено 61% документа: +43 / −67 строк",
       "diff_path": "hh/privacy/diffs/2023-08-17-1749.json",
       "wayback_url": "https://web.archive.org/web/20230817/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -764,10 +753,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2023-04-11-0403",
-      "ratio": 0.0345,
+      "ratio": 0.0224,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 3% документа: +6 / −4 строк",
+      "summary": "Изменено 2% документа: +3 / −3 строк",
       "diff_path": "hh/privacy/diffs/2023-04-11-0403.json",
       "wayback_url": "https://web.archive.org/web/20230411/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -890,8 +879,8 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2023-01-01-0825",
-      "ratio": 0.5838,
-      "is_major": false,
+      "ratio": 0.6262,
+      "is_major": true,
       "keywords": [
         "персональные данные",
         "ответственность",
@@ -899,7 +888,7 @@
         "хранение данных",
         "согласие"
       ],
-      "summary": "Изменено 58% документа: +84 / −85 строк",
+      "summary": "Изменено 63% документа: +67 / −40 строк",
       "diff_path": "hh/privacy/diffs/2023-01-01-0825.json",
       "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -910,12 +899,12 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2022-12-31-1342",
-      "ratio": 0.0173,
+      "ratio": 0.0125,
       "is_major": false,
       "keywords": [
         "персональные данные"
       ],
-      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "summary": "Изменено 1% документа: +1 / −1 строк",
       "diff_path": "hh/privacy/diffs/2022-12-31-1342.json",
       "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -1002,8 +991,8 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2022-10-01-0551",
-      "ratio": 0.5814,
-      "is_major": false,
+      "ratio": 0.6262,
+      "is_major": true,
       "keywords": [
         "персональные данные",
         "ответственность",
@@ -1011,7 +1000,7 @@
         "хранение данных",
         "согласие"
       ],
-      "summary": "Изменено 58% документа: +84 / −84 строк",
+      "summary": "Изменено 63% документа: +40 / −67 строк",
       "diff_path": "hh/privacy/diffs/2022-10-01-0551.json",
       "wayback_url": "https://web.archive.org/web/20221001/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -1052,10 +1041,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2022-06-01-1326",
-      "ratio": 0.1198,
+      "ratio": 0.1373,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 12% документа: +3 / −23 строк",
+      "summary": "Изменено 14% документа: +2 / −21 строк",
       "diff_path": "hh/privacy/diffs/2022-06-01-1326.json",
       "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -1144,22 +1133,8 @@
       "site_name": "HeadHunter",
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
-      "date": "2022-01-01-1810",
-      "ratio": 0.0094,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 1% документа: +2 / −2 строк",
-      "diff_path": "hh/privacy/diffs/2022-01-01-1810.json",
-      "wayback_url": "https://web.archive.org/web/20220101/https://hh.ru/article/personal_data",
-      "retrospective": true
-    },
-    {
-      "site_id": "hh",
-      "site_name": "HeadHunter",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
       "date": "2021-12-31-1724",
-      "ratio": 0.3564,
+      "ratio": 0.4459,
       "is_major": false,
       "keywords": [
         "персональные данные",
@@ -1168,7 +1143,7 @@
         "хранение данных",
         "согласие"
       ],
-      "summary": "Изменено 36% документа: +67 / −43 строк",
+      "summary": "Изменено 45% документа: +66 / −42 строк",
       "diff_path": "hh/privacy/diffs/2021-12-31-1724.json",
       "wayback_url": "https://web.archive.org/web/20211231/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -1249,10 +1224,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2021-08-30-0430",
-      "ratio": 0.0366,
+      "ratio": 0.0323,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 4% документа: +6 / −6 строк",
+      "summary": "Изменено 3% документа: +4 / −4 строк",
       "diff_path": "hh/privacy/diffs/2021-08-30-0430.json",
       "wayback_url": "https://web.archive.org/web/20210830/https://hh.ru/article/personal_data",
       "retrospective": true
@@ -1282,10 +1257,10 @@
       "doc_id": "privacy",
       "doc_title": "Политика конфиденциальности",
       "date": "2021-05-14-0413",
-      "ratio": 0.0432,
+      "ratio": 0.0492,
       "is_major": false,
       "keywords": [],
-      "summary": "Изменено 4% документа: +7 / −5 строк",
+      "summary": "Изменено 5% документа: +6 / −4 строк",
       "diff_path": "hh/privacy/diffs/2021-05-14-0413.json",
       "wayback_url": "https://web.archive.org/web/20210514/https://hh.ru/article/personal_data",
       "retrospective": true

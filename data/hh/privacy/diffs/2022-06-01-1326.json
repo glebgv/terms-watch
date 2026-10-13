@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 3,
-    "lines_removed": 23,
-    "lines_changed": 3,
-    "change_ratio": 0.1198
+    "lines_added": 2,
+    "lines_removed": 21,
+    "lines_changed": 2,
+    "change_ratio": 0.1373
   },
   "is_major": false,
   "reordering_only": false,
@@ -135,27 +135,6 @@
       "type": "remove",
       "position": 85,
       "text": "Talantix"
-    },
-    {
-      "type": "modify",
-      "position": 86,
-      "old_text": "© 2022 HeadHunter Group of Companies",
-      "new_text": "On the site today: 840296 vacancies , 58933186 resumes , 1779419 companies and in a week: 2491942 invitations",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "© 2022 HeadHunter Group of Companies"
-        },
-        {
-          "type": "add",
-          "text": "On the site today: 840296 vacancies , 58933186 resumes , 1779419 companies and in a week: 2491942 invitations"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 106,
-      "text": "On the site today: 920 121 vacancy, 55 593 698 resumes, 1 677 258 companies and in a week: 901 352 invitations"
     }
   ],
   "site": "hh",
@@ -163,8 +142,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2022-01-01-1810",
   "to_date": "2022-06-01-1326",
-  "from_hash": "e9473f298e474d80cca92e896a65e8525955e07eddcc618a716bd66eb740555c",
-  "to_hash": "e65fa1c0511a8d0e3b6a75f907c43dce1e7bec73237e3176389be92a6445f5a3",
+  "from_hash": "c503211029256da6232b4470df67cd58a2f4d20bc2234ba4e8af8b94616a01cd",
+  "to_hash": "5da4fddb9a15d341359dc3bca3422518997a7ac9bae7bf535fabe3f005c2d885",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data"

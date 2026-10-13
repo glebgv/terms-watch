@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 26,
-    "lines_removed": 11,
-    "lines_changed": 5,
-    "change_ratio": 0.1916
+    "lines_added": 1,
+    "lines_removed": 4,
+    "lines_changed": 1,
+    "change_ratio": 0.0348
   },
   "is_major": false,
   "reordering_only": false,
@@ -34,203 +34,19 @@
       ]
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 57,
-      "old_text": "Покажем вашу ИТ-команду изнутри и снаружи в статье про ИТ-проекты",
-      "new_text": "Размещение вакансий",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Покажем вашу ИТ-команду изнутри и снаружи в статье про ИТ-проекты"
-        },
-        {
-          "type": "add",
-          "text": "Размещение вакансий"
-        }
-      ]
+      "text": "Покажем вашу ИТ-команду изнутри и снаружи в статье про ИТ-проекты"
     },
     {
-      "type": "modify",
+      "type": "remove",
       "position": 58,
-      "old_text": "Управляйте репутацией и влияйте на найм с сервисом Dream Job",
-      "new_text": "Поиск по резюме",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Управляйте репутацией и влияйте на найм с сервисом Dream Job"
-        },
-        {
-          "type": "add",
-          "text": "Поиск по резюме"
-        }
-      ]
+      "text": "Управляйте репутацией и влияйте на найм с сервисом Dream Job"
     },
     {
       "type": "remove",
       "position": 59,
       "text": "Автоматизируйте сбор откликов, настройте воронку, собирайте аналитику в 2 клика"
-    },
-    {
-      "type": "add",
-      "position": 60,
-      "text": "Помощь"
-    },
-    {
-      "type": "remove",
-      "position": 62,
-      "text": "Партнерам"
-    },
-    {
-      "type": "remove",
-      "position": 64,
-      "text": "Новости и статьи"
-    },
-    {
-      "type": "remove",
-      "position": 65,
-      "text": "Инвесторам"
-    },
-    {
-      "type": "remove",
-      "position": 66,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "remove",
-      "position": 67,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "modify",
-      "position": 66,
-      "old_text": "Поиск работы",
-      "new_text": "Партнерам",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Поиск работы"
-        },
-        {
-          "type": "add",
-          "text": "Партнерам"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 67,
-      "old_text": "Поиск по резюме",
-      "new_text": "Инвесторам",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Поиск по резюме"
-        },
-        {
-          "type": "add",
-          "text": "Инвесторам"
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 68,
-      "text": "Каталог компаний"
-    },
-    {
-      "type": "add",
-      "position": 69,
-      "text": "Работа по профессиям"
-    },
-    {
-      "type": "add",
-      "position": 70,
-      "text": "Работа рядом с метро"
-    },
-    {
-      "type": "add",
-      "position": 71,
-      "text": "hh PRO"
-    },
-    {
-      "type": "add",
-      "position": 72,
-      "text": "Готовое резюме"
-    },
-    {
-      "type": "add",
-      "position": 73,
-      "text": "Все сервисы"
-    },
-    {
-      "type": "add",
-      "position": 74,
-      "text": "Профориентация"
-    },
-    {
-      "type": "add",
-      "position": 75,
-      "text": "Хочу у вас работать"
-    },
-    {
-      "type": "add",
-      "position": 76,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "add",
-      "position": 77,
-      "text": "Экспертная рекомендация"
-    },
-    {
-      "type": "add",
-      "position": 78,
-      "text": "Рынок труда"
-    },
-    {
-      "type": "add",
-      "position": 79,
-      "text": "О компаниях в игровой форме"
-    },
-    {
-      "type": "add",
-      "position": 80,
-      "text": "Жизнь в компании"
-    },
-    {
-      "type": "add",
-      "position": 81,
-      "text": "ИТ-проекты"
-    },
-    {
-      "type": "add",
-      "position": 82,
-      "text": "Рейтинг работодателей России"
-    },
-    {
-      "type": "add",
-      "position": 83,
-      "text": "Карьера для молодых специалистов"
-    },
-    {
-      "type": "add",
-      "position": 84,
-      "text": "Школа программистов"
-    },
-    {
-      "type": "add",
-      "position": 85,
-      "text": "Карьера в некоммерческих организациях"
-    },
-    {
-      "type": "add",
-      "position": 86,
-      "text": "Боты для уведомлений"
-    },
-    {
-      "type": "add",
-      "position": 91,
-      "text": "Пользовательское соглашение"
     }
   ],
   "site": "hh",
@@ -238,8 +54,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2025-12-29-2224",
   "to_date": "2026-01-13-1600",
-  "from_hash": "75509b80c235853cca48bbc5b7ad84a6b73c76c77023e88677081c7828344050",
-  "to_hash": "8e0c4c9a84945f46cd6e6a747a007a1b4538eda55483f8ad731353ac332ce9ec",
+  "from_hash": "2250e84b4e6b000eee62301a95543870accc9ebc85e4dce9246d68d2ac5c0dfc",
+  "to_hash": "55c62f583f68eb3c751a3cab3d406c4f2cba105591be8b9dcd82c7538cdbe5b4",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20260113/https://hh.ru/article/personal_data"

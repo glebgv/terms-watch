@@ -3,7 +3,7 @@
     "lines_added": 1,
     "lines_removed": 1,
     "lines_changed": 1,
-    "change_ratio": 0.0063
+    "change_ratio": 0.0079
   },
   "is_major": false,
   "reordering_only": false,
@@ -31,8 +31,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2024-04-02-0425",
   "to_date": "2024-07-05-0116",
-  "from_hash": "022e05c24d2f6c6803c8cad6f1c385b304568fc4fa6dd4ab36a48c344672621b",
-  "to_hash": "b558d8c66ac1fcc6fb5909d5af485dedaf01598166e1bf4081d511705014eabd",
+  "from_hash": "92bcc5b41fb01ed19d4df45ac9b6d09c7c21ed2ab1cd2e37371c47aae62b93a4",
+  "to_hash": "23c6d4b95bb891e7ff93313498b5138137ba8235638f93d32f218d3893e7faf6",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20240705/https://hh.ru/article/personal_data"

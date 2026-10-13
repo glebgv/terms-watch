@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 67,
-    "lines_removed": 43,
-    "lines_changed": 43,
-    "change_ratio": 0.3564
+    "lines_added": 66,
+    "lines_removed": 42,
+    "lines_changed": 42,
+    "change_ratio": 0.4459
   },
   "is_major": false,
   "reordering_only": false,
@@ -876,66 +876,6 @@
       "type": "add",
       "position": 82,
       "text": "Помогает повысить качество откликов"
-    },
-    {
-      "type": "modify",
-      "position": 106,
-      "old_text": "On the site today: 1 058 688 vacancies, 53 177 767 resumes, 1 580 827 companies and in a week: 2 223 398 invitations",
-      "new_text": "On the site today: 923 606 vacancies, 55 589 409 resumes, 1 677 255 companies and in a week: 1 117 844 invitations",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "On the site today:"
-        },
-        {
-          "type": "remove",
-          "text": "1 058 688"
-        },
-        {
-          "type": "add",
-          "text": "923 606"
-        },
-        {
-          "type": "keep",
-          "text": "vacancies,"
-        },
-        {
-          "type": "remove",
-          "text": "53 177 767"
-        },
-        {
-          "type": "add",
-          "text": "55 589 409"
-        },
-        {
-          "type": "keep",
-          "text": "resumes, 1"
-        },
-        {
-          "type": "remove",
-          "text": "580 827"
-        },
-        {
-          "type": "add",
-          "text": "677 255"
-        },
-        {
-          "type": "keep",
-          "text": "companies and in a week:"
-        },
-        {
-          "type": "remove",
-          "text": "2 223 398"
-        },
-        {
-          "type": "add",
-          "text": "1 117 844"
-        },
-        {
-          "type": "keep",
-          "text": "invitations"
-        }
-      ]
     }
   ],
   "site": "hh",
@@ -943,8 +883,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2021-08-30-0430",
   "to_date": "2021-12-31-1724",
-  "from_hash": "9e9b78e3e09a6f2b5469bb02a32be5f7578b027f57d971d3520a8e9846b6593a",
-  "to_hash": "a1eb2ac77444c493f6196666be525db558648844ecbbd2e9ea9b2698b9a63275",
+  "from_hash": "d52a9299102a197f06ec1dfceb37a23a246d5d0327e11479ee826304d004cadf",
+  "to_hash": "c503211029256da6232b4470df67cd58a2f4d20bc2234ba4e8af8b94616a01cd",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20211231/https://hh.ru/article/personal_data"

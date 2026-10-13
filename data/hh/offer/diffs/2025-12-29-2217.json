@@ -3,7 +3,7 @@
     "lines_added": 10,
     "lines_removed": 9,
     "lines_changed": 8,
-    "change_ratio": 0.0182
+    "change_ratio": 0.0206
   },
   "is_major": false,
   "reordering_only": false,
@@ -244,8 +244,8 @@
   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
   "from_date": "2025-08-15-2334",
   "to_date": "2025-12-29-2217",
-  "from_hash": "afcb7b862edaa22ba7b5ea786f63c7f3d3608860ea971ab6821b397dbdde2123",
-  "to_hash": "a52cb9d07a497bf75d0b6db57c415ce2f8cfc1164a603f828cfa4fce8b7f44be",
+  "from_hash": "8f8fefb12689aa9f3c0f2e9bc6dd25312a7b420608519c00eb837b30300e062d",
+  "to_hash": "3fd69c6f1bd194c220e88184f72f09180a950a919e1dad8eef0169dd03fcb8a2",
   "url": "https://hh.ru/account/agreement",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/account/agreement"

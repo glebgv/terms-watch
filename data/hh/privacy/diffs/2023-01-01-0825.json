@@ -1,11 +1,11 @@
 {
   "stats": {
-    "lines_added": 84,
-    "lines_removed": 85,
-    "lines_changed": 68,
-    "change_ratio": 0.5838
+    "lines_added": 67,
+    "lines_removed": 40,
+    "lines_changed": 40,
+    "change_ratio": 0.6262
   },
-  "is_major": false,
+  "is_major": true,
   "reordering_only": false,
   "keywords": [
     "персональные данные",
@@ -714,308 +714,99 @@
       ]
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 41,
-      "old_text": "Поиск сотрудников",
-      "new_text": "Only personal data that meets the purposes of their processing are subject to processing. The content and volume of personal data processed by the Company correspond to the stated purposes of processing, redundancy of processed personal data is not allowed.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Поиск сотрудников"
-        },
-        {
-          "type": "add",
-          "text": "Only personal data that meets the purposes of their processing are subject to processing. The content and volume of personal data processed by the Company correspond to the stated purposes of processing, redundancy of processed personal data is not allowed."
-        }
-      ]
+      "text": "Only personal data that meets the purposes of their processing are subject to processing. The content and volume of personal data processed by the Company correspond to the stated purposes of processing, redundancy of processed personal data is not allowed."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 42,
-      "old_text": "Помощь",
-      "new_text": "When processing personal data, the Company ensures the accuracy of personal data, their sufficiency and, if necessary, relevance in relation to the purposes of personal data processing. The Company takes necessary measures (ensures their adoption) by deleting or clarifying incomplete or inaccurate personal data.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Помощь"
-        },
-        {
-          "type": "add",
-          "text": "When processing personal data, the Company ensures the accuracy of personal data, their sufficiency and, if necessary, relevance in relation to the purposes of personal data processing. The Company takes necessary measures (ensures their adoption) by deleting or clarifying incomplete or inaccurate personal data."
-        }
-      ]
+      "text": "When processing personal data, the Company ensures the accuracy of personal data, their sufficiency and, if necessary, relevance in relation to the purposes of personal data processing. The Company takes necessary measures (ensures their adoption) by deleting or clarifying incomplete or inaccurate personal data."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 43,
-      "old_text": "Пользовательское соглашение",
-      "new_text": "In the course of its business the Company may provide and (or) entrust the processing of personal data to another person with the consent of the subject of personal data, unless otherwise provided by the legislation of the Russian Federation on personal data. At the same time, a mandatory condition for providing and (or) ordering the processing of personal data to another person is the obligation of the parties to ensure confidentiality and security of personal data during their processing.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Пользовательское соглашение"
-        },
-        {
-          "type": "add",
-          "text": "In the course of its business the Company may provide and (or) entrust the processing of personal data to another person with the consent of the subject of personal data, unless otherwise provided by the legislation of the Russian Federation on personal data. At the same time, a mandatory condition for providing and (or) ordering the processing of personal data to another person is the obligation of the parties to ensure confidentiality and security of personal data during their processing."
-        }
-      ]
+      "text": "In the course of its business the Company may provide and (or) entrust the processing of personal data to another person with the consent of the subject of personal data, unless otherwise provided by the legislation of the Russian Federation on personal data. At the same time, a mandatory condition for providing and (or) ordering the processing of personal data to another person is the obligation of the parties to ensure confidentiality and security of personal data during their processing."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 44,
-      "old_text": "Каталог компаний",
-      "new_text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Каталог компаний"
-        },
-        {
-          "type": "add",
-          "text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected."
-        }
-      ]
+      "text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 45,
-      "old_text": "Работа по профессиям",
-      "new_text": "4. Rights of personal data subject",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Работа по профессиям"
-        },
-        {
-          "type": "add",
-          "text": "4. Rights of personal data subject"
-        }
-      ]
+      "text": "4. Rights of personal data subject"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 46,
-      "old_text": "Работа рядом с метро",
-      "new_text": "The personal data subject has the right (unless otherwise provided by law):",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Работа рядом с метро"
-        },
-        {
-          "type": "add",
-          "text": "The personal data subject has the right (unless otherwise provided by law):"
-        }
-      ]
+      "text": "The personal data subject has the right (unless otherwise provided by law):"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 47,
-      "old_text": "Уведомления в мессенджер",
-      "new_text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Уведомления в мессенджер"
-        },
-        {
-          "type": "add",
-          "text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;"
-        }
-      ]
+      "text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 48,
-      "old_text": "Switch to English",
-      "new_text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Switch to English"
-        },
-        {
-          "type": "add",
-          "text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;"
-        }
-      ]
+      "text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 49,
-      "old_text": "HeadHunter",
-      "new_text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "HeadHunter"
-        },
-        {
-          "type": "add",
-          "text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;"
-        }
-      ]
+      "text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 50,
-      "old_text": "О компании",
-      "new_text": "• To require notification of all persons who have previously been informed of incorrect or incomplete personal data about all exceptions, corrections or additions made to the personal data subject’s personal data;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "О компании"
-        },
-        {
-          "type": "add",
-          "text": "• To require notification of all persons who have previously been informed of incorrect or incomplete personal data about all exceptions, corrections or additions made to the personal data subject’s personal data;"
-        }
-      ]
+      "text": "• To require notification of all persons who have previously been informed of incorrect or incomplete personal data about all exceptions, corrections or additions made to the personal data subject’s personal data;"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 51,
-      "old_text": "Наши вакансии",
-      "new_text": "• To appeal to the authorized body for the protection of the rights of personal data subjects or in court against illegal actions or omissions in the processing of his personal data;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Наши вакансии"
-        },
-        {
-          "type": "add",
-          "text": "• To appeal to the authorized body for the protection of the rights of personal data subjects or in court against illegal actions or omissions in the processing of his personal data;"
-        }
-      ]
+      "text": "• To appeal to the authorized body for the protection of the rights of personal data subjects or in court against illegal actions or omissions in the processing of his personal data;"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 52,
-      "old_text": "Реклама на сайте",
-      "new_text": "• To protect their rights and legitimate interests, including compensation for damages and (or) compensation for moral damage in court.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Реклама на сайте"
-        },
-        {
-          "type": "add",
-          "text": "• To protect their rights and legitimate interests, including compensation for damages and (or) compensation for moral damage in court."
-        }
-      ]
+      "text": "• To protect their rights and legitimate interests, including compensation for damages and (or) compensation for moral damage in court."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 53,
-      "old_text": "Требования к ПО",
-      "new_text": "If you have any questions about the nature of the application, use, modification or deletion of your personal data that you have provided, or if you wish to refuse of their further processing by the Company, please contact us by mail at the Company address or by e-mail: [LINK].",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Требования к ПО"
-        },
-        {
-          "type": "add",
-          "text": "If you have any questions about the nature of the application, use, modification or deletion of your personal data that you have provided, or if you wish to refuse of their further processing by the Company, please contact us by mail at the Company address or by e-mail: [LINK]."
-        }
-      ]
+      "text": "If you have any questions about the nature of the application, use, modification or deletion of your personal data that you have provided, or if you wish to refuse of their further processing by the Company, please contact us by mail at the Company address or by e-mail: [LINK]."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 54,
-      "old_text": "Защита персональных данных",
-      "new_text": "Please note that the operator of personal data is not responsible for misleading information provided by the subject of personal data.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Защита персональных данных"
-        },
-        {
-          "type": "add",
-          "text": "Please note that the operator of personal data is not responsible for misleading information provided by the subject of personal data."
-        }
-      ]
+      "text": "Please note that the operator of personal data is not responsible for misleading information provided by the subject of personal data."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 55,
-      "old_text": "Безопасный HeadHunter",
-      "new_text": "5. Implementation of personal data protection requirements",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Безопасный HeadHunter"
-        },
-        {
-          "type": "add",
-          "text": "5. Implementation of personal data protection requirements"
-        }
-      ]
+      "text": "5. Implementation of personal data protection requirements"
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 56,
-      "old_text": "Этика и комплаенс",
-      "new_text": "In order to maintain business reputation and ensure compliance with the requirements of federal legislation, the Company considers the most important tasks to ensure the legitimacy of personal data processing in the Company’s business processes and to ensure an appropriate level of personal data security processed in the Company.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Этика и комплаенс"
-        },
-        {
-          "type": "add",
-          "text": "In order to maintain business reputation and ensure compliance with the requirements of federal legislation, the Company considers the most important tasks to ensure the legitimacy of personal data processing in the Company’s business processes and to ensure an appropriate level of personal data security processed in the Company."
-        }
-      ]
+      "text": "In order to maintain business reputation and ensure compliance with the requirements of federal legislation, the Company considers the most important tasks to ensure the legitimacy of personal data processing in the Company’s business processes and to ensure an appropriate level of personal data security processed in the Company."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 57,
-      "old_text": "HeadHunter API",
-      "new_text": "The Company requires from other persons who have obtained access to personal data not to disclose it to third parties and not to distribute personal data without the consent of the personal data subject, unless otherwise provided by federal law.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "HeadHunter API"
-        },
-        {
-          "type": "add",
-          "text": "The Company requires from other persons who have obtained access to personal data not to disclose it to third parties and not to distribute personal data without the consent of the personal data subject, unless otherwise provided by federal law."
-        }
-      ]
+      "text": "The Company requires from other persons who have obtained access to personal data not to disclose it to third parties and not to distribute personal data without the consent of the personal data subject, unless otherwise provided by federal law."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 58,
-      "old_text": "Партнерам",
-      "new_text": "In order to ensure the security of personal data during their processing, the Company takes the necessary and sufficient legal, organizational and technical measures to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other illegal actions in relation to them.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Партнерам"
-        },
-        {
-          "type": "add",
-          "text": "In order to ensure the security of personal data during their processing, the Company takes the necessary and sufficient legal, organizational and technical measures to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other illegal actions in relation to them."
-        }
-      ]
+      "text": "In order to ensure the security of personal data during their processing, the Company takes the necessary and sufficient legal, organizational and technical measures to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other illegal actions in relation to them."
     },
     {
-      "type": "modify",
+      "type": "add",
       "position": 59,
-      "old_text": "Инвесторам",
-      "new_text": "The Company seeks to ensure that all measures implemented by it for the organizational and technical protection of personal data are carried out on a lawful basis, including in accordance with the requirements of the legislation of the Russian Federation on the processing of personal data.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Инвесторам"
-        },
-        {
-          "type": "add",
-          "text": "The Company seeks to ensure that all measures implemented by it for the organizational and technical protection of personal data are carried out on a lawful basis, including in accordance with the requirements of the legislation of the Russian Federation on the processing of personal data."
-        }
-      ]
+      "text": "The Company seeks to ensure that all measures implemented by it for the organizational and technical protection of personal data are carried out on a lawful basis, including in accordance with the requirements of the legislation of the Russian Federation on the processing of personal data."
     },
     {
       "type": "add",
@@ -1056,275 +847,6 @@
       "type": "add",
       "position": 67,
       "text": "For convenient work with the resume database and personnel"
-    },
-    {
-      "type": "add",
-      "position": 68,
-      "text": "Job search"
-    },
-    {
-      "type": "add",
-      "position": 69,
-      "text": "Russian version"
-    },
-    {
-      "type": "add",
-      "position": 70,
-      "text": "About the company"
-    },
-    {
-      "type": "add",
-      "position": 71,
-      "text": "Our vacancies"
-    },
-    {
-      "type": "add",
-      "position": 72,
-      "text": "For partners"
-    },
-    {
-      "type": "add",
-      "position": 73,
-      "text": "Advertising on the website"
-    },
-    {
-      "type": "add",
-      "position": 74,
-      "text": "News and articles"
-    },
-    {
-      "type": "add",
-      "position": 75,
-      "text": "Investors"
-    },
-    {
-      "type": "modify",
-      "position": 78,
-      "old_text": "Новости и статьи",
-      "new_text": "Production calendar",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Новости и статьи"
-        },
-        {
-          "type": "add",
-          "text": "Production calendar"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 79,
-      "old_text": "Новости рынка HR",
-      "new_text": "Software requirements",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Новости рынка HR"
-        },
-        {
-          "type": "add",
-          "text": "Software requirements"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 80,
-      "old_text": "Жизнь в компании",
-      "new_text": "Personal data protection",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Жизнь в компании"
-        },
-        {
-          "type": "add",
-          "text": "Personal data protection"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 81,
-      "old_text": "ИТ-проекты",
-      "new_text": "Secure HeadHunter",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "ИТ-проекты"
-        },
-        {
-          "type": "add",
-          "text": "Secure HeadHunter"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 82,
-      "old_text": "Рейтинг работодателей России",
-      "new_text": "Ethics and compliance",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Рейтинг работодателей России"
-        },
-        {
-          "type": "add",
-          "text": "Ethics and compliance"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 83,
-      "old_text": "Сервисы для соискателей",
-      "new_text": "HeadHunter API",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Сервисы для соискателей"
-        },
-        {
-          "type": "add",
-          "text": "HeadHunter API"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 84,
-      "old_text": "Готовое резюме",
-      "new_text": "Job search",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Готовое резюме"
-        },
-        {
-          "type": "add",
-          "text": "Job search"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 85,
-      "old_text": "Все сервисы",
-      "new_text": "Russian version",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Все сервисы"
-        },
-        {
-          "type": "add",
-          "text": "Russian version"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 86,
-      "old_text": "Профориентация",
-      "new_text": "Today 831113 vacancies , , 61480442 resumes , , 1836840 companies on the website and 1208888 invitations within the week",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Профориентация"
-        },
-        {
-          "type": "add",
-          "text": "Today 831113 vacancies , , 61480442 resumes , , 1836840 companies on the website and 1208888 invitations within the week"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 71,
-      "text": "Продвижение резюме"
-    },
-    {
-      "type": "remove",
-      "position": 72,
-      "text": "Хочу у вас работать"
-    },
-    {
-      "type": "remove",
-      "position": 73,
-      "text": "Производственный календарь"
-    },
-    {
-      "type": "remove",
-      "position": 74,
-      "text": "Экспертная рекомендация"
-    },
-    {
-      "type": "remove",
-      "position": 75,
-      "text": "Молодым специалистам"
-    },
-    {
-      "type": "remove",
-      "position": 76,
-      "text": "Карьера для молодых специалистов"
-    },
-    {
-      "type": "remove",
-      "position": 77,
-      "text": "Школа программистов"
-    },
-    {
-      "type": "remove",
-      "position": 78,
-      "text": "Школа продактов"
-    },
-    {
-      "type": "remove",
-      "position": 79,
-      "text": "Поиск сотрудников"
-    },
-    {
-      "type": "remove",
-      "position": 80,
-      "text": "Помощь"
-    },
-    {
-      "type": "remove",
-      "position": 81,
-      "text": "Пользовательское соглашение"
-    },
-    {
-      "type": "remove",
-      "position": 82,
-      "text": "Каталог компаний"
-    },
-    {
-      "type": "remove",
-      "position": 83,
-      "text": "Работа по профессиям"
-    },
-    {
-      "type": "remove",
-      "position": 84,
-      "text": "Работа рядом с метро"
-    },
-    {
-      "type": "remove",
-      "position": 85,
-      "text": "Уведомления в мессенджер"
-    },
-    {
-      "type": "remove",
-      "position": 86,
-      "text": "Switch to English"
-    },
-    {
-      "type": "remove",
-      "position": 87,
-      "text": "Сегодня на сайте 842245 вакансии , 61478863 резюме , 1836824 компании и за неделю 1270051 приглашение"
     }
   ],
   "site": "hh",
@@ -1332,8 +854,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2022-12-31-1342",
   "to_date": "2023-01-01-0825",
-  "from_hash": "ed5198cf704b47cf2f70690a837b92e86d2ae77288328b664f37583870cdc203",
-  "to_hash": "6ce3c9c45732daa5bd8fa77826127506d1a8d095fff8e847b87253cfcdf225d2",
+  "from_hash": "99c1722a127fe3e4bca48afee86e0225b42387acb6b5ac8410b98bab22604ada",
+  "to_hash": "9d732a401494dbd1b1699861079060c5ef601e5b15630f3d660ef5c1615030f6",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data"

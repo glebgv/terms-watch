@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 6,
-    "lines_removed": 4,
-    "lines_changed": 4,
-    "change_ratio": 0.0345
+    "lines_added": 3,
+    "lines_removed": 3,
+    "lines_changed": 3,
+    "change_ratio": 0.0224
   },
   "is_major": false,
   "reordering_only": false,
@@ -56,56 +56,6 @@
           "text": "CRM-system for candidate selection"
         }
       ]
-    },
-    {
-      "type": "add",
-      "position": 68,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "add",
-      "position": 85,
-      "text": "Кандидаты по профессиям"
-    },
-    {
-      "type": "modify",
-      "position": 88,
-      "old_text": "Today 831113 vacancies , , 61480442 resumes , , 1836840 companies on the website and 1208888 invitations within the week",
-      "new_text": "Today on the website 1172779 vacancies , 63295000 resumes , 1903254 companies and 3056165 invitations within the week",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Today"
-        },
-        {
-          "type": "remove",
-          "text": "831113 vacancies , , 61480442 resumes , , 1836840 companies"
-        },
-        {
-          "type": "keep",
-          "text": "on the website"
-        },
-        {
-          "type": "add",
-          "text": "1172779 vacancies , 63295000 resumes , 1903254 companies"
-        },
-        {
-          "type": "keep",
-          "text": "and"
-        },
-        {
-          "type": "remove",
-          "text": "1208888"
-        },
-        {
-          "type": "add",
-          "text": "3056165"
-        },
-        {
-          "type": "keep",
-          "text": "invitations within the week"
-        }
-      ]
     }
   ],
   "site": "hh",
@@ -113,8 +63,8 @@
   "doc_title": "Политика конфиденциальности",
   "from_date": "2023-01-01-0825",
   "to_date": "2023-04-11-0403",
-  "from_hash": "6ce3c9c45732daa5bd8fa77826127506d1a8d095fff8e847b87253cfcdf225d2",
-  "to_hash": "a1018170bf74b863cc3853f7390384a711e97c9a0e34495ea625717a286f802f",
+  "from_hash": "9d732a401494dbd1b1699861079060c5ef601e5b15630f3d660ef5c1615030f6",
+  "to_hash": "af36bceea1c00b9f2723eac3acc17f951985986cdce2c38968d111f4a8295e78",
   "url": "https://hh.ru/article/personal_data",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20230411/https://hh.ru/article/personal_data"

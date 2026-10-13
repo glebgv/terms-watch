@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 43,
-    "lines_removed": 23,
-    "lines_changed": 21,
-    "change_ratio": 0.0719
+    "lines_added": 40,
+    "lines_removed": 19,
+    "lines_changed": 19,
+    "change_ratio": 0.0721
   },
   "is_major": false,
   "reordering_only": false,
@@ -690,65 +690,6 @@
       "type": "add",
       "position": 276,
       "text": "8.14.1. Исполнитель не несет ответственности за возможную полную или частичную неработоспособность сервисов Сайта, обусловленную использованием Соискателем VPN-соединений, прокси-серверов, анонимайзеров или иных технологий, изменяющих маршрутизацию сетевого трафика. Временная недоступность или ограничение функционала Сайта в указанных случаях не признается нарушением обязательств со стороны Исполнителя."
-    },
-    {
-      "type": "remove",
-      "position": 271,
-      "text": "Помощь"
-    },
-    {
-      "type": "modify",
-      "position": 300,
-      "old_text": "Работа по профессиям",
-      "new_text": "Поиск по вакансиям в Москве",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Работа"
-        },
-        {
-          "type": "add",
-          "text": "Поиск"
-        },
-        {
-          "type": "keep",
-          "text": "по"
-        },
-        {
-          "type": "remove",
-          "text": "профессиям"
-        },
-        {
-          "type": "add",
-          "text": "вакансиям в Москве"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 302,
-      "old_text": "Сетка: соцсеть для нетворкинга",
-      "new_text": "hh PRO",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Сетка: соцсеть для нетворкинга"
-        },
-        {
-          "type": "add",
-          "text": "hh PRO"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 283,
-      "text": "hh PRO Новое"
-    },
-    {
-      "type": "add",
-      "position": 323,
-      "text": "ИТ аккредитация"
     }
   ],
   "site": "hh",
@@ -756,8 +697,8 @@
   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
   "from_date": "2025-12-29-2217",
   "to_date": "2026-04-30-0503",
-  "from_hash": "a52cb9d07a497bf75d0b6db57c415ce2f8cfc1164a603f828cfa4fce8b7f44be",
-  "to_hash": "064654543cf3191d788fe21cd42496891eed0e5413faba45aca86368e17f1832",
+  "from_hash": "3fd69c6f1bd194c220e88184f72f09180a950a919e1dad8eef0169dd03fcb8a2",
+  "to_hash": "b09b6ef8afe93c2b02484194a9e09e217923087010845aceb44782dd97f13048",
   "url": "https://hh.ru/account/agreement",
   "retrospective": true,
   "wayback_url": "https://web.archive.org/web/20260430/https://hh.ru/account/agreement"
