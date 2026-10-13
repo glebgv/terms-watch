@@ -1,0 +1,12 @@
+{
+  "id": "fl",
+  "doc_id": "price",
+  "name": "FL.ru",
+  "doc_title": "Прейскурант (Приложение 1)",
+  "url": "https://st.fl.ru/about/documents/appendix_1_price.pdf",
+  "selector": "",
+  "first_check": "2026-10-13",
+  "last_check": "2026-10-13",
+  "total_versions": 1,
+  "last_hash": "e45d9227628ae89ee244090f6b7d3b6f37296a58bccd87680a7be8eeeeadd19e"
+}

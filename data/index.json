@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:19:17+00:00",
+  "generated_at": "2026-10-13T14:07:48+00:00",
   "sites": [
     {
       "site": {
@@ -866,6 +866,158 @@
           "last_check": "2026-10-13",
           "total_versions": 3,
           "last_hash": "8041a2c75234e9f503905b35f39029ac4b809005ef3a5416a81c39b2b989fb3c"
+        }
+      ],
+      "last_change": null,
+      "changes_count": 0
+    },
+    {
+      "site": {
+        "id": "fl",
+        "name": "FL.ru",
+        "url": "https://st.fl.ru/about/documents/agreement_site.pdf",
+        "category": "freelance",
+        "added": "2026-10-13",
+        "active": true,
+        "docs": [
+          {
+            "doc_id": "agreement",
+            "title": "Соглашение об использовании сайта",
+            "url": "https://st.fl.ru/about/documents/agreement_site.pdf"
+          },
+          {
+            "doc_id": "privacy",
+            "title": "Политика конфиденциальности",
+            "url": "https://st.fl.ru/about/documents/privacy_policy.pdf"
+          },
+          {
+            "doc_id": "price",
+            "title": "Прейскурант (Приложение 1)",
+            "url": "https://st.fl.ru/about/documents/appendix_1_price.pdf"
+          },
+          {
+            "doc_id": "regulations",
+            "title": "Регламент (Приложение 2)",
+            "url": "https://st.fl.ru/about/documents/appendix_2_regulations.pdf"
+          },
+          {
+            "doc_id": "service",
+            "title": "Описание сервиса (Приложение 4)",
+            "url": "https://st.fl.ru/about/documents/appendix_4_service.pdf"
+          },
+          {
+            "doc_id": "offer_business",
+            "title": "Оферта для бизнеса",
+            "url": "https://st.fl.ru/about/documents/offer_for_business.pdf"
+          },
+          {
+            "doc_id": "pdn_consent",
+            "title": "Согласие на обработку ПДн",
+            "url": "https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf"
+          },
+          {
+            "doc_id": "cookie",
+            "title": "Использование cookie",
+            "url": "https://st.fl.ru/about/documents/cookie_accept.pdf"
+          }
+        ]
+      },
+      "docs": [
+        {
+          "id": "fl",
+          "doc_id": "agreement",
+          "name": "FL.ru",
+          "doc_title": "Соглашение об использовании сайта",
+          "url": "https://st.fl.ru/about/documents/agreement_site.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "6b2249eaf0b145688376ab42004f13cbb35f22129073f0b29b5c69f60a4d78a7"
+        },
+        {
+          "id": "fl",
+          "doc_id": "privacy",
+          "name": "FL.ru",
+          "doc_title": "Политика конфиденциальности",
+          "url": "https://st.fl.ru/about/documents/privacy_policy.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "b7f97cf3c064feab02db321ae0e4cc856547c14b4f5046d45ada118fb792edad"
+        },
+        {
+          "id": "fl",
+          "doc_id": "price",
+          "name": "FL.ru",
+          "doc_title": "Прейскурант (Приложение 1)",
+          "url": "https://st.fl.ru/about/documents/appendix_1_price.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "e45d9227628ae89ee244090f6b7d3b6f37296a58bccd87680a7be8eeeeadd19e"
+        },
+        {
+          "id": "fl",
+          "doc_id": "regulations",
+          "name": "FL.ru",
+          "doc_title": "Регламент (Приложение 2)",
+          "url": "https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "e925bad4c4a46d52aa190575363c9e4e53b23a3597a1efd2708023661a589f8a"
+        },
+        {
+          "id": "fl",
+          "doc_id": "service",
+          "name": "FL.ru",
+          "doc_title": "Описание сервиса (Приложение 4)",
+          "url": "https://st.fl.ru/about/documents/appendix_4_service.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "184413304e7dcff5c2b18764c9af867630c0c7b45be4bfcc0d41ae5ca45e7de8"
+        },
+        {
+          "id": "fl",
+          "doc_id": "offer_business",
+          "name": "FL.ru",
+          "doc_title": "Оферта для бизнеса",
+          "url": "https://st.fl.ru/about/documents/offer_for_business.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "c7ebfb1dc690798b371d9983ff86810edc41ed40a07ea7a6e67d641beb63084f"
+        },
+        {
+          "id": "fl",
+          "doc_id": "pdn_consent",
+          "name": "FL.ru",
+          "doc_title": "Согласие на обработку ПДн",
+          "url": "https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "02b6d9125364f2d358847bb706fc591556eeb473743a6b4b7b6a59aa154a839f"
+        },
+        {
+          "id": "fl",
+          "doc_id": "cookie",
+          "name": "FL.ru",
+          "doc_title": "Использование cookie",
+          "url": "https://st.fl.ru/about/documents/cookie_accept.pdf",
+          "selector": "",
+          "first_check": "2026-10-13",
+          "last_check": "2026-10-13",
+          "total_versions": 1,
+          "last_hash": "d23582dd8c064c5479c80b52985cf3bb4f6474768f75ce121251e2d1dc0958c8"
         }
       ],
       "last_change": null,

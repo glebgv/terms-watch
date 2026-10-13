@@ -274,6 +274,56 @@
           "url": "https://s3.twcstorage.ru/tw-cloud-static/legal-info/sla.pdf"
         }
       ]
+    },
+    {
+      "id": "fl",
+      "name": "FL.ru",
+      "url": "https://st.fl.ru/about/documents/agreement_site.pdf",
+      "category": "freelance",
+      "added": "2026-10-13",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "agreement",
+          "title": "Соглашение об использовании сайта",
+          "url": "https://st.fl.ru/about/documents/agreement_site.pdf"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://st.fl.ru/about/documents/privacy_policy.pdf"
+        },
+        {
+          "doc_id": "price",
+          "title": "Прейскурант (Приложение 1)",
+          "url": "https://st.fl.ru/about/documents/appendix_1_price.pdf"
+        },
+        {
+          "doc_id": "regulations",
+          "title": "Регламент (Приложение 2)",
+          "url": "https://st.fl.ru/about/documents/appendix_2_regulations.pdf"
+        },
+        {
+          "doc_id": "service",
+          "title": "Описание сервиса (Приложение 4)",
+          "url": "https://st.fl.ru/about/documents/appendix_4_service.pdf"
+        },
+        {
+          "doc_id": "offer_business",
+          "title": "Оферта для бизнеса",
+          "url": "https://st.fl.ru/about/documents/offer_for_business.pdf"
+        },
+        {
+          "doc_id": "pdn_consent",
+          "title": "Согласие на обработку ПДн",
+          "url": "https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf"
+        },
+        {
+          "doc_id": "cookie",
+          "title": "Использование cookie",
+          "url": "https://st.fl.ru/about/documents/cookie_accept.pdf"
+        }
+      ]
     }
   ]
 }
