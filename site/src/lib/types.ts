@@ -87,6 +87,8 @@ export interface Diff {
   keywords: string[]
   changes: DiffChange[]
   ai_summary?: string
+  retrospective?: boolean
+  wayback_url?: string | null
 }
 
 export interface HealthEntry {

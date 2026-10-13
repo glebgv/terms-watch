@@ -33,6 +33,9 @@ export default function DiffPage() {
         {d.is_major && (
           <Badge color="yellow" className="mb-6"><AlertTriangle size={11} /> is_major</Badge>
         )}
+        {d.retrospective && (
+          <Badge color="blue" className="mb-6">из архива</Badge>
+        )}
         {d.reordering_only && (
           <Badge color="blue" className="mb-6">↕ текст переставлен без правок</Badge>
         )}
@@ -57,10 +60,17 @@ export default function DiffPage() {
               {(d.stats.change_ratio * 100).toFixed(1)}%
             </span>
           </span>
-          <a href={d.url} target="_blank" rel="noreferrer"
-             className="ml-auto flex items-center gap-1 text-xs text-blue-400/80 hover:text-blue-300">
-            <ExternalLink size={13} /> первоисточник
-          </a>
+          {d.retrospective && d.wayback_url ? (
+            <a href={d.wayback_url} target="_blank" rel="noreferrer"
+               className="ml-auto flex items-center gap-1 text-xs text-amber-400/80 hover:text-amber-300">
+              <ExternalLink size={13} /> снимок в архиве
+            </a>
+          ) : (
+            <a href={d.url} target="_blank" rel="noreferrer"
+               className="ml-auto flex items-center gap-1 text-xs text-blue-400/80 hover:text-blue-300">
+              <ExternalLink size={13} /> первоисточник
+            </a>
+          )}
         </div>
       </Card>
 
