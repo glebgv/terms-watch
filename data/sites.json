@@ -449,6 +449,66 @@
           "url": "https://beget.com/ru/politika-bezopasnosti-pci-dss"
         }
       ]
+    },
+    {
+      "id": "vkcloud",
+      "name": "VK Cloud",
+      "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
+      "category": "hosting",
+      "added": "2026-10-14",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "offer_agreement",
+          "title": "Договор-оферта на оказание услуг Платформы",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика конфиденциальности",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy"
+        },
+        {
+          "doc_id": "platform_conditions",
+          "title": "Условия использования Платформы и Личного кабинета",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/platform-conditions"
+        },
+        {
+          "doc_id": "terms",
+          "title": "Термины и определения",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/terms"
+        },
+        {
+          "doc_id": "special_conditions",
+          "title": "Правила использования Услуг",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions"
+        },
+        {
+          "doc_id": "maintenance_regulations",
+          "title": "Регламент технического обслуживания",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/maintenance-regulations"
+        },
+        {
+          "doc_id": "sla_common",
+          "title": "Общее соглашение об уровне услуг (SLA)",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/service-level-agreement/common-agreement"
+        },
+        {
+          "doc_id": "cdn_conditions",
+          "title": "Условия использования сервиса CDN",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-cdn"
+        },
+        {
+          "doc_id": "marketplace_terms",
+          "title": "Соглашение для сервиса «Магазин приложений»",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-marketplace"
+        },
+        {
+          "doc_id": "cloud_servers_conditions",
+          "title": "Условия использования услуги Cloud Servers",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers"
+        }
+      ]
     }
   ]
 }

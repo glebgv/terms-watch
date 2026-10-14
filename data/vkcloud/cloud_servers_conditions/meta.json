@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "cloud_servers_conditions",
+  "name": "VK Cloud",
+  "doc_title": "Условия использования услуги Cloud Servers",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "bb5dd6bc3f0883953a5e50c78d8fc05a02e52fa3770b85d4da3fb532a5ff6527"
+}

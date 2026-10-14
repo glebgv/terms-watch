@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "platform_conditions",
+  "name": "VK Cloud",
+  "doc_title": "Условия использования Платформы и Личного кабинета",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/platform-conditions",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "08e30a24d120911fddd29192050047d8f346d4fac9cfc2111b4eabf5aef8ee94"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "maintenance_regulations",
+  "name": "VK Cloud",
+  "doc_title": "Регламент технического обслуживания",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/maintenance-regulations",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "1600ccfac4a60575690b5228a41e3b85089cc9a899828e897ee7f82615724786"
+}

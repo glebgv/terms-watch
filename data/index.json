@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:35:50+00:00",
+  "generated_at": "2026-10-14T12:57:28+00:00",
   "sites": [
     {
       "site": {
@@ -335,7 +335,7 @@
           "selector": "main, article, body",
           "first_check": "2022-09-04-0842",
           "last_check": "2026-10-13",
-          "total_versions": 7,
+          "total_versions": 6,
           "last_hash": "ffb78ce34f65ad4d04e337edf1822cd574cddcb89172a59b6ff8f1e20ceb2b7a"
         },
         {
@@ -359,7 +359,7 @@
           "selector": "main, article, body",
           "first_check": "2023-08-02-2037",
           "last_check": "2026-10-13",
-          "total_versions": 3,
+          "total_versions": 2,
           "last_hash": "7c1b2e072961509bd3d8714e500273ae4cb582dae1839bddcbb394113505e68d"
         },
         {
@@ -370,9 +370,9 @@
           "url": "https://vk.ru/help?page=cc_terms",
           "selector": "main, article, body",
           "first_check": "2026-08-20-0000",
-          "last_check": "2026-10-12",
-          "total_versions": 3,
-          "last_hash": "8f4f00efadba25d0592222c0c7155b9ad1f79a0f75dd4f3f0fac1c793da0a057"
+          "last_check": "2026-10-14",
+          "total_versions": 4,
+          "last_hash": "f72a50595d22d61f8d441a5c145da284491298eb157d99bf84d09a8f9610d716"
         },
         {
           "id": "vk",
@@ -400,8 +400,8 @@
         }
       ],
       "last_change": {
-        "date": "2026-10-12",
-        "checked_at": "2026-10-12T09:39:38+00:00",
+        "date": "2026-10-14",
+        "checked_at": "2026-10-14T12:29:29+00:00",
         "site_id": "vk",
         "site_name": "VK",
         "doc_id": "cc_terms",
@@ -414,11 +414,11 @@
           "хранение данных",
           "согласие"
         ],
-        "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 46, удалено: 0, изменено: 0.",
+        "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 0, удалено: 45, изменено: 0.",
         "url": "https://vk.ru/help?page=cc_terms",
-        "diff_path": "vk/cc_terms/diffs/2026-10-12.json"
+        "diff_path": "vk/cc_terms/diffs/2026-10-14.json"
       },
-      "changes_count": 5
+      "changes_count": 6
     },
     {
       "site": {
@@ -466,7 +466,7 @@
           "selector": "main, body",
           "first_check": "2021-01-19-0748",
           "last_check": "2026-10-13",
-          "total_versions": 8,
+          "total_versions": 5,
           "last_hash": "dc59dbaff7216b7f5b780bc42127e92e739f517c43e3897cbd673af3e88b3f22"
         },
         {
@@ -478,7 +478,7 @@
           "selector": "main, article, body",
           "first_check": "2021-01-19-0746",
           "last_check": "2026-10-13",
-          "total_versions": 10,
+          "total_versions": 9,
           "last_hash": "d90efa8ab3e6daf61cce0515c4c8014fa8569a1d966b73be04c0afb492d44d73"
         },
         {
@@ -490,7 +490,7 @@
           "selector": "main, article, body",
           "first_check": "2025-08-31-0109",
           "last_check": "2026-10-13",
-          "total_versions": 3,
+          "total_versions": 2,
           "last_hash": "11da52f1adf5eba3e3286b0295643d0205ffccd2953f5a562358a4d60dd5726d"
         },
         {
@@ -502,7 +502,7 @@
           "selector": "main, article, body",
           "first_check": "2025-08-31-0109",
           "last_check": "2026-10-13",
-          "total_versions": 3,
+          "total_versions": 2,
           "last_hash": "c531b69450f5aad56b07148d06f67372dcd1fd4347b00cb77e7bc68f2a96b5d4"
         },
         {
@@ -570,7 +570,7 @@
           "selector": "main, article, body",
           "first_check": "2025-10-15-2236",
           "last_check": "2026-10-13",
-          "total_versions": 4,
+          "total_versions": 3,
           "last_hash": "7cc81e34327aa17b4d6d9ff21a122c6d75bc5940d539abdb2e194b66f18a6d5d"
         },
         {
@@ -582,7 +582,7 @@
           "selector": "main, article, body",
           "first_check": "2025-11-28-0659",
           "last_check": "2026-10-13",
-          "total_versions": 4,
+          "total_versions": 3,
           "last_hash": "2fee455b9bb511af14345d9c14c1da4fc59a4e6a796ed9b30fb2d96d6a8c5151"
         }
       ],
@@ -708,7 +708,7 @@
           "selector": "",
           "first_check": "2025-07-11-1529",
           "last_check": "2026-10-13",
-          "total_versions": 3,
+          "total_versions": 2,
           "last_hash": "ddb75e7106c0f92cf3ddd0384fa2cef31f770839cc9672f48251feae17664a15"
         },
         {
@@ -840,7 +840,7 @@
           "selector": "",
           "first_check": "2026-09-14-2022",
           "last_check": "2026-10-13",
-          "total_versions": 3,
+          "total_versions": 2,
           "last_hash": "6b7701fccc4cb645c7fcd12d7321b091d21f02af1699e433d0401d23c15c46e8"
         },
         {
@@ -864,7 +864,7 @@
           "selector": "",
           "first_check": "2026-08-31-1103",
           "last_check": "2026-10-13",
-          "total_versions": 3,
+          "total_versions": 2,
           "last_hash": "8041a2c75234e9f503905b35f39029ac4b809005ef3a5416a81c39b2b989fb3c"
         }
       ],
@@ -1423,9 +1423,214 @@
       ],
       "last_change": null,
       "changes_count": 0
+    },
+    {
+      "site": {
+        "id": "vkcloud",
+        "name": "VK Cloud",
+        "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
+        "category": "hosting",
+        "added": "2026-10-14",
+        "active": true,
+        "docs": [
+          {
+            "doc_id": "offer_agreement",
+            "title": "Договор-оферта на оказание услуг Платформы",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement"
+          },
+          {
+            "doc_id": "privacy",
+            "title": "Политика конфиденциальности",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy"
+          },
+          {
+            "doc_id": "platform_conditions",
+            "title": "Условия использования Платформы и Личного кабинета",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/platform-conditions"
+          },
+          {
+            "doc_id": "terms",
+            "title": "Термины и определения",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/terms"
+          },
+          {
+            "doc_id": "special_conditions",
+            "title": "Правила использования Услуг",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions"
+          },
+          {
+            "doc_id": "maintenance_regulations",
+            "title": "Регламент технического обслуживания",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/maintenance-regulations"
+          },
+          {
+            "doc_id": "sla_common",
+            "title": "Общее соглашение об уровне услуг (SLA)",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/service-level-agreement/common-agreement"
+          },
+          {
+            "doc_id": "cdn_conditions",
+            "title": "Условия использования сервиса CDN",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-cdn"
+          },
+          {
+            "doc_id": "marketplace_terms",
+            "title": "Соглашение для сервиса «Магазин приложений»",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-marketplace"
+          },
+          {
+            "doc_id": "cloud_servers_conditions",
+            "title": "Условия использования услуги Cloud Servers",
+            "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers"
+          }
+        ]
+      },
+      "docs": [
+        {
+          "id": "vkcloud",
+          "doc_id": "offer_agreement",
+          "name": "VK Cloud",
+          "doc_title": "Договор-оферта на оказание услуг Платформы",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "privacy",
+          "name": "VK Cloud",
+          "doc_title": "Политика конфиденциальности",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "765c6dd78d948d49fb10e7c1538f9a5fb9888715b675a83d553a84d0e5f9a714"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "platform_conditions",
+          "name": "VK Cloud",
+          "doc_title": "Условия использования Платформы и Личного кабинета",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/platform-conditions",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "08e30a24d120911fddd29192050047d8f346d4fac9cfc2111b4eabf5aef8ee94"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "terms",
+          "name": "VK Cloud",
+          "doc_title": "Термины и определения",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/terms",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "16d52f05a813459afd91ae0b13dc5d04d8625df3535873e5b2e6766c7ab9989f"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "special_conditions",
+          "name": "VK Cloud",
+          "doc_title": "Правила использования Услуг",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "5051317982fbcd9e95fb78d0882c3f47eb5638a96e0018e8c5c06b88422efdbe"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "maintenance_regulations",
+          "name": "VK Cloud",
+          "doc_title": "Регламент технического обслуживания",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/maintenance-regulations",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "1600ccfac4a60575690b5228a41e3b85089cc9a899828e897ee7f82615724786"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "sla_common",
+          "name": "VK Cloud",
+          "doc_title": "Общее соглашение об уровне услуг (SLA)",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/service-level-agreement/common-agreement",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "06abe9a72c8ed91df2670c3f2eb3413eb254be126db3be2c888e3ffb91270f5f"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "cdn_conditions",
+          "name": "VK Cloud",
+          "doc_title": "Условия использования сервиса CDN",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-cdn",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "c4431aa5d59e7d81eba6a73b92e08326a3f6d06fd2afb916899a51470a1d9239"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "marketplace_terms",
+          "name": "VK Cloud",
+          "doc_title": "Соглашение для сервиса «Магазин приложений»",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-marketplace",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "bfa3bf5ca217976ce101e06b9d1e741773cc47e1d63bf78a9dc2ae4560246f22"
+        },
+        {
+          "id": "vkcloud",
+          "doc_id": "cloud_servers_conditions",
+          "name": "VK Cloud",
+          "doc_title": "Условия использования услуги Cloud Servers",
+          "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "bb5dd6bc3f0883953a5e50c78d8fc05a02e52fa3770b85d4da3fb532a5ff6527"
+        }
+      ],
+      "last_change": null,
+      "changes_count": 0
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T12:29:29+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cc_terms",
+      "doc_title": "Условия использования сервиса «VK Реклама»",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 0, удалено: 45, изменено: 0.",
+      "url": "https://vk.ru/help?page=cc_terms",
+      "diff_path": "vk/cc_terms/diffs/2026-10-14.json"
+    },
     {
       "date": "2026-10-13",
       "checked_at": "2026-10-13T19:16:44+00:00",

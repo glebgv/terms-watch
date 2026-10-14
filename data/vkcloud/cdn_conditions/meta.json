@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "cdn_conditions",
+  "name": "VK Cloud",
+  "doc_title": "Условия использования сервиса CDN",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-cdn",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "c4431aa5d59e7d81eba6a73b92e08326a3f6d06fd2afb916899a51470a1d9239"
+}

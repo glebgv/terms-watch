@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "terms",
+  "name": "VK Cloud",
+  "doc_title": "Термины и определения",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/terms",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "16d52f05a813459afd91ae0b13dc5d04d8625df3535873e5b2e6766c7ab9989f"
+}

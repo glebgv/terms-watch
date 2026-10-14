@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "special_conditions",
+  "name": "VK Cloud",
+  "doc_title": "Правила использования Услуг",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "5051317982fbcd9e95fb78d0882c3f47eb5638a96e0018e8c5c06b88422efdbe"
+}

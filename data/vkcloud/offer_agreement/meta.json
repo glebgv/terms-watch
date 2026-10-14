@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "offer_agreement",
+  "name": "VK Cloud",
+  "doc_title": "Договор-оферта на оказание услуг Платформы",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47"
+}

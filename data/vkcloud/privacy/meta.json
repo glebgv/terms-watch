@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "privacy",
+  "name": "VK Cloud",
+  "doc_title": "Политика конфиденциальности",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "765c6dd78d948d49fb10e7c1538f9a5fb9888715b675a83d553a84d0e5f9a714"
+}

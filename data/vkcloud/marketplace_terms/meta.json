@@ -1,0 +1,12 @@
+{
+  "id": "vkcloud",
+  "doc_id": "marketplace_terms",
+  "name": "VK Cloud",
+  "doc_title": "Соглашение для сервиса «Магазин приложений»",
+  "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-marketplace",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "bfa3bf5ca217976ce101e06b9d1e741773cc47e1d63bf78a9dc2ae4560246f22"
+}
