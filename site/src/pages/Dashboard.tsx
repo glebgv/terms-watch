@@ -27,6 +27,7 @@ const SITE_ICONS: Record<string, string> = {
   ok: 'ok.png',
   beget: 'beget.png',
   vkcloud: 'vkcloud.png',
+  rutube: 'rutube.png',
 }
 
 export default function Dashboard() {
