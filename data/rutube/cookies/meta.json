@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "cookies",
+  "name": "Rutube",
+  "doc_title": "Согласие на обработку пользовательских данных (cookies)",
+  "url": "https://rutube.ru/info/cookies/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "6767a177d8efebbcdb66859c846836105ede48006460e11d35effa058a7e6950"
+}

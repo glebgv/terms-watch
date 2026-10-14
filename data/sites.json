@@ -509,6 +509,91 @@
           "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers"
         }
       ]
+    },
+    {
+      "id": "rutube",
+      "name": "Rutube",
+      "url": "https://rutube.ru/info/activities/",
+      "category": "social",
+      "added": "2026-10-14",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "activities",
+          "title": "Информация о деятельности (ст. 10.2 149-ФЗ)",
+          "url": "https://rutube.ru/info/activities/"
+        },
+        {
+          "doc_id": "agreement",
+          "title": "Генеральное пользовательское соглашение",
+          "url": "https://rutube.ru/info/agreement/"
+        },
+        {
+          "doc_id": "privacy",
+          "title": "Политика обработки персональных данных",
+          "url": "https://rutube.ru/info/privacy/"
+        },
+        {
+          "doc_id": "term_agreement",
+          "title": "Приложение А — Условия использования",
+          "url": "https://rutube.ru/info/term_agreement/"
+        },
+        {
+          "doc_id": "socially_important",
+          "title": "Правила публикации общественно значимого контента",
+          "url": "https://rutube.ru/info/socially_important/"
+        },
+        {
+          "doc_id": "advpr_agreement",
+          "title": "Приложение В — Рекламные услуги",
+          "url": "https://rutube.ru/info/advpr_agreement/"
+        },
+        {
+          "doc_id": "donate_agreement",
+          "title": "Приложение Г — Донаты",
+          "url": "https://rutube.ru/info/donate_agreement/"
+        },
+        {
+          "doc_id": "taboo_agreement",
+          "title": "Приложение Д — Запрещённый контент",
+          "url": "https://rutube.ru/info/taboo_agreement/"
+        },
+        {
+          "doc_id": "ccl_agreement",
+          "title": "Приложение Е — Лицензионное соглашение",
+          "url": "https://rutube.ru/info/ccl_agreement/"
+        },
+        {
+          "doc_id": "mediator_agreement",
+          "title": "Приложение Ж — Медиатор",
+          "url": "https://rutube.ru/info/mediator_agreement/"
+        },
+        {
+          "doc_id": "erid_embed_ugc",
+          "title": "Приложение З — Реклама UGC-встраивания",
+          "url": "https://rutube.ru/info/erid_embed_ugc/"
+        },
+        {
+          "doc_id": "modmvpp",
+          "title": "Соглашение на услугу доступа (активные пользователи)",
+          "url": "https://rutube.ru/info/modmvpp/"
+        },
+        {
+          "doc_id": "recommendations",
+          "title": "Правила применения рекомендательных технологий",
+          "url": "https://rutube.ru/info/recommendations/"
+        },
+        {
+          "doc_id": "cookies",
+          "title": "Согласие на обработку пользовательских данных (cookies)",
+          "url": "https://rutube.ru/info/cookies/"
+        },
+        {
+          "doc_id": "personal_abuse",
+          "title": "Согласие на обработку данных по жалобам",
+          "url": "https://rutube.ru/info/personal_abuse/"
+        }
+      ]
     }
   ]
 }

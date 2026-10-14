@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "ccl_agreement",
+  "name": "Rutube",
+  "doc_title": "Приложение Е — Лицензионное соглашение",
+  "url": "https://rutube.ru/info/ccl_agreement/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "0f76b2061976d46dc6352651fe8fe48782773cfa44c362cce761b0dd2b600eb9"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "erid_embed_ugc",
+  "name": "Rutube",
+  "doc_title": "Приложение З — Реклама UGC-встраивания",
+  "url": "https://rutube.ru/info/erid_embed_ugc/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "2f5e1df1594b43359f6ab237e08fde42f2b6abe241f14e8ce3167a5fd3d0a6b5"
+}

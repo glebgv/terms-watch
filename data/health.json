@@ -1,374 +1,450 @@
 {
   "hh/privacy": {
-    "last_success": "2026-10-14T12:18:49+00:00",
+    "last_success": "2026-10-14T19:08:21+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "hh/offer": {
-    "last_success": "2026-10-14T12:19:13+00:00",
+    "last_success": "2026-10-14T19:08:02+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/privacy": {
-    "last_success": "2026-10-14T12:27:50+00:00",
+    "last_success": "2026-10-14T19:12:39+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/agreement": {
-    "last_success": "2026-10-14T12:18:55+00:00",
+    "last_success": "2026-10-14T19:08:31+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/tos": {
-    "last_success": "2026-10-14T12:19:17+00:00",
+    "last_success": "2026-10-14T19:08:40+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/toss": {
-    "last_success": "2026-10-14T12:19:21+00:00",
+    "last_success": "2026-10-14T19:08:51+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/tos_hbp": {
-    "last_success": "2026-10-14T12:19:26+00:00",
+    "last_success": "2026-10-14T19:08:58+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/toss_hbp": {
-    "last_success": "2026-10-14T12:19:30+00:00",
+    "last_success": "2026-10-14T19:09:07+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/api_rules": {
-    "last_success": "2026-10-14T12:19:34+00:00",
+    "last_success": "2026-10-14T19:09:13+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/price": {
-    "last_success": "2026-10-14T12:19:44+00:00",
+    "last_success": "2026-10-14T19:09:27+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/recommendation_rules": {
-    "last_success": "2026-10-14T12:19:39+00:00",
+    "last_success": "2026-10-14T19:09:21+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "profi/recommendation": {
     "last_success": "2026-10-12T09:07:07+00:00",
-    "consecutive_errors": 23,
+    "consecutive_errors": 24,
     "last_error": "validate: слишком короткий текст: 87 симв. (минимум 500)",
     "days_stale": 2
   },
   "profi/privacy": {
     "last_success": "2026-10-12T09:07:11+00:00",
-    "consecutive_errors": 23,
+    "consecutive_errors": 24,
     "last_error": "validate: слишком короткий текст: 87 симв. (минимум 500)",
     "days_stale": 2
   },
   "vk/terms": {
-    "last_success": "2026-10-14T12:20:20+00:00",
+    "last_success": "2026-10-14T19:10:01+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/licence": {
-    "last_success": "2026-10-14T12:21:31+00:00",
+    "last_success": "2026-10-14T19:10:45+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/privacy": {
-    "last_success": "2026-10-14T09:02:49+00:00",
-    "consecutive_errors": 1,
-    "last_error": "validate: слишком короткий текст: 11 симв. (минимум 500)",
-    "days_stale": 0
+    "last_success": "2026-10-14T19:11:06+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "vk/cc_terms": {
-    "last_success": "2026-10-14T12:29:27+00:00",
+    "last_success": "2026-10-14T19:11:40+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "yandex/rules": {
-    "last_success": "2026-10-14T12:30:35+00:00",
+    "last_success": "2026-10-14T19:14:19+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "yandex/cloud_terms": {
-    "last_success": "2026-10-14T12:30:49+00:00",
+    "last_success": "2026-10-14T19:14:30+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/personal_data": {
-    "last_success": "2026-10-14T12:28:22+00:00",
+    "last_success": "2026-10-14T19:13:02+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/personal_privacy": {
-    "last_success": "2026-10-14T12:28:47+00:00",
+    "last_success": "2026-10-14T19:13:24+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/oferta_poruchenie": {
-    "last_success": "2026-10-14T12:29:49+00:00",
+    "last_success": "2026-10-14T19:13:49+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/privacy_agreement": {
-    "last_success": "2026-10-14T12:30:21+00:00",
+    "last_success": "2026-10-14T19:14:09+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "selectel/pd_policy": {
-    "last_success": "2026-10-14T12:30:49+00:00",
+    "last_success": "2026-10-14T19:14:22+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/confidentiality": {
-    "last_success": "2026-10-14T12:30:44+00:00",
+    "last_success": "2026-10-14T19:14:26+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/desc_terms": {
-    "last_success": "2026-10-14T12:31:14+00:00",
+    "last_success": "2026-10-14T19:14:55+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_general": {
-    "last_success": "2026-10-14T12:31:38+00:00",
+    "last_success": "2026-10-14T19:17:28+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/tos_restrictions": {
-    "last_success": "2026-10-14T12:32:04+00:00",
+    "last_success": "2026-10-14T19:15:37+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/limitations": {
-    "last_success": "2026-10-14T12:32:34+00:00",
+    "last_success": "2026-10-14T19:17:54+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/pd_policy": {
-    "last_success": "2026-10-14T12:32:39+00:00",
+    "last_success": "2026-10-14T19:18:14+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/offer": {
-    "last_success": "2026-10-14T12:32:48+00:00",
+    "last_success": "2026-10-14T19:18:26+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_evolution": {
-    "last_success": "2026-10-14T12:32:59+00:00",
+    "last_success": "2026-10-14T19:18:23+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/platform_rules": {
-    "last_success": "2026-10-14T12:32:50+00:00",
+    "last_success": "2026-10-14T19:18:31+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/sla": {
-    "last_success": "2026-10-14T12:32:52+00:00",
+    "last_success": "2026-10-14T19:18:40+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_advanced": {
-    "last_success": "2026-10-14T12:33:21+00:00",
+    "last_success": "2026-10-14T19:19:49+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/cloud_special_conditions": {
-    "last_success": "2026-10-14T12:24:47+00:00",
+    "last_success": "2026-10-14T19:11:59+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/cloud_offer_agreement": {
-    "last_success": "2026-10-14T12:25:38+00:00",
+    "last_success": "2026-10-14T19:12:22+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/agreement": {
-    "last_success": "2026-10-14T12:32:53+00:00",
+    "last_success": "2026-10-14T19:18:49+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/privacy": {
-    "last_success": "2026-10-14T12:32:54+00:00",
+    "last_success": "2026-10-14T19:18:44+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/price": {
-    "last_success": "2026-10-14T12:32:56+00:00",
+    "last_success": "2026-10-14T19:18:54+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/regulations": {
-    "last_success": "2026-10-14T12:32:57+00:00",
+    "last_success": "2026-10-14T19:18:53+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/service": {
-    "last_success": "2026-10-14T12:32:59+00:00",
+    "last_success": "2026-10-14T19:18:56+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/offer_business": {
-    "last_success": "2026-10-14T12:33:03+00:00",
+    "last_success": "2026-10-14T19:18:59+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/pdn_consent": {
-    "last_success": "2026-10-14T12:33:01+00:00",
+    "last_success": "2026-10-14T19:18:59+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/cookie": {
-    "last_success": "2026-10-14T12:33:03+00:00",
+    "last_success": "2026-10-14T19:19:01+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/services_agreement": {
-    "last_success": "2026-10-14T12:34:26+00:00",
+    "last_success": "2026-10-14T19:21:22+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/privacy": {
-    "last_success": "2026-10-14T12:36:58+00:00",
+    "last_success": "2026-10-14T19:19:39+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/rec_technologies": {
-    "last_success": "2026-10-14T12:33:53+00:00",
+    "last_success": "2026-10-14T19:21:31+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/ranking_ads": {
-    "last_success": "2026-10-14T12:35:46+00:00",
+    "last_success": "2026-10-14T19:21:48+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/listing_policy": {
-    "last_success": "2026-10-14T12:35:09+00:00",
+    "last_success": "2026-10-14T19:23:23+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/realty_listings": {
-    "last_success": "2026-10-14T12:36:38+00:00",
+    "last_success": "2026-10-14T19:21:57+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/prohibited_items": {
-    "last_success": "2026-10-14T12:37:19+00:00",
+    "last_success": "2026-10-14T19:22:46+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/regulations": {
-    "last_success": "2026-10-14T12:36:41+00:00",
+    "last_success": "2026-10-14T19:22:01+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/privacy": {
-    "last_success": "2026-10-14T12:36:45+00:00",
+    "last_success": "2026-10-14T19:22:06+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/rtterms": {
-    "last_success": "2026-10-14T12:36:48+00:00",
+    "last_success": "2026-10-14T19:22:10+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/claimterms": {
-    "last_success": "2026-10-14T12:36:51+00:00",
+    "last_success": "2026-10-14T19:22:14+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/childsafety": {
-    "last_success": "2026-10-14T12:36:54+00:00",
+    "last_success": "2026-10-14T19:22:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/pravila": {
-    "last_success": "2026-10-14T12:37:00+00:00",
+    "last_success": "2026-10-14T19:22:29+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/pravila_domains": {
-    "last_success": "2026-10-14T12:37:03+00:00",
+    "last_success": "2026-10-14T19:22:50+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/cloud_rules_ru": {
-    "last_success": "2026-10-14T12:37:07+00:00",
+    "last_success": "2026-10-14T19:23:05+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/cloud_rules_kz": {
-    "last_success": "2026-10-14T12:37:11+00:00",
+    "last_success": "2026-10-14T19:23:44+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/personal_data": {
-    "last_success": "2026-10-14T12:37:12+00:00",
+    "last_success": "2026-10-14T19:23:31+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/sla_vps": {
-    "last_success": "2026-10-14T12:37:15+00:00",
+    "last_success": "2026-10-14T19:24:04+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/pci_dss": {
-    "last_success": "2026-10-14T12:37:18+00:00",
+    "last_success": "2026-10-14T19:24:19+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/offer_agreement": {
     "last_success": "2026-10-14T12:37:26+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/privacy": {
     "last_success": "2026-10-14T12:37:34+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/platform_conditions": {
-    "last_success": "2026-10-14T12:37:41+00:00",
+    "last_success": "2026-10-14T19:27:10+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/terms": {
-    "last_success": "2026-10-14T12:37:47+00:00",
+    "last_success": "2026-10-14T19:32:57+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/special_conditions": {
-    "last_success": "2026-10-14T12:37:54+00:00",
+    "last_success": "2026-10-14T19:33:36+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/maintenance_regulations": {
-    "last_success": "2026-10-14T12:38:01+00:00",
+    "last_success": "2026-10-14T19:34:11+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/sla_common": {
-    "last_success": "2026-10-14T12:38:07+00:00",
+    "last_success": "2026-10-14T19:34:50+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/cdn_conditions": {
-    "last_success": "2026-10-14T12:38:14+00:00",
+    "last_success": "2026-10-14T19:35:28+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/marketplace_terms": {
-    "last_success": "2026-10-14T12:38:20+00:00",
+    "last_success": "2026-10-14T19:36:03+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/cloud_servers_conditions": {
-    "last_success": "2026-10-14T12:38:26+00:00",
+    "last_success": "2026-10-14T19:36:39+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/activities": {
+    "last_success": "2026-10-14T19:36:50+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/agreement": {
+    "last_success": "2026-10-14T19:37:02+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/privacy": {
+    "last_success": "2026-10-14T19:37:13+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/term_agreement": {
+    "last_success": "2026-10-14T19:37:24+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/socially_important": {
+    "last_success": "2026-10-14T19:37:34+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/advpr_agreement": {
+    "last_success": "2026-10-14T19:37:43+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/donate_agreement": {
+    "last_success": "2026-10-14T19:37:54+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/taboo_agreement": {
+    "last_success": "2026-10-14T19:38:04+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/ccl_agreement": {
+    "last_success": "2026-10-14T19:38:14+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/mediator_agreement": {
+    "last_success": "2026-10-14T19:38:26+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/erid_embed_ugc": {
+    "last_success": "2026-10-14T19:38:35+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/modmvpp": {
+    "last_success": "2026-10-14T19:38:45+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/recommendations": {
+    "last_success": "2026-10-14T19:38:56+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/cookies": {
+    "last_success": "2026-10-14T19:39:05+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "rutube/personal_abuse": {
+    "last_success": "2026-10-14T19:39:14+00:00",
     "consecutive_errors": 0,
     "last_error": null
   }

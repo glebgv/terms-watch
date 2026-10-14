@@ -1,0 +1,444 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 84,
+    "lines_changed": 0,
+    "change_ratio": 0.4375
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "ответственность"
+  ],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 1,
+      "text": "Договоры"
+    },
+    {
+      "type": "remove",
+      "position": 2,
+      "text": "Договор на оказание услуг"
+    },
+    {
+      "type": "remove",
+      "position": 3,
+      "text": "Оферта"
+    },
+    {
+      "type": "remove",
+      "position": 4,
+      "text": "Условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 5,
+      "text": "Общее описание и условия предоставления услуг. Приложение № 1.0."
+    },
+    {
+      "type": "remove",
+      "position": 6,
+      "text": "Общее соглашение об уровне предоставления услуг. Приложение № 2.0."
+    },
+    {
+      "type": "remove",
+      "position": 7,
+      "text": "Cloud.ru Evolution"
+    },
+    {
+      "type": "remove",
+      "position": 8,
+      "text": "Cloud.ru Advanced"
+    },
+    {
+      "type": "remove",
+      "position": 9,
+      "text": "Общее соглашение об уровне предоставления услуг ADV. Приложение № 2.ADV.0."
+    },
+    {
+      "type": "remove",
+      "position": 10,
+      "text": "Услуга «Auto Scaling»"
+    },
+    {
+      "type": "remove",
+      "position": 11,
+      "text": "Услуга «Application Operations Management»"
+    },
+    {
+      "type": "remove",
+      "position": 12,
+      "text": "Услуга «Application Orchestration Service»"
+    },
+    {
+      "type": "remove",
+      "position": 13,
+      "text": "Услуга «Application Performance Management»"
+    },
+    {
+      "type": "remove",
+      "position": 14,
+      "text": "Услуга «Cloud Backup And Recovery»"
+    },
+    {
+      "type": "remove",
+      "position": 15,
+      "text": "Услуга «Cloud Container Engine»"
+    },
+    {
+      "type": "remove",
+      "position": 16,
+      "text": "Услуга «Cloud Eye»"
+    },
+    {
+      "type": "remove",
+      "position": 17,
+      "text": "Услуга «Cloud Performance Test Service»"
+    },
+    {
+      "type": "remove",
+      "position": 18,
+      "text": "Услуга «Cloud Search Service»"
+    },
+    {
+      "type": "remove",
+      "position": 19,
+      "text": "Услуга «Cloud Trace Service»"
+    },
+    {
+      "type": "remove",
+      "position": 20,
+      "text": "Услуга «Direct Connect»"
+    },
+    {
+      "type": "remove",
+      "position": 21,
+      "text": "Услуга «Межплатформенная связность»"
+    },
+    {
+      "type": "remove",
+      "position": 22,
+      "text": "Услуга «Аренда SFP модуля»"
+    },
+    {
+      "type": "remove",
+      "position": 23,
+      "text": "Услуга «Distributed Cache Service For Redis»"
+    },
+    {
+      "type": "remove",
+      "position": 24,
+      "text": "Услуга «Distributed Message Service for Kafka, RabbitMQ and RocketMQ»"
+    },
+    {
+      "type": "remove",
+      "position": 25,
+      "text": "Услуга «Document Database Service»"
+    },
+    {
+      "type": "remove",
+      "position": 26,
+      "text": "Услуга «Domain Name Service»"
+    },
+    {
+      "type": "remove",
+      "position": 27,
+      "text": "Услуга «Elastic Cloud Server»"
+    },
+    {
+      "type": "remove",
+      "position": 28,
+      "text": "Услуга «Elastic Load Balance»"
+    },
+    {
+      "type": "remove",
+      "position": 29,
+      "text": "Услуга «Elastic Volume Service»"
+    },
+    {
+      "type": "remove",
+      "position": 30,
+      "text": "Услуга «FunctionGraph»"
+    },
+    {
+      "type": "remove",
+      "position": 31,
+      "text": "Услуга «Identity and Access Management»"
+    },
+    {
+      "type": "remove",
+      "position": 32,
+      "text": "Услуга «Image Management Service»"
+    },
+    {
+      "type": "remove",
+      "position": 33,
+      "text": "Услуга «Mapreduce Service»"
+    },
+    {
+      "type": "remove",
+      "position": 34,
+      "text": "Услуга «NAT Gateway»"
+    },
+    {
+      "type": "remove",
+      "position": 35,
+      "text": "Услуга «Object Storage Service»"
+    },
+    {
+      "type": "remove",
+      "position": 36,
+      "text": "Услуга «Relational Databases Service»"
+    },
+    {
+      "type": "remove",
+      "position": 37,
+      "text": "Услуга «Scalable File Service»"
+    },
+    {
+      "type": "remove",
+      "position": 38,
+      "text": "Услуга «Server Migration Service»"
+    },
+    {
+      "type": "remove",
+      "position": 39,
+      "text": "Услуга «ServiceStage»"
+    },
+    {
+      "type": "remove",
+      "position": 40,
+      "text": "Услуга «Simple Message Notification»"
+    },
+    {
+      "type": "remove",
+      "position": 41,
+      "text": "Услуга «Software Repository for Container»"
+    },
+    {
+      "type": "remove",
+      "position": 42,
+      "text": "Услуга «Virtual Private Cloud & Elastic IP»"
+    },
+    {
+      "type": "remove",
+      "position": 43,
+      "text": "Услуга «Virtual Private Network»"
+    },
+    {
+      "type": "remove",
+      "position": 44,
+      "text": "Услуга «API Gateway»"
+    },
+    {
+      "type": "remove",
+      "position": 45,
+      "text": "Услуга «Data Lake Insight»"
+    },
+    {
+      "type": "remove",
+      "position": 46,
+      "text": "Услуга «Graph Engine Service»"
+    },
+    {
+      "type": "remove",
+      "position": 47,
+      "text": "Услуга «Data Warehouse Service»"
+    },
+    {
+      "type": "remove",
+      "position": 48,
+      "text": "Услуга «Data Replication Service»"
+    },
+    {
+      "type": "remove",
+      "position": 49,
+      "text": "Услуга «GPU Accelerated Servers»"
+    },
+    {
+      "type": "remove",
+      "position": 50,
+      "text": "Услуга «Tag Management Service»"
+    },
+    {
+      "type": "remove",
+      "position": 51,
+      "text": "Услуга «Distributed Database Middleware»"
+    },
+    {
+      "type": "remove",
+      "position": 52,
+      "text": "Услуга «VPC Endpoint»"
+    },
+    {
+      "type": "remove",
+      "position": 53,
+      "text": "Услуга «Web Application Firewall»"
+    },
+    {
+      "type": "remove",
+      "position": 54,
+      "text": "Услуга «Log Tank Service»"
+    },
+    {
+      "type": "remove",
+      "position": 55,
+      "text": "Услуга «Enterprise Project Management Service»"
+    },
+    {
+      "type": "remove",
+      "position": 56,
+      "text": "Услуга «Data Admin Service»"
+    },
+    {
+      "type": "remove",
+      "position": 57,
+      "text": "Услуга «Data Encryption Workshop»"
+    },
+    {
+      "type": "remove",
+      "position": 58,
+      "text": "Услуга «DataArts Studio»"
+    },
+    {
+      "type": "remove",
+      "position": 59,
+      "text": "Услуга «Database Security Service»"
+    },
+    {
+      "type": "remove",
+      "position": 60,
+      "text": "Услуга «Host Security Service»"
+    },
+    {
+      "type": "remove",
+      "position": 61,
+      "text": "Услуга «Cloud Bastion Host»"
+    },
+    {
+      "type": "remove",
+      "position": 62,
+      "text": "Услуга «CodeArts»"
+    },
+    {
+      "type": "remove",
+      "position": 63,
+      "text": "Услуга «Cloud Certificate Manager»"
+    },
+    {
+      "type": "remove",
+      "position": 64,
+      "text": "Услуга «DataArts Insight»"
+    },
+    {
+      "type": "remove",
+      "position": 65,
+      "text": "Услуга «Cloud Service Engine»"
+    },
+    {
+      "type": "remove",
+      "position": 66,
+      "text": "Услуга «CloudTable»"
+    },
+    {
+      "type": "remove",
+      "position": 67,
+      "text": "Услуга «Enterprise Router»"
+    },
+    {
+      "type": "remove",
+      "position": 68,
+      "text": "Услуга «Cloud Container Instance»"
+    },
+    {
+      "type": "remove",
+      "position": 69,
+      "text": "Услуга «Cloud Firewall»"
+    },
+    {
+      "type": "remove",
+      "position": 70,
+      "text": "Услуга «IoT Device Access»"
+    },
+    {
+      "type": "remove",
+      "position": 71,
+      "text": "Услуга «GeminiDB»"
+    },
+    {
+      "type": "remove",
+      "position": 72,
+      "text": "Облако VMware"
+    },
+    {
+      "type": "remove",
+      "position": 73,
+      "text": "Cloud.ru ML Space"
+    },
+    {
+      "type": "remove",
+      "position": 74,
+      "text": "Кроссплатформенные услуги"
+    },
+    {
+      "type": "remove",
+      "position": 75,
+      "text": "Иные условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 76,
+      "text": "Утвержденные Формы"
+    },
+    {
+      "type": "remove",
+      "position": 77,
+      "text": "Архив"
+    },
+    {
+      "type": "remove",
+      "position": 132,
+      "text": "1. Предмет Соглашения"
+    },
+    {
+      "type": "remove",
+      "position": 133,
+      "text": "2. Режим предоставления, доступность и техническая поддержка Услуг ADV"
+    },
+    {
+      "type": "remove",
+      "position": 134,
+      "text": "3. Категоризация и приоритизация Обращений"
+    },
+    {
+      "type": "remove",
+      "position": 135,
+      "text": "4. Целевые значения показателей технической поддержки"
+    },
+    {
+      "type": "remove",
+      "position": 136,
+      "text": "5. Проведение Регламентных и Аварийно-восстановительных работ"
+    },
+    {
+      "type": "remove",
+      "position": 137,
+      "text": "6. Отказ от ответственности"
+    },
+    {
+      "type": "remove",
+      "position": 138,
+      "text": "7. Компенсация за нарушение Соглашения"
+    }
+  ],
+  "site": "cloudru",
+  "doc_id": "sla_advanced",
+  "doc_title": "SLA — Advanced",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-14",
+  "from_hash": "f50b6ef73e4c254d4045c0c33b38b59f580c41a083197aa51a7e28429532524f",
+  "to_hash": "26ae6a478fbff6b5b7e341432066537d6d37c7012e9d3d03c121b4a8cfb6169b",
+  "url": "https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=",
+  "ai_summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 84, изменено: 0."
+}

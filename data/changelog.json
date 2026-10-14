@@ -1,6 +1,62 @@
 {
-  "updated": "2026-10-14T12:29:29+00:00",
+  "updated": "2026-10-14T19:19:57+00:00",
   "entries": [
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:19:57+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "sla_advanced",
+      "doc_title": "SLA — Advanced",
+      "is_major": false,
+      "keywords": [
+        "ответственность"
+      ],
+      "summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 84, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=",
+      "diff_path": "cloudru/sla_advanced/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:18:33+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "sla_evolution",
+      "doc_title": "SLA — Evolution",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 0, удалено: 58, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform=",
+      "diff_path": "cloudru/sla_evolution/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:18:04+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "limitations",
+      "doc_title": "Вводимые ограничения (Evolution)",
+      "is_major": false,
+      "keywords": [
+        "ответственность"
+      ],
+      "summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 14, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution",
+      "diff_path": "cloudru/limitations/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:17:37+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "sla_general",
+      "doc_title": "SLA — общее соглашение",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 0, удалено: 23, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/terms-of-service/general/service-level-agreement?source-platform=",
+      "diff_path": "cloudru/sla_general/diffs/2026-10-14.json"
+    },
     {
       "date": "2026-10-14",
       "checked_at": "2026-10-14T12:29:29+00:00",

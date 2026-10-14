@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "privacy",
+  "name": "Rutube",
+  "doc_title": "Политика обработки персональных данных",
+  "url": "https://rutube.ru/info/privacy/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "fdebee0748b40dd5026eeef597255946b0e77e09604afaebcf68b9c4ff7d3a99"
+}

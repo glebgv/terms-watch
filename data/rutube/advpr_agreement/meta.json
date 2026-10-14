@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "advpr_agreement",
+  "name": "Rutube",
+  "doc_title": "Приложение В — Рекламные услуги",
+  "url": "https://rutube.ru/info/advpr_agreement/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "3ece9eedf6ede4a854b4ed9226c7d2e1435eaaefe347d3e426ffc3678d857296"
+}

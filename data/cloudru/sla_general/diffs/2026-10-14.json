@@ -1,0 +1,137 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 23,
+    "lines_changed": 0,
+    "change_ratio": 0.0813
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 1,
+      "text": "Договоры"
+    },
+    {
+      "type": "remove",
+      "position": 2,
+      "text": "Договор на оказание услуг"
+    },
+    {
+      "type": "remove",
+      "position": 3,
+      "text": "Оферта"
+    },
+    {
+      "type": "remove",
+      "position": 4,
+      "text": "Условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 5,
+      "text": "Общее описание и условия предоставления услуг. Приложение № 1.0."
+    },
+    {
+      "type": "remove",
+      "position": 6,
+      "text": "Общее соглашение об уровне предоставления услуг. Приложение № 2.0."
+    },
+    {
+      "type": "remove",
+      "position": 7,
+      "text": "Cloud.ru Evolution"
+    },
+    {
+      "type": "remove",
+      "position": 8,
+      "text": "Cloud.ru Advanced"
+    },
+    {
+      "type": "remove",
+      "position": 9,
+      "text": "Облако VMware"
+    },
+    {
+      "type": "remove",
+      "position": 10,
+      "text": "Cloud.ru ML Space"
+    },
+    {
+      "type": "remove",
+      "position": 11,
+      "text": "Кроссплатформенные услуги"
+    },
+    {
+      "type": "remove",
+      "position": 12,
+      "text": "Иные условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 13,
+      "text": "Утвержденные Формы"
+    },
+    {
+      "type": "remove",
+      "position": 14,
+      "text": "Архив"
+    },
+    {
+      "type": "remove",
+      "position": 145,
+      "text": "1. Предмет Соглашения"
+    },
+    {
+      "type": "remove",
+      "position": 146,
+      "text": "2. Термины и сокращения"
+    },
+    {
+      "type": "remove",
+      "position": 147,
+      "text": "3. Режим предоставления и доступность Услуг"
+    },
+    {
+      "type": "remove",
+      "position": 148,
+      "text": "4. Классификация Обращений"
+    },
+    {
+      "type": "remove",
+      "position": 149,
+      "text": "5. Целевые значения показателей технической поддержки"
+    },
+    {
+      "type": "remove",
+      "position": 150,
+      "text": "6. Проведение Регламентных и Аварийно-восстановительных работ"
+    },
+    {
+      "type": "remove",
+      "position": 151,
+      "text": "7. Коммуникации"
+    },
+    {
+      "type": "remove",
+      "position": 152,
+      "text": "8. Оповещение заказчика о нарушении информационной безопасности"
+    },
+    {
+      "type": "remove",
+      "position": 153,
+      "text": "9. Компенсация за нарушение Соглашения"
+    }
+  ],
+  "site": "cloudru",
+  "doc_id": "sla_general",
+  "doc_title": "SLA — общее соглашение",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-14",
+  "from_hash": "544b4c4f3383bf8fc2a9e5675350175703aa2e4e00199efe392b087eb70a3163",
+  "to_hash": "0a5493fb0ae2c0932bafa3f1c0eabf5b4515e432abe8f084e2f82bcc1d40d7a3",
+  "url": "https://cloud.ru/documents/contracts/terms-of-service/general/service-level-agreement?source-platform=",
+  "ai_summary": "Добавлено строк: 0, удалено: 23, изменено: 0."
+}

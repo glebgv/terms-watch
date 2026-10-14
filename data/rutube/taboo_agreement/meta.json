@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "taboo_agreement",
+  "name": "Rutube",
+  "doc_title": "Приложение Д — Запрещённый контент",
+  "url": "https://rutube.ru/info/taboo_agreement/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "e6c8ad325e2f55785f2b1881c1774ba09b978b989e8e095323875a303466efab"
+}

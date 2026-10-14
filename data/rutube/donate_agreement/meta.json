@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "donate_agreement",
+  "name": "Rutube",
+  "doc_title": "Приложение Г — Донаты",
+  "url": "https://rutube.ru/info/donate_agreement/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "fd332e2e707769e780eca60fd07636fb081f5dbe2438fa0bba43624e8e518df9"
+}

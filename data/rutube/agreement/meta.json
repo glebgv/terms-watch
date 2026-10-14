@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "agreement",
+  "name": "Rutube",
+  "doc_title": "Генеральное пользовательское соглашение",
+  "url": "https://rutube.ru/info/agreement/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "ff359c6e565eff53334b96e878060cc4f4d4f2125a2ab9193a3bb8401028cefd"
+}

@@ -1,0 +1,94 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 14,
+    "lines_changed": 0,
+    "change_ratio": 0.0833
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "ответственность"
+  ],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 1,
+      "text": "Договоры"
+    },
+    {
+      "type": "remove",
+      "position": 2,
+      "text": "Договор на оказание услуг"
+    },
+    {
+      "type": "remove",
+      "position": 3,
+      "text": "Оферта"
+    },
+    {
+      "type": "remove",
+      "position": 4,
+      "text": "Условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 5,
+      "text": "Иные условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 6,
+      "text": "Условия предоставления услуг и ограничения при пользовании услугами. Приложение № 3"
+    },
+    {
+      "type": "remove",
+      "position": 7,
+      "text": "Ограничения при использовании программного обеспечения. Приложение № 8"
+    },
+    {
+      "type": "remove",
+      "position": 8,
+      "text": "Утвержденные Формы"
+    },
+    {
+      "type": "remove",
+      "position": 9,
+      "text": "Архив"
+    },
+    {
+      "type": "remove",
+      "position": 87,
+      "text": "1. Общие положения"
+    },
+    {
+      "type": "remove",
+      "position": 88,
+      "text": "2. Термины и сокращения"
+    },
+    {
+      "type": "remove",
+      "position": 89,
+      "text": "3. Общие ограничения"
+    },
+    {
+      "type": "remove",
+      "position": 90,
+      "text": "4. Ограничения, накладываемые отдельными правообладателями"
+    },
+    {
+      "type": "remove",
+      "position": 91,
+      "text": "5. Ограничение ответственности"
+    }
+  ],
+  "site": "cloudru",
+  "doc_id": "limitations",
+  "doc_title": "Вводимые ограничения (Evolution)",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-14",
+  "from_hash": "90992f0ed0fa595f3e062e0a002b320b917c79b36a5adfcf6c687824a0f1d7f8",
+  "to_hash": "e9046f7c1db688fa39e6fcda7f0b20a0a6eceea67d5767e3d76d7c830eebbba8",
+  "url": "https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution",
+  "ai_summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 14, изменено: 0."
+}

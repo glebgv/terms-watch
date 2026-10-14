@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "modmvpp",
+  "name": "Rutube",
+  "doc_title": "Соглашение на услугу доступа (активные пользователи)",
+  "url": "https://rutube.ru/info/modmvpp/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "d8fc182cc3fb23c6d657bb8e8fb261e078313d959583e9415d1210c5a1aaa79d"
+}

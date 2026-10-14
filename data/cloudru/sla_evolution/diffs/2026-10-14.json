@@ -1,0 +1,312 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 58,
+    "lines_changed": 0,
+    "change_ratio": 0.3452
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 1,
+      "text": "Договоры"
+    },
+    {
+      "type": "remove",
+      "position": 2,
+      "text": "Договор на оказание услуг"
+    },
+    {
+      "type": "remove",
+      "position": 3,
+      "text": "Оферта"
+    },
+    {
+      "type": "remove",
+      "position": 4,
+      "text": "Условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 5,
+      "text": "Общее описание и условия предоставления услуг. Приложение № 1.0."
+    },
+    {
+      "type": "remove",
+      "position": 6,
+      "text": "Общее соглашение об уровне предоставления услуг. Приложение № 2.0."
+    },
+    {
+      "type": "remove",
+      "position": 7,
+      "text": "Cloud.ru Evolution"
+    },
+    {
+      "type": "remove",
+      "position": 8,
+      "text": "Общее соглашение об уровне предоставления услуг Cloud.ru EVO. Приложение № 2.EVO.0."
+    },
+    {
+      "type": "remove",
+      "position": 9,
+      "text": "Услуга «ИИ-помощник Гига-помощник»"
+    },
+    {
+      "type": "remove",
+      "position": 10,
+      "text": "Услуга «Evolution Compute»"
+    },
+    {
+      "type": "remove",
+      "position": 11,
+      "text": "Услуга «Evolution Managed Kubernetes»"
+    },
+    {
+      "type": "remove",
+      "position": 12,
+      "text": "Услуга «Evolution Object Storage»"
+    },
+    {
+      "type": "remove",
+      "position": 13,
+      "text": "Услуга «Evolution Managed PostgreSQL®»"
+    },
+    {
+      "type": "remove",
+      "position": 14,
+      "text": "Услуга «Evolution Bare Metal»"
+    },
+    {
+      "type": "remove",
+      "position": 15,
+      "text": "Услуга «Evolution Artifact Registry»"
+    },
+    {
+      "type": "remove",
+      "position": 16,
+      "text": "Услуга «Evolution Аренда SFP модуля»"
+    },
+    {
+      "type": "remove",
+      "position": 17,
+      "text": "Услуга «Evolution Межплатформенная связность»"
+    },
+    {
+      "type": "remove",
+      "position": 18,
+      "text": "Услуга «Evolution Direct Connect»"
+    },
+    {
+      "type": "remove",
+      "position": 19,
+      "text": "Услуга «Evolution Container Apps»"
+    },
+    {
+      "type": "remove",
+      "position": 20,
+      "text": "Услуга «Evolution ML Inference»"
+    },
+    {
+      "type": "remove",
+      "position": 21,
+      "text": "Услуга «Evolution Foundation Models»"
+    },
+    {
+      "type": "remove",
+      "position": 22,
+      "text": "Услуга «Evolution DNS»"
+    },
+    {
+      "type": "remove",
+      "position": 23,
+      "text": "Услуга «Evolution Managed ArenadataDB»"
+    },
+    {
+      "type": "remove",
+      "position": 24,
+      "text": "Услуга «Evolution Managed Trino»"
+    },
+    {
+      "type": "remove",
+      "position": 25,
+      "text": "Услуга «Evolution Managed Metastore»"
+    },
+    {
+      "type": "remove",
+      "position": 26,
+      "text": "Услуга «Evolution Managed Redis»"
+    },
+    {
+      "type": "remove",
+      "position": 27,
+      "text": "Услуга «Evolution Managed Spark»"
+    },
+    {
+      "type": "remove",
+      "position": 28,
+      "text": "Услуга «Evolution Managed BI»"
+    },
+    {
+      "type": "remove",
+      "position": 29,
+      "text": "Услуга «Evolution Load Balancer»"
+    },
+    {
+      "type": "remove",
+      "position": 30,
+      "text": "Услуга «Evolution Managed RAG»"
+    },
+    {
+      "type": "remove",
+      "position": 31,
+      "text": "Услуга «Evolution Magic Router»"
+    },
+    {
+      "type": "remove",
+      "position": 32,
+      "text": "Услуга «Evolution AI Agents»"
+    },
+    {
+      "type": "remove",
+      "position": 33,
+      "text": "Услуга «Evolution Notebooks»"
+    },
+    {
+      "type": "remove",
+      "position": 34,
+      "text": "Услуга «Evolution Repo»"
+    },
+    {
+      "type": "remove",
+      "position": 35,
+      "text": "Услуга «Evolution ML Finetuning»"
+    },
+    {
+      "type": "remove",
+      "position": 36,
+      "text": "Услуга «Evolution Agent Backup»"
+    },
+    {
+      "type": "remove",
+      "position": 37,
+      "text": "Услуга «Evolution Migration»"
+    },
+    {
+      "type": "remove",
+      "position": 38,
+      "text": "Услуга «Evolution Disaster Recovery»"
+    },
+    {
+      "type": "remove",
+      "position": 39,
+      "text": "Услуга «Evolution Managed ClickHouse»"
+    },
+    {
+      "type": "remove",
+      "position": 40,
+      "text": "Услуга «Evolution Managed Kafka»"
+    },
+    {
+      "type": "remove",
+      "position": 41,
+      "text": "Услуга «Evolution Managed Airflow»"
+    },
+    {
+      "type": "remove",
+      "position": 42,
+      "text": "Услуга «Evolution VPN»"
+    },
+    {
+      "type": "remove",
+      "position": 43,
+      "text": "Услуга «Evolution Managed OpenSearch»"
+    },
+    {
+      "type": "remove",
+      "position": 44,
+      "text": "Услуга «Evolution Workflow Studio»"
+    },
+    {
+      "type": "remove",
+      "position": 45,
+      "text": "Cloud.ru Advanced"
+    },
+    {
+      "type": "remove",
+      "position": 46,
+      "text": "Облако VMware"
+    },
+    {
+      "type": "remove",
+      "position": 47,
+      "text": "Cloud.ru ML Space"
+    },
+    {
+      "type": "remove",
+      "position": 48,
+      "text": "Кроссплатформенные услуги"
+    },
+    {
+      "type": "remove",
+      "position": 49,
+      "text": "Иные условия оказания услуг"
+    },
+    {
+      "type": "remove",
+      "position": 50,
+      "text": "Утвержденные Формы"
+    },
+    {
+      "type": "remove",
+      "position": 51,
+      "text": "Архив"
+    },
+    {
+      "type": "remove",
+      "position": 107,
+      "text": "1. Предмет Соглашения"
+    },
+    {
+      "type": "remove",
+      "position": 108,
+      "text": "2. Режим предоставления, доступность и техническая поддержка Услуг EVO"
+    },
+    {
+      "type": "remove",
+      "position": 109,
+      "text": "3. Категоризация и приоритизация Обращений"
+    },
+    {
+      "type": "remove",
+      "position": 110,
+      "text": "4. Целевые значения показателей технической поддержки"
+    },
+    {
+      "type": "remove",
+      "position": 111,
+      "text": "5. Проведение Регламентных и Аварийно-восстановительных работ"
+    },
+    {
+      "type": "remove",
+      "position": 112,
+      "text": "6. Компенсация за нарушение Соглашения"
+    },
+    {
+      "type": "remove",
+      "position": 113,
+      "text": "7. Ограничения"
+    }
+  ],
+  "site": "cloudru",
+  "doc_id": "sla_evolution",
+  "doc_title": "SLA — Evolution",
+  "from_date": "2026-10-11",
+  "to_date": "2026-10-14",
+  "from_hash": "b1fe6230debc124e665f3d9f35213327c50501b94a4be07bae4e2a6190a4e014",
+  "to_hash": "2d8a2711df178680220040eb1674cc710c8b416e502697105a284e2761fa9ada",
+  "url": "https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform=",
+  "ai_summary": "Добавлено строк: 0, удалено: 58, изменено: 0."
+}

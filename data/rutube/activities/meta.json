@@ -1,0 +1,12 @@
+{
+  "id": "rutube",
+  "doc_id": "activities",
+  "name": "Rutube",
+  "doc_title": "Информация о деятельности (ст. 10.2 149-ФЗ)",
+  "url": "https://rutube.ru/info/activities/",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "f41c669449296088ac20a40821f423d786231c0fda4881b6cbe5603842ec27bb"
+}
