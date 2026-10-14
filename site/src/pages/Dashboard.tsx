@@ -25,6 +25,7 @@ const SITE_ICONS: Record<string, string> = {
   fl: 'fl.png',
   avito: 'avito.png',
   ok: 'ok.png',
+  beget: 'beget.png',
 }
 
 export default function Dashboard() {
