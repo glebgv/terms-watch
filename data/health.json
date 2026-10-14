@@ -1,289 +1,323 @@
 {
   "hh/privacy": {
-    "last_success": "2026-10-13T19:44:07+00:00",
+    "last_success": "2026-10-14T06:16:52+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "hh/offer": {
-    "last_success": "2026-10-13T19:44:01+00:00",
+    "last_success": "2026-10-14T06:17:03+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/privacy": {
-    "last_success": "2026-10-13T19:47:29+00:00",
+    "last_success": "2026-10-14T06:20:11+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/agreement": {
-    "last_success": "2026-10-13T19:44:12+00:00",
+    "last_success": "2026-10-14T06:16:56+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/tos": {
-    "last_success": "2026-10-13T19:44:17+00:00",
+    "last_success": "2026-10-14T06:17:08+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/toss": {
-    "last_success": "2026-10-13T19:44:21+00:00",
+    "last_success": "2026-10-14T06:17:12+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/tos_hbp": {
-    "last_success": "2026-10-13T19:44:25+00:00",
+    "last_success": "2026-10-14T06:17:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/toss_hbp": {
-    "last_success": "2026-10-13T19:44:31+00:00",
+    "last_success": "2026-10-14T06:17:21+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/api_rules": {
-    "last_success": "2026-10-13T19:44:35+00:00",
+    "last_success": "2026-10-14T06:17:25+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/price": {
-    "last_success": "2026-10-13T19:44:44+00:00",
+    "last_success": "2026-10-14T06:17:33+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/recommendation_rules": {
-    "last_success": "2026-10-13T19:44:39+00:00",
+    "last_success": "2026-10-14T06:17:29+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "profi/recommendation": {
     "last_success": "2026-10-12T09:07:07+00:00",
-    "consecutive_errors": 20,
+    "consecutive_errors": 21,
     "last_error": "validate: слишком короткий текст: 87 симв. (минимум 500)",
     "days_stale": 1
   },
   "profi/privacy": {
     "last_success": "2026-10-12T09:07:11+00:00",
-    "consecutive_errors": 20,
+    "consecutive_errors": 21,
     "last_error": "validate: слишком короткий текст: 87 симв. (минимум 500)",
     "days_stale": 1
   },
   "vk/terms": {
-    "last_success": "2026-10-13T19:45:34+00:00",
+    "last_success": "2026-10-14T06:18:02+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/licence": {
-    "last_success": "2026-10-13T19:46:21+00:00",
+    "last_success": "2026-10-14T06:19:00+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/privacy": {
-    "last_success": "2026-10-13T19:46:41+00:00",
+    "last_success": "2026-10-14T06:19:21+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/cc_terms": {
-    "last_success": "2026-10-13T19:47:03+00:00",
+    "last_success": "2026-10-14T06:19:44+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "yandex/rules": {
-    "last_success": "2026-10-13T19:48:53+00:00",
+    "last_success": "2026-10-14T06:21:37+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "yandex/cloud_terms": {
-    "last_success": "2026-10-13T19:48:58+00:00",
+    "last_success": "2026-10-14T06:21:42+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/personal_data": {
-    "last_success": "2026-10-13T19:47:49+00:00",
+    "last_success": "2026-10-14T06:20:31+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/personal_privacy": {
-    "last_success": "2026-10-13T19:48:09+00:00",
+    "last_success": "2026-10-14T06:20:51+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/oferta_poruchenie": {
-    "last_success": "2026-10-13T19:48:29+00:00",
+    "last_success": "2026-10-14T06:21:12+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/privacy_agreement": {
-    "last_success": "2026-10-13T19:48:49+00:00",
+    "last_success": "2026-10-14T06:21:32+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "selectel/pd_policy": {
-    "last_success": "2026-10-13T19:49:02+00:00",
+    "last_success": "2026-10-14T06:21:46+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/confidentiality": {
-    "last_success": "2026-10-13T19:48:58+00:00",
+    "last_success": "2026-10-14T06:21:42+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/desc_terms": {
-    "last_success": "2026-10-13T19:49:20+00:00",
+    "last_success": "2026-10-14T06:22:25+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_general": {
-    "last_success": "2026-10-13T19:49:40+00:00",
+    "last_success": "2026-10-14T06:22:04+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/tos_restrictions": {
-    "last_success": "2026-10-13T19:50:00+00:00",
+    "last_success": "2026-10-14T06:22:45+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/limitations": {
-    "last_success": "2026-10-13T19:50:21+00:00",
+    "last_success": "2026-10-14T06:23:06+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/pd_policy": {
-    "last_success": "2026-10-13T19:50:24+00:00",
+    "last_success": "2026-10-14T06:23:09+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/offer": {
-    "last_success": "2026-10-13T19:50:30+00:00",
+    "last_success": "2026-10-14T06:23:16+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_evolution": {
-    "last_success": "2026-10-13T19:50:42+00:00",
+    "last_success": "2026-10-14T06:23:27+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/platform_rules": {
-    "last_success": "2026-10-13T19:50:32+00:00",
+    "last_success": "2026-10-14T06:23:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/sla": {
-    "last_success": "2026-10-13T19:50:34+00:00",
+    "last_success": "2026-10-14T06:23:19+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_advanced": {
-    "last_success": "2026-10-13T19:51:02+00:00",
+    "last_success": "2026-10-14T06:23:48+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/cloud_special_conditions": {
-    "last_success": "2026-10-13T19:47:10+00:00",
+    "last_success": "2026-10-14T06:19:52+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vk/cloud_offer_agreement": {
-    "last_success": "2026-10-13T19:47:17+00:00",
+    "last_success": "2026-10-14T06:19:59+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/agreement": {
-    "last_success": "2026-10-13T19:50:36+00:00",
+    "last_success": "2026-10-14T06:23:21+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/privacy": {
-    "last_success": "2026-10-13T19:50:36+00:00",
+    "last_success": "2026-10-14T06:23:21+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/price": {
-    "last_success": "2026-10-13T19:50:38+00:00",
+    "last_success": "2026-10-14T06:23:23+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/regulations": {
-    "last_success": "2026-10-13T19:50:39+00:00",
+    "last_success": "2026-10-14T06:23:24+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/service": {
-    "last_success": "2026-10-13T19:50:40+00:00",
+    "last_success": "2026-10-14T06:23:25+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/offer_business": {
-    "last_success": "2026-10-13T19:50:42+00:00",
+    "last_success": "2026-10-14T06:23:28+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/pdn_consent": {
-    "last_success": "2026-10-13T19:50:43+00:00",
+    "last_success": "2026-10-14T06:23:27+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/cookie": {
-    "last_success": "2026-10-13T19:50:44+00:00",
+    "last_success": "2026-10-14T06:23:28+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/services_agreement": {
-    "last_success": "2026-10-13T19:51:35+00:00",
+    "last_success": "2026-10-14T06:24:02+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/privacy": {
-    "last_success": "2026-10-13T19:51:04+00:00",
+    "last_success": "2026-10-14T06:24:14+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/rec_technologies": {
-    "last_success": "2026-10-13T19:53:14+00:00",
+    "last_success": "2026-10-14T06:24:19+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/ranking_ads": {
-    "last_success": "2026-10-13T19:16:14+00:00",
-    "consecutive_errors": 1,
-    "last_error": "wayback fetch: wayback недоступен после ретраев",
-    "days_stale": 0
+    "last_success": "2026-10-14T06:25:48+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "avito/listing_policy": {
-    "last_success": "2026-10-13T19:52:24+00:00",
+    "last_success": "2026-10-14T06:24:37+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/realty_listings": {
-    "last_success": "2026-10-13T19:52:37+00:00",
+    "last_success": "2026-10-14T06:25:35+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "avito/prohibited_items": {
-    "last_success": "2026-10-13T19:53:13+00:00",
+    "last_success": "2026-10-14T06:26:44+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/regulations": {
-    "last_success": "2026-10-13T19:53:17+00:00",
+    "last_success": "2026-10-14T06:25:39+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/privacy": {
-    "last_success": "2026-10-13T19:53:20+00:00",
+    "last_success": "2026-10-14T06:25:42+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/rtterms": {
-    "last_success": "2026-10-13T19:53:23+00:00",
+    "last_success": "2026-10-14T06:25:45+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/claimterms": {
-    "last_success": "2026-10-13T19:53:26+00:00",
+    "last_success": "2026-10-14T06:25:48+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/childsafety": {
-    "last_success": "2026-10-13T19:53:29+00:00",
+    "last_success": "2026-10-14T06:25:52+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/pravila": {
+    "last_success": "2026-10-14T06:25:56+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/pravila_domains": {
+    "last_success": "2026-10-14T06:26:00+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/cloud_rules_ru": {
+    "last_success": "2026-10-14T06:26:07+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/cloud_rules_kz": {
+    "last_success": "2026-10-14T06:26:11+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/personal_data": {
+    "last_success": "2026-10-14T06:26:19+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/sla_vps": {
+    "last_success": "2026-10-14T06:26:19+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "beget/pci_dss": {
+    "last_success": "2026-10-14T06:26:28+00:00",
     "consecutive_errors": 0,
     "last_error": null
   }

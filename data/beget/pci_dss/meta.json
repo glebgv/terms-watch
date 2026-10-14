@@ -1,0 +1,12 @@
+{
+  "id": "beget",
+  "doc_id": "pci_dss",
+  "name": "Beget",
+  "doc_title": "Политика безопасности PCI DSS",
+  "url": "https://beget.com/ru/politika-bezopasnosti-pci-dss",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "7637d69df75e29394397d9ce4f2a11b67580937476d4777ab12621c60fecdd29"
+}

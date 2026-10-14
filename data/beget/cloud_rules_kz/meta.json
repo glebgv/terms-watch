@@ -1,0 +1,12 @@
+{
+  "id": "beget",
+  "doc_id": "cloud_rules_kz",
+  "name": "Beget",
+  "doc_title": "Правила использования облачных услуг (Казахстан)",
+  "url": "https://beget.com/ru/cloud-rules-kz",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "ba892422f5da4aea834c2f848c9f5dd7319ff200cc43d5c2c76fc7dd12cb5dbd"
+}

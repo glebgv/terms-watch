@@ -1,0 +1,12 @@
+{
+  "id": "beget",
+  "doc_id": "pravila",
+  "name": "Beget",
+  "doc_title": "Правила использования услуг хостинга",
+  "url": "https://beget.com/ru/pravila",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "9e1c79b788c0c342dae43aac8dafa6a26a57058111c6f77f4e4fb2a0c1f0fc48"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "beget",
+  "doc_id": "pravila_domains",
+  "name": "Beget",
+  "doc_title": "Правила регистрации и продления доменных имен",
+  "url": "https://beget.com/ru/pravila-domains",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "e355ee2fac1afae4757b417db477e584c921c3d4d5f95caa06f5b992fbbe158a"
+}

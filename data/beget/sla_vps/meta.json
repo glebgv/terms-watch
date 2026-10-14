@@ -1,0 +1,12 @@
+{
+  "id": "beget",
+  "doc_id": "sla_vps",
+  "name": "Beget",
+  "doc_title": "SLA облачных услуг",
+  "url": "https://beget.com/ru/sla-vps",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "e7b8615f6add708f2e175b96f8909cd653e53aff62ba8ffb6847d69f15524731"
+}

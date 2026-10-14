@@ -1,0 +1,12 @@
+{
+  "id": "beget",
+  "doc_id": "cloud_rules_ru",
+  "name": "Beget",
+  "doc_title": "Правила использования облачных услуг (РФ)",
+  "url": "https://beget.com/ru/cloud-rules-ru",
+  "selector": "body",
+  "first_check": "2026-10-14",
+  "last_check": "2026-10-14",
+  "total_versions": 1,
+  "last_hash": "a065cb0301ee07d6faa0aa51c496962e8ce969c1cf073cfc6e0c7826aab4ee0d"
+}

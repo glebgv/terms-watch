@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T21:26:03+00:00",
+  "generated_at": "2026-10-14T06:35:50+00:00",
   "sites": [
     {
       "site": {
@@ -1284,6 +1284,141 @@
           "last_check": "2026-10-13",
           "total_versions": 1,
           "last_hash": "1caa86b3187970817e6feab145ec8197a7ae87892c43d5096bd6be6145d8aa5a"
+        }
+      ],
+      "last_change": null,
+      "changes_count": 0
+    },
+    {
+      "site": {
+        "id": "beget",
+        "name": "Beget",
+        "url": "https://beget.com/ru/pravila",
+        "category": "hosting",
+        "added": "2026-10-14",
+        "active": true,
+        "docs": [
+          {
+            "doc_id": "pravila",
+            "title": "Правила использования услуг хостинга",
+            "url": "https://beget.com/ru/pravila"
+          },
+          {
+            "doc_id": "pravila_domains",
+            "title": "Правила регистрации и продления доменных имен",
+            "url": "https://beget.com/ru/pravila-domains"
+          },
+          {
+            "doc_id": "cloud_rules_ru",
+            "title": "Правила использования облачных услуг (РФ)",
+            "url": "https://beget.com/ru/cloud-rules-ru"
+          },
+          {
+            "doc_id": "cloud_rules_kz",
+            "title": "Правила использования облачных услуг (Казахстан)",
+            "url": "https://beget.com/ru/cloud-rules-kz"
+          },
+          {
+            "doc_id": "sla_vps",
+            "title": "SLA облачных услуг",
+            "url": "https://beget.com/ru/sla-vps"
+          },
+          {
+            "doc_id": "personal_data",
+            "title": "Политика обработки персональных данных",
+            "url": "https://beget.com/files/personal-data.pdf"
+          },
+          {
+            "doc_id": "pci_dss",
+            "title": "Политика безопасности PCI DSS",
+            "url": "https://beget.com/ru/politika-bezopasnosti-pci-dss"
+          }
+        ]
+      },
+      "docs": [
+        {
+          "id": "beget",
+          "doc_id": "pravila",
+          "name": "Beget",
+          "doc_title": "Правила использования услуг хостинга",
+          "url": "https://beget.com/ru/pravila",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "9e1c79b788c0c342dae43aac8dafa6a26a57058111c6f77f4e4fb2a0c1f0fc48"
+        },
+        {
+          "id": "beget",
+          "doc_id": "pravila_domains",
+          "name": "Beget",
+          "doc_title": "Правила регистрации и продления доменных имен",
+          "url": "https://beget.com/ru/pravila-domains",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "e355ee2fac1afae4757b417db477e584c921c3d4d5f95caa06f5b992fbbe158a"
+        },
+        {
+          "id": "beget",
+          "doc_id": "cloud_rules_ru",
+          "name": "Beget",
+          "doc_title": "Правила использования облачных услуг (РФ)",
+          "url": "https://beget.com/ru/cloud-rules-ru",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "a065cb0301ee07d6faa0aa51c496962e8ce969c1cf073cfc6e0c7826aab4ee0d"
+        },
+        {
+          "id": "beget",
+          "doc_id": "cloud_rules_kz",
+          "name": "Beget",
+          "doc_title": "Правила использования облачных услуг (Казахстан)",
+          "url": "https://beget.com/ru/cloud-rules-kz",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "ba892422f5da4aea834c2f848c9f5dd7319ff200cc43d5c2c76fc7dd12cb5dbd"
+        },
+        {
+          "id": "beget",
+          "doc_id": "sla_vps",
+          "name": "Beget",
+          "doc_title": "SLA облачных услуг",
+          "url": "https://beget.com/ru/sla-vps",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "e7b8615f6add708f2e175b96f8909cd653e53aff62ba8ffb6847d69f15524731"
+        },
+        {
+          "id": "beget",
+          "doc_id": "personal_data",
+          "name": "Beget",
+          "doc_title": "Политика обработки персональных данных",
+          "url": "https://beget.com/files/personal-data.pdf",
+          "selector": "",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "b813a76f423a57abe15ee7ca9aa616aa14bfee725eda1f02db01d3bd15af232c"
+        },
+        {
+          "id": "beget",
+          "doc_id": "pci_dss",
+          "name": "Beget",
+          "doc_title": "Политика безопасности PCI DSS",
+          "url": "https://beget.com/ru/politika-bezopasnosti-pci-dss",
+          "selector": "body",
+          "first_check": "2026-10-14",
+          "last_check": "2026-10-14",
+          "total_versions": 1,
+          "last_hash": "7637d69df75e29394397d9ce4f2a11b67580937476d4777ab12621c60fecdd29"
         }
       ],
       "last_change": null,

@@ -404,6 +404,51 @@
           "url": "https://st.okcdn.ru/static/la/la-1-1-272/childsafety/internal/ru/general/web/?cssMod=light-theme"
         }
       ]
+    },
+    {
+      "id": "beget",
+      "name": "Beget",
+      "url": "https://beget.com/ru/pravila",
+      "category": "hosting",
+      "added": "2026-10-14",
+      "active": true,
+      "docs": [
+        {
+          "doc_id": "pravila",
+          "title": "Правила использования услуг хостинга",
+          "url": "https://beget.com/ru/pravila"
+        },
+        {
+          "doc_id": "pravila_domains",
+          "title": "Правила регистрации и продления доменных имен",
+          "url": "https://beget.com/ru/pravila-domains"
+        },
+        {
+          "doc_id": "cloud_rules_ru",
+          "title": "Правила использования облачных услуг (РФ)",
+          "url": "https://beget.com/ru/cloud-rules-ru"
+        },
+        {
+          "doc_id": "cloud_rules_kz",
+          "title": "Правила использования облачных услуг (Казахстан)",
+          "url": "https://beget.com/ru/cloud-rules-kz"
+        },
+        {
+          "doc_id": "sla_vps",
+          "title": "SLA облачных услуг",
+          "url": "https://beget.com/ru/sla-vps"
+        },
+        {
+          "doc_id": "personal_data",
+          "title": "Политика обработки персональных данных",
+          "url": "https://beget.com/files/personal-data.pdf"
+        },
+        {
+          "doc_id": "pci_dss",
+          "title": "Политика безопасности PCI DSS",
+          "url": "https://beget.com/ru/politika-bezopasnosti-pci-dss"
+        }
+      ]
     }
   ]
 }
