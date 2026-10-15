@@ -3,7 +3,7 @@
     "lines_added": 5,
     "lines_removed": 5,
     "lines_changed": 5,
-    "change_ratio": 0.0046
+    "change_ratio": 0.0025
   },
   "is_major": false,
   "reordering_only": false,
@@ -60,12 +60,8 @@
           "text": "7.1, приравняв тестовое задание по отдельным видам"
         },
         {
-          "type": "remove",
+          "type": "keep",
           "text": "работ"
-        },
-        {
-          "type": "add",
-          "text": "раб от"
         },
         {
           "type": "keep",
@@ -84,12 +80,8 @@
           "text": "В случае нарушения настоящего Приложения, а также условий Соглашения, администрация Сайта имеет право: 7.1.1. попросить"
         },
         {
-          "type": "remove",
+          "type": "keep",
           "text": "отредактировать,"
-        },
-        {
-          "type": "add",
-          "text": "отреда ктировать,"
         },
         {
           "type": "keep",
