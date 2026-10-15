@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+:root { color-scheme: dark; }
+
+body {
+  @apply bg-[#0d1117] text-gray-200 antialiased;
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: #0d1117; }
+::-webkit-scrollbar-thumb { background: #30363d; border-radius: 5px; }
+::-webkit-scrollbar-thumb:hover { background: #484f58; }
+
+/* серебристый движущийся блеск */
+@keyframes silver-shine {
+  0%   { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+/* одиночное переливание: один проход */
+@keyframes silver-shine-once {
+  0%   { background-position: 0% center; }
+  100% { background-position: 100% center; }
+}
+
+.silver-text {
+  background: linear-gradient(
+    110deg,
+    #c8d0da 0%, #f2f6fa 20%, #ffffff 35%,
+    #aab4c0 50%, #e8eef4 65%, #f8fafc 80%, #c8d0da 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: silver-shine-once 3s ease-in-out 1 both;
+}
+
+/* повтор блеска при наведении на логотип */
+.group:hover .silver-text {
+  animation: silver-shine-once 3s ease-in-out 1 both;
+}
+
+.silver-bar {
+  position: relative;
+  overflow: hidden;
+}
+.silver-bar::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    transparent 30%,
+    rgba(226, 232, 240, 0.07) 42%,
+    rgba(255, 255, 255, 0.14) 50%,
+    rgba(226, 232, 240, 0.07) 58%,
+    transparent 70%
+  );
+  background-size: 250% 100%;
+  animation: silver-shine-once 5s ease-in-out 1 both;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .silver-text, .silver-bar::after { animation: none; }
+}
