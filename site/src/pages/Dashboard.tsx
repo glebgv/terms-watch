@@ -132,18 +132,19 @@ export default function Dashboard() {
       </section>
 
       <section>
-        <div className="flex flex-wrap gap-2 mb-4 items-center justify-end">
-          <Select value={site} onChange={setSite} placeholder="все сайты"
-                  options={sites.map(({ site: s }: any) => [s.id, s.name])} />
-          <Select value={kw} onChange={setKw} placeholder="все темы"
-                  options={allKeywords.map((k) => [k, k])} />
-          <Select value={year} onChange={setYear} placeholder="все годы"
-                  options={allYears.map((y) => [y, y])} />
+        <div className="flex flex-wrap gap-2 mb-4 items-center justify-between">
+          <h2 className="text-xs uppercase tracking-wider text-gray-500 flex items-center gap-2">
+            последние изменения по документам <Badge color="gray">{entries.length}</Badge>
+          </h2>
+          <div className="flex flex-wrap gap-2 items-center">
+            <Select value={site} onChange={setSite} placeholder="все сайты"
+                    options={sites.map(({ site: s }: any) => [s.id, s.name])} />
+            <Select value={kw} onChange={setKw} placeholder="все темы"
+                    options={allKeywords.map((k) => [k, k])} />
+            <Select value={year} onChange={setYear} placeholder="все годы"
+                    options={allYears.map((y) => [y, y])} />
+          </div>
         </div>
-
-        <h2 className="text-xs uppercase tracking-wider text-gray-500 mb-3 flex items-center gap-2">
-          последние изменения по документам <Badge color="gray">{entries.length}</Badge>
-        </h2>
         <div className="space-y-3">
           {entries.length === 0 && (
             <p className="text-gray-600 text-sm py-8 text-center border border-dashed border-[#21262d] rounded-xl">
