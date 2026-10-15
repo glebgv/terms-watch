@@ -1,20 +1,26 @@
 {
   "stats": {
-    "lines_added": 4,
-    "lines_removed": 4,
-    "lines_changed": 4,
-    "change_ratio": 0.0323
+    "lines_added": 3,
+    "lines_removed": 2,
+    "lines_changed": 2,
+    "change_ratio": 0.0272
   },
   "is_major": false,
   "reordering_only": false,
-  "keywords": [],
+  "keywords": [
+    "персональные данные"
+  ],
   "changes": [
     {
       "type": "modify",
-      "position": 15,
-      "old_text": "Services under development",
-      "new_text": "Beta services",
+      "position": 1,
+      "old_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1.",
+      "new_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии Beta services Try out the new services that may appear on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1.",
       "word_diff": [
+        {
+          "type": "keep",
+          "text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии"
+        },
         {
           "type": "remove",
           "text": "Services under development"
@@ -22,15 +28,7 @@
         {
           "type": "add",
           "text": "Beta services"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 16,
-      "old_text": "Try new services that we can introduce on hh.ru in the future",
-      "new_text": "Try out the new services that may appear on hh.ru in the future",
-      "word_diff": [
+        },
         {
           "type": "keep",
           "text": "Try"
@@ -53,41 +51,42 @@
         },
         {
           "type": "keep",
-          "text": "on hh.ru in the future"
+          "text": "on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1."
         }
       ]
     },
     {
       "type": "modify",
-      "position": 57,
-      "old_text": "Labour market studies",
-      "new_text": "Rating of russian employers",
+      "position": 38,
+      "old_text": "Labour market studies To assess the level of competition, demand and supply in the labour market Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Talantix For convenient work with the resume and staff database",
+      "new_text": "Rating of russian employers Регистрация бесплатная.",
       "word_diff": [
         {
           "type": "remove",
-          "text": "Labour market studies"
+          "text": "Labour market studies To assess the level"
         },
         {
           "type": "add",
-          "text": "Rating of russian employers"
+          "text": "Rating"
+        },
+        {
+          "type": "keep",
+          "text": "of"
+        },
+        {
+          "type": "remove",
+          "text": "competition, demand and supply in the labour market Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Talantix For convenient work with the resume and staff database"
+        },
+        {
+          "type": "add",
+          "text": "russian employers Регистрация бесплатная."
         }
       ]
     },
     {
-      "type": "modify",
-      "position": 58,
-      "old_text": "To assess the level of competition, demand and supply in the labour market",
-      "new_text": "Регистрация бесплатная. Допускаются компании от 100 сотрудников",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "To assess the level of competition, demand and supply in the labour market"
-        },
-        {
-          "type": "add",
-          "text": "Регистрация бесплатная. Допускаются компании от 100 сотрудников"
-        }
-      ]
+      "type": "add",
+      "position": 39,
+      "text": "Допускаются компании от 100 сотрудников Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Talantix For convenient work with the resume and staff database"
     }
   ],
   "site": "hh",
@@ -98,6 +97,5 @@
   "from_hash": "45292ed0fea7b69eef463894b7819ff91129291aab0fd6ba4cff3222b9d4aaa2",
   "to_hash": "d52a9299102a197f06ec1dfceb37a23a246d5d0327e11479ee826304d004cadf",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20210830/https://hh.ru/article/personal_data"
+  "ai_summary": "Затронуты темы: персональные данные. Добавлено строк: 3, удалено: 2, изменено: 2."
 }

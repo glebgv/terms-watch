@@ -1,9 +1,9 @@
 {
   "stats": {
     "lines_added": 1,
-    "lines_removed": 1,
+    "lines_removed": 2,
     "lines_changed": 1,
-    "change_ratio": 0.0093
+    "change_ratio": 0.0003
   },
   "is_major": false,
   "reordering_only": false,
@@ -11,19 +11,24 @@
   "changes": [
     {
       "type": "modify",
-      "position": 46,
-      "old_text": "8.10. The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services.",
-      "new_text": "8.10. The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services. </span></li> </ul>",
+      "position": 234,
+      "old_text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services.",
+      "new_text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services. </span></li> </ul> 8.11.",
       "word_diff": [
         {
           "type": "keep",
-          "text": "8.10. The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services."
+          "text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services."
         },
         {
           "type": "add",
-          "text": "</span></li> </ul>"
+          "text": "</span></li> </ul> 8.11."
         }
       ]
+    },
+    {
+      "type": "remove",
+      "position": 235,
+      "text": "8.11."
     }
   ],
   "site": "vk",
@@ -34,6 +39,5 @@
   "from_hash": "0280223dbd9959bef8975baa983e9b9be3f111391d2030c8c4ce77be0a6e6421",
   "to_hash": "0f29484e5a5ca20efc93adfb038b4b9b6878103263e69af0f8d2b822d9609f14",
   "url": "https://vk.ru/terms",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20230203/https://vk.ru/terms"
+  "ai_summary": "Добавлено строк: 1, удалено: 2, изменено: 1."
 }

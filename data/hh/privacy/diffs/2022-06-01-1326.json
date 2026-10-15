@@ -1,150 +1,21 @@
 {
   "stats": {
-    "lines_added": 2,
-    "lines_removed": 21,
-    "lines_changed": 2,
-    "change_ratio": 0.1373
+    "lines_added": 0,
+    "lines_removed": 0,
+    "lines_changed": 0,
+    "change_ratio": 0.0
   },
   "is_major": false,
   "reordering_only": false,
   "keywords": [],
-  "changes": [
-    {
-      "type": "remove",
-      "position": 1,
-      "text": "Services for employers"
-    },
-    {
-      "type": "remove",
-      "position": 2,
-      "text": "Posting job openings"
-    },
-    {
-      "type": "remove",
-      "position": 3,
-      "text": "Service for placing applications for selecting specialists of any level"
-    },
-    {
-      "type": "remove",
-      "position": 4,
-      "text": "Resume Samples"
-    },
-    {
-      "type": "remove",
-      "position": 5,
-      "text": "Use effective communication channels with your audience"
-    },
-    {
-      "type": "remove",
-      "position": 6,
-      "text": "Журнал «Ohh!»"
-    },
-    {
-      "type": "remove",
-      "position": 7,
-      "text": "Как мы создаем сервисы hh.ru для работодателей"
-    },
-    {
-      "type": "remove",
-      "position": 8,
-      "text": "Search"
-    },
-    {
-      "type": "remove",
-      "position": 9,
-      "text": "Advertising"
-    },
-    {
-      "type": "remove",
-      "position": 10,
-      "text": "Application"
-    },
-    {
-      "type": "remove",
-      "position": 11,
-      "text": "Automation"
-    },
-    {
-      "type": "remove",
-      "position": 12,
-      "text": "HR training"
-    },
-    {
-      "type": "remove",
-      "position": 13,
-      "text": "Аналитика и исследования"
-    },
-    {
-      "type": "remove",
-      "position": 14,
-      "text": "Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии"
-    },
-    {
-      "type": "remove",
-      "position": 15,
-      "text": "Beta services"
-    },
-    {
-      "type": "remove",
-      "position": 16,
-      "text": "Try out the new services that may appear on hh.ru in the future"
-    },
-    {
-      "type": "modify",
-      "position": 65,
-      "old_text": "Life at the company",
-      "new_text": "ИТ-подбор «под ключ». Любой уровень от джунов до синьоров",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Life at the company"
-        },
-        {
-          "type": "add",
-          "text": "ИТ-подбор «под ключ». Любой уровень от джунов до синьоров"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 66,
-      "old_text": "Помогает повысить качество откликов",
-      "new_text": "Создавайте опросы и следите за настроениями сотрудников",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Помогает повысить качество откликов"
-        },
-        {
-          "type": "add",
-          "text": "Создавайте опросы и следите за настроениями сотрудников"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 83,
-      "text": "Журнал «Ohh!»"
-    },
-    {
-      "type": "remove",
-      "position": 84,
-      "text": "Как мы создаем сервисы hh.ru для работодателей"
-    },
-    {
-      "type": "remove",
-      "position": 85,
-      "text": "Talantix"
-    }
-  ],
+  "changes": [],
   "site": "hh",
   "doc_id": "privacy",
   "doc_title": "Политика конфиденциальности",
-  "from_date": "2022-01-01-1810",
+  "from_date": "2022-06-01-1326",
   "to_date": "2022-06-01-1326",
   "from_hash": "c503211029256da6232b4470df67cd58a2f4d20bc2234ba4e8af8b94616a01cd",
   "to_hash": "5da4fddb9a15d341359dc3bca3422518997a7ac9bae7bf535fabe3f005c2d885",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data"
+  "ai_summary": "Добавлено строк: 0, удалено: 0, изменено: 0."
 }

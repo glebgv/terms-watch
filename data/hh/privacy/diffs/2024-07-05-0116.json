@@ -3,7 +3,7 @@
     "lines_added": 1,
     "lines_removed": 1,
     "lines_changed": 1,
-    "change_ratio": 0.0079
+    "change_ratio": 0.0084
   },
   "is_major": false,
   "reordering_only": false,
@@ -11,9 +11,9 @@
   "changes": [
     {
       "type": "modify",
-      "position": 61,
-      "old_text": "Расскажем кандидатам, почему у вас интересно работать",
-      "new_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru",
+      "position": 62,
+      "old_text": "Расскажем кандидатам, почему у вас интересно работать Передайте поиск разработчиков на аутсорс HRspace Управляйте этапами, назначайте собеседования, добавляйте заказчиков",
+      "new_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru Передайте поиск разработчиков на аутсорс HRspace Управляйте этапами, назначайте собеседования, добавляйте заказчиков",
       "word_diff": [
         {
           "type": "remove",
@@ -22,6 +22,10 @@
         {
           "type": "add",
           "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
+        },
+        {
+          "type": "keep",
+          "text": "Передайте поиск разработчиков на аутсорс HRspace Управляйте этапами, назначайте собеседования, добавляйте заказчиков"
         }
       ]
     }
@@ -34,6 +38,5 @@
   "from_hash": "92bcc5b41fb01ed19d4df45ac9b6d09c7c21ed2ab1cd2e37371c47aae62b93a4",
   "to_hash": "23c6d4b95bb891e7ff93313498b5138137ba8235638f93d32f218d3893e7faf6",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20240705/https://hh.ru/article/personal_data"
+  "ai_summary": "Добавлено строк: 1, удалено: 1, изменено: 1."
 }

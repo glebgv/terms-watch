@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 3,
-    "lines_removed": 3,
-    "lines_changed": 3,
-    "change_ratio": 0.0224
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0158
   },
   "is_major": false,
   "reordering_only": false,
@@ -11,49 +11,17 @@
   "changes": [
     {
       "type": "modify",
-      "position": 65,
-      "old_text": "Помогает повысить качество откликов",
-      "new_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru",
+      "position": 39,
+      "old_text": "Помогает повысить качество откликов Design vacancies, a company page, and email templates in a corporate style For convenient work with the resume database and personnel",
+      "new_text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru Экономия времени, сил и бюджета на подбор ИТ-кандидатов любого уровня CRM-system for candidate selection",
       "word_diff": [
         {
           "type": "remove",
-          "text": "Помогает повысить качество откликов"
+          "text": "Помогает повысить качество откликов Design vacancies, a company page, and email templates in a corporate style For convenient work with the resume database and personnel"
         },
         {
           "type": "add",
-          "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 66,
-      "old_text": "Design vacancies, a company page, and email templates in a corporate style",
-      "new_text": "Экономия времени, сил и бюджета на подбор ИТ-кандидатов любого уровня",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Design vacancies, a company page, and email templates in a corporate style"
-        },
-        {
-          "type": "add",
-          "text": "Экономия времени, сил и бюджета на подбор ИТ-кандидатов любого уровня"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 67,
-      "old_text": "For convenient work with the resume database and personnel",
-      "new_text": "CRM-system for candidate selection",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "For convenient work with the resume database and personnel"
-        },
-        {
-          "type": "add",
-          "text": "CRM-system for candidate selection"
+          "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru Экономия времени, сил и бюджета на подбор ИТ-кандидатов любого уровня CRM-system for candidate selection"
         }
       ]
     }
@@ -66,6 +34,5 @@
   "from_hash": "9d732a401494dbd1b1699861079060c5ef601e5b15630f3d660ef5c1615030f6",
   "to_hash": "af36bceea1c00b9f2723eac3acc17f951985986cdce2c38968d111f4a8295e78",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20230411/https://hh.ru/article/personal_data"
+  "ai_summary": "Добавлено строк: 1, удалено: 1, изменено: 1."
 }

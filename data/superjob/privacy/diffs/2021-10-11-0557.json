@@ -1,143 +1,109 @@
 {
   "stats": {
-    "lines_added": 11,
-    "lines_removed": 9,
-    "lines_changed": 5,
-    "change_ratio": 0.2273
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0131
   },
   "is_major": false,
   "reordering_only": false,
   "keywords": [],
   "changes": [
     {
-      "type": "remove",
-      "position": 12,
-      "text": "Новости сервиса"
-    },
-    {
       "type": "modify",
-      "position": 13,
-      "old_text": "Правила размещения резюме",
-      "new_text": "Каталог профессий",
+      "position": 46,
+      "old_text": "Any amendments or supplements to this Regulation shall be introduced by order of the Company's General Director, and thereafter they are subject to publication in the public domain on the website [LINK] Создать резюме Поиск работы Работа для студентов Новости сервиса Советы Правила размещения резюме Условия работы с сайтом Разместить вакансию Поиск сотрудников Стажировки Новости и события Тарифы Правила составления вакансии Правила работы с сервисом Реклама на сайте Правила размещения рекламы API Интеграционные сервисы Логотип SuperJob О компании Наши вакансии Исследования Зарплатомер Карта сайта",
+      "new_text": "Any amendments or supplements to this Regulation shall be introduced by order of the Company's General Director, and thereafter they are subject to publication in the public domain on the website [LINK] Создать резюме Поиск работы Работа для студентов Советы Каталог профессий Конструктор резюме Разместить вакансию Поиск сотрудников Стажировки Тарифы Спецпредложения работодателю Реклама на сайте Реклама вакансий Интеграционные сервисы Логотип SuperJob О компании Новости сервиса Работа в Superjob Исследования Зарплатомер Профориентация Карта сайта Базы данных Superjob Базы данных Поиск услуг Рекламный кабинет Иные документы",
       "word_diff": [
         {
+          "type": "keep",
+          "text": "Any amendments or supplements to this Regulation shall be introduced by order of the Company's General Director, and thereafter they are subject to publication in the public domain on the website [LINK] Создать резюме Поиск работы Работа для студентов"
+        },
+        {
           "type": "remove",
-          "text": "Правила размещения резюме"
+          "text": "Новости сервиса"
+        },
+        {
+          "type": "keep",
+          "text": "Советы"
+        },
+        {
+          "type": "remove",
+          "text": "Правила размещения"
         },
         {
           "type": "add",
-          "text": "Каталог профессий"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 14,
-      "old_text": "Условия работы с сайтом",
-      "new_text": "Конструктор резюме",
-      "word_diff": [
+          "text": "Каталог профессий Конструктор"
+        },
+        {
+          "type": "keep",
+          "text": "резюме"
+        },
         {
           "type": "remove",
           "text": "Условия работы с сайтом"
         },
         {
-          "type": "add",
-          "text": "Конструктор резюме"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 19,
-      "text": "Новости и события"
-    },
-    {
-      "type": "modify",
-      "position": 19,
-      "old_text": "Правила составления вакансии",
-      "new_text": "Спецпредложения работодателю",
-      "word_diff": [
+          "type": "keep",
+          "text": "Разместить вакансию Поиск сотрудников Стажировки"
+        },
         {
           "type": "remove",
-          "text": "Правила составления вакансии"
+          "text": "Новости и события"
+        },
+        {
+          "type": "keep",
+          "text": "Тарифы"
+        },
+        {
+          "type": "remove",
+          "text": "Правила составления вакансии Правила работы с сервисом"
         },
         {
           "type": "add",
           "text": "Спецпредложения работодателю"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 22,
-      "text": "Правила работы с сервисом"
-    },
-    {
-      "type": "modify",
-      "position": 21,
-      "old_text": "Правила размещения рекламы",
-      "new_text": "Реклама вакансий",
-      "word_diff": [
+        },
+        {
+          "type": "keep",
+          "text": "Реклама на сайте"
+        },
         {
           "type": "remove",
-          "text": "Правила размещения рекламы"
+          "text": "Правила размещения рекламы API"
         },
         {
           "type": "add",
           "text": "Реклама вакансий"
-        }
-      ]
-    },
-    {
-      "type": "remove",
-      "position": 25,
-      "text": "API"
-    },
-    {
-      "type": "modify",
-      "position": 25,
-      "old_text": "Наши вакансии",
-      "new_text": "Новости сервиса",
-      "word_diff": [
+        },
+        {
+          "type": "keep",
+          "text": "Интеграционные сервисы Логотип SuperJob О компании"
+        },
         {
           "type": "remove",
           "text": "Наши вакансии"
         },
         {
           "type": "add",
-          "text": "Новости сервиса"
+          "text": "Новости сервиса Работа в Superjob"
+        },
+        {
+          "type": "keep",
+          "text": "Исследования Зарплатомер"
+        },
+        {
+          "type": "add",
+          "text": "Профориентация"
+        },
+        {
+          "type": "keep",
+          "text": "Карта сайта"
+        },
+        {
+          "type": "add",
+          "text": "Базы данных Superjob Базы данных Поиск услуг Рекламный кабинет Иные документы"
         }
       ]
-    },
-    {
-      "type": "add",
-      "position": 26,
-      "text": "Работа в Superjob"
-    },
-    {
-      "type": "add",
-      "position": 29,
-      "text": "Профориентация"
-    },
-    {
-      "type": "add",
-      "position": 31,
-      "text": "Базы данных Superjob"
-    },
-    {
-      "type": "add",
-      "position": 32,
-      "text": "Базы данных Поиск услуг"
-    },
-    {
-      "type": "add",
-      "position": 33,
-      "text": "Рекламный кабинет"
-    },
-    {
-      "type": "add",
-      "position": 34,
-      "text": "Иные документы"
     }
   ],
   "site": "superjob",
@@ -148,6 +114,5 @@
   "from_hash": "8254eb75f68d48a8c611219483d83a515f2c0a932d41a7783cc9479eacf4bf7f",
   "to_hash": "726431a84e41ee481b40afa43d28d8279e21f102b9f0fa86644ecd11728b590e",
   "url": "https://www.superjob.ru/info/privacy-policy.html",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20211011/https://www.superjob.ru/info/privacy-policy.html"
+  "ai_summary": "Добавлено строк: 1, удалено: 1, изменено: 1."
 }

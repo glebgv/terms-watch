@@ -1,9 +1,9 @@
 {
   "stats": {
-    "lines_added": 6,
-    "lines_removed": 6,
+    "lines_added": 14,
+    "lines_removed": 7,
     "lines_changed": 6,
-    "change_ratio": 0.0556
+    "change_ratio": 0.0236
   },
   "is_major": false,
   "reordering_only": false,
@@ -13,13 +13,13 @@
   "changes": [
     {
       "type": "modify",
-      "position": 25,
-      "old_text": "5.13. Creation and use of Communities 5.13.1. The User has the right to create Communities (groups, public pages and meetings) to inform other Users about events, meetings, commercial and non-profit organizations (as charitable organizations), its creation and activities, other interesting content to Users (hereinafter Discussion items) and/or possible further discussion of them with other Users (including creation of fan clubs, exchange of opinions, references and etc.). While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, esthetic norms and moral principles related to those at the opinion of the Site Administration. 5.13.2 . When creating and administering the Community, including in case of registration of the sub-domain name used for directing to the Community page, the User confirms that he/she acts on lawful grounds (e.g., on the basis of the power of attorney), has all necessary rights and his/her actions do not infringe the lawful rights and interests of third parties and effective Russian legislation, including legislation on competition and rights to intellectual property results and means of individualization. 5.13.3 . In case the User infringes the lawful rights and interests of third parties, effective Russian legislation as well as the provisions hereof when creating and administering the Community, the Site Administration has the right to block the User’s access to the Community and/or transfer the administration rights for the Community as well as the right to use the registered sub-domain name to the lawful right owner which duly confirmed its rights in the Community Content, including the right in the means of individualization confusingly similar to the sub-domain name used in the Community. 5.13.4. Placing Advertisements in Communities: 5.13.4.1. No outside commercial or political advertising is permitted in the Community, including in the Community description, profile photo, albums, published content, pinned wall posts, discussions, polls, cover image, messages, Community stories, etc. A maximum of five outside advertisements may be posted on a Community’s wall each day outside the VK Advertising Network (excluding pinned posts where all advertisements are prohibited), and no more than three of these outside advertisements may be outside the VK Marketplace each day. Outside advertising is understood to be any information, excluding native integrations, that does not directly relate to a Community and its subject, which is distributed in any form on behalf of the Community or any other community or user and is designed to attract users' attention to the advertised item to generate or maintain interest. It is the responsibility of the user in charge of the Community's administration to monitor and prevent non-compliant outside advertising in the Community. A Community may be included into the VK search system only when the Community adheres to the requirements provided in this clause. The process of connecting to the VK Advertising Network is completed through the special Community management interface with the requirement to indicate the number of outside advertisements and dismiss the right to post them. When placing outside in the Community connected to the VK Advertising Network, it is necessary to indicate the advertising nature of the information within the existing special functionality of the Site (option \"This is an ad\"). The rules of advertising within the Advertising Network of VK are regulated by special documents. 5.13.4.2. The placement of native integration to a Community must comply with these Rules. Integration that does not comply with these Rules is considered outside advertising. Native integration means the organic implementation of a promoted product (goods/services/work, means of individualization of a legal entity and/or goods/services/work, the manufacturer or seller of goods/services/work, the results of intellectual activities or the activities of a third party (including sports competitions, concerts, competitions and festivals)) without explicit emphasis regarding the connection to Community informational material, in which the Community's informational material corresponds to a common theme and style while possessing independent semantic value. 5.13.4.2.1. When placing native integrations, the following requirements must be met: (a) implementation of the promoted object on the cover, the Community's main photo and pinned posts is permitted so long as the general style of the Community remains unchanged and the integration does not dominate Community informational material. (b) native integration of promoted objects that violate these rules is strictly prohibited. (c) for native integration of third party activity implementation to be recognized, among the mandatory conditions there are the following actions that must be included in the instructions for implementation: subscribing to a community, making a purchase, liking and sharing posts. 5.13.4.2.2. The content of native integrations must meet the following requirements: (a) native integrations must not be solely advertising in nature, i.e. focus on Community informational material. (b) the informational material, including native integration, of the Community must fully correspond to the Community theme, possess independent semantic value and harmoniously embody the Community style. (c) native integration may contain hyperlinks to external resources for obtaining additional information, but transferring to an external site for such information cannot be required to obtain basic information. (d) native integration in video includes mentioning the promoted object (both orally and visually), involving the object in the creative nature of the video and fitting the object harmoniously into the plot. 5.13.5 . All third-party advertisements and the corresponding integration must comply with clauses 1 and 3 of the VK Advertising Placement Rules . 5.13.6 . The Site Administration may at its own discretion form and post the list of recommended Communities according to their information value for the users and other criteria. The recommended Communities are subject to additional limitations, maximum 1 (one) outside advertisement a week. In case this limitation is not complied with, the Site Administration has the right to exclude the Community from the list of recommended Communities. 5.13.7 . The User bears full liability for his/her actions connected with the creation and administration of Communities in accordance with effective Russian legislation, international legal acts and these Terms. 5.13.8 . In case of the violation of third parties’ legitimate rights and interests provided by Russian legislation or these Terms in the Сommunity, the Site Administration has the right to take the following measures at its opinion: (a) delete Content or other information the Community uploads and/or block the access to it; (b) block the access to the Community page for certain users; (c) block the access to the Community for the User that administrates Community; (d) transfer the Community administration rights and the use of sub-domain to the legal right holder that has confirmed their right for the Community Content according to the established procedure, including the right to the objects of copyright and related rights, the right to means of individualization, confusingly similar to those used in the Community sub-domain names; (e) exclude the Community from the search and/or block the Community; (f) temporary ban the publication of any links in the Community. 5.13.9 . In the event that the Community violates the procedures for placing advertisements (those, which have been indicated in clauses 5.13.4 and 5.13.5 of these Terms), the Site Administration maintains the right to restrict the advertising activities of the Community by prohibiting the publication of any links in the Community for any duration, the length of which may be determined at the discretion of the Administration, and/or disabling the Community's privilege to access the VK Marketplace, and/or disabling the Community's privilege to access the VK Advertising Network. In the event that the Community attempts to bypass technical restrictions prohibiting the publication of links (including, but not limited to, hiding links using additional symbols, displaying links in images) during the period of the ban, the Administration has the right to block the Community without allowing the possibility of restoration. 5.13.10 . The Community’s administrators and moderators bear liability for moderation and blocking of Content uploaded to the pages that are under control of their communities. If Content uploaded to these pages does not meet the Site Terms requirements or Russian Legislation, the communities administrators and moderators must take the measures and delete the respective Content.",
-      "new_text": "5.13. Creation and use of Communities 5.13.1. The User has the right to create Communities (groups, public pages and meetings) to inform other Users about events, meetings, commercial and non-profit organizations (as charitable organizations), its creation and activities, other interesting content to Users (hereinafter Discussion items) and/or possible further discussion of them with other Users (including creation of fan clubs, exchange of opinions, references and etc.). While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, Community Rules , ethic norms and moral principles related to those at the opinion of the Site Administration. 5.13.2 . When creating and administering the Community, including in case of registration of the sub-domain name used for directing to the Community page, the User confirms that he/she acts on lawful grounds (e.g., on the basis of the power of attorney), has all necessary rights and his/her actions do not infringe the lawful rights and interests of third parties and effective Russian legislation, including legislation on competition and rights to intellectual property results and means of individualization. 5.13.3 . In case the User infringes the lawful rights and interests of third parties, effective Russian legislation as well as the provisions hereof when creating and administering the Community, the Site Administration has the right to block the User’s access to the Community and/or transfer the administration rights for the Community as well as the right to use the registered sub-domain name to the lawful right owner which duly confirmed its rights in the Community Content, including the right in the means of individualization confusingly similar to the sub-domain name used in the Community. 5.13.4. Placing Advertisements in Communities: 5.13.4.1. No outside commercial or political advertising is permitted in the Community, including in the Community description, profile photo, albums, published content, pinned wall posts, discussions, polls, cover image, messages, Community stories, etc. A maximum of five outside advertisements may be posted on a Community’s wall each day outside the VK Advertising Network (excluding pinned posts where all advertisements are prohibited), and no more than three of these outside advertisements may be outside the VK Marketplace each day. Outside advertising is understood to be any information, excluding native integrations, that does not directly relate to a Community and its subject, which is distributed in any form on behalf of the Community or any other community or user and is designed to attract users' attention to the advertised item to generate or maintain interest. It is the responsibility of the user in charge of the Community's administration to monitor and prevent non-compliant outside advertising in the Community. A Community may be included into the VK search system only when the Community adheres to the requirements provided in this clause. The process of connecting to the VK Advertising Network is completed through the special Community management interface with the requirement to indicate the number of outside advertisements and dismiss the right to post them. When placing outside in the Community connected to the VK Advertising Network , it is necessary to indicate the advertising nature of the information within the existing special functionality of the Site (option \"This is an ad\"). The rules of advertising within the Advertising Network of VK are regulated by special documents. 5.13.4.2. The placement of native integration to a Community must comply with these Rules. Integration that does not comply with these Rules is considered outside advertising. Native integration means the organic implementation of a promoted product (goods/services/work, means of individualization of a legal entity and/or goods/services/work, the manufacturer or seller of goods/services/work, the results of intellectual activities or the activities of a third party (including sports competitions, concerts, competitions and festivals)) without explicit emphasis regarding the connection to Community informational material, in which the Community's informational material corresponds to a common theme and style while possessing independent semantic value. 5.13.4.2.1. When placing native integrations, the following requirements must be met: (a) implementation of the promoted object on the cover, the Community's main photo and pinned posts is permitted so long as the general style of the Community remains unchanged and the integration does not dominate Community informational material. (b) native integration of promoted objects that violate these rules is strictly prohibited. (c) for native integration of third party activity implementation to be recognized, among the mandatory conditions there are the following actions that must be included in the instructions for implementation: subscribing to a community, making a purchase, liking and sharing posts. 5.13.4.2.2. The content of native integrations must meet the following requirements: (a) native integrations must not be solely advertising in nature, i.e. focus on Community informational material. (b) the informational material, including native integration, of the Community must fully correspond to the Community theme, possess independent semantic value and harmoniously embody the Community style. (c) native integration may contain hyperlinks to external resources for obtaining additional information, but transferring to an external site for such information cannot be required to obtain basic information. (d) native integration in video includes mentioning the promoted object (both orally and visually), involving the object in the creative nature of the video and fitting the object harmoniously into the plot. 5.13.5 . All third-party advertisements and the corresponding integration must comply with clauses 1 and 3 of the VK Advertising Placement Rules . 5.13.6 . The Site Administration may at its own discretion form and post the list of recommended Communities according to their information value for the users and other criteria. The recommended Communities are subject to additional limitations, maximum 1 (one) outside advertisement a week. In case this limitation is not complied with, the Site Administration has the right to exclude the Community from the list of recommended Communities. 5.13.7 . The User bears full liability for his/her actions connected with the creation and administration of Communities in accordance with effective Russian legislation, international legal acts and these Terms. 5.13.8 . In case of the violation of third parties’ legitimate rights and interests provided by Russian legislation or these Terms in the Сommunity, the Site Administration has the right to take the following measures at its opinion: (a) delete Content or other information the Community uploads and/or block the access to it; (b) block the access to the Community page for certain users; (c) block the access to the Community for the User that administrates Community; (d) transfer the Community administration rights and the use of sub-domain to the legal right holder that has confirmed their right for the Community Content according to the established procedure, including the right to the objects of copyright and related rights, the right to means of individualization, confusingly similar to those used in the Community sub-domain names; (e) exclude the Community from the search and/or block the Community; (f) temporary ban the publication of any links in the Community. 5.13.9 . In the event that the Community violates the procedures for placing advertisements (those, which have been indicated in clauses 5.13.4 and 5.13.5 of these Terms), the Site Administration maintains the right to restrict the advertising activities of the Community by prohibiting the publication of any links in the Community for any duration, the length of which may be determined at the discretion of the Administration, and/or disabling the Community's privilege to access the VK Marketplace, and/or disabling the Community's privilege to access the VK Advertising Network. In the event that the Community attempts to bypass technical restrictions prohibiting the publication of links (including, but not limited to, hiding links using additional symbols, displaying links in images) during the period of the ban, the Administration has the right to block the Community without allowing the possibility of restoration. 5.13.10 . The Community’s administrators and moderators bear liability for moderation and blocking of Content uploaded to the pages that are under control of their communities. If Content uploaded to these pages does not meet the Site Terms requirements or Russian Legislation, the communities administrators and moderators must take the measures and delete the respective Content.",
+      "position": 90,
+      "old_text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, esthetic norms and moral principles related to those at the opinion of the Site Administration.",
+      "new_text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, Community Rules , ethic norms and moral principles related to those at the opinion of the Site Administration.",
       "word_diff": [
         {
           "type": "keep",
-          "text": "5.13. Creation and use of Communities 5.13.1. The User has the right to create Communities (groups, public pages and meetings) to inform other Users about events, meetings, commercial and non-profit organizations (as charitable organizations), its creation and activities, other interesting content to Users (hereinafter Discussion items) and/or possible further discussion of them with other Users (including creation of fan clubs, exchange of opinions, references and etc.). While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms,"
+          "text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms,"
         },
         {
           "type": "remove",
@@ -31,128 +31,41 @@
         },
         {
           "type": "keep",
-          "text": "norms and moral principles related to those at the opinion of the Site Administration. 5.13.2 . When creating and administering the Community, including in case of registration of the sub-domain name used for directing to the Community page, the User confirms that he/she acts on lawful grounds (e.g., on the basis of the power of attorney), has all necessary rights and his/her actions do not infringe the lawful rights and interests of third parties and effective Russian legislation, including legislation on competition and rights to intellectual property results and means of individualization. 5.13.3 . In case the User infringes the lawful rights and interests of third parties, effective Russian legislation as well as the provisions hereof when creating and administering the Community, the Site Administration has the right to block the User’s access to the Community and/or transfer the administration rights for the Community as well as the right to use the registered sub-domain name to the lawful right owner which duly confirmed its rights in the Community Content, including the right in the means of individualization confusingly similar to the sub-domain name used in the Community. 5.13.4. Placing Advertisements in Communities: 5.13.4.1. No outside commercial or political advertising is permitted in the Community, including in the Community description, profile photo, albums, published content, pinned wall posts, discussions, polls, cover image, messages, Community stories, etc. A maximum of five outside advertisements may be posted on a Community’s wall each day outside the VK Advertising Network (excluding pinned posts where all advertisements are prohibited), and no more than three of these outside advertisements may be outside the VK Marketplace each day. Outside advertising is understood to be any information, excluding native integrations, that does not directly relate to a Community and its subject, which is distributed in any form on behalf of the Community or any other community or user and is designed to attract users' attention to the advertised item to generate or maintain interest. It is the responsibility of the user in charge of the Community's administration to monitor and prevent non-compliant outside advertising in the Community. A Community may be included into the VK search system only when the Community adheres to the requirements provided in this clause. The process of connecting to the VK Advertising Network is completed through the special Community management interface with the requirement to indicate the number of outside advertisements and dismiss the right to post them. When placing outside in the Community connected to the VK Advertising"
-        },
-        {
-          "type": "remove",
-          "text": "Network,"
-        },
-        {
-          "type": "add",
-          "text": "Network ,"
-        },
-        {
-          "type": "keep",
-          "text": "it is necessary to indicate the advertising nature of the information within the existing special functionality of the Site (option \"This is an ad\"). The rules of advertising within the Advertising Network of VK are regulated by special documents. 5.13.4.2. The placement of native integration to a Community must comply with these Rules. Integration that does not comply with these Rules is considered outside advertising. Native integration means the organic implementation of a promoted product (goods/services/work, means of individualization of a legal entity and/or goods/services/work, the manufacturer or seller of goods/services/work, the results of intellectual activities or the activities of a third party (including sports competitions, concerts, competitions and festivals)) without explicit emphasis regarding the connection to Community informational material, in which the Community's informational material corresponds to a common theme and style while possessing independent semantic value. 5.13.4.2.1. When placing native integrations, the following requirements must be met: (a) implementation of the promoted object on the cover, the Community's main photo and pinned posts is permitted so long as the general style of the Community remains unchanged and the integration does not dominate Community informational material. (b) native integration of promoted objects that violate these rules is strictly prohibited. (c) for native integration of third party activity implementation to be recognized, among the mandatory conditions there are the following actions that must be included in the instructions for implementation: subscribing to a community, making a purchase, liking and sharing posts. 5.13.4.2.2. The content of native integrations must meet the following requirements: (a) native integrations must not be solely advertising in nature, i.e. focus on Community informational material. (b) the informational material, including native integration, of the Community must fully correspond to the Community theme, possess independent semantic value and harmoniously embody the Community style. (c) native integration may contain hyperlinks to external resources for obtaining additional information, but transferring to an external site for such information cannot be required to obtain basic information. (d) native integration in video includes mentioning the promoted object (both orally and visually), involving the object in the creative nature of the video and fitting the object harmoniously into the plot. 5.13.5 . All third-party advertisements and the corresponding integration must comply with clauses 1 and 3 of the VK Advertising Placement Rules . 5.13.6 . The Site Administration may at its own discretion form and post the list of recommended Communities according to their information value for the users and other criteria. The recommended Communities are subject to additional limitations, maximum 1 (one) outside advertisement a week. In case this limitation is not complied with, the Site Administration has the right to exclude the Community from the list of recommended Communities. 5.13.7 . The User bears full liability for his/her actions connected with the creation and administration of Communities in accordance with effective Russian legislation, international legal acts and these Terms. 5.13.8 . In case of the violation of third parties’ legitimate rights and interests provided by Russian legislation or these Terms in the Сommunity, the Site Administration has the right to take the following measures at its opinion: (a) delete Content or other information the Community uploads and/or block the access to it; (b) block the access to the Community page for certain users; (c) block the access to the Community for the User that administrates Community; (d) transfer the Community administration rights and the use of sub-domain to the legal right holder that has confirmed their right for the Community Content according to the established procedure, including the right to the objects of copyright and related rights, the right to means of individualization, confusingly similar to those used in the Community sub-domain names; (e) exclude the Community from the search and/or block the Community; (f) temporary ban the publication of any links in the Community. 5.13.9 . In the event that the Community violates the procedures for placing advertisements (those, which have been indicated in clauses 5.13.4 and 5.13.5 of these Terms), the Site Administration maintains the right to restrict the advertising activities of the Community by prohibiting the publication of any links in the Community for any duration, the length of which may be determined at the discretion of the Administration, and/or disabling the Community's privilege to access the VK Marketplace, and/or disabling the Community's privilege to access the VK Advertising Network. In the event that the Community attempts to bypass technical restrictions prohibiting the publication of links (including, but not limited to, hiding links using additional symbols, displaying links in images) during the period of the ban, the Administration has the right to block the Community without allowing the possibility of restoration. 5.13.10 . The Community’s administrators and moderators bear liability for moderation and blocking of Content uploaded to the pages that are under control of their communities. If Content uploaded to these pages does not meet the Site Terms requirements or Russian Legislation, the communities administrators and moderators must take the measures and delete the respective Content."
+          "text": "norms and moral principles related to those at the opinion of the Site Administration."
         }
       ]
     },
     {
+      "type": "remove",
+      "position": 169,
+      "text": "The User accepts that the Site Administration has a right to use functional and technical capabilities of the Site that provide displaying of the published Content by the User, including player, meant to display the Content at its own discretion, including for the purpose of showing the advertising information."
+    },
+    {
+      "type": "add",
+      "position": 170,
+      "text": "The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information."
+    },
+    {
+      "type": "add",
+      "position": 171,
+      "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies.The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information."
+    },
+    {
+      "type": "add",
+      "position": 172,
+      "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies."
+    },
+    {
+      "type": "add",
+      "position": 173,
+      "text": "7.1.7."
+    },
+    {
       "type": "modify",
-      "position": 34,
-      "old_text": "7.1. Exclusive rights in the Site Content 7.1.1. All objects placed on the Site, including design elements, text, graphic images, illustrations, videos, scripts, software, music, sounds and other objects and their collections (hereinafter the Content) are subject to exclusive rights of the Site Administration, Users and other rights holders, all rights in these objects being reserved. 7.1.2. Except as provided by these Terms as well as by effective Russian legislation, no Content may be copied (reproduced), processed, distributed, displayed in the frame, published, downloaded, transferred, sold or otherwise used in full or in part without the prior permission of the right owner, unless the right owner has expressly agreed to free use of the Content by any person. Reproducing, copying, collecting, systemizing, storing and transferring the Content in order to create a database whether for commercial and/or non-commercial purpose and/or using the Content in whole or its part regardless of the way of use is not allowed without the Administration's consent. 7.1.3. By posting on the Site his/her lawfully owned Content, the User grants the other Users a non-exclusive right to use it in the framework of the functional provided by the Site by viewing, reproducing (including copying) and other rights exclusively for the purpose of personal non-commercial use, except where such use infringes or may infringe the right owner’s interests protected by law. 7.1.4. The Content made available exclusively for the purpose of personal non-commercial use may be used by the User on the condition that all copyright marks or other authorship notices, name of the author and the work remain unchanged. 7.1.5. The User grants to the Site Administration a non-exclusive right to use on a free of charge basis the Content published on the Site and which lawfully belongs to him/her, so that the Administration of the Site may maintain the operation of the Site in the amount established by its architecture and functionality, and to use this Content for the Site Administration promotional content, including images of the Site interface, including without limitation making this promotional content public. The said non-exclusive right is granted for the period when the Content is placed on the Site and extends to the territory of the countries all over the world. The end of the period when the Content is placed on the Site and / or the end of the non-exclusive right duration do not carry a necessity of deletion by the Site Administration of this promotional content with the said Content (including its removal from the Internet). The Site Administration has a right to transfer these rights described in this clause to the third-parties. The User accepts that the Site Administration has a right to use functional and technical capabilities of the Site that provide displaying of the published Content by the User, including player, meant to display the Content at its own discretion, including for the purpose of showing the advertising information. 7.1.6. If the User deletes his/her Content from the Site, the non-exclusive right mentioned in clause 7.1.5. hereof will be automatically revoked, however, the Administration reserves the right to keep backup copies of the user Content during the required period of time, if needed due to technical peculiarities of the Site operation. 7.1.7. Except his/her own Content, the User does not have the right to upload or otherwise make available to the public (publish on the Site) the content of other sites, databases and other intellectual activity results without the express consent of the right owner. 7.1.8. Any use of the Site or Content, except as permitted herein or except the right owner consents to such use in writing, without the prior written permission of the right owner is categorically prohibited. 7.1.9. Unless otherwise expressly provided in these Terms, nothing in these Terms may be considered as the grant of exclusive rights in the Content.",
-      "new_text": "7.1. Exclusive rights in the Site Content 7.1.1. All objects placed on the Site, including design elements, text, graphic images, illustrations, videos, scripts, software, music, sounds and other objects and their collections (hereinafter the Content) are subject to exclusive rights of the Site Administration, Users and other rights holders, all rights in these objects being reserved. 7.1.2. Except as provided by these Terms as well as by effective Russian legislation, no Content may be copied (reproduced), processed, distributed, displayed in the frame, published, downloaded, transferred, sold or otherwise used in full or in part without the prior permission of the right owner, unless the right owner has expressly agreed to free use of the Content by any person. Reproducing, copying, collecting, systemizing, storing and transferring the Content in order to create a database whether for commercial and/or non-commercial purpose and/or using the Content in whole or its part regardless of the way of use is not allowed without the Administration's consent. 7.1.3. By posting on the Site his/her lawfully owned Content, the User grants the other Users a non-exclusive right to use it in the framework of the functional provided by the Site by viewing, reproducing (including copying) and other rights exclusively for the purpose of personal non-commercial use, except where such use infringes or may infringe the right owner’s interests protected by law. 7.1.4. The Content made available exclusively for the purpose of personal non-commercial use may be used by the User on the condition that all copyright marks or other authorship notices, name of the author and the work remain unchanged. 7.1.5. The User grants to the Site Administration a non-exclusive right to use on a free of charge basis the Content published on the Site and which lawfully belongs to him/her, so that the Administration of the Site may maintain the operation of the Site in the amount established by its architecture and functionality, and to use this Content for the Site Administration promotional content, including images of the Site interface, including without limitation making this promotional content public. The said non-exclusive right is granted for the period when the Content is placed on the Site and extends to the territory of the countries all over the world. The end of the period when the Content is placed on the Site and / or the end of the non-exclusive right duration do not carry a necessity of deletion by the Site Administration of this promotional content with the said Content (including its removal from the Internet). The Site Administration has a right to transfer these rights described in this clause to the third-parties. 7.1.6. The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information. When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies.The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information. When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies. 7.1.7. If the User deletes his/her Content from the Site, the non-exclusive right mentioned in clause 7.1.5. hereof will be automatically revoked, however, the Administration reserves the right to keep backup copies of the user Content during the required period of time, if needed due to technical peculiarities of the Site operation. 7.1.8. Except his/her own Content, the User does not have the right to upload or otherwise make available to the public (publish on the Site) the content of other sites, databases and other intellectual activity results without the express consent of the right owner. 7.1.9. Any use of the Site or Content, except as permitted herein or except the right owner consents to such use in writing, without the prior written permission of the right owner is categorically prohibited. 7.1.10. Unless otherwise expressly provided in these Terms, nothing in these Terms may be considered as the grant of exclusive rights in the Content.",
+      "position": 175,
+      "old_text": "7.1.7.",
+      "new_text": "7.1.8.",
       "word_diff": [
-        {
-          "type": "keep",
-          "text": "7.1. Exclusive rights in the Site Content 7.1.1. All objects placed on the Site, including design elements, text, graphic images, illustrations, videos, scripts, software, music, sounds and other objects and their collections (hereinafter the Content) are subject to exclusive rights of the Site Administration, Users and other rights holders, all rights in these objects being reserved. 7.1.2. Except as provided by these Terms as well as by effective Russian legislation, no Content may be copied (reproduced), processed, distributed, displayed in the frame, published, downloaded, transferred, sold or otherwise used in full or in part without the prior permission of the right owner, unless the right owner has expressly agreed to free use of the Content by any person. Reproducing, copying, collecting, systemizing, storing and transferring the Content in order to create a database whether for commercial and/or non-commercial purpose and/or using the Content in whole or its part regardless of the way of use is not allowed without the Administration's consent. 7.1.3. By posting on the Site his/her lawfully owned Content, the User grants the other Users a non-exclusive right to use it in the framework of the functional provided by the Site by viewing, reproducing (including copying) and other rights exclusively for the purpose of personal non-commercial use, except where such use infringes or may infringe the right owner’s interests protected by law. 7.1.4. The Content made available exclusively for the purpose of personal non-commercial use may be used by the User on the condition that all copyright marks or other authorship notices, name of the author and the work remain unchanged. 7.1.5. The User grants to the Site Administration a non-exclusive right to use on a free of charge basis the Content published on the Site and which lawfully belongs to him/her, so that the Administration of the Site may maintain the operation of the Site in the amount established by its architecture and functionality, and to use this Content for the Site Administration promotional content, including images of the Site interface, including without limitation making this promotional content public. The said non-exclusive right is granted for the period when the Content is placed on the Site and extends to the territory of the countries all over the world. The end of the period when the Content is placed on the Site and / or the end of the non-exclusive right duration do not carry a necessity of deletion by the Site Administration of this promotional content with the said Content (including its removal from the Internet). The Site Administration has a right to transfer these rights described in this clause to the third-parties."
-        },
-        {
-          "type": "add",
-          "text": "7.1.6."
-        },
-        {
-          "type": "keep",
-          "text": "The User accepts that the Site Administration has"
-        },
-        {
-          "type": "remove",
-          "text": "a"
-        },
-        {
-          "type": "add",
-          "text": "the"
-        },
-        {
-          "type": "keep",
-          "text": "right to use"
-        },
-        {
-          "type": "add",
-          "text": "the"
-        },
-        {
-          "type": "keep",
-          "text": "functional and technical capabilities of the Site that"
-        },
-        {
-          "type": "remove",
-          "text": "provide displaying"
-        },
-        {
-          "type": "add",
-          "text": "enable the display"
-        },
-        {
-          "type": "keep",
-          "text": "of"
-        },
-        {
-          "type": "remove",
-          "text": "the"
-        },
-        {
-          "type": "add",
-          "text": "Content"
-        },
-        {
-          "type": "keep",
-          "text": "published"
-        },
-        {
-          "type": "remove",
-          "text": "Content"
-        },
-        {
-          "type": "keep",
-          "text": "by the User, including"
-        },
-        {
-          "type": "add",
-          "text": "the"
-        },
-        {
-          "type": "keep",
-          "text": "player,"
-        },
-        {
-          "type": "remove",
-          "text": "meant to display the Content"
-        },
-        {
-          "type": "keep",
-          "text": "at its own discretion, including for the purpose of showing"
-        },
-        {
-          "type": "remove",
-          "text": "the"
-        },
-        {
-          "type": "keep",
-          "text": "advertising information."
-        },
-        {
-          "type": "remove",
-          "text": "7.1.6."
-        },
-        {
-          "type": "add",
-          "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies.The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information. When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies. 7.1.7."
-        },
-        {
-          "type": "keep",
-          "text": "If the User deletes his/her Content from the Site, the non-exclusive right mentioned in clause 7.1.5. hereof will be automatically revoked, however, the Administration reserves the right to keep backup copies of the user Content during the required period of time, if needed due to technical peculiarities of the Site operation."
-        },
         {
           "type": "remove",
           "text": "7.1.7."
@@ -160,11 +73,15 @@
         {
           "type": "add",
           "text": "7.1.8."
-        },
-        {
-          "type": "keep",
-          "text": "Except his/her own Content, the User does not have the right to upload or otherwise make available to the public (publish on the Site) the content of other sites, databases and other intellectual activity results without the express consent of the right owner."
-        },
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 177,
+      "old_text": "7.1.8.",
+      "new_text": "7.1.9.",
+      "word_diff": [
         {
           "type": "remove",
           "text": "7.1.8."
@@ -172,11 +89,15 @@
         {
           "type": "add",
           "text": "7.1.9."
-        },
-        {
-          "type": "keep",
-          "text": "Any use of the Site or Content, except as permitted herein or except the right owner consents to such use in writing, without the prior written permission of the right owner is categorically prohibited."
-        },
+        }
+      ]
+    },
+    {
+      "type": "modify",
+      "position": 179,
+      "old_text": "7.1.9.",
+      "new_text": "7.1.10.",
+      "word_diff": [
         {
           "type": "remove",
           "text": "7.1.9."
@@ -184,22 +105,18 @@
         {
           "type": "add",
           "text": "7.1.10."
-        },
-        {
-          "type": "keep",
-          "text": "Unless otherwise expressly provided in these Terms, nothing in these Terms may be considered as the grant of exclusive rights in the Content."
         }
       ]
     },
     {
       "type": "modify",
-      "position": 35,
-      "old_text": "7.2. Liability for the infringement of exclusive rights. 7.2.1. The User bears personal liability for any Content or other information he/she uploads or otherwise makes publicly available (publishes) on or via the Site. The User does not have the right to upload, transfer or publish Content on the Site unless he/she has appropriate rights to do so, such rights being acquired by or transferred to him/her in accordance with Russian legislation. Upon detection of the rights violations, please use [[LINK] for Investigating Complaints concerning users' content] to complain. 7.2.2. The Site Administration has the right but is not obliged to check the Site for prohibited Content and can delete or remove (without giving advance notice) any Content or Users at its own discretion for any reason or without reason, including, without limitation, removal or deletion of the Content which, in the personal opinion of the Site Administration, infringes these Terms, Russian legislation and/or may infringe the rights of, cause damage to, or threaten the security of other Users or third parties. 7.2.3. By posting his/her Content on the Site, the User grants the Site Administration the right to copy his/her Content in order to streamline and facilitate the publication and storage of the user Content on the Site. 7.2.4. By posting his/her Content in any part of the Site, the User automatically grants the Site Administration free of charge the non-exclusive right to use it by copying, public performance, reproduction, processing, translation and distribution for or in connection with the purposes of the Site, including for the purpose of increasing its popularity. For these purposes, the Site Administration may produce derivative works or insert the User’s Content as components in relevant collections or take other actions for these purposes. 7.2.5. In case the User removes his/her Content from the Site, the rights mentioned in clauses 7.2.3 – 7.2.4 hereof will be automatically cancelled; however, the Site Administration has the right to keep archive copies of the user Content for an indefinite period.",
-      "new_text": "7.2. Liability for the infringement of exclusive rights. 7.2.1. The User bears personal liability for any Content or other information he/she uploads or otherwise makes publicly available (publishes) on or via the Site. The User does not have the right to upload, transfer or publish Content on the Site unless he/she has appropriate rights to do so, such rights being acquired by or transferred to him/her in accordance with Russian legislation. Upon detection of the rights violations, please use Regulations for Investigating Complaints concerning users' content to complain. 7.2.2. The Site Administration has the right but is not obliged to check the Site for prohibited Content and can delete or remove (without giving advance notice) any Content or Users at its own discretion for any reason or without reason, including, without limitation, removal or deletion of the Content which, in the personal opinion of the Site Administration, infringes these Terms, Russian legislation and/or may infringe the rights of, cause damage to, or threaten the security of other Users or third parties. 7.2.3. By posting his/her Content on the Site, the User grants the Site Administration the right to copy his/her Content in order to streamline and facilitate the publication and storage of the user Content on the Site. 7.2.4. By posting his/her Content in any part of the Site, the User automatically grants the Site Administration free of charge the non-exclusive right to use it by copying, public performance, reproduction, processing, translation and distribution for or in connection with the purposes of the Site, including for the purpose of increasing its popularity. For these purposes, the Site Administration may produce derivative works or insert the User’s Content as components in relevant collections or take other actions for these purposes. 7.2.5. In case the User removes his/her Content from the Site, the rights mentioned in clauses 7.2.3 – 7.2.4 hereof will be automatically cancelled; however, the Site Administration has the right to keep archive copies of the user Content for an indefinite period.",
+      "position": 186,
+      "old_text": "Upon detection of the rights violations, please use [[LINK] for Investigating Complaints concerning users' content] to complain.",
+      "new_text": "Upon detection of the rights violations, please use Regulations for Investigating Complaints concerning users' content to complain.",
       "word_diff": [
         {
           "type": "keep",
-          "text": "7.2. Liability for the infringement of exclusive rights. 7.2.1. The User bears personal liability for any Content or other information he/she uploads or otherwise makes publicly available (publishes) on or via the Site. The User does not have the right to upload, transfer or publish Content on the Site unless he/she has appropriate rights to do so, such rights being acquired by or transferred to him/her in accordance with Russian legislation. Upon detection of the rights violations, please use"
+          "text": "Upon detection of the rights violations, please use"
         },
         {
           "type": "remove",
@@ -223,45 +140,33 @@
         },
         {
           "type": "keep",
-          "text": "to complain. 7.2.2. The Site Administration has the right but is not obliged to check the Site for prohibited Content and can delete or remove (without giving advance notice) any Content or Users at its own discretion for any reason or without reason, including, without limitation, removal or deletion of the Content which, in the personal opinion of the Site Administration, infringes these Terms, Russian legislation and/or may infringe the rights of, cause damage to, or threaten the security of other Users or third parties. 7.2.3. By posting his/her Content on the Site, the User grants the Site Administration the right to copy his/her Content in order to streamline and facilitate the publication and storage of the user Content on the Site. 7.2.4. By posting his/her Content in any part of the Site, the User automatically grants the Site Administration free of charge the non-exclusive right to use it by copying, public performance, reproduction, processing, translation and distribution for or in connection with the purposes of the Site, including for the purpose of increasing its popularity. For these purposes, the Site Administration may produce derivative works or insert the User’s Content as components in relevant collections or take other actions for these purposes. 7.2.5. In case the User removes his/her Content from the Site, the rights mentioned in clauses 7.2.3 – 7.2.4 hereof will be automatically cancelled; however, the Site Administration has the right to keep archive copies of the user Content for an indefinite period."
+          "text": "to complain."
         }
       ]
     },
     {
-      "type": "modify",
-      "position": 36,
-      "old_text": "7.3. Third parties’ sites and content 7.3.1. The Site contains (or may contain) links to other web-sites (third parties’ sites) as well as articles, photos, illustrations, graphic images, music, sound, video, information, applications, software and other Content belonging to or originating from third parties (Third Parties’ Content), which is the result of intellectual activity and is protected in accordance with Russian legislation. 7.3.2. The Site Administration does not check these third parties and their Content for conformity to any requirements (truthfulness, completeness, good faith etc.). The Site Administration does not bear liability for any information on third parties’ sites to which the User gains access via the Site or Third Parties’ Content, including any opinions or statements expressed on the Third Parties’ Sites or in their Content. 7.3.3. The fact that the Site contains links or instructions for downloading files and/or installing software of third parties does not mean that the Site Administration supports and approves of these actions. 7.3.4. The fact that the Site contains a link or reference to any site, product, service, information of commercial or non-commercial nature does not mean that the Site Administration approves of or recommends the above. 7.3.5. If the User decides to leave the Site for the sites of third parties or use or install third parties’ software, he/she does it at his/her own risk and from this time these Terms do not apply to the User any longer. When taking further actions the User should follow the applicable standards and policies, including business practices of the persons whose Content he/she is going to use.",
-      "new_text": "7.3. Third parties’ sites and content 7.3.1. The Site contains (or may contain) links to other web-sites (third parties’ sites) as well as articles, photos, illustrations, graphic images, music, sound, video, information, applications, software and other Content belonging to or originating from third parties (Third Parties’ Content), which is the result of intellectual activity and is protected in accordance with Russian legislation. 7.3.2. The Site Administration does not check these third parties and their Content for conformity to any requirements (truthfulness, completeness, good faith etc.). The Site Administration does not bear liability for any information on third parties’ sites to which the User gains access via the Site or Third Parties’ Content, including any opinions or statements expressed on the Third Parties’ Sites or in their Content. 7.3.3. The fact that the Site contains links or instructions for downloading files and/or installing software of third parties does not mean that the Site Administration supports and approves of these actions. 7.3.4. The fact that the Site contains a link or reference to any site, product, service, information of commercial or non-commercial nature does not mean that the Site Administration approves of or recommends the above. 7.3.5. If the User decides to leave the Site for the sites of third parties or use or install third parties’ software, he/she does it at his/her own risk and from this time these Terms do not apply to the User any longer. When taking further actions the User should follow the applicable standards and policies, including business practices of the persons whose Content he/she is going to use. 7.3.6. To display on the Site the content added by the User from YouTube by providing a link to it when using the Site, the Site Administration uses YouTube API. When adding content from YouTube to the Site, the User agrees to the YouTube Terms of Service .",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "7.3. Third parties’ sites and content 7.3.1. The Site contains (or may contain) links to other web-sites (third parties’ sites) as well as articles, photos, illustrations, graphic images, music, sound, video, information, applications, software and other Content belonging to or originating from third parties (Third Parties’ Content), which is the result of intellectual activity and is protected in accordance with Russian legislation. 7.3.2. The Site Administration does not check these third parties and their Content for conformity to any requirements (truthfulness, completeness, good faith etc.). The Site Administration does not bear liability for any information on third parties’ sites to which the User gains access via the Site or Third Parties’ Content, including any opinions or statements expressed on the Third Parties’ Sites or in their Content. 7.3.3. The fact that the Site contains links or instructions for downloading files and/or installing software of third parties does not mean that the Site Administration supports and approves of these actions. 7.3.4. The fact that the Site contains a link or reference to any site, product, service, information of commercial or non-commercial nature does not mean that the Site Administration approves of or recommends the above. 7.3.5. If the User decides to leave the Site for the sites of third parties or use or install third parties’ software, he/she does it at his/her own risk and from this time these Terms do not apply to the User any longer. When taking further actions the User should follow the applicable standards and policies, including business practices of the persons whose Content he/she is going to use."
-        },
-        {
-          "type": "add",
-          "text": "7.3.6. To display on the Site the content added by the User from YouTube by providing a link to it when using the Site, the Site Administration uses YouTube API. When adding content from YouTube to the Site, the User agrees to the YouTube Terms of Service ."
-        }
-      ]
+      "type": "add",
+      "position": 209,
+      "text": "7.3.6."
+    },
+    {
+      "type": "add",
+      "position": 210,
+      "text": "To display on the Site the content added by the User from YouTube by providing a link to it when using the Site, the Site Administration uses YouTube API."
+    },
+    {
+      "type": "add",
+      "position": 211,
+      "text": "When adding content from YouTube to the Site, the User agrees to the YouTube Terms of Service ."
+    },
+    {
+      "type": "add",
+      "position": 223,
+      "text": "The procedure for filing reports of content distributed in violation of the law is provided in the Rules for reviewing appeals related to the spread of information in violation of the law on the VKontakte website ."
     },
     {
       "type": "modify",
-      "position": 41,
-      "old_text": "8.5. The Site Administration does not carry out preliminary moderation or censorship of the Users’ information and takes actions to protect the rights and interests of persons and ensure compliance with the requirements of Russian legislation only after the person concerned applies duly to the Site Administration.",
-      "new_text": "8.5. The Site Administration does not carry out preliminary moderation or censorship of the Users’ information and takes actions to protect the rights and interests of persons and ensure compliance with the requirements of Russian legislation only after the person concerned applies duly to the Site Administration. The procedure for filing reports of content distributed in violation of the law is provided in the Rules for reviewing appeals related to the spread of information in violation of the law on the VKontakte website .",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "8.5. The Site Administration does not carry out preliminary moderation or censorship of the Users’ information and takes actions to protect the rights and interests of persons and ensure compliance with the requirements of Russian legislation only after the person concerned applies duly to the Site Administration."
-        },
-        {
-          "type": "add",
-          "text": "The procedure for filing reports of content distributed in violation of the law is provided in the Rules for reviewing appeals related to the spread of information in violation of the law on the VKontakte website ."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 54,
+      "position": 265,
       "old_text": "Date of Last Revision: 6 May 2023",
       "new_text": "Date of Last Revision: 8 April 2024",
       "word_diff": [
@@ -288,6 +193,5 @@
   "from_hash": "ad9fd7e3a634094e89fbe16d5673b7c0405a47e9f984d399d0bcfc28aa74e189",
   "to_hash": "5ee20787455155d9322e6ab098f5be2137710430f8d8cd264eb6e5cc73f4abe6",
   "url": "https://vk.ru/terms",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20240703/https://vk.ru/terms"
+  "ai_summary": "Затронуты темы: third party. Добавлено строк: 14, удалено: 7, изменено: 6."
 }

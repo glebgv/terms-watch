@@ -1,9 +1,9 @@
 {
   "stats": {
     "lines_added": 0,
-    "lines_removed": 3,
+    "lines_removed": 1,
     "lines_changed": 0,
-    "change_ratio": 0.0244
+    "change_ratio": 0.0107
   },
   "is_major": false,
   "reordering_only": false,
@@ -11,18 +11,8 @@
   "changes": [
     {
       "type": "remove",
-      "position": 61,
-      "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru"
-    },
-    {
-      "type": "remove",
       "position": 62,
-      "text": "Передайте поиск разработчиков на аутсорс HRspace"
-    },
-    {
-      "type": "remove",
-      "position": 63,
-      "text": "Управляйте этапами, назначайте собеседования, добавляйте заказчиков"
+      "text": "Расскажите о жизни в компании и её атмосфере в статье на hh.ru Передайте поиск разработчиков на аутсорс HRspace Управляйте этапами, назначайте собеседования, добавляйте заказчиков"
     }
   ],
   "site": "hh",
@@ -33,6 +23,5 @@
   "from_hash": "23c6d4b95bb891e7ff93313498b5138137ba8235638f93d32f218d3893e7faf6",
   "to_hash": "301686003c6bc7b446f5711a1ca7bb0b3e2487ed5865b26fffc507200acaa228",
   "url": "https://hh.ru/article/personal_data",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20241126/https://hh.ru/article/personal_data"
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
 }
