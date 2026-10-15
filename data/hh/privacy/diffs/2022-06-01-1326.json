@@ -1,21 +1,43 @@
 {
-  "stats": {
-    "lines_added": 0,
-    "lines_removed": 0,
-    "lines_changed": 0,
-    "change_ratio": 0.0
+ "stats": {
+  "lines_added": 1,
+  "lines_removed": 2,
+  "lines_changed": 1,
+  "change_ratio": 0.0297
+ },
+ "is_major": false,
+ "reordering_only": false,
+ "keywords": [],
+ "changes": [
+  {
+   "type": "modify",
+   "position": 1,
+   "old_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии Beta services Try out the new services that may appear on hh.ru in the future Personal data processing and protection policy (the \"Policy\") 1..",
+   "new_text": "Personal data processing and protection policy (the \"Policy\") 1..",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии Beta services Try out the new services that may appear on hh.ru in the future"
+    },
+    {
+     "type": "keep",
+     "text": "Personal data processing and protection policy (the \"Policy\") 1.."
+    }
+   ]
   },
-  "is_major": false,
-  "reordering_only": false,
-  "keywords": [],
-  "changes": [],
-  "site": "hh",
-  "doc_id": "privacy",
-  "doc_title": "Политика конфиденциальности",
-  "from_date": "2022-06-01-1326",
-  "to_date": "2022-06-01-1326",
-  "from_hash": "c503211029256da6232b4470df67cd58a2f4d20bc2234ba4e8af8b94616a01cd",
-  "to_hash": "5da4fddb9a15d341359dc3bca3422518997a7ac9bae7bf535fabe3f005c2d885",
-  "url": "https://hh.ru/article/personal_data",
-  "ai_summary": "Добавлено строк: 0, удалено: 0, изменено: 0."
+  {
+   "type": "remove",
+   "position": 39,
+   "text": "Life at the company Помогает повысить качество откликов Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Talantix For convenient work with the resume and staff database"
+  }
+ ],
+ "site": "hh",
+ "doc_id": "privacy",
+ "doc_title": "Политика конфиденциальности",
+ "from_date": "2022-06-01-1326",
+ "to_date": "2022-06-01-1326",
+ "from_hash": "c503211029256da6232b4470df67cd58a2f4d20bc2234ba4e8af8b94616a01cd",
+ "to_hash": "5da4fddb9a15d341359dc3bca3422518997a7ac9bae7bf535fabe3f005c2d885",
+ "url": "https://hh.ru/article/personal_data",
+ "ai_summary": "Добавлено строк: 0, удалено: 0, изменено: 0."
 }

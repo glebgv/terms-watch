@@ -1,43 +1,43 @@
 {
-  "stats": {
-    "lines_added": 1,
-    "lines_removed": 2,
-    "lines_changed": 1,
-    "change_ratio": 0.0003
-  },
-  "is_major": false,
-  "reordering_only": false,
-  "keywords": [],
-  "changes": [
+ "stats": {
+  "lines_added": 1,
+  "lines_removed": 2,
+  "lines_changed": 1,
+  "change_ratio": 0.0003
+ },
+ "is_major": false,
+ "reordering_only": false,
+ "keywords": [],
+ "changes": [
+  {
+   "type": "modify",
+   "position": 234,
+   "old_text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services.",
+   "new_text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services. </span></li> </ul> 8.11..",
+   "word_diff": [
     {
-      "type": "modify",
-      "position": 234,
-      "old_text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services.",
-      "new_text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services. </span></li> </ul> 8.11.",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services."
-        },
-        {
-          "type": "add",
-          "text": "</span></li> </ul> 8.11."
-        }
-      ]
+     "type": "keep",
+     "text": "The Site Administration has the right to send information on the development of the Site and its services to the User as well as to advertise its own activity and services."
     },
     {
-      "type": "remove",
-      "position": 235,
-      "text": "8.11."
+     "type": "add",
+     "text": "</span></li> </ul> 8.11.."
     }
-  ],
-  "site": "vk",
-  "doc_id": "terms",
-  "doc_title": "Условия использования",
-  "from_date": "2022-09-04-0842",
-  "to_date": "2023-02-03-1753",
-  "from_hash": "0280223dbd9959bef8975baa983e9b9be3f111391d2030c8c4ce77be0a6e6421",
-  "to_hash": "0f29484e5a5ca20efc93adfb038b4b9b6878103263e69af0f8d2b822d9609f14",
-  "url": "https://vk.ru/terms",
-  "ai_summary": "Добавлено строк: 1, удалено: 2, изменено: 1."
+   ]
+  },
+  {
+   "type": "remove",
+   "position": 235,
+   "text": "8.11.."
+  }
+ ],
+ "site": "vk",
+ "doc_id": "terms",
+ "doc_title": "Условия использования",
+ "from_date": "2022-09-04-0842",
+ "to_date": "2023-02-03-1753",
+ "from_hash": "0280223dbd9959bef8975baa983e9b9be3f111391d2030c8c4ce77be0a6e6421",
+ "to_hash": "0f29484e5a5ca20efc93adfb038b4b9b6878103263e69af0f8d2b822d9609f14",
+ "url": "https://vk.ru/terms",
+ "ai_summary": "Добавлено строк: 1, удалено: 2, изменено: 1."
 }

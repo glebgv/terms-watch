@@ -1,862 +1,1041 @@
 {
-  "stats": {
-    "lines_added": 67,
-    "lines_removed": 40,
-    "lines_changed": 40,
-    "change_ratio": 0.6262
-  },
-  "is_major": true,
-  "reordering_only": false,
-  "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие",
-    "cookies",
-    "third party"
-  ],
-  "changes": [
-    {
-      "type": "modify",
-      "position": 1,
-      "old_text": "Политика в области обработки и обеспечения безопасности персональных данных",
-      "new_text": "Personal data processing and protection policy (the \"Policy\")",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Политика в области обработки и обеспечения безопасности персональных данных"
-        },
-        {
-          "type": "add",
-          "text": "Personal data processing and protection policy (the \"Policy\")"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 2,
-      "old_text": "1. Общие положения",
-      "new_text": "1. General",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "1."
-        },
-        {
-          "type": "remove",
-          "text": "Общие положения"
-        },
-        {
-          "type": "add",
-          "text": "General"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 3,
-      "old_text": "ООО «Хэдхантер» (ИНН 7718620740, адрес: 129085, г.Москва, ул.Годовикова, д.9, стр.10) (далее — «Компания») в рамках выполнения своей основной деятельности осуществляет обработку персональных данных различных категорий субъектов персональных данных с использованием информационных систем персональных данных, включающих в том числе следующие интернет-сайты Компании: [LINK] , [LINK] , [LINK] , а также иные сайты Компании, которые ссылаются на данную Политику.",
-      "new_text": "LLC Headhunter (INN 7718620740, address: bld.10, 9, Godovikova street, Moscow, 129085) (hereinafter referred to as the “Company”) processes personal data on various categories of personal data subjects within its main activities using information systems of personal data, including the following Company`s websites: [LINK] , [LINK] , [LINK] , and other Company`s websites, which refer to this Policy.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "ООО «Хэдхантер» (ИНН"
-        },
-        {
-          "type": "add",
-          "text": "LLC Headhunter (INN"
-        },
-        {
-          "type": "keep",
-          "text": "7718620740,"
-        },
-        {
-          "type": "remove",
-          "text": "адрес: 129085, г.Москва, ул.Годовикова, д.9, стр.10) (далее — «Компания») в рамках выполнения своей основной деятельности осуществляет обработку персональных данных различных категорий субъектов персональных данных с использованием информационных систем персональных данных, включающих в том числе следующие интернет-сайты Компании:"
-        },
-        {
-          "type": "add",
-          "text": "address: bld.10, 9, Godovikova street, Moscow, 129085) (hereinafter referred to as the “Company”) processes personal data on various categories of personal data subjects within its main activities using information systems of personal data, including the following Company`s websites:"
-        },
-        {
-          "type": "keep",
-          "text": "[LINK] , [LINK] , [LINK] ,"
-        },
-        {
-          "type": "remove",
-          "text": "а также иные сайты Компании, которые ссылаются на данную Политику."
-        },
-        {
-          "type": "add",
-          "text": "and other Company`s websites, which refer to this Policy."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 4,
-      "old_text": "В соответствии с действующим законодательством Российской Федерации Компания является оператором персональных данных. При организации и осуществлении обработки персональных данных Компания руководствуется требованиями Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных» и принятыми в соответствии с ним иными нормативными правовыми актами.",
-      "new_text": "In accordance with the current legislation of the Russian Federation, Company is an operator of personal data. The Company applies the requirements of the Federal Law of 27.07.2006 № 152-FZ “On Personal Data” and other regulations, adopted in accordance with it, in the organization and implementation of the personal data processing.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "В соответствии с действующим законодательством Российской Федерации Компания является оператором персональных данных. При организации и осуществлении обработки персональных данных Компания руководствуется требованиями Федерального закона от"
-        },
-        {
-          "type": "add",
-          "text": "In accordance with the current legislation of the Russian Federation, Company is an operator of personal data. The Company applies the requirements of the Federal Law of"
-        },
-        {
-          "type": "keep",
-          "text": "27.07.2006 №"
-        },
-        {
-          "type": "remove",
-          "text": "152-ФЗ «О персональных данных» и принятыми в соответствии с ним иными нормативными правовыми актами."
-        },
-        {
-          "type": "add",
-          "text": "152-FZ “On Personal Data” and other regulations, adopted in accordance with it, in the organization and implementation of the personal data processing."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 5,
-      "old_text": "Для целей настоящей Политики под персональными данными понимаются любая информация, предоставленная через интернет-сайты Компании и (или) собранная с использованием таких интернет-сайтов, относящаяся к прямо или косвенно определенному, или определяемому физическому лицу (субъекту персональных данных).",
-      "new_text": "For the purposes of this Policy, personal data means any information provided through the Company’s websites and (or) collected using such websites, relating to a directly or indirectly identified or identifiable individual (personal data subject).",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Для целей настоящей Политики под персональными данными понимаются любая информация, предоставленная через интернет-сайты Компании и (или) собранная с использованием таких интернет-сайтов, относящаяся к прямо или косвенно определенному, или определяемому физическому лицу (субъекту персональных данных)."
-        },
-        {
-          "type": "add",
-          "text": "For the purposes of this Policy, personal data means any information provided through the Company’s websites and (or) collected using such websites, relating to a directly or indirectly identified or identifiable individual (personal data subject)."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 6,
-      "old_text": "2. Сбор персональных данных",
-      "new_text": "2. Collection of personal data",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "2."
-        },
-        {
-          "type": "remove",
-          "text": "Сбор персональных данных"
-        },
-        {
-          "type": "add",
-          "text": "Collection of personal data"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 7,
-      "old_text": "Компания осуществляет сбор информации через интернет-сайты и мобильные приложения следующими способами:",
-      "new_text": "The Company collects information through websites and mobile applications in the following ways:",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Компания осуществляет сбор информации через интернет-сайты и мобильные приложения следующими способами:"
-        },
-        {
-          "type": "add",
-          "text": "The Company collects information through websites and mobile applications in the following ways:"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 8,
-      "old_text": "• Персональные данные, предоставляемые пользователями: Компания осуществляет сбор персональных данных, которые вводят в поля данных на интернет-сайтах Компании сами пользователи или иные лица по их поручению.",
-      "new_text": "• Personal data provided by users:",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "•"
-        },
-        {
-          "type": "remove",
-          "text": "Персональные данные, предоставляемые пользователями: Компания осуществляет сбор персональных данных, которые вводят в поля данных на интернет-сайтах Компании сами пользователи или иные лица по их поручению."
-        },
-        {
-          "type": "add",
-          "text": "Personal data provided by users:"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 9,
-      "old_text": "• Сбор данных о местонахождении устройств пользователей мобильного приложения Компании при использовании пользователями мобильного приложения.",
-      "new_text": "The Company collects personal data that is entered into the data fields on the Company’s websites by users themselves or other persons on their behalf.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• Сбор данных о местонахождении устройств пользователей мобильного приложения Компании при использовании пользователями мобильного приложения."
-        },
-        {
-          "type": "add",
-          "text": "The Company collects personal data that is entered into the data fields on the Company’s websites by users themselves or other persons on their behalf."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 10,
-      "old_text": "• Сбор IP адресов пользователей и файлов cookies.",
-      "new_text": "• Collection data on the location of the devices of users of the Company’s mobile application when users use the mobile application.",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "•"
-        },
-        {
-          "type": "remove",
-          "text": "Сбор IP адресов пользователей и файлов cookies."
-        },
-        {
-          "type": "add",
-          "text": "Collection data on the location of the devices of users of the Company’s mobile application when users use the mobile application."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 11,
-      "old_text": "• Пассивный сбор персональных данных о текущем подключении в части статистических сведений: — идентификатор пользователя, присваиваемый Сайтом; — посещенные страницы; — количество посещений страниц; — информация о перемещении по страницам сайта; — длительность пользовательской сессии; — точки входа (сторонние сайты, с которых пользователь по ссылке переходит на Сайт); — точки выхода (ссылки на Сайте, по которым пользователь переходит на сторонние сайты); — страна пользователя; — регион пользователя; — часовой пояс, установленный на устройстве пользователя; — провайдер пользователя; — браузер пользователя; — цифровой отпечаток браузера (canvas fingerprint); — доступные шрифты браузера; — установленные плагины браузера; — параметры WebGL браузера; — тип доступных медиа-устройств в браузере; — наличие ActiveX; — перечень поддерживаемых языков на устройстве пользователя; — архитектура процессора устройства пользователя; — ОС пользователя; — параметры экрана (разрешение, глубина цветности, параметры размещения страницы на экране); — информация об использовании средств автоматизации при доступе на Сайт; — дата и время посещения сайта; — источник перехода (UTM метка); — значение UTM меток от source до content; — уникальный идентификатор, присваиваемый интернет-сторонним сервисом, обеспечивающим обработку статистических данных.",
-      "new_text": "• Collection of users’ IP addresses and cookies.",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "•"
-        },
-        {
-          "type": "remove",
-          "text": "Пассивный сбор персональных данных о текущем подключении в части статистических сведений: — идентификатор пользователя, присваиваемый Сайтом; — посещенные страницы; — количество посещений страниц; — информация о перемещении по страницам сайта; — длительность пользовательской сессии; — точки входа (сторонние сайты, с которых пользователь по ссылке переходит на Сайт); — точки выхода (ссылки на Сайте, по которым пользователь переходит на сторонние сайты); — страна пользователя; — регион пользователя; — часовой пояс, установленный на устройстве пользователя; — провайдер пользователя; — браузер пользователя; — цифровой отпечаток браузера (canvas fingerprint); — доступные шрифты браузера; — установленные плагины браузера; — параметры WebGL браузера; — тип доступных медиа-устройств в браузере; — наличие ActiveX; — перечень поддерживаемых языков на устройстве пользователя; — архитектура процессора устройства пользователя; — ОС пользователя; — параметры экрана (разрешение, глубина цветности, параметры размещения страницы на экране); — информация об использовании средств автоматизации при доступе на Сайт; — дата и время посещения сайта; — источник перехода (UTM метка); — значение UTM меток от source до content; — уникальный идентификатор, присваиваемый интернет-сторонним сервисом, обеспечивающим обработку статистических данных."
-        },
-        {
-          "type": "add",
-          "text": "Collection of users’ IP addresses and cookies."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 12,
-      "old_text": "В отношении зарегистрированных пользователей Сайта могут собираться сведения об использовании портов на устройствах пользователей с целью выявления подозрительной активности и защиты личных кабинетов пользователей. Данные могут быть получены с помощью различных методов, например, файлов cookies и файловых веб-маяков и др.",
-      "new_text": "• Passive collection of personal data on the current connection in terms of statistic data:",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "В отношении зарегистрированных пользователей Сайта могут собираться сведения об использовании портов на устройствах пользователей с целью выявления подозрительной активности и защиты личных кабинетов пользователей. Данные могут быть получены с помощью различных методов, например, файлов cookies и файловых веб-маяков и др."
-        },
-        {
-          "type": "add",
-          "text": "• Passive collection of personal data on the current connection in terms of statistic data:"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 13,
-      "old_text": "Компания может использовать сторонние интернет-сервисы (технологии третьих лиц) для организации сбора статистических персональных данных, сторонние интернет-сервисы обеспечивают хранение полученных данных на собственных серверах. Компания не несет ответственности за локализацию серверов сторонних интернет-сервисов. При этом такие сторонние интернет-сервисы (технологии третьих лиц), установленные на Сайте и используемые Компанией, могут устанавливать и считывать cookie-файлы браузеров конечных пользователей Сайта, или использовать сетевые маячки (web beacons) для сбора информации в процессе рекламной деятельности на Сайте. Порядок сбора и использования данных, собираемыми такими сторонними интернет-сервисами (технологиями третьих лиц), определяется самостоятельно этими сторонними интернет-сервисами и непосредственно они несут ответственность за соблюдение этого порядка и использование собираемых ими данных, в том числе эти сторонние интернет-сервисы отвечают и обеспечивают выполнение требований применимого законодательства, в том числе законодательства о персональных данных РФ.",
-      "new_text": "— user identifier (ID) assigned by the Web-site;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Компания может использовать сторонние интернет-сервисы (технологии третьих лиц) для организации сбора статистических персональных данных, сторонние интернет-сервисы обеспечивают хранение полученных данных на собственных серверах. Компания не несет ответственности за локализацию серверов сторонних интернет-сервисов. При этом такие сторонние интернет-сервисы (технологии третьих лиц), установленные на Сайте и используемые Компанией, могут устанавливать и считывать cookie-файлы браузеров конечных пользователей Сайта, или использовать сетевые маячки (web beacons) для сбора информации в процессе рекламной деятельности на Сайте. Порядок сбора и использования данных, собираемыми такими сторонними интернет-сервисами (технологиями третьих лиц), определяется самостоятельно этими сторонними интернет-сервисами и непосредственно они несут ответственность за соблюдение этого порядка и использование собираемых ими данных, в том числе эти сторонние интернет-сервисы отвечают и обеспечивают выполнение требований применимого законодательства, в том числе законодательства о персональных данных РФ."
-        },
-        {
-          "type": "add",
-          "text": "— user identifier (ID) assigned by the Web-site;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 14,
-      "old_text": "Компания не проводит сопоставление информации, предоставляемой пользователем самостоятельно и позволяющей идентифицировать субъекта персональных данных, со статистическими персональными данными, полученными в ходе применения подобных пассивных методов сбора информации.",
-      "new_text": "— webpages visited;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Компания не проводит сопоставление информации, предоставляемой пользователем самостоятельно и позволяющей идентифицировать субъекта персональных данных, со статистическими персональными данными, полученными в ходе применения подобных пассивных методов сбора информации."
-        },
-        {
-          "type": "add",
-          "text": "— webpages visited;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 15,
-      "old_text": "3. Принципы и условия обработки персональных данных",
-      "new_text": "— number of webpages visited;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "3. Принципы и условия обработки персональных данных"
-        },
-        {
-          "type": "add",
-          "text": "— number of webpages visited;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 16,
-      "old_text": "Обработка персональных данных в Компании осуществляется на законной и справедливой основе и ограничивается достижением конкретных, заранее определенных и законных целей, в том числе, в соответствии с Условиями использования Сайтов , Условиями оказания услуг , Соглашением об оказании услуг по содействию в трудоустройстве .",
-      "new_text": "— information on browsing Company’s websites;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Обработка персональных данных в Компании осуществляется на законной и справедливой основе и ограничивается достижением конкретных, заранее определенных и законных целей, в том числе, в соответствии с Условиями использования Сайтов , Условиями оказания услуг , Соглашением об оказании услуг по содействию в трудоустройстве ."
-        },
-        {
-          "type": "add",
-          "text": "— information on browsing Company’s websites;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 17,
-      "old_text": "Обработке подлежат только персональные данные, которые отвечают целям их обработки. Содержание и объем обрабатываемых в Компании персональных данных соответствуют заявленным целям обработки, избыточность обрабатываемых персональных данных не допускается.",
-      "new_text": "— duration of user session;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Обработке подлежат только персональные данные, которые отвечают целям их обработки. Содержание и объем обрабатываемых в Компании персональных данных соответствуют заявленным целям обработки, избыточность обрабатываемых персональных данных не допускается."
-        },
-        {
-          "type": "add",
-          "text": "— duration of user session;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 18,
-      "old_text": "При обработке персональных данных в Компании обеспечивается точность персональных данных, их достаточность и, в необходимых случаях, актуальность по отношению к целям обработки персональных данных. Компания принимает необходимые меры (обеспечивает их принятие) по удалению или уточнению неполных, или неточных персональных данных.",
-      "new_text": "— access points (external websites from which the user goes to Company’s websites using the link)",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "При обработке персональных данных в Компании обеспечивается точность персональных данных, их достаточность и, в необходимых случаях, актуальность по отношению к целям обработки персональных данных. Компания принимает необходимые меры (обеспечивает их принятие) по удалению или уточнению неполных, или неточных персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "— access points (external websites from which the user goes to Company’s websites using the link)"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 19,
-      "old_text": "Компания в ходе своей деятельности может предоставлять и (или) поручать обработку персональных данных другому лицу с согласия субъекта персональных данных, если иное не предусмотрено законодательством РФ о персональных данных. При этом обязательным условием предоставления и (или) поручения обработки персональных данных другому лицу является обязанность сторон по соблюдению конфиденциальности и обеспечению безопасности персональных данных при их обработке.",
-      "new_text": "— exit points (links on Company’s websites using which the user goes to external websites);",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Компания в ходе своей деятельности может предоставлять и (или) поручать обработку персональных данных другому лицу с согласия субъекта персональных данных, если иное не предусмотрено законодательством РФ о персональных данных. При этом обязательным условием предоставления и (или) поручения обработки персональных данных другому лицу является обязанность сторон по соблюдению конфиденциальности и обеспечению безопасности персональных данных при их обработке."
-        },
-        {
-          "type": "add",
-          "text": "— exit points (links on Company’s websites using which the user goes to external websites);"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 20,
-      "old_text": "Сроки обработки персональных данных определяются в соответствии с целями, для которых они были собраны.",
-      "new_text": "— country of the user;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Сроки обработки персональных данных определяются в соответствии с целями, для которых они были собраны."
-        },
-        {
-          "type": "add",
-          "text": "— country of the user;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 21,
-      "old_text": "4. Права субъекта персональных данных",
-      "new_text": "— region of the user;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "4. Права субъекта персональных данных"
-        },
-        {
-          "type": "add",
-          "text": "— region of the user;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 22,
-      "old_text": "Субъект персональных данных имеет право (если иное не предусмотрено законом):",
-      "new_text": "— time zone set on the user’s device;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Субъект персональных данных имеет право (если иное не предусмотрено законом):"
-        },
-        {
-          "type": "add",
-          "text": "— time zone set on the user’s device;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 23,
-      "old_text": "• требовать уточнения своих персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, недостоверными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав;",
-      "new_text": "— user’s provider;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• требовать уточнения своих персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, недостоверными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав;"
-        },
-        {
-          "type": "add",
-          "text": "— user’s provider;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 24,
-      "old_text": "• требовать перечень своих персональных данных, обрабатываемых Компанией, и источник их получения;",
-      "new_text": "— user’s browser;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• требовать перечень своих персональных данных, обрабатываемых Компанией, и источник их получения;"
-        },
-        {
-          "type": "add",
-          "text": "— user’s browser;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 25,
-      "old_text": "• получать информацию о сроках обработки своих персональных данных, в том числе о сроках их хранения;",
-      "new_text": "— digital browser fingerprint (canvas fingerprint);",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• получать информацию о сроках обработки своих персональных данных, в том числе о сроках их хранения;"
-        },
-        {
-          "type": "add",
-          "text": "— digital browser fingerprint (canvas fingerprint);"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 26,
-      "old_text": "• требовать извещения всех лиц, которым ранее были сообщены неверные или неполные его персональные данные, обо всех произведённых в них исключениях, исправлениях или дополнениях;",
-      "new_text": "— available browser fonts;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• требовать извещения всех лиц, которым ранее были сообщены неверные или неполные его персональные данные, обо всех произведённых в них исключениях, исправлениях или дополнениях;"
-        },
-        {
-          "type": "add",
-          "text": "— available browser fonts;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 27,
-      "old_text": "• обжаловать в уполномоченном органе по защите прав субъектов персональных данных или в судебном порядке неправомерные действия или бездействия при обработке его персональных данных;",
-      "new_text": "— installed browser plug-ins;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• обжаловать в уполномоченном органе по защите прав субъектов персональных данных или в судебном порядке неправомерные действия или бездействия при обработке его персональных данных;"
-        },
-        {
-          "type": "add",
-          "text": "— installed browser plug-ins;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 28,
-      "old_text": "• на защиту своих прав и законных интересов, в том числе на возмещение убытков и (или) компенсацию морального вреда в судебном порядке.",
-      "new_text": "— browser WebGL parameters;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "• на защиту своих прав и законных интересов, в том числе на возмещение убытков и (или) компенсацию морального вреда в судебном порядке."
-        },
-        {
-          "type": "add",
-          "text": "— browser WebGL parameters;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 29,
-      "old_text": "Если у Вас есть вопросы о характере применения, использовании, изменении или удалении Ваших персональных данных, которые были Вами предоставлены, или если Вы хотите отказаться от дальнейшей их обработки Компанией, пожалуйста, свяжитесь с нами по почте по адресу Компании или по электронной почте: [LINK] .",
-      "new_text": "— type of available media devices in the browser;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Если у Вас есть вопросы о характере применения, использовании, изменении или удалении Ваших персональных данных, которые были Вами предоставлены, или если Вы хотите отказаться от дальнейшей их обработки Компанией, пожалуйста, свяжитесь с нами по почте по адресу Компании или по электронной почте: [LINK] ."
-        },
-        {
-          "type": "add",
-          "text": "— type of available media devices in the browser;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 30,
-      "old_text": "Обращаем Ваше внимание, что оператор персональных данных не несет ответственности за недостоверную информацию, предоставленную субъектом персональных данных.",
-      "new_text": "— availability of ActiveX;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Обращаем Ваше внимание, что оператор персональных данных не несет ответственности за недостоверную информацию, предоставленную субъектом персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "— availability of ActiveX;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 31,
-      "old_text": "5. Реализация требований к защите персональных данных",
-      "new_text": "— list of supported languages on the user’s device;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "5. Реализация требований к защите персональных данных"
-        },
-        {
-          "type": "add",
-          "text": "— list of supported languages on the user’s device;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 32,
-      "old_text": "С целью поддержания деловой репутации и обеспечения выполнения требований федерального законодательства Компания считает важнейшими задачами обеспечение легитимности обработки персональных данных в бизнес-процессах Компании и обеспечение надлежащего уровня безопасности обрабатываемых в Компании персональных данных.",
-      "new_text": "— architecture of the processor of the user’s device;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "С целью поддержания деловой репутации и обеспечения выполнения требований федерального законодательства Компания считает важнейшими задачами обеспечение легитимности обработки персональных данных в бизнес-процессах Компании и обеспечение надлежащего уровня безопасности обрабатываемых в Компании персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "— architecture of the processor of the user’s device;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 33,
-      "old_text": "Компания требует от иных лиц, получивших доступ к персональным данным, не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом.",
-      "new_text": "— operating system of the user;",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Компания требует от иных лиц, получивших доступ к персональным данным, не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом."
-        },
-        {
-          "type": "add",
-          "text": "— operating system of the user;"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 34,
-      "old_text": "С целью обеспечения безопасности персональных данных при их обработке Компания принимает необходимые и достаточные правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении них.",
-      "new_text": "— screen parameters (resolution, color depth, parameters of page placement on the screen);",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "С целью обеспечения безопасности персональных данных при их обработке Компания принимает необходимые и достаточные правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении них."
-        },
-        {
-          "type": "add",
-          "text": "— screen parameters (resolution, color depth, parameters of page placement on the screen);"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 35,
-      "old_text": "Компания добивается того, чтобы все реализуемые ею мероприятия по организационной и технической защите персональных данных осуществлялись на законных основаниях, в том числе в соответствии с требованиями законодательства Российской Федерации по вопросам обработки персональных данных.",
-      "new_text": "— information on use of automation means when accessing Company’s websites.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Компания добивается того, чтобы все реализуемые ею мероприятия по организационной и технической защите персональных данных осуществлялись на законных основаниях, в том числе в соответствии с требованиями законодательства Российской Федерации по вопросам обработки персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "— information on use of automation means when accessing Company’s websites."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 36,
-      "old_text": "В целях обеспечения адекватной защиты персональных данных Компания проводит оценку вреда, который может быть причинен субъектам персональных данных в случае нарушения безопасности их персональных данных, а также определяет актуальные угрозы безопасности персональных данных при их обработке в информационных системах персональных данных.",
-      "new_text": "Data may be collected in respect of the registered users about the use of ports on users’ devices in order to detect suspicious activity and protect users’ personal accounts. Data may be collected by using a variety of methods, such as cookies and web beacons, etc.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "В целях обеспечения адекватной защиты персональных данных Компания проводит оценку вреда, который может быть причинен субъектам персональных данных в случае нарушения безопасности их персональных данных, а также определяет актуальные угрозы безопасности персональных данных при их обработке в информационных системах персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "Data may be collected in respect of the registered users about the use of ports on users’ devices in order to detect suspicious activity and protect users’ personal accounts. Data may be collected by using a variety of methods, such as cookies and web beacons, etc."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 37,
-      "old_text": "В соответствии с выявленными актуальными угрозами Компания применяет необходимые и достаточные правовые, организационные и технические меры по обеспечению безопасности персональных данных, включающие в себя использование средств защиты информации, обнаружение фактов несанкционированного доступа к персональным данным и принятие мер, восстановление персональных данных, ограничение доступа к персональным данным, регистрацию и учет действий с персональными данными, а также контроль и оценку эффективности применяемых мер по обеспечению безопасности персональных данных.",
-      "new_text": "The Company may use third-party Internet services (third-party technologies) to organize the collection of statistical personal data. Third-party Internet services provide storage of the received data on their own servers. The Company is not responsible for the localization of servers of third-party online services. At the same time, such third-party Internet services (third-party technologies) installed on the Company’s websites and used by the Company may install and read cookies from the browsers of the end users of the Site or use network beacons to collect information during advertising activities on the Site. The procedure of collection and use of data collected by such third-party Internet services (third-party technologies) shall be determined independently by such third-party Internet services and they shall be directly responsible for compliance with such procedure and use of data collected by them, including these third-party Internet services are responsible and ensure compliance with applicable laws, including the Russian legislation on personal data.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "В соответствии с выявленными актуальными угрозами Компания применяет необходимые и достаточные правовые, организационные и технические меры по обеспечению безопасности персональных данных, включающие в себя использование средств защиты информации, обнаружение фактов несанкционированного доступа к персональным данным и принятие мер, восстановление персональных данных, ограничение доступа к персональным данным, регистрацию и учет действий с персональными данными, а также контроль и оценку эффективности применяемых мер по обеспечению безопасности персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "The Company may use third-party Internet services (third-party technologies) to organize the collection of statistical personal data. Third-party Internet services provide storage of the received data on their own servers. The Company is not responsible for the localization of servers of third-party online services. At the same time, such third-party Internet services (third-party technologies) installed on the Company’s websites and used by the Company may install and read cookies from the browsers of the end users of the Site or use network beacons to collect information during advertising activities on the Site. The procedure of collection and use of data collected by such third-party Internet services (third-party technologies) shall be determined independently by such third-party Internet services and they shall be directly responsible for compliance with such procedure and use of data collected by them, including these third-party Internet services are responsible and ensure compliance with applicable laws, including the Russian legislation on personal data."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 38,
-      "old_text": "Руководство Компании осознает важность и необходимость обеспечения безопасности персональных данных и поощряет постоянное совершенствование системы защиты персональных данных, обрабатываемых в рамках выполнения основной деятельности Компании.",
-      "new_text": "The Company does not compare the information provided by the user independently and allowing to identify the subject of personal data with statistical personal data obtained during the application of such passive methods of information collection.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Руководство Компании осознает важность и необходимость обеспечения безопасности персональных данных и поощряет постоянное совершенствование системы защиты персональных данных, обрабатываемых в рамках выполнения основной деятельности Компании."
-        },
-        {
-          "type": "add",
-          "text": "The Company does not compare the information provided by the user independently and allowing to identify the subject of personal data with statistical personal data obtained during the application of such passive methods of information collection."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 39,
-      "old_text": "В Компании назначены лица, ответственные за организацию обработки и обеспечение безопасности персональных данных.",
-      "new_text": "3. The Principles and Conditions of processing of personal data",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "В Компании назначены лица, ответственные за организацию обработки и обеспечение безопасности персональных данных."
-        },
-        {
-          "type": "add",
-          "text": "3. The Principles and Conditions of processing of personal data"
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 40,
-      "old_text": "Каждый новый работник Компании, непосредственно осуществляющий обработку персональных данных, ознакамливается с требованиями законодательства Российской Федерации по обработке и обеспечению безопасности персональных данных, настоящей Политикой и другими локальными актами Компании по вопросам обработки и обеспечения безопасности персональных данных и обязуется их соблюдать.",
-      "new_text": "The processing of personal data in the Company is carried out on a legal and fair basis and is limited to achieving specific, predetermined and legitimate goals, including in accordance with the Web-sites Use Terms and Conditions ( [LINK] ), Service terms and conditions ( [LINK] ), the Agreement for Provision of Services on Assistance in Employment ( [LINK] ).",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Каждый новый работник Компании, непосредственно осуществляющий обработку персональных данных, ознакамливается с требованиями законодательства Российской Федерации по обработке и обеспечению безопасности персональных данных, настоящей Политикой и другими локальными актами Компании по вопросам обработки и обеспечения безопасности персональных данных и обязуется их соблюдать."
-        },
-        {
-          "type": "add",
-          "text": "The processing of personal data in the Company is carried out on a legal and fair basis and is limited to achieving specific, predetermined and legitimate goals, including in accordance with the Web-sites Use Terms and Conditions ( [LINK] ), Service terms and conditions ( [LINK] ), the Agreement for Provision of Services on Assistance in Employment ( [LINK] )."
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 41,
-      "text": "Only personal data that meets the purposes of their processing are subject to processing. The content and volume of personal data processed by the Company correspond to the stated purposes of processing, redundancy of processed personal data is not allowed."
-    },
-    {
-      "type": "add",
-      "position": 42,
-      "text": "When processing personal data, the Company ensures the accuracy of personal data, their sufficiency and, if necessary, relevance in relation to the purposes of personal data processing. The Company takes necessary measures (ensures their adoption) by deleting or clarifying incomplete or inaccurate personal data."
-    },
-    {
-      "type": "add",
-      "position": 43,
-      "text": "In the course of its business the Company may provide and (or) entrust the processing of personal data to another person with the consent of the subject of personal data, unless otherwise provided by the legislation of the Russian Federation on personal data. At the same time, a mandatory condition for providing and (or) ordering the processing of personal data to another person is the obligation of the parties to ensure confidentiality and security of personal data during their processing."
-    },
-    {
-      "type": "add",
-      "position": 44,
-      "text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected."
-    },
-    {
-      "type": "add",
-      "position": 45,
-      "text": "4. Rights of personal data subject"
-    },
-    {
-      "type": "add",
-      "position": 46,
-      "text": "The personal data subject has the right (unless otherwise provided by law):"
-    },
-    {
-      "type": "add",
-      "position": 47,
-      "text": "• To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;"
-    },
-    {
-      "type": "add",
-      "position": 48,
-      "text": "• To request a list of their personal data, processed by the Company, and the source of their receipt;"
-    },
-    {
-      "type": "add",
-      "position": 49,
-      "text": "• To receive information about the terms of processing of their personal data, including the terms about the period of their retention;"
-    },
-    {
-      "type": "add",
-      "position": 50,
-      "text": "• To require notification of all persons who have previously been informed of incorrect or incomplete personal data about all exceptions, corrections or additions made to the personal data subject’s personal data;"
-    },
-    {
-      "type": "add",
-      "position": 51,
-      "text": "• To appeal to the authorized body for the protection of the rights of personal data subjects or in court against illegal actions or omissions in the processing of his personal data;"
-    },
-    {
-      "type": "add",
-      "position": 52,
-      "text": "• To protect their rights and legitimate interests, including compensation for damages and (or) compensation for moral damage in court."
-    },
-    {
-      "type": "add",
-      "position": 53,
-      "text": "If you have any questions about the nature of the application, use, modification or deletion of your personal data that you have provided, or if you wish to refuse of their further processing by the Company, please contact us by mail at the Company address or by e-mail: [LINK]."
-    },
-    {
-      "type": "add",
-      "position": 54,
-      "text": "Please note that the operator of personal data is not responsible for misleading information provided by the subject of personal data."
-    },
-    {
-      "type": "add",
-      "position": 55,
-      "text": "5. Implementation of personal data protection requirements"
-    },
-    {
-      "type": "add",
-      "position": 56,
-      "text": "In order to maintain business reputation and ensure compliance with the requirements of federal legislation, the Company considers the most important tasks to ensure the legitimacy of personal data processing in the Company’s business processes and to ensure an appropriate level of personal data security processed in the Company."
-    },
-    {
-      "type": "add",
-      "position": 57,
-      "text": "The Company requires from other persons who have obtained access to personal data not to disclose it to third parties and not to distribute personal data without the consent of the personal data subject, unless otherwise provided by federal law."
-    },
-    {
-      "type": "add",
-      "position": 58,
-      "text": "In order to ensure the security of personal data during their processing, the Company takes the necessary and sufficient legal, organizational and technical measures to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other illegal actions in relation to them."
-    },
-    {
-      "type": "add",
-      "position": 59,
-      "text": "The Company seeks to ensure that all measures implemented by it for the organizational and technical protection of personal data are carried out on a lawful basis, including in accordance with the requirements of the legislation of the Russian Federation on the processing of personal data."
-    },
-    {
-      "type": "add",
-      "position": 60,
-      "text": "In order to ensure adequate protection of personal data, the Company assesses the harm that may be caused to personal data subjects in the event of breach of the security of their personal data, and also determines current threats to the security of personal data when they are processed in personal data information systems."
-    },
-    {
-      "type": "add",
-      "position": 61,
-      "text": "In accordance with the identified current threats, the Company applies necessary and sufficient legal, organizational and technical measures to ensure security of personal data, including the use of information protection tools, detection of unauthorized access to personal data and taking measures, recovery of personal data, restriction of access to personal data, registration and accounting of actions with personal data, as well as control and evaluating the effectiveness of measures applied to ensure the security of personal data."
-    },
-    {
-      "type": "add",
-      "position": 62,
-      "text": "The Company’s management is aware of the importance and necessity of ensuring the security of personal data and encourages continuous improvement in the protection of personal data processed as part of the Company’s core business activities."
-    },
-    {
-      "type": "add",
-      "position": 63,
-      "text": "The Company has appointed persons responsible for organizing the processing and ensuring the security of personal data."
-    },
-    {
-      "type": "add",
-      "position": 64,
-      "text": "Each new employee of the Company who directly processes personal data acquaints with the requirements of the legislation of the Russian Federation on processing and security of personal data, this Policy and other local acts of the Company on processing and security of personal data and undertakes to comply with them."
-    },
-    {
-      "type": "add",
-      "position": 65,
-      "text": "Помогает повысить качество откликов"
-    },
-    {
-      "type": "add",
-      "position": 66,
-      "text": "Design vacancies, a company page, and email templates in a corporate style"
-    },
-    {
-      "type": "add",
-      "position": 67,
-      "text": "For convenient work with the resume database and personnel"
+ "stats": {
+  "lines_added": 35,
+  "lines_removed": 33,
+  "lines_changed": 33,
+  "change_ratio": 0.963
+ },
+ "is_major": true,
+ "reordering_only": false,
+ "keywords": [
+  "персональные данные",
+  "ответственность",
+  "суд",
+  "хранение данных",
+  "согласие",
+  "cookies",
+  "third party"
+ ],
+ "changes": [
+  {
+   "type": "modify",
+   "position": 1,
+   "old_text": "Политика в области обработки и обеспечения безопасности персональных данных 1..",
+   "new_text": "Personal data processing and protection policy (the \"Policy\") 1..",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Политика в области обработки и обеспечения безопасности персональных данных"
+    },
+    {
+     "type": "add",
+     "text": "Personal data processing and protection policy (the \"Policy\")"
+    },
+    {
+     "type": "keep",
+     "text": "1.."
     }
-  ],
-  "site": "hh",
-  "doc_id": "privacy",
-  "doc_title": "Политика конфиденциальности",
-  "from_date": "2022-12-31-1342",
-  "to_date": "2023-01-01-0825",
-  "from_hash": "99c1722a127fe3e4bca48afee86e0225b42387acb6b5ac8410b98bab22604ada",
-  "to_hash": "9d732a401494dbd1b1699861079060c5ef601e5b15630f3d660ef5c1615030f6",
-  "url": "https://hh.ru/article/personal_data",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data"
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 2,
+   "old_text": "Общие положения ООО «Хэдхантер» (ИНН 7718620740, адрес: 129085, г.Москва, ул.Годовикова, д.9, стр.10) (далее — «Компания») в рамках выполнения своей основной деятельности осуществляет обработку персональных данных различных категорий субъектов персональных данных с использованием информационных систем персональных данных, включающих в том числе следующие интернет-сайты Компании: [LINK] , [LINK] , [LINK] , а также иные сайты Компании, которые ссылаются на данную Политику.",
+   "new_text": "General LLC Headhunter (INN 7718620740, address: bld.10, 9, Godovikova street, Moscow, 129085) (hereinafter referred to as the “Company”) processes personal data on various categories of personal data subjects within its main activities using information systems of personal data, including the following Company`s websites: [LINK] , [LINK] , [LINK] , and other Company`s websites, which refer to this Policy.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Общие положения ООО «Хэдхантер» (ИНН"
+    },
+    {
+     "type": "add",
+     "text": "General LLC Headhunter (INN"
+    },
+    {
+     "type": "keep",
+     "text": "7718620740,"
+    },
+    {
+     "type": "remove",
+     "text": "адрес: 129085, г.Москва, ул.Годовикова, д.9, стр.10) (далее — «Компания») в рамках выполнения своей основной деятельности осуществляет обработку персональных данных различных категорий субъектов персональных данных с использованием информационных систем персональных данных, включающих в том числе следующие интернет-сайты Компании:"
+    },
+    {
+     "type": "add",
+     "text": "address: bld.10, 9, Godovikova street, Moscow, 129085) (hereinafter referred to as the “Company”) processes personal data on various categories of personal data subjects within its main activities using information systems of personal data, including the following Company`s websites:"
+    },
+    {
+     "type": "keep",
+     "text": "[LINK] , [LINK] , [LINK] ,"
+    },
+    {
+     "type": "remove",
+     "text": "а также иные сайты Компании, которые ссылаются на данную Политику."
+    },
+    {
+     "type": "add",
+     "text": "and other Company`s websites, which refer to this Policy."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 3,
+   "old_text": "В соответствии с действующим законодательством Российской Федерации Компания является оператором персональных данных.",
+   "new_text": "In accordance with the current legislation of the Russian Federation, Company is an operator of personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "В соответствии с действующим законодательством Российской Федерации Компания является оператором персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "In accordance with the current legislation of the Russian Federation, Company is an operator of personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 4,
+   "old_text": "При организации и осуществлении обработки персональных данных Компания руководствуется требованиями Федерального закона от 27.07.2006 № 152-ФЗ «О персональных данных» и принятыми в соответствии с ним иными нормативными правовыми актами.",
+   "new_text": "The Company applies the requirements of the Federal Law of 27.07.2006 № 152-FZ “On Personal Data” and other regulations, adopted in accordance with it, in the organization and implementation of the personal data processing.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "При организации и осуществлении обработки персональных данных Компания руководствуется требованиями Федерального закона от"
+    },
+    {
+     "type": "add",
+     "text": "The Company applies the requirements of the Federal Law of"
+    },
+    {
+     "type": "keep",
+     "text": "27.07.2006 №"
+    },
+    {
+     "type": "remove",
+     "text": "152-ФЗ «О персональных данных» и принятыми в соответствии с ним иными нормативными правовыми актами."
+    },
+    {
+     "type": "add",
+     "text": "152-FZ “On Personal Data” and other regulations, adopted in accordance with it, in the organization and implementation of the personal data processing."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 5,
+   "old_text": "Для целей настоящей Политики под персональными данными понимаются любая информация, предоставленная через интернет-сайты Компании и (или) собранная с использованием таких интернет-сайтов, относящаяся к прямо или косвенно определенному, или определяемому физическому лицу (субъекту персональных данных).",
+   "new_text": "For the purposes of this Policy, personal data means any information provided through the Company’s websites and (or) collected using such websites, relating to a directly or indirectly identified or identifiable individual (personal data subject).",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Для целей настоящей Политики под персональными данными понимаются любая информация, предоставленная через интернет-сайты Компании и (или) собранная с использованием таких интернет-сайтов, относящаяся к прямо или косвенно определенному, или определяемому физическому лицу (субъекту персональных данных)."
+    },
+    {
+     "type": "add",
+     "text": "For the purposes of this Policy, personal data means any information provided through the Company’s websites and (or) collected using such websites, relating to a directly or indirectly identified or identifiable individual (personal data subject)."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 7,
+   "old_text": "Сбор персональных данных Компания осуществляет сбор информации через интернет-сайты и мобильные приложения следующими способами: • Персональные данные, предоставляемые пользователями: Компания осуществляет сбор персональных данных, которые вводят в поля данных на интернет-сайтах Компании сами пользователи или иные лица по их поручению. • Сбор данных о местонахождении устройств пользователей мобильного приложения Компании при использовании пользователями мобильного приложения. • Сбор IP адресов пользователей и файлов cookies. • Пассивный сбор персональных данных о текущем подключении в части статистических сведений: — идентификатор пользователя, присваиваемый Сайтом; — посещенные страницы; — количество посещений страниц; — информация о перемещении по страницам сайта; — длительность пользовательской сессии; — точки входа (сторонние сайты, с которых пользователь по ссылке переходит на Сайт); — точки выхода (ссылки на Сайте, по которым пользователь переходит на сторонние сайты); — страна пользователя; — регион пользователя; — часовой пояс, установленный на устройстве пользователя; — провайдер пользователя; — браузер пользователя; — цифровой отпечаток браузера (canvas fingerprint); — доступные шрифты браузера; — установленные плагины браузера; — параметры WebGL браузера; — тип доступных медиа-устройств в браузере; — наличие ActiveX; — перечень поддерживаемых языков на устройстве пользователя; — архитектура процессора устройства пользователя; — ОС пользователя; — параметры экрана (разрешение, глубина цветности, параметры размещения страницы на экране); — информация об использовании средств автоматизации при доступе на Сайт; — дата и время посещения сайта; — источник перехода (UTM метка); — значение UTM меток от source до content; — уникальный идентификатор, присваиваемый интернет-сторонним сервисом, обеспечивающим обработку статистических данных.",
+   "new_text": "Collection of personal data The Company collects information through websites and mobile applications in the following ways: • Personal data provided by users: The Company collects personal data that is entered into the data fields on the Company’s websites by users themselves or other persons on their behalf. • Collection data on the location of the devices of users of the Company’s mobile application when users use the mobile application. • Collection of users’ IP addresses and cookies. • Passive collection of personal data on the current connection in terms of statistic data: — user identifier (ID) assigned by the Web-site; — webpages visited; — number of webpages visited; — information on browsing Company’s websites; — duration of user session; — access points (external websites from which the user goes to Company’s websites using the link) — exit points (links on Company’s websites using which the user goes to external websites); — country of the user; — region of the user; — time zone set on the user’s device; — user’s provider; — user’s browser; — digital browser fingerprint (canvas fingerprint); — available browser fonts; — installed browser plug-ins; — browser WebGL parameters; — type of available media devices in the browser; — availability of ActiveX; — list of supported languages on the user’s device; — architecture of the processor of the user’s device; — operating system of the user; — screen parameters (resolution, color depth, parameters of page placement on the screen); — information on use of automation means when accessing Company’s websites.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Сбор персональных данных Компания осуществляет сбор информации через интернет-сайты и мобильные приложения следующими способами:"
+    },
+    {
+     "type": "add",
+     "text": "Collection of personal data The Company collects information through websites and mobile applications in the following ways:"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "Персональные данные, предоставляемые пользователями: Компания осуществляет сбор персональных данных, которые вводят в поля данных на интернет-сайтах Компании сами пользователи или иные лица по их поручению."
+    },
+    {
+     "type": "add",
+     "text": "Personal data provided by users: The Company collects personal data that is entered into the data fields on the Company’s websites by users themselves or other persons on their behalf."
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "Сбор данных о местонахождении устройств пользователей мобильного приложения Компании при использовании пользователями мобильного приложения."
+    },
+    {
+     "type": "add",
+     "text": "Collection data on the location of the devices of users of the Company’s mobile application when users use the mobile application."
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "Сбор"
+    },
+    {
+     "type": "add",
+     "text": "Collection of users’"
+    },
+    {
+     "type": "keep",
+     "text": "IP"
+    },
+    {
+     "type": "remove",
+     "text": "адресов пользователей и файлов"
+    },
+    {
+     "type": "add",
+     "text": "addresses and"
+    },
+    {
+     "type": "keep",
+     "text": "cookies. •"
+    },
+    {
+     "type": "remove",
+     "text": "Пассивный сбор персональных данных о текущем подключении в части статистических сведений:"
+    },
+    {
+     "type": "add",
+     "text": "Passive collection of personal data on the current connection in terms of statistic data:"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "идентификатор пользователя, присваиваемый Сайтом;"
+    },
+    {
+     "type": "add",
+     "text": "user identifier (ID) assigned by the Web-site;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "посещенные страницы;"
+    },
+    {
+     "type": "add",
+     "text": "webpages visited;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "количество посещений страниц;"
+    },
+    {
+     "type": "add",
+     "text": "number of webpages visited;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "информация о перемещении по страницам сайта;"
+    },
+    {
+     "type": "add",
+     "text": "information on browsing Company’s websites;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "длительность пользовательской сессии;"
+    },
+    {
+     "type": "add",
+     "text": "duration of user session;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "точки входа (сторонние сайты, с которых пользователь по ссылке переходит на Сайт);"
+    },
+    {
+     "type": "add",
+     "text": "access points (external websites from which the user goes to Company’s websites using the link)"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "точки выхода (ссылки на Сайте, по которым пользователь переходит на сторонние сайты);"
+    },
+    {
+     "type": "add",
+     "text": "exit points (links on Company’s websites using which the user goes to external websites);"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "страна пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "country of the user;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "регион пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "region of the user;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "часовой пояс, установленный на устройстве пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "time zone set on the user’s device;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "провайдер пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "user’s provider;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "браузер пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "user’s browser;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "цифровой отпечаток браузера"
+    },
+    {
+     "type": "add",
+     "text": "digital browser fingerprint"
+    },
+    {
+     "type": "keep",
+     "text": "(canvas fingerprint); —"
+    },
+    {
+     "type": "remove",
+     "text": "доступные шрифты браузера;"
+    },
+    {
+     "type": "add",
+     "text": "available browser fonts;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "установленные плагины браузера;"
+    },
+    {
+     "type": "add",
+     "text": "installed browser plug-ins;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "параметры"
+    },
+    {
+     "type": "add",
+     "text": "browser"
+    },
+    {
+     "type": "keep",
+     "text": "WebGL"
+    },
+    {
+     "type": "remove",
+     "text": "браузера;"
+    },
+    {
+     "type": "add",
+     "text": "parameters;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "тип доступных медиа-устройств в браузере;"
+    },
+    {
+     "type": "add",
+     "text": "type of available media devices in the browser;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "наличие"
+    },
+    {
+     "type": "add",
+     "text": "availability of"
+    },
+    {
+     "type": "keep",
+     "text": "ActiveX; —"
+    },
+    {
+     "type": "remove",
+     "text": "перечень поддерживаемых языков на устройстве пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "list of supported languages on the user’s device;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "архитектура процессора устройства пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "architecture of the processor of the user’s device;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "ОС пользователя;"
+    },
+    {
+     "type": "add",
+     "text": "operating system of the user;"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "параметры экрана (разрешение, глубина цветности, параметры размещения страницы на экране);"
+    },
+    {
+     "type": "add",
+     "text": "screen parameters (resolution, color depth, parameters of page placement on the screen);"
+    },
+    {
+     "type": "keep",
+     "text": "—"
+    },
+    {
+     "type": "remove",
+     "text": "информация об использовании средств автоматизации при доступе на Сайт; — дата и время посещения сайта; — источник перехода (UTM метка); — значение UTM меток от source до content; — уникальный идентификатор, присваиваемый интернет-сторонним сервисом, обеспечивающим обработку статистических данных."
+    },
+    {
+     "type": "add",
+     "text": "information on use of automation means when accessing Company’s websites."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 8,
+   "old_text": "В отношении зарегистрированных пользователей Сайта могут собираться сведения об использовании портов на устройствах пользователей с целью выявления подозрительной активности и защиты личных кабинетов пользователей.",
+   "new_text": "Data may be collected in respect of the registered users about the use of ports on users’ devices in order to detect suspicious activity and protect users’ personal accounts.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "В отношении зарегистрированных пользователей Сайта могут собираться сведения об использовании портов на устройствах пользователей с целью выявления подозрительной активности и защиты личных кабинетов пользователей."
+    },
+    {
+     "type": "add",
+     "text": "Data may be collected in respect of the registered users about the use of ports on users’ devices in order to detect suspicious activity and protect users’ personal accounts."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 9,
+   "old_text": "Данные могут быть получены с помощью различных методов, например, файлов cookies и файловых веб-маяков и др.",
+   "new_text": "Data may be collected by using a variety of methods, such as cookies and web beacons, etc.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Данные могут быть получены с помощью различных методов, например, файлов"
+    },
+    {
+     "type": "add",
+     "text": "Data may be collected by using a variety of methods, such as"
+    },
+    {
+     "type": "keep",
+     "text": "cookies"
+    },
+    {
+     "type": "remove",
+     "text": "и файловых веб-маяков и др."
+    },
+    {
+     "type": "add",
+     "text": "and web beacons, etc."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 10,
+   "old_text": "Компания может использовать сторонние интернет-сервисы (технологии третьих лиц) для организации сбора статистических персональных данных, сторонние интернет-сервисы обеспечивают хранение полученных данных на собственных серверах.",
+   "new_text": "The Company may use third-party Internet services (third-party technologies) to organize the collection of statistical personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания может использовать сторонние интернет-сервисы (технологии третьих лиц) для организации сбора статистических персональных данных, сторонние интернет-сервисы обеспечивают хранение полученных данных на собственных серверах."
+    },
+    {
+     "type": "add",
+     "text": "The Company may use third-party Internet services (third-party technologies) to organize the collection of statistical personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 11,
+   "old_text": "Компания не несет ответственности за локализацию серверов сторонних интернет-сервисов.",
+   "new_text": "Third-party Internet services provide storage of the received data on their own servers.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания не несет ответственности за локализацию серверов сторонних интернет-сервисов."
+    },
+    {
+     "type": "add",
+     "text": "Third-party Internet services provide storage of the received data on their own servers."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 12,
+   "old_text": "При этом такие сторонние интернет-сервисы (технологии третьих лиц), установленные на Сайте и используемые Компанией, могут устанавливать и считывать cookie-файлы браузеров конечных пользователей Сайта, или использовать сетевые маячки (web beacons) для сбора информации в процессе рекламной деятельности на Сайте.",
+   "new_text": "The Company is not responsible for the localization of servers of third-party online services.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "При этом такие сторонние интернет-сервисы (технологии третьих лиц), установленные на Сайте и используемые Компанией, могут устанавливать и считывать cookie-файлы браузеров конечных пользователей Сайта, или использовать сетевые маячки (web beacons) для сбора информации в процессе рекламной деятельности на Сайте."
+    },
+    {
+     "type": "add",
+     "text": "The Company is not responsible for the localization of servers of third-party online services."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 13,
+   "old_text": "Порядок сбора и использования данных, собираемыми такими сторонними интернет-сервисами (технологиями третьих лиц), определяется самостоятельно этими сторонними интернет-сервисами и непосредственно они несут ответственность за соблюдение этого порядка и использование собираемых ими данных, в том числе эти сторонние интернет-сервисы отвечают и обеспечивают выполнение требований применимого законодательства, в том числе законодательства о персональных данных РФ.",
+   "new_text": "At the same time, such third-party Internet services (third-party technologies) installed on the Company’s websites and used by the Company may install and read cookies from the browsers of the end users of the Site or use network beacons to collect information during advertising activities on the Site.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Порядок сбора и использования данных, собираемыми такими сторонними интернет-сервисами (технологиями третьих лиц), определяется самостоятельно этими сторонними интернет-сервисами и непосредственно они несут ответственность за соблюдение этого порядка и использование собираемых ими данных, в том числе эти сторонние интернет-сервисы отвечают и обеспечивают выполнение требований применимого законодательства, в том числе законодательства о персональных данных РФ."
+    },
+    {
+     "type": "add",
+     "text": "At the same time, such third-party Internet services (third-party technologies) installed on the Company’s websites and used by the Company may install and read cookies from the browsers of the end users of the Site or use network beacons to collect information during advertising activities on the Site."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 14,
+   "old_text": "Компания не проводит сопоставление информации, предоставляемой пользователем самостоятельно и позволяющей идентифицировать субъекта персональных данных, со статистическими персональными данными, полученными в ходе применения подобных пассивных методов сбора информации.",
+   "new_text": "The procedure of collection and use of data collected by such third-party Internet services (third-party technologies) shall be determined independently by such third-party Internet services and they shall be directly responsible for compliance with such procedure and use of data collected by them, including these third-party Internet services are responsible and ensure compliance with applicable laws, including the Russian legislation on personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания не проводит сопоставление информации, предоставляемой пользователем самостоятельно и позволяющей идентифицировать субъекта персональных данных, со статистическими персональными данными, полученными в ходе применения подобных пассивных методов сбора информации."
+    },
+    {
+     "type": "add",
+     "text": "The procedure of collection and use of data collected by such third-party Internet services (third-party technologies) shall be determined independently by such third-party Internet services and they shall be directly responsible for compliance with such procedure and use of data collected by them, including these third-party Internet services are responsible and ensure compliance with applicable laws, including the Russian legislation on personal data."
+    }
+   ]
+  },
+  {
+   "type": "add",
+   "position": 15,
+   "text": "The Company does not compare the information provided by the user independently and allowing to identify the subject of personal data with statistical personal data obtained during the application of such passive methods of information collection."
+  },
+  {
+   "type": "modify",
+   "position": 17,
+   "old_text": "Принципы и условия обработки персональных данных Обработка персональных данных в Компании осуществляется на законной и справедливой основе и ограничивается достижением конкретных, заранее определенных и законных целей, в том числе, в соответствии с Условиями использования Сайтов , Условиями оказания услуг , Соглашением об оказании услуг по содействию в трудоустройстве .",
+   "new_text": "The Principles and Conditions of processing of personal data The processing of personal data in the Company is carried out on a legal and fair basis and is limited to achieving specific, predetermined and legitimate goals, including in accordance with the Web-sites Use Terms and Conditions ( [LINK] ), Service terms and conditions ( [LINK] ), the Agreement for Provision of Services on Assistance in Employment ( [LINK] ).",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Принципы и условия обработки персональных данных Обработка персональных данных в Компании осуществляется на законной и справедливой основе и ограничивается достижением конкретных, заранее определенных и законных целей, в том числе, в соответствии с Условиями использования Сайтов , Условиями оказания услуг , Соглашением об оказании услуг по содействию в трудоустройстве ."
+    },
+    {
+     "type": "add",
+     "text": "The Principles and Conditions of processing of personal data The processing of personal data in the Company is carried out on a legal and fair basis and is limited to achieving specific, predetermined and legitimate goals, including in accordance with the Web-sites Use Terms and Conditions ( [LINK] ), Service terms and conditions ( [LINK] ), the Agreement for Provision of Services on Assistance in Employment ( [LINK] )."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 18,
+   "old_text": "Обработке подлежат только персональные данные, которые отвечают целям их обработки.",
+   "new_text": "Only personal data that meets the purposes of their processing are subject to processing.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Обработке подлежат только персональные данные, которые отвечают целям их обработки."
+    },
+    {
+     "type": "add",
+     "text": "Only personal data that meets the purposes of their processing are subject to processing."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 19,
+   "old_text": "Содержание и объем обрабатываемых в Компании персональных данных соответствуют заявленным целям обработки, избыточность обрабатываемых персональных данных не допускается.",
+   "new_text": "The content and volume of personal data processed by the Company correspond to the stated purposes of processing, redundancy of processed personal data is not allowed.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Содержание и объем обрабатываемых в Компании персональных данных соответствуют заявленным целям обработки, избыточность обрабатываемых персональных данных не допускается."
+    },
+    {
+     "type": "add",
+     "text": "The content and volume of personal data processed by the Company correspond to the stated purposes of processing, redundancy of processed personal data is not allowed."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 20,
+   "old_text": "При обработке персональных данных в Компании обеспечивается точность персональных данных, их достаточность и, в необходимых случаях, актуальность по отношению к целям обработки персональных данных.",
+   "new_text": "When processing personal data, the Company ensures the accuracy of personal data, their sufficiency and, if necessary, relevance in relation to the purposes of personal data processing.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "При обработке персональных данных в Компании обеспечивается точность персональных данных, их достаточность и, в необходимых случаях, актуальность по отношению к целям обработки персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "When processing personal data, the Company ensures the accuracy of personal data, their sufficiency and, if necessary, relevance in relation to the purposes of personal data processing."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 21,
+   "old_text": "Компания принимает необходимые меры (обеспечивает их принятие) по удалению или уточнению неполных, или неточных персональных данных.",
+   "new_text": "The Company takes necessary measures (ensures their adoption) by deleting or clarifying incomplete or inaccurate personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания принимает необходимые меры (обеспечивает их принятие) по удалению или уточнению неполных, или неточных персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "The Company takes necessary measures (ensures their adoption) by deleting or clarifying incomplete or inaccurate personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 22,
+   "old_text": "Компания в ходе своей деятельности может предоставлять и (или) поручать обработку персональных данных другому лицу с согласия субъекта персональных данных, если иное не предусмотрено законодательством РФ о персональных данных.",
+   "new_text": "In the course of its business the Company may provide and (or) entrust the processing of personal data to another person with the consent of the subject of personal data, unless otherwise provided by the legislation of the Russian Federation on personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания в ходе своей деятельности может предоставлять и (или) поручать обработку персональных данных другому лицу с согласия субъекта персональных данных, если иное не предусмотрено законодательством РФ о персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "In the course of its business the Company may provide and (or) entrust the processing of personal data to another person with the consent of the subject of personal data, unless otherwise provided by the legislation of the Russian Federation on personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 23,
+   "old_text": "При этом обязательным условием предоставления и (или) поручения обработки персональных данных другому лицу является обязанность сторон по соблюдению конфиденциальности и обеспечению безопасности персональных данных при их обработке.",
+   "new_text": "At the same time, a mandatory condition for providing and (or) ordering the processing of personal data to another person is the obligation of the parties to ensure confidentiality and security of personal data during their processing.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "При этом обязательным условием предоставления и (или) поручения обработки персональных данных другому лицу является обязанность сторон по соблюдению конфиденциальности и обеспечению безопасности персональных данных при их обработке."
+    },
+    {
+     "type": "add",
+     "text": "At the same time, a mandatory condition for providing and (or) ordering the processing of personal data to another person is the obligation of the parties to ensure confidentiality and security of personal data during their processing."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 24,
+   "old_text": "Сроки обработки персональных данных определяются в соответствии с целями, для которых они были собраны.",
+   "new_text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Сроки обработки персональных данных определяются в соответствии с целями, для которых они были собраны."
+    },
+    {
+     "type": "add",
+     "text": "The terms of processing of personal data are determined in accordance with the purposes for which they were collected."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 26,
+   "old_text": "Права субъекта персональных данных Субъект персональных данных имеет право (если иное не предусмотрено законом): • требовать уточнения своих персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, недостоверными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав; • требовать перечень своих персональных данных, обрабатываемых Компанией, и источник их получения; • получать информацию о сроках обработки своих персональных данных, в том числе о сроках их хранения; • требовать извещения всех лиц, которым ранее были сообщены неверные или неполные его персональные данные, обо всех произведённых в них исключениях, исправлениях или дополнениях; • обжаловать в уполномоченном органе по защите прав субъектов персональных данных или в судебном порядке неправомерные действия или бездействия при обработке его персональных данных; • на защиту своих прав и законных интересов, в том числе на возмещение убытков и (или) компенсацию морального вреда в судебном порядке.",
+   "new_text": "Rights of personal data subject The personal data subject has the right (unless otherwise provided by law): • To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights; • To request a list of their personal data, processed by the Company, and the source of their receipt; • To receive information about the terms of processing of their personal data, including the terms about the period of their retention; • To require notification of all persons who have previously been informed of incorrect or incomplete personal data about all exceptions, corrections or additions made to the personal data subject’s personal data; • To appeal to the authorized body for the protection of the rights of personal data subjects or in court against illegal actions or omissions in the processing of his personal data; • To protect their rights and legitimate interests, including compensation for damages and (or) compensation for moral damage in court.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Права субъекта персональных данных Субъект персональных данных имеет право (если иное не предусмотрено законом):"
+    },
+    {
+     "type": "add",
+     "text": "Rights of personal data subject The personal data subject has the right (unless otherwise provided by law):"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "требовать уточнения своих персональных данных, их блокирования или уничтожения в случае, если персональные данные являются неполными, устаревшими, недостоверными, незаконно полученными или не являются необходимыми для заявленной цели обработки, а также принимать предусмотренные законом меры по защите своих прав;"
+    },
+    {
+     "type": "add",
+     "text": "To demand clarification of personal data, blocking or destruction if the personal data is incomplete, outdated, unreliable, illegally obtained or is not necessary for the stated purpose of processing, as well as take measures provided by law to protect their rights;"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "требовать перечень своих персональных данных, обрабатываемых Компанией, и источник их получения;"
+    },
+    {
+     "type": "add",
+     "text": "To request a list of their personal data, processed by the Company, and the source of their receipt;"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "получать информацию о сроках обработки своих персональных данных, в том числе о сроках их хранения;"
+    },
+    {
+     "type": "add",
+     "text": "To receive information about the terms of processing of their personal data, including the terms about the period of their retention;"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "требовать извещения всех лиц, которым ранее были сообщены неверные или неполные его персональные данные, обо всех произведённых в них исключениях, исправлениях или дополнениях;"
+    },
+    {
+     "type": "add",
+     "text": "To require notification of all persons who have previously been informed of incorrect or incomplete personal data about all exceptions, corrections or additions made to the personal data subject’s personal data;"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "обжаловать в уполномоченном органе по защите прав субъектов персональных данных или в судебном порядке неправомерные действия или бездействия при обработке его персональных данных;"
+    },
+    {
+     "type": "add",
+     "text": "To appeal to the authorized body for the protection of the rights of personal data subjects or in court against illegal actions or omissions in the processing of his personal data;"
+    },
+    {
+     "type": "keep",
+     "text": "•"
+    },
+    {
+     "type": "remove",
+     "text": "на защиту своих прав и законных интересов, в том числе на возмещение убытков и (или) компенсацию морального вреда в судебном порядке."
+    },
+    {
+     "type": "add",
+     "text": "To protect their rights and legitimate interests, including compensation for damages and (or) compensation for moral damage in court."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 27,
+   "old_text": "Если у Вас есть вопросы о характере применения, использовании, изменении или удалении Ваших персональных данных, которые были Вами предоставлены, или если Вы хотите отказаться от дальнейшей их обработки Компанией, пожалуйста, свяжитесь с нами по почте по адресу Компании или по электронной почте: [LINK] .",
+   "new_text": "If you have any questions about the nature of the application, use, modification or deletion of your personal data that you have provided, or if you wish to refuse of their further processing by the Company, please contact us by mail at the Company address or by e-mail: [LINK].",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Если у Вас есть вопросы о характере применения, использовании, изменении или удалении Ваших персональных данных, которые были Вами предоставлены, или если Вы хотите отказаться от дальнейшей их обработки Компанией, пожалуйста, свяжитесь с нами по почте по адресу Компании или по электронной почте: [LINK] ."
+    },
+    {
+     "type": "add",
+     "text": "If you have any questions about the nature of the application, use, modification or deletion of your personal data that you have provided, or if you wish to refuse of their further processing by the Company, please contact us by mail at the Company address or by e-mail: [LINK]."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 28,
+   "old_text": "Обращаем Ваше внимание, что оператор персональных данных не несет ответственности за недостоверную информацию, предоставленную субъектом персональных данных.",
+   "new_text": "Please note that the operator of personal data is not responsible for misleading information provided by the subject of personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Обращаем Ваше внимание, что оператор персональных данных не несет ответственности за недостоверную информацию, предоставленную субъектом персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "Please note that the operator of personal data is not responsible for misleading information provided by the subject of personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 30,
+   "old_text": "Реализация требований к защите персональных данных С целью поддержания деловой репутации и обеспечения выполнения требований федерального законодательства Компания считает важнейшими задачами обеспечение легитимности обработки персональных данных в бизнес-процессах Компании и обеспечение надлежащего уровня безопасности обрабатываемых в Компании персональных данных.",
+   "new_text": "Implementation of personal data protection requirements In order to maintain business reputation and ensure compliance with the requirements of federal legislation, the Company considers the most important tasks to ensure the legitimacy of personal data processing in the Company’s business processes and to ensure an appropriate level of personal data security processed in the Company.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Реализация требований к защите персональных данных С целью поддержания деловой репутации и обеспечения выполнения требований федерального законодательства Компания считает важнейшими задачами обеспечение легитимности обработки персональных данных в бизнес-процессах Компании и обеспечение надлежащего уровня безопасности обрабатываемых в Компании персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "Implementation of personal data protection requirements In order to maintain business reputation and ensure compliance with the requirements of federal legislation, the Company considers the most important tasks to ensure the legitimacy of personal data processing in the Company’s business processes and to ensure an appropriate level of personal data security processed in the Company."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 31,
+   "old_text": "Компания требует от иных лиц, получивших доступ к персональным данным, не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом.",
+   "new_text": "The Company requires from other persons who have obtained access to personal data not to disclose it to third parties and not to distribute personal data without the consent of the personal data subject, unless otherwise provided by federal law.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания требует от иных лиц, получивших доступ к персональным данным, не раскрывать третьим лицам и не распространять персональные данные без согласия субъекта персональных данных, если иное не предусмотрено федеральным законом."
+    },
+    {
+     "type": "add",
+     "text": "The Company requires from other persons who have obtained access to personal data not to disclose it to third parties and not to distribute personal data without the consent of the personal data subject, unless otherwise provided by federal law."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 32,
+   "old_text": "С целью обеспечения безопасности персональных данных при их обработке Компания принимает необходимые и достаточные правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении них.",
+   "new_text": "In order to ensure the security of personal data during their processing, the Company takes the necessary and sufficient legal, organizational and technical measures to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other illegal actions in relation to them.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "С целью обеспечения безопасности персональных данных при их обработке Компания принимает необходимые и достаточные правовые, организационные и технические меры для защиты персональных данных от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, предоставления, распространения персональных данных, а также от иных неправомерных действий в отношении них."
+    },
+    {
+     "type": "add",
+     "text": "In order to ensure the security of personal data during their processing, the Company takes the necessary and sufficient legal, organizational and technical measures to protect personal data from unauthorized or accidental access to them, destruction, modification, blocking, copying, provision, dissemination of personal data, as well as from other illegal actions in relation to them."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 33,
+   "old_text": "Компания добивается того, чтобы все реализуемые ею мероприятия по организационной и технической защите персональных данных осуществлялись на законных основаниях, в том числе в соответствии с требованиями законодательства Российской Федерации по вопросам обработки персональных данных.",
+   "new_text": "The Company seeks to ensure that all measures implemented by it for the organizational and technical protection of personal data are carried out on a lawful basis, including in accordance with the requirements of the legislation of the Russian Federation on the processing of personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Компания добивается того, чтобы все реализуемые ею мероприятия по организационной и технической защите персональных данных осуществлялись на законных основаниях, в том числе в соответствии с требованиями законодательства Российской Федерации по вопросам обработки персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "The Company seeks to ensure that all measures implemented by it for the organizational and technical protection of personal data are carried out on a lawful basis, including in accordance with the requirements of the legislation of the Russian Federation on the processing of personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 34,
+   "old_text": "В целях обеспечения адекватной защиты персональных данных Компания проводит оценку вреда, который может быть причинен субъектам персональных данных в случае нарушения безопасности их персональных данных, а также определяет актуальные угрозы безопасности персональных данных при их обработке в информационных системах персональных данных.",
+   "new_text": "In order to ensure adequate protection of personal data, the Company assesses the harm that may be caused to personal data subjects in the event of breach of the security of their personal data, and also determines current threats to the security of personal data when they are processed in personal data information systems.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "В целях обеспечения адекватной защиты персональных данных Компания проводит оценку вреда, который может быть причинен субъектам персональных данных в случае нарушения безопасности их персональных данных, а также определяет актуальные угрозы безопасности персональных данных при их обработке в информационных системах персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "In order to ensure adequate protection of personal data, the Company assesses the harm that may be caused to personal data subjects in the event of breach of the security of their personal data, and also determines current threats to the security of personal data when they are processed in personal data information systems."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 35,
+   "old_text": "В соответствии с выявленными актуальными угрозами Компания применяет необходимые и достаточные правовые, организационные и технические меры по обеспечению безопасности персональных данных, включающие в себя использование средств защиты информации, обнаружение фактов несанкционированного доступа к персональным данным и принятие мер, восстановление персональных данных, ограничение доступа к персональным данным, регистрацию и учет действий с персональными данными, а также контроль и оценку эффективности применяемых мер по обеспечению безопасности персональных данных.",
+   "new_text": "In accordance with the identified current threats, the Company applies necessary and sufficient legal, organizational and technical measures to ensure security of personal data, including the use of information protection tools, detection of unauthorized access to personal data and taking measures, recovery of personal data, restriction of access to personal data, registration and accounting of actions with personal data, as well as control and evaluating the effectiveness of measures applied to ensure the security of personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "В соответствии с выявленными актуальными угрозами Компания применяет необходимые и достаточные правовые, организационные и технические меры по обеспечению безопасности персональных данных, включающие в себя использование средств защиты информации, обнаружение фактов несанкционированного доступа к персональным данным и принятие мер, восстановление персональных данных, ограничение доступа к персональным данным, регистрацию и учет действий с персональными данными, а также контроль и оценку эффективности применяемых мер по обеспечению безопасности персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "In accordance with the identified current threats, the Company applies necessary and sufficient legal, organizational and technical measures to ensure security of personal data, including the use of information protection tools, detection of unauthorized access to personal data and taking measures, recovery of personal data, restriction of access to personal data, registration and accounting of actions with personal data, as well as control and evaluating the effectiveness of measures applied to ensure the security of personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 36,
+   "old_text": "Руководство Компании осознает важность и необходимость обеспечения безопасности персональных данных и поощряет постоянное совершенствование системы защиты персональных данных, обрабатываемых в рамках выполнения основной деятельности Компании.",
+   "new_text": "The Company’s management is aware of the importance and necessity of ensuring the security of personal data and encourages continuous improvement in the protection of personal data processed as part of the Company’s core business activities.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Руководство Компании осознает важность и необходимость обеспечения безопасности персональных данных и поощряет постоянное совершенствование системы защиты персональных данных, обрабатываемых в рамках выполнения основной деятельности Компании."
+    },
+    {
+     "type": "add",
+     "text": "The Company’s management is aware of the importance and necessity of ensuring the security of personal data and encourages continuous improvement in the protection of personal data processed as part of the Company’s core business activities."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 37,
+   "old_text": "В Компании назначены лица, ответственные за организацию обработки и обеспечение безопасности персональных данных.",
+   "new_text": "The Company has appointed persons responsible for organizing the processing and ensuring the security of personal data.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "В Компании назначены лица, ответственные за организацию обработки и обеспечение безопасности персональных данных."
+    },
+    {
+     "type": "add",
+     "text": "The Company has appointed persons responsible for organizing the processing and ensuring the security of personal data."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 38,
+   "old_text": "Каждый новый работник Компании, непосредственно осуществляющий обработку персональных данных, ознакамливается с требованиями законодательства Российской Федерации по обработке и обеспечению безопасности персональных данных, настоящей Политикой и другими локальными актами Компании по вопросам обработки и обеспечения безопасности персональных данных и обязуется их соблюдать.",
+   "new_text": "Each new employee of the Company who directly processes personal data acquaints with the requirements of the legislation of the Russian Federation on processing and security of personal data, this Policy and other local acts of the Company on processing and security of personal data and undertakes to comply with them.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Каждый новый работник Компании, непосредственно осуществляющий обработку персональных данных, ознакамливается с требованиями законодательства Российской Федерации по обработке и обеспечению безопасности персональных данных, настоящей Политикой и другими локальными актами Компании по вопросам обработки и обеспечения безопасности персональных данных и обязуется их соблюдать."
+    },
+    {
+     "type": "add",
+     "text": "Each new employee of the Company who directly processes personal data acquaints with the requirements of the legislation of the Russian Federation on processing and security of personal data, this Policy and other local acts of the Company on processing and security of personal data and undertakes to comply with them."
+    }
+   ]
+  },
+  {
+   "type": "add",
+   "position": 39,
+   "text": "Помогает повысить качество откликов Design vacancies, a company page, and email templates in a corporate style For convenient work with the resume database and personnel"
+  }
+ ],
+ "site": "hh",
+ "doc_id": "privacy",
+ "doc_title": "Политика конфиденциальности",
+ "from_date": "2022-12-31-1342",
+ "to_date": "2023-01-01-0825",
+ "from_hash": "99c1722a127fe3e4bca48afee86e0225b42387acb6b5ac8410b98bab22604ada",
+ "to_hash": "9d732a401494dbd1b1699861079060c5ef601e5b15630f3d660ef5c1615030f6",
+ "url": "https://hh.ru/article/personal_data",
+ "retrospective": true,
+ "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data"
 }

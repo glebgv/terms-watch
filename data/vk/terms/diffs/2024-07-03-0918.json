@@ -1,197 +1,197 @@
 {
-  "stats": {
-    "lines_added": 14,
-    "lines_removed": 7,
-    "lines_changed": 6,
-    "change_ratio": 0.0236
-  },
-  "is_major": false,
-  "reordering_only": false,
-  "keywords": [
-    "third party"
-  ],
-  "changes": [
+ "stats": {
+  "lines_added": 14,
+  "lines_removed": 7,
+  "lines_changed": 6,
+  "change_ratio": 0.0236
+ },
+ "is_major": false,
+ "reordering_only": false,
+ "keywords": [
+  "third party"
+ ],
+ "changes": [
+  {
+   "type": "modify",
+   "position": 90,
+   "old_text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, esthetic norms and moral principles related to those at the opinion of the Site Administration.",
+   "new_text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, Community Rules , ethic norms and moral principles related to those at the opinion of the Site Administration.",
+   "word_diff": [
     {
-      "type": "modify",
-      "position": 90,
-      "old_text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, esthetic norms and moral principles related to those at the opinion of the Site Administration.",
-      "new_text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms, Community Rules , ethic norms and moral principles related to those at the opinion of the Site Administration.",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms,"
-        },
-        {
-          "type": "remove",
-          "text": "esthetic"
-        },
-        {
-          "type": "add",
-          "text": "Community Rules , ethic"
-        },
-        {
-          "type": "keep",
-          "text": "norms and moral principles related to those at the opinion of the Site Administration."
-        }
-      ]
+     "type": "keep",
+     "text": "While informing and discussing the Discussion items in the Communities Users must observe current Russian and international legislation, publish the information that meets the requirements of these terms,"
     },
     {
-      "type": "remove",
-      "position": 169,
-      "text": "The User accepts that the Site Administration has a right to use functional and technical capabilities of the Site that provide displaying of the published Content by the User, including player, meant to display the Content at its own discretion, including for the purpose of showing the advertising information."
+     "type": "remove",
+     "text": "esthetic"
     },
     {
-      "type": "add",
-      "position": 170,
-      "text": "The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information."
+     "type": "add",
+     "text": "Community Rules , ethic"
     },
     {
-      "type": "add",
-      "position": 171,
-      "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies.The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information."
-    },
-    {
-      "type": "add",
-      "position": 172,
-      "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies."
-    },
-    {
-      "type": "add",
-      "position": 173,
-      "text": "7.1.7."
-    },
-    {
-      "type": "modify",
-      "position": 175,
-      "old_text": "7.1.7.",
-      "new_text": "7.1.8.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "7.1.7."
-        },
-        {
-          "type": "add",
-          "text": "7.1.8."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 177,
-      "old_text": "7.1.8.",
-      "new_text": "7.1.9.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "7.1.8."
-        },
-        {
-          "type": "add",
-          "text": "7.1.9."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 179,
-      "old_text": "7.1.9.",
-      "new_text": "7.1.10.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "7.1.9."
-        },
-        {
-          "type": "add",
-          "text": "7.1.10."
-        }
-      ]
-    },
-    {
-      "type": "modify",
-      "position": 186,
-      "old_text": "Upon detection of the rights violations, please use [[LINK] for Investigating Complaints concerning users' content] to complain.",
-      "new_text": "Upon detection of the rights violations, please use Regulations for Investigating Complaints concerning users' content to complain.",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Upon detection of the rights violations, please use"
-        },
-        {
-          "type": "remove",
-          "text": "[[LINK]"
-        },
-        {
-          "type": "add",
-          "text": "Regulations"
-        },
-        {
-          "type": "keep",
-          "text": "for Investigating Complaints concerning users'"
-        },
-        {
-          "type": "remove",
-          "text": "content]"
-        },
-        {
-          "type": "add",
-          "text": "content"
-        },
-        {
-          "type": "keep",
-          "text": "to complain."
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 209,
-      "text": "7.3.6."
-    },
-    {
-      "type": "add",
-      "position": 210,
-      "text": "To display on the Site the content added by the User from YouTube by providing a link to it when using the Site, the Site Administration uses YouTube API."
-    },
-    {
-      "type": "add",
-      "position": 211,
-      "text": "When adding content from YouTube to the Site, the User agrees to the YouTube Terms of Service ."
-    },
-    {
-      "type": "add",
-      "position": 223,
-      "text": "The procedure for filing reports of content distributed in violation of the law is provided in the Rules for reviewing appeals related to the spread of information in violation of the law on the VKontakte website ."
-    },
-    {
-      "type": "modify",
-      "position": 265,
-      "old_text": "Date of Last Revision: 6 May 2023",
-      "new_text": "Date of Last Revision: 8 April 2024",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Date of Last Revision:"
-        },
-        {
-          "type": "remove",
-          "text": "6 May 2023"
-        },
-        {
-          "type": "add",
-          "text": "8 April 2024"
-        }
-      ]
+     "type": "keep",
+     "text": "norms and moral principles related to those at the opinion of the Site Administration."
     }
-  ],
-  "site": "vk",
-  "doc_id": "terms",
-  "doc_title": "Условия использования",
-  "from_date": "2023-08-02-1956",
-  "to_date": "2024-07-03-0918",
-  "from_hash": "ad9fd7e3a634094e89fbe16d5673b7c0405a47e9f984d399d0bcfc28aa74e189",
-  "to_hash": "5ee20787455155d9322e6ab098f5be2137710430f8d8cd264eb6e5cc73f4abe6",
-  "url": "https://vk.ru/terms",
-  "ai_summary": "Затронуты темы: third party. Добавлено строк: 14, удалено: 7, изменено: 6."
+   ]
+  },
+  {
+   "type": "remove",
+   "position": 169,
+   "text": "The User accepts that the Site Administration has a right to use functional and technical capabilities of the Site that provide displaying of the published Content by the User, including player, meant to display the Content at its own discretion, including for the purpose of showing the advertising information."
+  },
+  {
+   "type": "add",
+   "position": 170,
+   "text": "The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information."
+  },
+  {
+   "type": "add",
+   "position": 171,
+   "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies.The User accepts that the Site Administration has the right to use the functional and technical capabilities of the Site that enable the display of Content published by the User, including the player, at its own discretion, including for the purpose of showing advertising information."
+  },
+  {
+   "type": "add",
+   "position": 172,
+   "text": "When placing Content on the Site that will be displayed via the Site’s player in unrestricted access, the User understands and agrees that the functional capabilities of the Site allow for third parties to display the player on their resources using video embedding, inline frames and other similar technologies."
+  },
+  {
+   "type": "add",
+   "position": 173,
+   "text": "7.1.7.."
+  },
+  {
+   "type": "modify",
+   "position": 175,
+   "old_text": "7.1.7..",
+   "new_text": "7.1.8..",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "7.1.7.."
+    },
+    {
+     "type": "add",
+     "text": "7.1.8.."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 177,
+   "old_text": "7.1.8..",
+   "new_text": "7.1.9..",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "7.1.8.."
+    },
+    {
+     "type": "add",
+     "text": "7.1.9.."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 179,
+   "old_text": "7.1.9..",
+   "new_text": "7.1.10..",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "7.1.9.."
+    },
+    {
+     "type": "add",
+     "text": "7.1.10.."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 186,
+   "old_text": "Upon detection of the rights violations, please use [[LINK] for Investigating Complaints concerning users' content] to complain.",
+   "new_text": "Upon detection of the rights violations, please use Regulations for Investigating Complaints concerning users' content to complain.",
+   "word_diff": [
+    {
+     "type": "keep",
+     "text": "Upon detection of the rights violations, please use"
+    },
+    {
+     "type": "remove",
+     "text": "[[LINK]"
+    },
+    {
+     "type": "add",
+     "text": "Regulations"
+    },
+    {
+     "type": "keep",
+     "text": "for Investigating Complaints concerning users'"
+    },
+    {
+     "type": "remove",
+     "text": "content]"
+    },
+    {
+     "type": "add",
+     "text": "content"
+    },
+    {
+     "type": "keep",
+     "text": "to complain."
+    }
+   ]
+  },
+  {
+   "type": "add",
+   "position": 209,
+   "text": "7.3.6.."
+  },
+  {
+   "type": "add",
+   "position": 210,
+   "text": "To display on the Site the content added by the User from YouTube by providing a link to it when using the Site, the Site Administration uses YouTube API."
+  },
+  {
+   "type": "add",
+   "position": 211,
+   "text": "When adding content from YouTube to the Site, the User agrees to the YouTube Terms of Service ."
+  },
+  {
+   "type": "add",
+   "position": 223,
+   "text": "The procedure for filing reports of content distributed in violation of the law is provided in the Rules for reviewing appeals related to the spread of information in violation of the law on the VKontakte website ."
+  },
+  {
+   "type": "modify",
+   "position": 265,
+   "old_text": "Date of Last Revision: 6 May 2023",
+   "new_text": "Date of Last Revision: 8 April 2024",
+   "word_diff": [
+    {
+     "type": "keep",
+     "text": "Date of Last Revision:"
+    },
+    {
+     "type": "remove",
+     "text": "6 May 2023"
+    },
+    {
+     "type": "add",
+     "text": "8 April 2024"
+    }
+   ]
+  }
+ ],
+ "site": "vk",
+ "doc_id": "terms",
+ "doc_title": "Условия использования",
+ "from_date": "2023-08-02-1956",
+ "to_date": "2024-07-03-0918",
+ "from_hash": "ad9fd7e3a634094e89fbe16d5673b7c0405a47e9f984d399d0bcfc28aa74e189",
+ "to_hash": "5ee20787455155d9322e6ab098f5be2137710430f8d8cd264eb6e5cc73f4abe6",
+ "url": "https://vk.ru/terms",
+ "ai_summary": "Затронуты темы: third party. Добавлено строк: 14, удалено: 7, изменено: 6."
 }

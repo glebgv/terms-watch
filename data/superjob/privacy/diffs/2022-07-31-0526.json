@@ -1,754 +1,716 @@
 {
-  "stats": {
-    "lines_added": 17,
-    "lines_removed": 8,
-    "lines_changed": 8,
-    "change_ratio": 0.2208
-  },
-  "is_major": false,
-  "reordering_only": false,
-  "keywords": [
-    "third party"
-  ],
-  "changes": [
+ "stats": {
+  "lines_added": 15,
+  "lines_removed": 46,
+  "lines_changed": 15,
+  "change_ratio": 0.9629
+ },
+ "is_major": true,
+ "reordering_only": false,
+ "keywords": [
+  "third party"
+ ],
+ "changes": [
+  {
+   "type": "modify",
+   "position": 1,
+   "old_text": "Regulation on Personal Data Processing in the CVs and Vacancies Database (Privacy Policy) General Provisions For the purposes of information assurance in Superjob LLC (hereinafter referred to as the \"Company\"), a CVs and Vacancies Database (hereinafter referred to as the \"Database\") has been created.",
+   "new_text": "Regulation on Personal Data Processing in the CVs and Vacancies Database (Privacy Policy) What this Privacy Policy covers This Privacy Policy (the Policy hereinafter) covers any information that may include personal information, which the Limited Liability Company SuperJob may obtain when you use the Mobile App (the App hereinafter).",
+   "word_diff": [
     {
-      "type": "modify",
-      "position": 2,
-      "old_text": "General Provisions For the purposes of information assurance in Superjob LLC (hereinafter referred to as the \"Company\"), a CVs and Vacancies Database (hereinafter referred to as the \"Database\") has been created. The Database can be accessed through public telecommunication networks via the website [LINK] as well as through a mobile application using mobile devices (smartphones, tablets, and other devices). The Database may include the last name, the first name, the patronymic, the year and place of birth, the address, the subscriber number, information about occupation, and other personal data communicated by the Applicant. The Applicant's consent to the processing of personal data made by the Applicant publicly available shall be given by using a simple electronic signature. The key of the simple electronic signature shall be applied in accordance with the Rules for working with the CVs and Vacancies Database established by Superjob LLC (hereinafter referred to as the \"Company\") and placed in the public domain at: https:[LINK] The Company's Regulation on Peronal Data Processing in the Database (hereinafter referred to as the \"Regulation\") is the Company's local regulatory act that defines the policy for the processing of personal data in the Database. The purpose of the Regulation is to ensure fulfillment by the Company of legal requirements in the field of processing and protection of personal data posted in the Database. This Regulation has been developed on the basis of the Constitution of the Russian Federation, the Labor Code of the Russian Federation, the Civil Code of the Russian Federation, the Criminal Code of the Russian Federation, the Code of Administrative Offenses of the Russian Federation, and the Federal Law of the Russian Federation \"On Personal Data\" No. 152-FZ dated July 27, 2006.",
-      "new_text": "What this Privacy Policy covers This Privacy Policy (the Policy hereinafter) covers any information that may include personal information, which the Limited Liability Company SuperJob may obtain when you use the Mobile App (the App hereinafter). By using the App you provide your consent to processing your personal information by SuperJob, LLC (the Operator hereinafter).",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "General Provisions For the purposes of"
-        },
-        {
-          "type": "add",
-          "text": "What this Privacy Policy covers This Privacy Policy (the Policy hereinafter) covers any"
-        },
-        {
-          "type": "keep",
-          "text": "information"
-        },
-        {
-          "type": "remove",
-          "text": "assurance in Superjob LLC (hereinafter referred to as the \"Company\"), a CVs and Vacancies Database (hereinafter referred to as the \"Database\") has been created. The Database can be accessed through public telecommunication networks via the website [LINK] as well as through a mobile application using mobile devices (smartphones, tablets, and other devices). The Database"
-        },
-        {
-          "type": "add",
-          "text": "that"
-        },
-        {
-          "type": "keep",
-          "text": "may include"
-        },
-        {
-          "type": "add",
-          "text": "personal information, which"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "last name,"
-        },
-        {
-          "type": "add",
-          "text": "Limited Liability Company SuperJob may obtain when you use"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "first name,"
-        },
-        {
-          "type": "add",
-          "text": "Mobile App (the App hereinafter). By using"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "patronymic, the year and place of birth, the address, the subscriber number, information about occupation, and other personal data communicated by the Applicant. The Applicant's"
-        },
-        {
-          "type": "add",
-          "text": "App you provide your"
-        },
-        {
-          "type": "keep",
-          "text": "consent to"
-        },
-        {
-          "type": "remove",
-          "text": "the"
-        },
-        {
-          "type": "keep",
-          "text": "processing"
-        },
-        {
-          "type": "remove",
-          "text": "of"
-        },
-        {
-          "type": "add",
-          "text": "your"
-        },
-        {
-          "type": "keep",
-          "text": "personal"
-        },
-        {
-          "type": "remove",
-          "text": "data made"
-        },
-        {
-          "type": "add",
-          "text": "information"
-        },
-        {
-          "type": "keep",
-          "text": "by"
-        },
-        {
-          "type": "remove",
-          "text": "the Applicant publicly available shall be given by using a simple electronic signature. The key of the simple electronic signature shall be applied in accordance with the Rules for working with the CVs and Vacancies Database established by Superjob"
-        },
-        {
-          "type": "add",
-          "text": "SuperJob,"
-        },
-        {
-          "type": "keep",
-          "text": "LLC"
-        },
-        {
-          "type": "remove",
-          "text": "(hereinafter referred to as the \"Company\") and placed in the public domain at: https:[LINK] The Company's Regulation on Peronal Data Processing in the Database (hereinafter referred to as the \"Regulation\") is the Company's local regulatory act that defines the policy for the processing of personal data in the Database. The purpose of the Regulation is to ensure fulfillment by the Company of legal requirements in the field of processing and protection of personal data posted in the Database. This Regulation has been developed on the basis of the Constitution of the Russian Federation, the Labor Code of the Russian Federation, the Civil Code of the Russian Federation, the Criminal Code of the Russian Federation, the Code of Administrative Offenses of the Russian Federation, and the Federal Law of the Russian Federation \"On Personal Data\" No. 152-FZ dated July 27, 2006."
-        },
-        {
-          "type": "add",
-          "text": "(the Operator hereinafter)."
-        }
-      ]
+     "type": "keep",
+     "text": "Regulation on Personal Data Processing in the CVs and Vacancies Database (Privacy Policy)"
     },
     {
-      "type": "modify",
-      "position": 3,
-      "old_text": "Basic Concepts Used in the Regulation In accordance with the legislation of the Russian Federation, the following terms and definitions shall be used for the purposes of this Regulation: CVs and Vacancies Database shall mean a database containing and storing information on applicants in the form of their CVs, as well as infomation on website customers in the form of vacancies. Applicant (user) shall mean a person who is the personal data subject and who communicates his/her personal data to the personal data operator in order to create the Database. Simple Electronic Signature shall mean a unique login and password used to enter the Database. The e-mail address or mobile phone number indicated by the User when registering in the Database shall be used as a unique login. User’s Personal Data shall mean any information needed by the User to search for vacancies and responses to vacancies posted in the Database. Operator (hereinafter referred to as the \"Company\") shall mean a legal entity organizing and/or processing personal data independently or jointly with other persons, as well as determining the purposes of personal data processing, content of the personal data to be processed, and actions (operations) to be performed with personal data. Database Customer/Anonymous Database Customer (hereinafter referred to as the \"Employer\") shall mean a legal or natural person having access to the information contained in the Database (https:[LINK] CV shall mean an electronic or, when printed from the Database, a paper document containing the User’s personal data.",
-      "new_text": "Who processes information In order to provide correct functioning of the Apps your personal information are processed by SuperJob, LLC, a legal entity incorporated under the Russian laws and located at 4-36 Г, suite I, floor 3, 20 M. Dmitrovka st,., Moscow 127006 (TIN 7702319337).",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Basic Concepts Used in the Regulation"
-        },
-        {
-          "type": "add",
-          "text": "Who processes information"
-        },
-        {
-          "type": "keep",
-          "text": "In"
-        },
-        {
-          "type": "remove",
-          "text": "accordance with the legislation"
-        },
-        {
-          "type": "add",
-          "text": "order to provide correct functioning"
-        },
-        {
-          "type": "keep",
-          "text": "of the"
-        },
-        {
-          "type": "remove",
-          "text": "Russian Federation, the following terms and definitions shall be used for the purposes of this Regulation: CVs and Vacancies Database shall mean a database containing and storing"
-        },
-        {
-          "type": "add",
-          "text": "Apps your personal"
-        },
-        {
-          "type": "keep",
-          "text": "information"
-        },
-        {
-          "type": "remove",
-          "text": "on applicants in the form of their CVs, as well as infomation on website customers in the form of vacancies. Applicant (user) shall mean a person who is the personal data subject and who communicates his/her personal data to the personal data operator in order to create the Database. Simple Electronic Signature shall mean a unique login and password used to enter the Database. The e-mail address or mobile phone number indicated"
-        },
-        {
-          "type": "add",
-          "text": "are processed"
-        },
-        {
-          "type": "keep",
-          "text": "by"
-        },
-        {
-          "type": "remove",
-          "text": "the User when registering in the Database shall be used as a unique login. User’s Personal Data shall mean any information needed by the User to search for vacancies and responses to vacancies posted in the Database. Operator (hereinafter referred to as the \"Company\") shall mean"
-        },
-        {
-          "type": "add",
-          "text": "SuperJob, LLC,"
-        },
-        {
-          "type": "keep",
-          "text": "a legal entity"
-        },
-        {
-          "type": "remove",
-          "text": "organizing and/or processing personal data independently or jointly with other persons, as well as determining"
-        },
-        {
-          "type": "add",
-          "text": "incorporated under"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "purposes of personal data processing, content of the personal data to be processed,"
-        },
-        {
-          "type": "add",
-          "text": "Russian laws"
-        },
-        {
-          "type": "keep",
-          "text": "and"
-        },
-        {
-          "type": "remove",
-          "text": "actions (operations) to be performed with personal data. Database Customer/Anonymous Database Customer (hereinafter referred to as the \"Employer\") shall mean a legal or natural person having access to the information contained in the Database (https:[LINK] CV shall mean an electronic or, when printed from the Database, a paper document containing the User’s personal data."
-        },
-        {
-          "type": "add",
-          "text": "located at 4-36 Г, suite I, floor 3, 20 M. Dmitrovka st,., Moscow 127006 (TIN 7702319337)."
-        }
-      ]
+     "type": "remove",
+     "text": "General Provisions For"
     },
     {
-      "type": "modify",
-      "position": 4,
-      "old_text": "Personal Data Processing Personal Data Processing shall mean various actions (operations) with personal data, including collection, systematization, clarification (updating, changing), use of personal data, including: automated processing of personal data meaning processing of personal data using computer technologies; storage and accumulation of personal data meaning actions resulting in storage and accumulation of personal data for the purpose of creating the Database on the Company's servers located in the territory of the Russian Federation; destruction of personal data meaning actions resulting in an impossibility to restore the content of personal data in the Database and/or in a destruction of material carriers of personal data; distribution of personal data meaning actions aimed at disclosure of personal data made publicly available by the User. The volume and content of the processed personal data shall be regulated by the legislation of the Russian Federation and shall comply with the declared processing purposes. The purpose of processing the User’s personal data is to create the CVs and Vacancies Database. The Company shall not have the right to process the User’s personal data concerning his/her political, religious or other beliefs, or private life. When transmitting the User’s personal data, the Company shall warn the persons receiving the User’s personal data that such data can be used only for the purposes for which they are communicated. This rule shall not apply to the exchange of Users' personal data in the manner prescribed by federal laws. Protection of the User’s personal data from unlawful use or loss shall be ensured by the Company at its own expense in the manner prescribed by the legislation of the Russian Federation. The User shall have the right, at any time and at his/her discretion, to withdraw his/her consent to the processing of his/her personal data by the Company by independently deleting any specific or all of his/her CVs posted in the Database. To do this, the User may use the appropriate technical functionality in the Database. If the User withdraws his/her consent to the processing of his/her personal data, the Company shall terminate their processing or ensure termination of such processing (if personal data are processed by another person acting on behalf of the operator) and, if personal data are no longer required, destroy such personal data or ensure their destruction (if personal data are processed by another person acting on behalf of the Company) within a period not exceeding three days from the date of receving such withdrawal.",
-      "new_text": "What type of personal information is collected by the Operator When you use the App, the Operator may collect the following categories of your Personal Information: a version of the operating system; a device model; geolocation (with your consent); RAM; flash memory; device orientation; device unique identifier; device universal advertising identifier (with your consent).",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Personal Data Processing Personal Data Processing shall mean various actions (operations) with personal data, including collection, systematization, clarification (updating, changing), use"
-        },
-        {
-          "type": "add",
-          "text": "What type"
-        },
-        {
-          "type": "keep",
-          "text": "of personal"
-        },
-        {
-          "type": "remove",
-          "text": "data, including: automated processing"
-        },
-        {
-          "type": "add",
-          "text": "information is collected by the Operator When you use the App, the Operator may collect the following categories"
-        },
-        {
-          "type": "keep",
-          "text": "of"
-        },
-        {
-          "type": "remove",
-          "text": "personal data meaning processing of personal data using computer technologies; storage and accumulation of personal data meaning actions resulting in storage and accumulation of personal data for the purpose of creating the Database on the Company's servers located in the territory"
-        },
-        {
-          "type": "add",
-          "text": "your Personal Information: a version"
-        },
-        {
-          "type": "keep",
-          "text": "of the"
-        },
-        {
-          "type": "remove",
-          "text": "Russian Federation; destruction of personal data meaning actions resulting in an impossibility to restore the content of personal data in the Database and/or in"
-        },
-        {
-          "type": "add",
-          "text": "operating system;"
-        },
-        {
-          "type": "keep",
-          "text": "a"
-        },
-        {
-          "type": "remove",
-          "text": "destruction of material carriers of personal data; distribution of personal data meaning actions aimed at disclosure of personal data made publicly available by the User. The volume and content of the processed personal data shall be regulated by the legislation of the Russian Federation and shall comply with the declared processing purposes. The purpose of processing the User’s personal data is to create the CVs and Vacancies Database. The Company shall not have the right to process the User’s personal data concerning his/her political, religious or other beliefs, or private life. When transmitting the User’s personal data, the Company shall warn the persons receiving the User’s personal data that such data can be used only for the purposes for which they are communicated. This rule shall not apply to the exchange of Users' personal data in the manner prescribed by federal laws. Protection of the User’s personal data from unlawful use or loss shall be ensured by the Company at its own expense in the manner prescribed by the legislation of the Russian Federation. The User shall have the right, at any time and at his/her discretion, to withdraw his/her consent to the processing of his/her personal data by the Company by independently deleting any specific or all of his/her CVs posted in the Database. To do this, the User may use the appropriate technical functionality in the Database. If the User withdraws his/her consent to the processing of his/her personal data, the Company shall terminate their processing or ensure termination of such processing (if personal data are processed by another person acting on behalf of the operator) and, if personal data are no longer required, destroy such personal data or ensure their destruction (if personal data are processed by another person acting on behalf of the Company) within a period not exceeding three days from the date of receving such withdrawal."
-        },
-        {
-          "type": "add",
-          "text": "device model; geolocation (with your consent); RAM; flash memory; device orientation; device unique identifier; device universal advertising identifier (with your consent)."
-        }
-      ]
+     "type": "add",
+     "text": "What this Privacy Policy covers This Privacy Policy (the Policy hereinafter) covers any information that may include personal information, which"
     },
     {
-      "type": "modify",
-      "position": 5,
-      "old_text": "Access to Personal Data Provision of access to the Applicant's CV. Access to personal data contained in the Applicant's CV is possible only after registration in the Database as an Employer. After registration, each Employer receives a unique login and password for a personal account in the Database which ensures access to Applicants' CVs. Procedure for and methods of access provision. If the Applicant's CV is displayed in a particular folder in the \"Responses\" section in the personal account in the Database, this shall mean that access to the relevant personal data has been transferred. There are several ways to add Applicants' CVs to this section: sent by Applicants in response to a vacancy; received within a subscription (if the Employer has enabled this option when placing a vacancy); found independently in the Database. In case of the Basic Tariff, the CV is automatically added after purchasing the Applicant's contact details. In case of the Maximum Tariff, the Applicant's contact details are already available to the Employer, and the CV is added to the \"Responses\" section only if the Employer takes any actions with it (\"invite\"/\"under consideration\", etc.) or clicks the \"Add to Inbox\" link. If the Employer's registration provides for multi-user access, the CVs may be additionally added to the \"Responses\" section as follows: if received from a colleague; if copied from a colleague.",
-      "new_text": "What are legal basis for processing your personal information and purposes thereof The Operator only processes your Personal Information if: processing is necessary to perform contractual obligations between you and the Operator; processing is necessary to comply with our legal or regulatory obligations; processing is provided by applicable law, is necessary for the legitimate interests of the Operator and does not unduly affect your interests or fundamental rights and freedoms. The Operator processes your Personal Information for securing its legitimate interests, for instance, in the following situations: to better understand how you interact with our App; to enhance, modify, personalize or otherwise improve the Apps for the benefit of all users; to enhance usability of the Apps; to develop new products, utilities and offers by SuperJob, LLC.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Access"
-        },
-        {
-          "type": "add",
-          "text": "What are legal basis for processing your personal information and purposes thereof The Operator only processes your Personal Information if: processing is necessary"
-        },
-        {
-          "type": "keep",
-          "text": "to"
-        },
-        {
-          "type": "add",
-          "text": "perform contractual obligations between you and the Operator; processing is necessary to comply with our legal or regulatory obligations; processing is provided by applicable law, is necessary for the legitimate interests of the Operator and does not unduly affect your interests or fundamental rights and freedoms. The Operator processes your"
-        },
-        {
-          "type": "keep",
-          "text": "Personal"
-        },
-        {
-          "type": "remove",
-          "text": "Data Provision of access to the Applicant's CV. Access to personal data contained"
-        },
-        {
-          "type": "add",
-          "text": "Information for securing its legitimate interests, for instance,"
-        },
-        {
-          "type": "keep",
-          "text": "in the"
-        },
-        {
-          "type": "remove",
-          "text": "Applicant's CV is possible only after registration in"
-        },
-        {
-          "type": "add",
-          "text": "following situations: to better understand how you interact with our App; to enhance, modify, personalize or otherwise improve"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "Database as an Employer. After registration, each Employer receives a unique login and password"
-        },
-        {
-          "type": "add",
-          "text": "Apps"
-        },
-        {
-          "type": "keep",
-          "text": "for"
-        },
-        {
-          "type": "remove",
-          "text": "a personal account in"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "Database which ensures access"
-        },
-        {
-          "type": "add",
-          "text": "benefit of all users;"
-        },
-        {
-          "type": "keep",
-          "text": "to"
-        },
-        {
-          "type": "remove",
-          "text": "Applicants' CVs. Procedure for and methods of access provision. If the Applicant's CV is displayed in a particular folder in the \"Responses\" section in the personal account in the Database, this shall mean that access to the relevant personal data has been transferred. There are several ways to add Applicants' CVs to this section: sent by Applicants in response to a vacancy; received within a subscription (if the Employer has enabled this option when placing a vacancy); found independently in the Database. In case"
-        },
-        {
-          "type": "add",
-          "text": "enhance usability"
-        },
-        {
-          "type": "keep",
-          "text": "of the"
-        },
-        {
-          "type": "remove",
-          "text": "Basic Tariff, the CV is automatically added after purchasing the Applicant's contact details. In case of the Maximum Tariff, the Applicant's contact details are already available"
-        },
-        {
-          "type": "add",
-          "text": "Apps;"
-        },
-        {
-          "type": "keep",
-          "text": "to"
-        },
-        {
-          "type": "remove",
-          "text": "the Employer,"
-        },
-        {
-          "type": "add",
-          "text": "develop new products, utilities"
-        },
-        {
-          "type": "keep",
-          "text": "and"
-        },
-        {
-          "type": "remove",
-          "text": "the CV is added to the \"Responses\" section only if the Employer takes any actions with it (\"invite\"/\"under consideration\", etc.) or clicks the \"Add to Inbox\" link. If the Employer's registration provides for multi-user access, the CVs may be additionally added to the \"Responses\" section as follows: if received from a colleague; if copied from a colleague."
-        },
-        {
-          "type": "add",
-          "text": "offers by SuperJob, LLC."
-        }
-      ]
+     "type": "keep",
+     "text": "the"
     },
     {
-      "type": "modify",
-      "position": 6,
-      "old_text": "Ongoing Requirements for Personal Data Protection The Company shall take legal, organizational, and technical measures (or ensure such measures) which are necessary and sufficient to ensure fulfillment of the obligations stipulated by the legislation on personal data protection and regulatory acts adopted in accordance therewith for the purpose of protecting personal data from unlawful or accidental access, destruction, blocking, distribution, depersonalization of personal data, or other illegal actions in relation to personal data. The measures specified in Clause 5.1 of the Regulation, including their content and the choice of personal data protection means, shall be determined by, and internal regulatory documents on processing and protection of personal data shall be approved (issued) by the Company based on the requirements of regulatory acts of the Russian Federation on personal data processing and protection. The Company shall eliminate any identified violations of the legislation on personal data processing and protection. Personal data shall be stored in a form that enables to determine the personal data subject within a time period not exceeding the period required for the purposes of personal data processing, if the storage period is not established by the federal law, or a contract to which the personal data subject is a beneficiary or guarantor. The term for posting the User’s personal data in the form of a CV is unlimited and shall be determined independently by the User. In particular, the Company shall: assess the efficiency of the measures taken and implemented to ensure personal data security; account for machine carriers of personal data and ensure their safety; detect unauthorized access to personal data and take appropriate measures; recover personal data modified or destroyed due to unauthorized access; establish rules for access to the personal data being processed; organize a security regime for the premises in which machine personal data carriers are located impeding the possibility of uncontrolled entry or stay in such premises of any persons who do not have the right of access to such premises.",
-      "new_text": "Where your Personal Information is stored and processed Your Personal Information will be stored and processed in the Russian Federation. The Operator will not transfer your Personal Information to other jurisdictions.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Ongoing Requirements for"
-        },
-        {
-          "type": "add",
-          "text": "Where your"
-        },
-        {
-          "type": "keep",
-          "text": "Personal"
-        },
-        {
-          "type": "remove",
-          "text": "Data Protection The Company shall take legal, organizational,"
-        },
-        {
-          "type": "add",
-          "text": "Information is stored"
-        },
-        {
-          "type": "keep",
-          "text": "and"
-        },
-        {
-          "type": "remove",
-          "text": "technical measures (or ensure such measures) which are necessary"
-        },
-        {
-          "type": "add",
-          "text": "processed Your Personal Information will be stored"
-        },
-        {
-          "type": "keep",
-          "text": "and"
-        },
-        {
-          "type": "remove",
-          "text": "sufficient to ensure fulfillment of the obligations stipulated by the legislation on personal data protection and regulatory acts adopted"
-        },
-        {
-          "type": "add",
-          "text": "processed"
-        },
-        {
-          "type": "keep",
-          "text": "in"
-        },
-        {
-          "type": "remove",
-          "text": "accordance therewith for the purpose of protecting personal data from unlawful or accidental access, destruction, blocking, distribution, depersonalization of personal data, or other illegal actions in relation to personal data. The measures specified in Clause 5.1 of the Regulation, including their content and the choice of personal data protection means, shall be determined by, and internal regulatory documents on processing and protection of personal data shall be approved (issued) by the Company based on the requirements of regulatory acts of"
-        },
-        {
-          "type": "keep",
-          "text": "the Russian"
-        },
-        {
-          "type": "remove",
-          "text": "Federation on personal data processing and protection."
-        },
-        {
-          "type": "add",
-          "text": "Federation."
-        },
-        {
-          "type": "keep",
-          "text": "The"
-        },
-        {
-          "type": "remove",
-          "text": "Company shall eliminate any identified violations of the legislation on personal data processing and protection."
-        },
-        {
-          "type": "add",
-          "text": "Operator will not transfer your"
-        },
-        {
-          "type": "keep",
-          "text": "Personal"
-        },
-        {
-          "type": "remove",
-          "text": "data shall be stored in a form that enables"
-        },
-        {
-          "type": "add",
-          "text": "Information"
-        },
-        {
-          "type": "keep",
-          "text": "to"
-        },
-        {
-          "type": "remove",
-          "text": "determine the personal data subject within a time period not exceeding the period required for the purposes of personal data processing, if the storage period is not established by the federal law, or a contract to which the personal data subject is a beneficiary or guarantor. The term for posting the User’s personal data in the form of a CV is unlimited and shall be determined independently by the User. In particular, the Company shall: assess the efficiency of the measures taken and implemented to ensure personal data security; account for machine carriers of personal data and ensure their safety; detect unauthorized access to personal data and take appropriate measures; recover personal data modified or destroyed due to unauthorized access; establish rules for access to the personal data being processed; organize a security regime for the premises in which machine personal data carriers are located impeding the possibility of uncontrolled entry or stay in such premises of any persons who do not have the right of access to such premises."
-        },
-        {
-          "type": "add",
-          "text": "other jurisdictions."
-        }
-      ]
+     "type": "remove",
+     "text": "purposes of information assurance in Superjob LLC (hereinafter referred to as"
     },
     {
-      "type": "modify",
-      "position": 7,
-      "old_text": "Responsibility of the Parties The Company, as a legal entity, shall bear administrative responsibility for any violation of the procedure for collection, storage, use, or dissemination of personal data in accordance with the legislation of the Russian Federation. The User hereby unconditionally agrees and acknowledges that: by placing his/her personal data in the form of a CV in the Database, he/she makes them available to an unlimited number of people, i.e., makes them publicly available. The Company shall not be responsible for maintaining their confidentiality and/or use by any third parties; The Operator provides Database Customers and Anonymous Database Customers with access to the Applicant's CVs. The Company shall not be liable for any possible misuse of Users's personal data that has occurred due to: technical malfunctions in software, servers, or computer networks that are beyond the Company's control; interruptions in the database operation caused by intentional or unintentional use of the database by any third parties for purposes other than intended ones; transfer of the User’s registration data or any information, including the User's CV as a whole or its individual parts or data, by the User from the Database to other persons who are not registered users of the Database or to other users who do not have access to such information due to registration conditions or contracts concluded with the Company.",
-      "new_text": "How long we store your Personal Information Your consent to processing your Personal Information will be valid until it’s withdrawn or until the purpose of its communication is achieved, whichever comes first. A withdrawal can be communicated by a written application to the Operator’s address.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Responsibility"
-        },
-        {
-          "type": "add",
-          "text": "How long we store your Personal Information Your consent to processing your Personal Information will be valid until it’s withdrawn or until the purpose"
-        },
-        {
-          "type": "keep",
-          "text": "of"
-        },
-        {
-          "type": "remove",
-          "text": "the Parties The Company, as"
-        },
-        {
-          "type": "add",
-          "text": "its communication is achieved, whichever comes first. A withdrawal can be communicated by"
-        },
-        {
-          "type": "keep",
-          "text": "a"
-        },
-        {
-          "type": "remove",
-          "text": "legal entity, shall bear administrative responsibility for any violation of the procedure for collection, storage, use, or dissemination of personal data in accordance with the legislation of the Russian Federation. The User hereby unconditionally agrees and acknowledges that: by placing his/her personal data in the form of a CV in the Database, he/she makes them available to an unlimited number of people, i.e., makes them publicly available. The Company shall not be responsible for maintaining their confidentiality and/or use by any third parties; The Operator provides Database Customers and Anonymous Database Customers with access"
-        },
-        {
-          "type": "add",
-          "text": "written application"
-        },
-        {
-          "type": "keep",
-          "text": "to the"
-        },
-        {
-          "type": "remove",
-          "text": "Applicant's CVs. The Company shall not be liable for any possible misuse of Users's personal data that has occurred due to: technical malfunctions in software, servers, or computer networks that are beyond the Company's control; interruptions in the database operation caused by intentional or unintentional use of the database by any third parties for purposes other than intended ones; transfer of the User’s registration data or any information, including the User's CV as a whole or its individual parts or data, by the User from the Database to other persons who are not registered users of the Database or to other users who do not have access to such information due to registration conditions or contracts concluded with the Company."
-        },
-        {
-          "type": "add",
-          "text": "Operator’s address."
-        }
-      ]
+     "type": "add",
+     "text": "Limited Liability Company SuperJob may obtain when you use"
     },
     {
-      "type": "modify",
-      "position": 8,
-      "old_text": "Final Provisions The Company provides access to the Regulation using the corresponding information and telecommunication network. Any amendments or supplements to this Regulation shall be introduced by order of the Company's General Director, and thereafter they are subject to publication in the public domain on the website [LINK]",
-      "new_text": "Your rights You have the right, at your own discretion, to withdraw, exclude, set restrictions imposed to a list and categories of personal information allowed for disclosure by delivering a respective written request to the Operator’s e-mail. address [LINK]. The above request must include the last name, name, patronymic (if any), contact details (telephone number, e-mail or postal address) of the owner of the personal information, and a list of personal information which processing is subject to termination.",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Final Provisions The Company provides access"
-        },
-        {
-          "type": "add",
-          "text": "Your rights You have the right, at your own discretion, to withdraw, exclude, set restrictions imposed to a list and categories of personal information allowed for disclosure by delivering a respective written request"
-        },
-        {
-          "type": "keep",
-          "text": "to the"
-        },
-        {
-          "type": "remove",
-          "text": "Regulation using"
-        },
-        {
-          "type": "add",
-          "text": "Operator’s e-mail. address [LINK]. The above request must include"
-        },
-        {
-          "type": "keep",
-          "text": "the"
-        },
-        {
-          "type": "remove",
-          "text": "corresponding information and telecommunication network. Any amendments"
-        },
-        {
-          "type": "add",
-          "text": "last name, name, patronymic (if any), contact details (telephone number, e-mail"
-        },
-        {
-          "type": "keep",
-          "text": "or"
-        },
-        {
-          "type": "remove",
-          "text": "supplements to this Regulation shall be introduced by order"
-        },
-        {
-          "type": "add",
-          "text": "postal address)"
-        },
-        {
-          "type": "keep",
-          "text": "of the"
-        },
-        {
-          "type": "remove",
-          "text": "Company's General Director,"
-        },
-        {
-          "type": "add",
-          "text": "owner of the personal information,"
-        },
-        {
-          "type": "keep",
-          "text": "and"
-        },
-        {
-          "type": "remove",
-          "text": "thereafter they are"
-        },
-        {
-          "type": "add",
-          "text": "a list of personal information which processing is"
-        },
-        {
-          "type": "keep",
-          "text": "subject to"
-        },
-        {
-          "type": "remove",
-          "text": "publication in the public domain on the website [LINK]"
-        },
-        {
-          "type": "add",
-          "text": "termination."
-        }
-      ]
+     "type": "keep",
+     "text": "the"
     },
     {
-      "type": "add",
-      "position": 9,
-      "text": "Updates to this Policy This Policy may be subject to amendments. The Operator shall be entitled to make such amendments at its own discretion, including, without limitation, to reflect changes in applicable legislation or amendments to the App."
+     "type": "remove",
+     "text": "\"Company\"), a CVs and Vacancies Database (hereinafter referred to as the \"Database\") has been created."
     },
     {
-      "type": "add",
-      "position": 10,
-      "text": "Соискателям"
-    },
-    {
-      "type": "add",
-      "position": 17,
-      "text": "Cписок компаний по индустриям"
-    },
-    {
-      "type": "add",
-      "position": 18,
-      "text": "Зарплаты по профессиям"
-    },
-    {
-      "type": "add",
-      "position": 19,
-      "text": "Работодателям"
-    },
-    {
-      "type": "modify",
-      "position": 24,
-      "old_text": "Спецпредложения работодателю",
-      "new_text": "Советы для работодателей",
-      "word_diff": [
-        {
-          "type": "remove",
-          "text": "Спецпредложения работодателю"
-        },
-        {
-          "type": "add",
-          "text": "Советы для работодателей"
-        }
-      ]
-    },
-    {
-      "type": "add",
-      "position": 25,
-      "text": "Партнерам"
-    },
-    {
-      "type": "add",
-      "position": 30,
-      "text": "SuperJob"
-    },
-    {
-      "type": "add",
-      "position": 37,
-      "text": "Калькуляторы"
-    },
-    {
-      "type": "add",
-      "position": 39,
-      "text": "Документы"
+     "type": "add",
+     "text": "Mobile App (the App hereinafter)."
     }
-  ],
-  "site": "superjob",
-  "doc_id": "privacy",
-  "doc_title": "Политика конфиденциальности",
-  "from_date": "2021-10-11-0557",
-  "to_date": "2022-07-31-0526",
-  "from_hash": "726431a84e41ee481b40afa43d28d8279e21f102b9f0fa86644ecd11728b590e",
-  "to_hash": "ebdc7af28a92b03fff0ada76ba30cafb4eca54beaa6d068aec734cd2948cd00e",
-  "url": "https://www.superjob.ru/info/privacy-policy.html",
-  "retrospective": true,
-  "wayback_url": "https://web.archive.org/web/20220731/https://www.superjob.ru/info/privacy-policy.html"
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 2,
+   "old_text": "The Database can be accessed through public telecommunication networks via the website [LINK] as well as through a mobile application using mobile devices (smartphones, tablets, and other devices).",
+   "new_text": "By using the App you provide your consent to processing your personal information by SuperJob, LLC (the Operator hereinafter).",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "The Database can be accessed through public telecommunication networks via"
+    },
+    {
+     "type": "add",
+     "text": "By using"
+    },
+    {
+     "type": "keep",
+     "text": "the"
+    },
+    {
+     "type": "remove",
+     "text": "website [LINK] as well as through a mobile application using mobile devices (smartphones, tablets, and other devices)."
+    },
+    {
+     "type": "add",
+     "text": "App you provide your consent to processing your personal information by SuperJob, LLC (the Operator hereinafter)."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 3,
+   "old_text": "The Database may include the last name, the first name, the patronymic, the year and place of birth, the address, the subscriber number, information about occupation, and other personal data communicated by the Applicant.",
+   "new_text": "Who processes information In order to provide correct functioning of the Apps your personal information are processed by SuperJob, LLC, a legal entity incorporated under the Russian laws and located at 4-36 Г, suite I, floor 3, 20 M.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "The Database may include"
+    },
+    {
+     "type": "add",
+     "text": "Who processes information In order to provide correct functioning of"
+    },
+    {
+     "type": "keep",
+     "text": "the"
+    },
+    {
+     "type": "remove",
+     "text": "last name,"
+    },
+    {
+     "type": "add",
+     "text": "Apps your personal information are processed by SuperJob, LLC, a legal entity incorporated under"
+    },
+    {
+     "type": "keep",
+     "text": "the"
+    },
+    {
+     "type": "remove",
+     "text": "first name, the patronymic, the year"
+    },
+    {
+     "type": "add",
+     "text": "Russian laws"
+    },
+    {
+     "type": "keep",
+     "text": "and"
+    },
+    {
+     "type": "remove",
+     "text": "place of birth, the address, the subscriber number, information about occupation, and other personal data communicated by the Applicant."
+    },
+    {
+     "type": "add",
+     "text": "located at 4-36 Г, suite I, floor 3, 20 M."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 4,
+   "old_text": "The Applicant's consent to the processing of personal data made by the Applicant publicly available shall be given by using a simple electronic signature.",
+   "new_text": "Dmitrovka st,., Moscow 127006 (TIN 7702319337).",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "The Applicant's consent to the processing of personal data made by the Applicant publicly available shall be given by using a simple electronic signature."
+    },
+    {
+     "type": "add",
+     "text": "Dmitrovka st,., Moscow 127006 (TIN 7702319337)."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 5,
+   "old_text": "The key of the simple electronic signature shall be applied in accordance with the Rules for working with the CVs and Vacancies Database established by Superjob LLC (hereinafter referred to as the \"Company\") and placed in the public domain at: https:[LINK] The Company's Regulation on Peronal Data Processing in the Database (hereinafter referred to as the \"Regulation\") is the Company's local regulatory act that defines the policy for the processing of personal data in the Database.",
+   "new_text": "What type of personal information is collected by the Operator When you use the App, the Operator may collect the following categories of your Personal Information: a version of the operating system; a device model; geolocation (with your consent); RAM; flash memory; device orientation; device unique identifier; device universal advertising identifier (with your consent).",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "The key"
+    },
+    {
+     "type": "add",
+     "text": "What type of personal information is collected by the Operator When you use the App, the Operator may collect the following categories of your Personal Information: a version"
+    },
+    {
+     "type": "keep",
+     "text": "of the"
+    },
+    {
+     "type": "remove",
+     "text": "simple electronic signature shall be applied in accordance with the Rules for working with the CVs and Vacancies Database established by Superjob LLC (hereinafter referred to as the \"Company\") and placed in the public domain at: https:[LINK] The Company's Regulation on Peronal Data Processing in the Database (hereinafter referred to as the \"Regulation\") is the Company's local regulatory act that defines the policy for the processing of personal data in the Database."
+    },
+    {
+     "type": "add",
+     "text": "operating system; a device model; geolocation (with your consent); RAM; flash memory; device orientation; device unique identifier; device universal advertising identifier (with your consent)."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 6,
+   "old_text": "The purpose of the Regulation is to ensure fulfillment by the Company of legal requirements in the field of processing and protection of personal data posted in the Database.",
+   "new_text": "What are legal basis for processing your personal information and purposes thereof The Operator only processes your Personal Information if: processing is necessary to perform contractual obligations between you and the Operator; processing is necessary to comply with our legal or regulatory obligations; processing is provided by applicable law, is necessary for the legitimate interests of the Operator and does not unduly affect your interests or fundamental rights and freedoms.",
+   "word_diff": [
+    {
+     "type": "add",
+     "text": "What are legal basis for processing your personal information and purposes thereof"
+    },
+    {
+     "type": "keep",
+     "text": "The"
+    },
+    {
+     "type": "remove",
+     "text": "purpose"
+    },
+    {
+     "type": "add",
+     "text": "Operator only processes your Personal Information if: processing is necessary to perform contractual obligations between you and the Operator; processing is necessary to comply with our legal or regulatory obligations; processing is provided by applicable law, is necessary for the legitimate interests"
+    },
+    {
+     "type": "keep",
+     "text": "of the"
+    },
+    {
+     "type": "remove",
+     "text": "Regulation is to ensure fulfillment by the Company of legal requirements in the field of processing"
+    },
+    {
+     "type": "add",
+     "text": "Operator"
+    },
+    {
+     "type": "keep",
+     "text": "and"
+    },
+    {
+     "type": "remove",
+     "text": "protection of personal data posted in the Database."
+    },
+    {
+     "type": "add",
+     "text": "does not unduly affect your interests or fundamental rights and freedoms."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 7,
+   "old_text": "This Regulation has been developed on the basis of the Constitution of the Russian Federation, the Labor Code of the Russian Federation, the Civil Code of the Russian Federation, the Criminal Code of the Russian Federation, the Code of Administrative Offenses of the Russian Federation, and the Federal Law of the Russian Federation \"On Personal Data\" No.",
+   "new_text": "The Operator processes your Personal Information for securing its legitimate interests, for instance, in the following situations: to better understand how you interact with our App; to enhance, modify, personalize or otherwise improve the Apps for the benefit of all users; to enhance usability of the Apps; to develop new products, utilities and offers by SuperJob, LLC.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "This Regulation has been developed on"
+    },
+    {
+     "type": "add",
+     "text": "The Operator processes your Personal Information for securing its legitimate interests, for instance, in"
+    },
+    {
+     "type": "keep",
+     "text": "the"
+    },
+    {
+     "type": "remove",
+     "text": "basis"
+    },
+    {
+     "type": "add",
+     "text": "following situations: to better understand how you interact with our App; to enhance, modify, personalize or otherwise improve the Apps for the benefit of all users; to enhance usability"
+    },
+    {
+     "type": "keep",
+     "text": "of the"
+    },
+    {
+     "type": "remove",
+     "text": "Constitution of the Russian Federation, the Labor Code of the Russian Federation, the Civil Code of the Russian Federation, the Criminal Code of the Russian Federation, the Code of Administrative Offenses of the Russian Federation,"
+    },
+    {
+     "type": "add",
+     "text": "Apps; to develop new products, utilities"
+    },
+    {
+     "type": "keep",
+     "text": "and"
+    },
+    {
+     "type": "remove",
+     "text": "the Federal Law of the Russian Federation \"On Personal Data\" No."
+    },
+    {
+     "type": "add",
+     "text": "offers by SuperJob, LLC."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 8,
+   "old_text": "152-FZ dated July 27, 2006..",
+   "new_text": "Where your Personal Information is stored and processed Your Personal Information will be stored and processed in the Russian Federation.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "152-FZ dated July 27, 2006.."
+    },
+    {
+     "type": "add",
+     "text": "Where your Personal Information is stored and processed Your Personal Information will be stored and processed in the Russian Federation."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 9,
+   "old_text": "Basic Concepts Used in the Regulation In accordance with the legislation of the Russian Federation, the following terms and definitions shall be used for the purposes of this Regulation: CVs and Vacancies Database shall mean a database containing and storing information on applicants in the form of their CVs, as well as infomation on website customers in the form of vacancies.",
+   "new_text": "The Operator will not transfer your Personal Information to other jurisdictions.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Basic Concepts Used in the Regulation In accordance with the legislation of the Russian Federation, the following terms and definitions shall be used for the purposes of this Regulation: CVs and Vacancies Database shall mean a database containing and storing information on applicants in the form of their CVs, as well as infomation on website customers in the form of vacancies."
+    },
+    {
+     "type": "add",
+     "text": "The Operator will not transfer your Personal Information to other jurisdictions."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 10,
+   "old_text": "Applicant (user) shall mean a person who is the personal data subject and who communicates his/her personal data to the personal data operator in order to create the Database.",
+   "new_text": "How long we store your Personal Information Your consent to processing your Personal Information will be valid until it’s withdrawn or until the purpose of its communication is achieved, whichever comes first.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Applicant (user) shall mean a person who"
+    },
+    {
+     "type": "add",
+     "text": "How long we store your Personal Information Your consent to processing your Personal Information will be valid until it’s withdrawn or until the purpose of its communication"
+    },
+    {
+     "type": "keep",
+     "text": "is"
+    },
+    {
+     "type": "remove",
+     "text": "the personal data subject and who communicates his/her personal data to the personal data operator in order to create the Database."
+    },
+    {
+     "type": "add",
+     "text": "achieved, whichever comes first."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 11,
+   "old_text": "Simple Electronic Signature shall mean a unique login and password used to enter the Database.",
+   "new_text": "A withdrawal can be communicated by a written application to the Operator’s address.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Simple Electronic Signature shall mean"
+    },
+    {
+     "type": "add",
+     "text": "A withdrawal can be communicated by"
+    },
+    {
+     "type": "keep",
+     "text": "a"
+    },
+    {
+     "type": "remove",
+     "text": "unique login and password used"
+    },
+    {
+     "type": "add",
+     "text": "written application"
+    },
+    {
+     "type": "keep",
+     "text": "to"
+    },
+    {
+     "type": "remove",
+     "text": "enter"
+    },
+    {
+     "type": "keep",
+     "text": "the"
+    },
+    {
+     "type": "remove",
+     "text": "Database."
+    },
+    {
+     "type": "add",
+     "text": "Operator’s address."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 12,
+   "old_text": "The e-mail address or mobile phone number indicated by the User when registering in the Database shall be used as a unique login.",
+   "new_text": "Your rights You have the right, at your own discretion, to withdraw, exclude, set restrictions imposed to a list and categories of personal information allowed for disclosure by delivering a respective written request to the Operator’s e-mail. address [LINK].",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "The e-mail"
+    },
+    {
+     "type": "add",
+     "text": "Your rights You have the right, at your own discretion, to withdraw, exclude, set restrictions imposed to a list and categories of personal information allowed for disclosure by delivering a respective written request to the Operator’s e-mail."
+    },
+    {
+     "type": "keep",
+     "text": "address"
+    },
+    {
+     "type": "remove",
+     "text": "or mobile phone number indicated by the User when registering in the Database shall be used as a unique login."
+    },
+    {
+     "type": "add",
+     "text": "[LINK]."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 13,
+   "old_text": "User’s Personal Data shall mean any information needed by the User to search for vacancies and responses to vacancies posted in the Database.",
+   "new_text": "The above request must include the last name, name, patronymic (if any), contact details (telephone number, e-mail or postal address) of the owner of the personal information, and a list of personal information which processing is subject to termination.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "User’s Personal Data shall mean any"
+    },
+    {
+     "type": "add",
+     "text": "The above request must include the last name, name, patronymic (if any), contact details (telephone number, e-mail or postal address) of the owner of the personal information, and a list of personal"
+    },
+    {
+     "type": "keep",
+     "text": "information"
+    },
+    {
+     "type": "remove",
+     "text": "needed by the User"
+    },
+    {
+     "type": "add",
+     "text": "which processing is subject"
+    },
+    {
+     "type": "keep",
+     "text": "to"
+    },
+    {
+     "type": "remove",
+     "text": "search for vacancies and responses to vacancies posted in the Database."
+    },
+    {
+     "type": "add",
+     "text": "termination."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 14,
+   "old_text": "Operator (hereinafter referred to as the \"Company\") shall mean a legal entity organizing and/or processing personal data independently or jointly with other persons, as well as determining the purposes of personal data processing, content of the personal data to be processed, and actions (operations) to be performed with personal data.",
+   "new_text": "Updates to this Policy This Policy may be subject to amendments.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Operator (hereinafter referred"
+    },
+    {
+     "type": "add",
+     "text": "Updates"
+    },
+    {
+     "type": "keep",
+     "text": "to"
+    },
+    {
+     "type": "remove",
+     "text": "as the \"Company\") shall mean a legal entity organizing and/or processing personal data independently or jointly with other persons, as well as determining the purposes of personal data processing, content of the personal data"
+    },
+    {
+     "type": "add",
+     "text": "this Policy This Policy may be subject"
+    },
+    {
+     "type": "keep",
+     "text": "to"
+    },
+    {
+     "type": "remove",
+     "text": "be processed, and actions (operations) to be performed with personal data."
+    },
+    {
+     "type": "add",
+     "text": "amendments."
+    }
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 15,
+   "old_text": "Database Customer/Anonymous Database Customer (hereinafter referred to as the \"Employer\") shall mean a legal or natural person having access to the information contained in the Database (https:[LINK] CV shall mean an electronic or, when printed from the Database, a paper document containing the User’s personal data.",
+   "new_text": "The Operator shall be entitled to make such amendments at its own discretion, including, without limitation, to reflect changes in applicable legislation or amendments to the App.",
+   "word_diff": [
+    {
+     "type": "remove",
+     "text": "Database Customer/Anonymous Database Customer (hereinafter referred"
+    },
+    {
+     "type": "add",
+     "text": "The Operator shall be entitled"
+    },
+    {
+     "type": "keep",
+     "text": "to"
+    },
+    {
+     "type": "remove",
+     "text": "as the \"Employer\") shall mean a legal"
+    },
+    {
+     "type": "add",
+     "text": "make such amendments at its own discretion, including, without limitation, to reflect changes in applicable legislation"
+    },
+    {
+     "type": "keep",
+     "text": "or"
+    },
+    {
+     "type": "remove",
+     "text": "natural person having access"
+    },
+    {
+     "type": "add",
+     "text": "amendments"
+    },
+    {
+     "type": "keep",
+     "text": "to the"
+    },
+    {
+     "type": "remove",
+     "text": "information contained in the Database (https:[LINK] CV shall mean an electronic or, when printed from the Database, a paper document containing the User’s personal data."
+    },
+    {
+     "type": "add",
+     "text": "App."
+    }
+   ]
+  },
+  {
+   "type": "remove",
+   "position": 16,
+   "text": "Personal Data Processing Personal Data Processing shall mean various actions (operations) with personal data, including collection, systematization, clarification (updating, changing), use of personal data, including: automated processing of personal data meaning processing of personal data using computer technologies; storage and accumulation of personal data meaning actions resulting in storage and accumulation of personal data for the purpose of creating the Database on the Company's servers located in the territory of the Russian Federation; destruction of personal data meaning actions resulting in an impossibility to restore the content of personal data in the Database and/or in a destruction of material carriers of personal data; distribution of personal data meaning actions aimed at disclosure of personal data made publicly available by the User."
+  },
+  {
+   "type": "remove",
+   "position": 17,
+   "text": "The volume and content of the processed personal data shall be regulated by the legislation of the Russian Federation and shall comply with the declared processing purposes."
+  },
+  {
+   "type": "remove",
+   "position": 18,
+   "text": "The purpose of processing the User’s personal data is to create the CVs and Vacancies Database."
+  },
+  {
+   "type": "remove",
+   "position": 19,
+   "text": "The Company shall not have the right to process the User’s personal data concerning his/her political, religious or other beliefs, or private life."
+  },
+  {
+   "type": "remove",
+   "position": 20,
+   "text": "When transmitting the User’s personal data, the Company shall warn the persons receiving the User’s personal data that such data can be used only for the purposes for which they are communicated."
+  },
+  {
+   "type": "remove",
+   "position": 21,
+   "text": "This rule shall not apply to the exchange of Users' personal data in the manner prescribed by federal laws."
+  },
+  {
+   "type": "remove",
+   "position": 22,
+   "text": "Protection of the User’s personal data from unlawful use or loss shall be ensured by the Company at its own expense in the manner prescribed by the legislation of the Russian Federation."
+  },
+  {
+   "type": "remove",
+   "position": 23,
+   "text": "The User shall have the right, at any time and at his/her discretion, to withdraw his/her consent to the processing of his/her personal data by the Company by independently deleting any specific or all of his/her CVs posted in the Database."
+  },
+  {
+   "type": "remove",
+   "position": 24,
+   "text": "To do this, the User may use the appropriate technical functionality in the Database."
+  },
+  {
+   "type": "remove",
+   "position": 25,
+   "text": "If the User withdraws his/her consent to the processing of his/her personal data, the Company shall terminate their processing or ensure termination of such processing (if personal data are processed by another person acting on behalf of the operator) and, if personal data are no longer required, destroy such personal data or ensure their destruction (if personal data are processed by another person acting on behalf of the Company) within a period not exceeding three days from the date of receving such withdrawal."
+  },
+  {
+   "type": "remove",
+   "position": 26,
+   "text": "Access to Personal Data Provision of access to the Applicant's CV."
+  },
+  {
+   "type": "remove",
+   "position": 27,
+   "text": "Access to personal data contained in the Applicant's CV is possible only after registration in the Database as an Employer."
+  },
+  {
+   "type": "remove",
+   "position": 28,
+   "text": "After registration, each Employer receives a unique login and password for a personal account in the Database which ensures access to Applicants' CVs."
+  },
+  {
+   "type": "remove",
+   "position": 29,
+   "text": "Procedure for and methods of access provision."
+  },
+  {
+   "type": "remove",
+   "position": 30,
+   "text": "If the Applicant's CV is displayed in a particular folder in the \"Responses\" section in the personal account in the Database, this shall mean that access to the relevant personal data has been transferred."
+  },
+  {
+   "type": "remove",
+   "position": 31,
+   "text": "There are several ways to add Applicants' CVs to this section: sent by Applicants in response to a vacancy; received within a subscription (if the Employer has enabled this option when placing a vacancy); found independently in the Database."
+  },
+  {
+   "type": "remove",
+   "position": 32,
+   "text": "In case of the Basic Tariff, the CV is automatically added after purchasing the Applicant's contact details."
+  },
+  {
+   "type": "remove",
+   "position": 33,
+   "text": "In case of the Maximum Tariff, the Applicant's contact details are already available to the Employer, and the CV is added to the \"Responses\" section only if the Employer takes any actions with it (\"invite\"/\"under consideration\", etc.) or clicks the \"Add to Inbox\" link."
+  },
+  {
+   "type": "remove",
+   "position": 34,
+   "text": "If the Employer's registration provides for multi-user access, the CVs may be additionally added to the \"Responses\" section as follows: if received from a colleague; if copied from a colleague."
+  },
+  {
+   "type": "remove",
+   "position": 35,
+   "text": "Ongoing Requirements for Personal Data Protection The Company shall take legal, organizational, and technical measures (or ensure such measures) which are necessary and sufficient to ensure fulfillment of the obligations stipulated by the legislation on personal data protection and regulatory acts adopted in accordance therewith for the purpose of protecting personal data from unlawful or accidental access, destruction, blocking, distribution, depersonalization of personal data, or other illegal actions in relation to personal data."
+  },
+  {
+   "type": "remove",
+   "position": 36,
+   "text": "The measures specified in Clause 5.1 of the Regulation, including their content and the choice of personal data protection means, shall be determined by, and internal regulatory documents on processing and protection of personal data shall be approved (issued) by the Company based on the requirements of regulatory acts of the Russian Federation on personal data processing and protection."
+  },
+  {
+   "type": "remove",
+   "position": 37,
+   "text": "The Company shall eliminate any identified violations of the legislation on personal data processing and protection."
+  },
+  {
+   "type": "remove",
+   "position": 38,
+   "text": "Personal data shall be stored in a form that enables to determine the personal data subject within a time period not exceeding the period required for the purposes of personal data processing, if the storage period is not established by the federal law, or a contract to which the personal data subject is a beneficiary or guarantor."
+  },
+  {
+   "type": "remove",
+   "position": 39,
+   "text": "The term for posting the User’s personal data in the form of a CV is unlimited and shall be determined independently by the User."
+  },
+  {
+   "type": "remove",
+   "position": 40,
+   "text": "In particular, the Company shall: assess the efficiency of the measures taken and implemented to ensure personal data security; account for machine carriers of personal data and ensure their safety; detect unauthorized access to personal data and take appropriate measures; recover personal data modified or destroyed due to unauthorized access; establish rules for access to the personal data being processed; organize a security regime for the premises in which machine personal data carriers are located impeding the possibility of uncontrolled entry or stay in such premises of any persons who do not have the right of access to such premises."
+  },
+  {
+   "type": "remove",
+   "position": 41,
+   "text": "Responsibility of the Parties The Company, as a legal entity, shall bear administrative responsibility for any violation of the procedure for collection, storage, use, or dissemination of personal data in accordance with the legislation of the Russian Federation."
+  },
+  {
+   "type": "remove",
+   "position": 42,
+   "text": "The User hereby unconditionally agrees and acknowledges that: by placing his/her personal data in the form of a CV in the Database, he/she makes them available to an unlimited number of people, i.e., makes them publicly available."
+  },
+  {
+   "type": "remove",
+   "position": 43,
+   "text": "The Company shall not be responsible for maintaining their confidentiality and/or use by any third parties; The Operator provides Database Customers and Anonymous Database Customers with access to the Applicant's CVs."
+  },
+  {
+   "type": "remove",
+   "position": 44,
+   "text": "The Company shall not be liable for any possible misuse of Users's personal data that has occurred due to: technical malfunctions in software, servers, or computer networks that are beyond the Company's control; interruptions in the database operation caused by intentional or unintentional use of the database by any third parties for purposes other than intended ones; transfer of the User’s registration data or any information, including the User's CV as a whole or its individual parts or data, by the User from the Database to other persons who are not registered users of the Database or to other users who do not have access to such information due to registration conditions or contracts concluded with the Company."
+  },
+  {
+   "type": "remove",
+   "position": 45,
+   "text": "Final Provisions The Company provides access to the Regulation using the corresponding information and telecommunication network."
+  },
+  {
+   "type": "remove",
+   "position": 46,
+   "text": "Any amendments or supplements to this Regulation shall be introduced by order of the Company's General Director, and thereafter they are subject to publication in the public domain on the website [LINK]"
+  }
+ ],
+ "site": "superjob",
+ "doc_id": "privacy",
+ "doc_title": "Политика конфиденциальности",
+ "from_date": "2021-10-11-0557",
+ "to_date": "2022-07-31-0526",
+ "from_hash": "726431a84e41ee481b40afa43d28d8279e21f102b9f0fa86644ecd11728b590e",
+ "to_hash": "ebdc7af28a92b03fff0ada76ba30cafb4eca54beaa6d068aec734cd2948cd00e",
+ "url": "https://www.superjob.ru/info/privacy-policy.html",
+ "retrospective": true,
+ "wayback_url": "https://web.archive.org/web/20220731/https://www.superjob.ru/info/privacy-policy.html"
 }

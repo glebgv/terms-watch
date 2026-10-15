@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:45:38+00:00",
+  "generated_at": "2026-10-15T09:16:12+00:00",
   "sites": [
     {
       "site": {
@@ -537,7 +537,7 @@
         "wayback_url": "https://web.archive.org/web/20250523/https://www.superjob.ru/info/privacy_agreement.html",
         "retrospective": true
       },
-      "changes_count": 19
+      "changes_count": 7
     },
     {
       "site": {
@@ -1050,7 +1050,7 @@
         "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/cookie_accept.pdf",
         "retrospective": true
       },
-      "changes_count": 42
+      "changes_count": 41
     },
     {
       "site": {
@@ -2985,24 +2985,6 @@
     {
       "site_id": "fl",
       "site_name": "FL.ru",
-      "doc_id": "price",
-      "doc_title": "Прейскурант (Приложение 1)",
-      "date": "2024-05-02-1152",
-      "ratio": 0.2466,
-      "is_major": false,
-      "keywords": [
-        "персональные данные",
-        "ответственность",
-        "согласие"
-      ],
-      "summary": "Изменено 25% документа: +44 / −199 строк",
-      "diff_path": "fl/price/diffs/2024-05-02-1152.json",
-      "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-      "retrospective": true
-    },
-    {
-      "site_id": "fl",
-      "site_name": "FL.ru",
       "doc_id": "agreement",
       "doc_title": "Соглашение об использовании сайта",
       "date": "2024-05-02-1148",
@@ -3210,48 +3192,6 @@
       "retrospective": true
     },
     {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy_agreement",
-      "doc_title": "Соглашение о конфиденциальности",
-      "date": "2023-08-02-0937",
-      "ratio": 0.0098,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 1% документа: +1 / −1 строк",
-      "diff_path": "superjob/privacy_agreement/diffs/2023-08-02-0937.json",
-      "wayback_url": "https://web.archive.org/web/20230802/https://www.superjob.ru/info/privacy_agreement.html",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "personal_data",
-      "doc_title": "Согласие на обработку персональных данных",
-      "date": "2023-06-21-1157",
-      "ratio": 0.02,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 2% документа: +2 / −2 строк",
-      "diff_path": "superjob/personal_data/diffs/2023-06-21-1157.json",
-      "wayback_url": "https://web.archive.org/web/20230621/https://www.superjob.ru/info/personalnye_dannye.html",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy_agreement",
-      "doc_title": "Соглашение о конфиденциальности",
-      "date": "2023-06-06-0051",
-      "ratio": 0.0196,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 2% документа: +2 / −2 строк",
-      "diff_path": "superjob/privacy_agreement/diffs/2023-06-06-0051.json",
-      "wayback_url": "https://web.archive.org/web/20230606/https://www.superjob.ru/info/privacy_agreement.html",
-      "retrospective": true
-    },
-    {
       "site_id": "vk",
       "site_name": "VK",
       "doc_id": "terms",
@@ -3330,48 +3270,6 @@
       "summary": "Изменено 2% документа: +2 / −2 строк",
       "diff_path": "superjob/personal_data/diffs/2023-03-07-0414.json",
       "wayback_url": "https://web.archive.org/web/20230307/https://www.superjob.ru/info/personalnye_dannye.html",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
-      "date": "2023-02-28-0119",
-      "ratio": 0.0549,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 5% документа: +5 / −0 строк",
-      "diff_path": "superjob/privacy/diffs/2023-02-28-0119.json",
-      "wayback_url": "https://web.archive.org/web/20230228/https://www.superjob.ru/info/privacy-policy.html",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy_agreement",
-      "doc_title": "Соглашение о конфиденциальности",
-      "date": "2023-02-20-1500",
-      "ratio": 0.0612,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 6% документа: +5 / −1 строк",
-      "diff_path": "superjob/privacy_agreement/diffs/2023-02-20-1500.json",
-      "wayback_url": "https://web.archive.org/web/20230220/https://www.superjob.ru/info/privacy_agreement.html",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "personal_data",
-      "doc_title": "Согласие на обработку персональных данных",
-      "date": "2023-02-20-1459",
-      "ratio": 0.0526,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 5% документа: +5 / −0 строк",
-      "diff_path": "superjob/personal_data/diffs/2023-02-20-1459.json",
-      "wayback_url": "https://web.archive.org/web/20230220/https://www.superjob.ru/info/personalnye_dannye.html",
       "retrospective": true
     },
     {
@@ -3624,20 +3522,6 @@
       "retrospective": true
     },
     {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "personal_data",
-      "doc_title": "Согласие на обработку персональных данных",
-      "date": "2022-06-03-1502",
-      "ratio": 0.033,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 3% документа: +2 / −3 строк",
-      "diff_path": "superjob/personal_data/diffs/2022-06-03-1502.json",
-      "wayback_url": "https://web.archive.org/web/20220603/https://www.superjob.ru/info/personalnye_dannye.html",
-      "retrospective": true
-    },
-    {
       "site_id": "hh",
       "site_name": "HeadHunter",
       "doc_id": "privacy",
@@ -3669,20 +3553,6 @@
       "summary": "Изменено 27% документа: +31 / −35 строк",
       "diff_path": "fl/pdn_consent/diffs/2022-04-28-2244.json",
       "wayback_url": "https://web.archive.org/web/20220428/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy_agreement",
-      "doc_title": "Соглашение о конфиденциальности",
-      "date": "2022-04-26-0727",
-      "ratio": 0.0319,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 3% документа: +2 / −2 строк",
-      "diff_path": "superjob/privacy_agreement/diffs/2022-04-26-0727.json",
-      "wayback_url": "https://web.archive.org/web/20220426/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     },
     {
@@ -3790,34 +3660,6 @@
       "retrospective": true
     },
     {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy_agreement",
-      "doc_title": "Соглашение о конфиденциальности",
-      "date": "2022-03-14-0016",
-      "ratio": 0.0549,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 5% документа: +4 / −1 строк",
-      "diff_path": "superjob/privacy_agreement/diffs/2022-03-14-0016.json",
-      "wayback_url": "https://web.archive.org/web/20220314/https://www.superjob.ru/info/privacy_agreement.html",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "personal_data",
-      "doc_title": "Согласие на обработку персональных данных",
-      "date": "2022-03-10-0256",
-      "ratio": 0.0222,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 2% документа: +2 / −0 строк",
-      "diff_path": "superjob/personal_data/diffs/2022-03-10-0256.json",
-      "wayback_url": "https://web.archive.org/web/20220310/https://www.superjob.ru/info/personalnye_dannye.html",
-      "retrospective": true
-    },
-    {
       "site_id": "fl",
       "site_name": "FL.ru",
       "doc_id": "agreement",
@@ -3894,20 +3736,6 @@
       "retrospective": true
     },
     {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy",
-      "doc_title": "Политика конфиденциальности",
-      "date": "2021-10-11-0557",
-      "ratio": 0.2273,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 23% документа: +11 / −9 строк",
-      "diff_path": "superjob/privacy/diffs/2021-10-11-0557.json",
-      "wayback_url": "https://web.archive.org/web/20211011/https://www.superjob.ru/info/privacy-policy.html",
-      "retrospective": true
-    },
-    {
       "site_id": "hh",
       "site_name": "HeadHunter",
       "doc_id": "offer",
@@ -3972,20 +3800,6 @@
       "summary": "Изменено 5% документа: +6 / −4 строк",
       "diff_path": "hh/privacy/diffs/2021-05-14-0413.json",
       "wayback_url": "https://web.archive.org/web/20210514/https://hh.ru/article/personal_data",
-      "retrospective": true
-    },
-    {
-      "site_id": "superjob",
-      "site_name": "SuperJob",
-      "doc_id": "privacy_agreement",
-      "doc_title": "Соглашение о конфиденциальности",
-      "date": "2021-04-21-0255",
-      "ratio": 0.0244,
-      "is_major": false,
-      "keywords": [],
-      "summary": "Изменено 2% документа: +2 / −0 строк",
-      "diff_path": "superjob/privacy_agreement/diffs/2021-04-21-0255.json",
-      "wayback_url": "https://web.archive.org/web/20210421/https://www.superjob.ru/info/privacy_agreement.html",
       "retrospective": true
     }
   ]

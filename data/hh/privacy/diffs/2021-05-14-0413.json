@@ -1,104 +1,104 @@
 {
-  "stats": {
-    "lines_added": 2,
-    "lines_removed": 2,
-    "lines_changed": 2,
-    "change_ratio": 0.0185
-  },
-  "is_major": false,
-  "reordering_only": false,
-  "keywords": [
-    "персональные данные"
-  ],
-  "changes": [
+ "stats": {
+  "lines_added": 2,
+  "lines_removed": 2,
+  "lines_changed": 2,
+  "change_ratio": 0.0185
+ },
+ "is_major": false,
+ "reordering_only": false,
+ "keywords": [
+  "персональные данные"
+ ],
+ "changes": [
+  {
+   "type": "modify",
+   "position": 1,
+   "old_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Вместе справимся Как мы поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям Search Advertising Application Automation HR training Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1..",
+   "new_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1..",
+   "word_diff": [
     {
-      "type": "modify",
-      "position": 1,
-      "old_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Вместе справимся Как мы поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям Search Advertising Application Automation HR training Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1.",
-      "new_text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Search Advertising Application Automation HR training Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1.",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience"
-        },
-        {
-          "type": "remove",
-          "text": "Вместе справимся"
-        },
-        {
-          "type": "add",
-          "text": "Журнал «Ohh!»"
-        },
-        {
-          "type": "keep",
-          "text": "Как мы"
-        },
-        {
-          "type": "remove",
-          "text": "поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям"
-        },
-        {
-          "type": "add",
-          "text": "создаем сервисы hh.ru для работодателей"
-        },
-        {
-          "type": "keep",
-          "text": "Search Advertising Application Automation HR training"
-        },
-        {
-          "type": "add",
-          "text": "Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии"
-        },
-        {
-          "type": "keep",
-          "text": "Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1."
-        }
-      ]
+     "type": "keep",
+     "text": "Services for employers Posting job openings Service for placing applications for selecting specialists of any level Resume Samples Use effective communication channels with your audience"
     },
     {
-      "type": "modify",
-      "position": 38,
-      "old_text": "Labour market studies To assess the level of competition, demand and supply in the labour market Вместе справимся Как мы поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям Talantix For convenient work with the resume and staff database",
-      "new_text": "Labour market studies To assess the level of competition, demand and supply in the labour market Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Talantix For convenient work with the resume and staff database",
-      "word_diff": [
-        {
-          "type": "keep",
-          "text": "Labour market studies To assess the level of competition, demand and supply in the labour market"
-        },
-        {
-          "type": "remove",
-          "text": "Вместе справимся"
-        },
-        {
-          "type": "add",
-          "text": "Журнал «Ohh!»"
-        },
-        {
-          "type": "keep",
-          "text": "Как мы"
-        },
-        {
-          "type": "remove",
-          "text": "поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям"
-        },
-        {
-          "type": "add",
-          "text": "создаем сервисы hh.ru для работодателей"
-        },
-        {
-          "type": "keep",
-          "text": "Talantix For convenient work with the resume and staff database"
-        }
-      ]
+     "type": "remove",
+     "text": "Вместе справимся"
+    },
+    {
+     "type": "add",
+     "text": "Журнал «Ohh!»"
+    },
+    {
+     "type": "keep",
+     "text": "Как мы"
+    },
+    {
+     "type": "remove",
+     "text": "поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям"
+    },
+    {
+     "type": "add",
+     "text": "создаем сервисы hh.ru для работодателей"
+    },
+    {
+     "type": "keep",
+     "text": "Search Advertising Application Automation HR training"
+    },
+    {
+     "type": "add",
+     "text": "Аналитика и исследования Все нужные данные о рынке труда, сотрудниках и кандидатах для вашей HR-стратегии"
+    },
+    {
+     "type": "keep",
+     "text": "Services under development Try new services that we can introduce on hh.ru in the future Политика в области обработки и обеспечения безопасности персональных данных 1.."
     }
-  ],
-  "site": "hh",
-  "doc_id": "privacy",
-  "doc_title": "Политика конфиденциальности",
-  "from_date": "2021-01-01-0624",
-  "to_date": "2021-05-14-0413",
-  "from_hash": "ec5686effddb0bb81d86e0d616e4f19f9b169284b58b34e9dd3fd3623b90b4e7",
-  "to_hash": "45292ed0fea7b69eef463894b7819ff91129291aab0fd6ba4cff3222b9d4aaa2",
-  "url": "https://hh.ru/article/personal_data",
-  "ai_summary": "Затронуты темы: персональные данные. Добавлено строк: 2, удалено: 2, изменено: 2."
+   ]
+  },
+  {
+   "type": "modify",
+   "position": 38,
+   "old_text": "Labour market studies To assess the level of competition, demand and supply in the labour market Вместе справимся Как мы поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям Talantix For convenient work with the resume and staff database",
+   "new_text": "Labour market studies To assess the level of competition, demand and supply in the labour market Журнал «Ohh!» Как мы создаем сервисы hh.ru для работодателей Talantix For convenient work with the resume and staff database",
+   "word_diff": [
+    {
+     "type": "keep",
+     "text": "Labour market studies To assess the level of competition, demand and supply in the labour market"
+    },
+    {
+     "type": "remove",
+     "text": "Вместе справимся"
+    },
+    {
+     "type": "add",
+     "text": "Журнал «Ohh!»"
+    },
+    {
+     "type": "keep",
+     "text": "Как мы"
+    },
+    {
+     "type": "remove",
+     "text": "поддерживаем бизнес и помогаем работодателям адаптироваться к изменившимся условиям"
+    },
+    {
+     "type": "add",
+     "text": "создаем сервисы hh.ru для работодателей"
+    },
+    {
+     "type": "keep",
+     "text": "Talantix For convenient work with the resume and staff database"
+    }
+   ]
+  }
+ ],
+ "site": "hh",
+ "doc_id": "privacy",
+ "doc_title": "Политика конфиденциальности",
+ "from_date": "2021-01-01-0624",
+ "to_date": "2021-05-14-0413",
+ "from_hash": "ec5686effddb0bb81d86e0d616e4f19f9b169284b58b34e9dd3fd3623b90b4e7",
+ "to_hash": "45292ed0fea7b69eef463894b7819ff91129291aab0fd6ba4cff3222b9d4aaa2",
+ "url": "https://hh.ru/article/personal_data",
+ "ai_summary": "Затронуты темы: персональные данные. Добавлено строк: 2, удалено: 2, изменено: 2."
 }
