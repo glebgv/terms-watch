@@ -1,1910 +1,1959 @@
 {
- "updated": "2026-10-14T19:19:57+00:00",
- "entries": [
-  {
-   "date": "2026-10-14",
-   "checked_at": "2026-10-14T19:19:57+00:00",
-   "site_id": "cloudru",
-   "site_name": "Cloud.ru",
-   "doc_id": "sla_advanced",
-   "doc_title": "SLA — Advanced",
-   "is_major": false,
-   "keywords": [
-    "ответственность"
-   ],
-   "summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 84, изменено: 0.",
-   "url": "https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=",
-   "diff_path": "cloudru/sla_advanced/diffs/2026-10-14.json"
-  },
-  {
-   "date": "2026-10-14",
-   "checked_at": "2026-10-14T19:18:33+00:00",
-   "site_id": "cloudru",
-   "site_name": "Cloud.ru",
-   "doc_id": "sla_evolution",
-   "doc_title": "SLA — Evolution",
-   "is_major": false,
-   "keywords": [],
-   "summary": "Добавлено строк: 0, удалено: 58, изменено: 0.",
-   "url": "https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform=",
-   "diff_path": "cloudru/sla_evolution/diffs/2026-10-14.json"
-  },
-  {
-   "date": "2026-10-14",
-   "checked_at": "2026-10-14T19:18:04+00:00",
-   "site_id": "cloudru",
-   "site_name": "Cloud.ru",
-   "doc_id": "limitations",
-   "doc_title": "Вводимые ограничения (Evolution)",
-   "is_major": false,
-   "keywords": [
-    "ответственность"
-   ],
-   "summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 14, изменено: 0.",
-   "url": "https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution",
-   "diff_path": "cloudru/limitations/diffs/2026-10-14.json"
-  },
-  {
-   "date": "2026-10-14",
-   "checked_at": "2026-10-14T19:17:37+00:00",
-   "site_id": "cloudru",
-   "site_name": "Cloud.ru",
-   "doc_id": "sla_general",
-   "doc_title": "SLA — общее соглашение",
-   "is_major": false,
-   "keywords": [],
-   "summary": "Добавлено строк: 0, удалено: 23, изменено: 0.",
-   "url": "https://cloud.ru/documents/contracts/terms-of-service/general/service-level-agreement?source-platform=",
-   "diff_path": "cloudru/sla_general/diffs/2026-10-14.json"
-  },
-  {
-   "date": "2026-10-14",
-   "checked_at": "2026-10-14T12:29:29+00:00",
-   "site_id": "vk",
-   "site_name": "VK",
-   "doc_id": "cc_terms",
-   "doc_title": "Условия использования сервиса «VK Реклама»",
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 0, удалено: 45, изменено: 0.",
-   "url": "https://vk.ru/help?page=cc_terms",
-   "diff_path": "vk/cc_terms/diffs/2026-10-14.json"
-  },
-  {
-   "date": "2026-10-13",
-   "checked_at": "2026-10-13T19:16:44+00:00",
-   "site_id": "avito",
-   "site_name": "Avito",
-   "doc_id": "listing_policy",
-   "doc_title": "Политика размещения объявлений",
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "суд"
-   ],
-   "summary": "Затронуты темы: персональные данные, суд. Добавлено строк: 11, удалено: 11, изменено: 11.",
-   "url": "https://www.avito.ru/legal/rules/listings/listing-policy",
-   "diff_path": "avito/listing_policy/diffs/2026-10-13-1916.json"
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "cookie",
-   "doc_title": "Использование cookie",
-   "date": "2026-10-13",
-   "ratio": 0.0989,
-   "is_major": false,
-   "keywords": [
-    "cookies"
-   ],
-   "summary": "Изменено 10% документа: +6 / −9 строк",
-   "diff_path": "fl/cookie/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/cookie_accept.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "pdn_consent",
-   "doc_title": "Согласие на обработку ПДн",
-   "date": "2026-10-13",
-   "ratio": 0.2414,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 24% документа: +42 / −49 строк",
-   "diff_path": "fl/pdn_consent/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "offer_business",
-   "doc_title": "Оферта для бизнеса",
-   "date": "2026-10-13",
-   "ratio": 0.2888,
-   "is_major": false,
-   "keywords": [
-    "оплата",
-    "суд",
-    "согласие"
-   ],
-   "summary": "Изменено 29% документа: +66 / −66 строк",
-   "diff_path": "fl/offer_business/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/offer_for_business.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "service",
-   "doc_title": "Описание сервиса (Приложение 4)",
-   "date": "2026-10-13",
-   "ratio": 0.3491,
-   "is_major": false,
-   "keywords": [
-    "согласие"
-   ],
-   "summary": "Изменено 35% документа: +25 / −37 строк",
-   "diff_path": "fl/service/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_4_service.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2026-10-13",
-   "ratio": 0.1084,
-   "is_major": false,
-   "keywords": [
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 11% документа: +32 / −32 строк",
-   "diff_path": "fl/regulations/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2026-10-13",
-   "ratio": 0.0057,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +3 / −5 строк",
-   "diff_path": "fl/price/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2026-10-13",
-   "ratio": 0.2774,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 28% документа: +71 / −79 строк",
-   "diff_path": "fl/privacy/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/privacy_policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2026-10-13",
-   "ratio": 0.0597,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 6% документа: +90 / −88 строк",
-   "diff_path": "fl/agreement/diffs/2026-10-13.json",
-   "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "date": "2026-10-12",
-   "checked_at": "2026-10-12T09:39:38+00:00",
-   "site_id": "vk",
-   "site_name": "VK",
-   "doc_id": "cc_terms",
-   "doc_title": "Условия использования сервиса «VK Реклама»",
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 46, удалено: 0, изменено: 0.",
-   "url": "https://vk.ru/help?page=cc_terms",
-   "diff_path": "vk/cc_terms/diffs/2026-10-12.json"
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2026-10-11",
-   "ratio": 0.4078,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "суд",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 41% документа: +32 / −41 строк",
-   "diff_path": "hh/privacy/diffs/2026-10-11.json",
-   "wayback_url": "https://web.archive.org/web/20261011/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2026-10-11",
-   "ratio": 0.0047,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 0% документа: +3 / −2 строк",
-   "diff_path": "hh/offer/diffs/2026-10-11.json",
-   "wayback_url": "https://web.archive.org/web/20261011/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2026-07-29-1039",
-   "ratio": 0.0628,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных"
-   ],
-   "summary": "Изменено 6% документа: +38 / −9 строк",
-   "diff_path": "hh/offer/diffs/2026-07-29-1039.json",
-   "wayback_url": "https://web.archive.org/web/20260729/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2026-07-23-1635",
-   "ratio": 0.0089,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "hh/privacy/diffs/2026-07-23-1635.json",
-   "wayback_url": "https://web.archive.org/web/20260723/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "yandex",
-   "site_name": "Yandex",
-   "doc_id": "rules",
-   "doc_title": "Условия использования сервисов Яндекса",
-   "date": "2026-05-30-1248",
-   "ratio": 0.0176,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +4 / −1 строк",
-   "diff_path": "yandex/rules/diffs/2026-05-30-1248.json",
-   "wayback_url": "https://web.archive.org/web/20260530/https://yandex.ru/legal/rules/ru/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2026-05-03-1014",
-   "ratio": 0.0268,
-   "is_major": false,
-   "keywords": [
-    "согласие"
-   ],
-   "summary": "Изменено 3% документа: +3 / −3 строк",
-   "diff_path": "hh/privacy/diffs/2026-05-03-1014.json",
-   "wayback_url": "https://web.archive.org/web/20260503/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2026-05-01-0824",
-   "ratio": 0.011,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +2 / −2 строк",
-   "diff_path": "profi/privacy/diffs/2026-05-01-0824.json",
-   "wayback_url": "https://web.archive.org/web/20260501/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2026-04-30-0503",
-   "ratio": 0.0721,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "согласие"
-   ],
-   "summary": "Изменено 7% документа: +40 / −19 строк",
-   "diff_path": "hh/offer/diffs/2026-04-30-0503.json",
-   "wayback_url": "https://web.archive.org/web/20260430/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2026-02-22-0615",
-   "ratio": 0.0045,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 0% документа: +4 / −3 строк",
-   "diff_path": "fl/price/diffs/2026-02-22-0615.json",
-   "wayback_url": "https://web.archive.org/web/20260222/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "yandex",
-   "site_name": "Yandex",
-   "doc_id": "cloud_terms",
-   "doc_title": "Условия использования Яндекс Cloud",
-   "date": "2026-02-14-2232",
-   "ratio": 0.0076,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "yandex/cloud_terms/diffs/2026-02-14-2232.json",
-   "wayback_url": "https://web.archive.org/web/20260214/https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2026-01-13-1600",
-   "ratio": 0.0348,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 3% документа: +1 / −4 строк",
-   "diff_path": "hh/privacy/diffs/2026-01-13-1600.json",
-   "wayback_url": "https://web.archive.org/web/20260113/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2026-01-03-2034",
-   "ratio": 0.1267,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "хранение данных"
-   ],
-   "summary": "Изменено 13% документа: +195 / −195 строк",
-   "diff_path": "fl/agreement/diffs/2026-01-03-2034.json",
-   "wayback_url": "https://web.archive.org/web/20260103/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-12-29-2224",
-   "ratio": 0.0522,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 5% документа: +6 / −3 строк",
-   "diff_path": "hh/privacy/diffs/2025-12-29-2224.json",
-   "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2025-12-29-2217",
-   "ratio": 0.0206,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 2% документа: +10 / −9 строк",
-   "diff_path": "hh/offer/diffs/2025-12-29-2217.json",
-   "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2025-12-29-2038",
-   "ratio": 0.0604,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 6% документа: +51 / −16 строк",
-   "diff_path": "fl/price/diffs/2025-12-29-2038.json",
-   "wayback_url": "https://web.archive.org/web/20251229/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-12-27-1947",
-   "ratio": 0.011,
-   "is_major": false,
-   "keywords": [
-    "персональные данные"
-   ],
-   "summary": "Изменено 1% документа: +2 / −2 строк",
-   "diff_path": "profi/privacy/diffs/2025-12-27-1947.json",
-   "wayback_url": "https://web.archive.org/web/20251227/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "recommendation",
-   "doc_title": "Правила применения рекомендательных алгоритмов",
-   "date": "2025-12-24-1614",
-   "ratio": 0.0526,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 5% документа: +3 / −2 строк",
-   "diff_path": "profi/recommendation/diffs/2025-12-24-1614.json",
-   "wayback_url": "https://web.archive.org/web/20251224/https://profi.ru/documents/recommendation-algorithms/",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2025-10-11-1320",
-   "ratio": 0.0858,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 9% документа: +65 / −59 строк",
-   "diff_path": "fl/price/diffs/2025-10-11-1320.json",
-   "wayback_url": "https://web.archive.org/web/20251011/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2025-09-02-1337",
-   "ratio": 0.0976,
-   "is_major": false,
-   "keywords": [
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 10% документа: +32 / −28 строк",
-   "diff_path": "fl/regulations/diffs/2025-09-02-1337.json",
-   "wayback_url": "https://web.archive.org/web/20250902/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "pdn_consent",
-   "doc_title": "Согласие на обработку ПДн",
-   "date": "2025-08-25-1136",
-   "ratio": 0.4156,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 42% документа: +73 / −94 строк",
-   "diff_path": "fl/pdn_consent/diffs/2025-08-25-1136.json",
-   "wayback_url": "https://web.archive.org/web/20250825/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2025-08-23-1301",
-   "ratio": 0.1269,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "хранение данных"
-   ],
-   "summary": "Изменено 13% документа: +200 / −195 строк",
-   "diff_path": "fl/agreement/diffs/2025-08-23-1301.json",
-   "wayback_url": "https://web.archive.org/web/20250823/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-08-21-0202",
-   "ratio": 0.273,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "суд",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 27% документа: +79 / −83 строк",
-   "diff_path": "fl/privacy/diffs/2025-08-21-0202.json",
-   "wayback_url": "https://web.archive.org/web/20250821/https://st.fl.ru/about/documents/privacy_policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2025-08-15-2334",
-   "ratio": 0.0668,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "согласие"
-   ],
-   "summary": "Изменено 7% документа: +33 / −10 строк",
-   "diff_path": "hh/offer/diffs/2025-08-15-2334.json",
-   "wayback_url": "https://web.archive.org/web/20250815/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2025-08-05-0914",
-   "ratio": 0.1915,
-   "is_major": false,
-   "keywords": [
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 19% документа: +58 / −63 строк",
-   "diff_path": "fl/regulations/diffs/2025-08-05-0914.json",
-   "wayback_url": "https://web.archive.org/web/20250805/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-08-02-1556",
-   "ratio": 0.0166,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +3 / −2 строк",
-   "diff_path": "profi/privacy/diffs/2025-08-02-1556.json",
-   "wayback_url": "https://web.archive.org/web/20250802/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2025-07-02-1109",
-   "ratio": 0.0687,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 7% документа: +22 / −23 строк",
-   "diff_path": "fl/regulations/diffs/2025-07-02-1109.json",
-   "wayback_url": "https://web.archive.org/web/20250702/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-06-20-1645",
-   "ratio": 0.0089,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "hh/privacy/diffs/2025-06-20-1645.json",
-   "wayback_url": "https://web.archive.org/web/20250620/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2025-05-27-0926",
-   "ratio": 0.005,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 0% документа: +4 / −4 строк",
-   "diff_path": "fl/price/diffs/2025-05-27-0926.json",
-   "wayback_url": "https://web.archive.org/web/20250527/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "privacy_agreement",
-   "doc_title": "Соглашение о конфиденциальности",
-   "date": "2025-05-23-0909",
-   "ratio": 0.4333,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 43% документа: +5 / −13 строк",
-   "diff_path": "superjob/privacy_agreement/diffs/2025-05-23-0909.json",
-   "wayback_url": "https://web.archive.org/web/20250523/https://www.superjob.ru/info/privacy_agreement.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-05-22-0536",
-   "ratio": 0.0089,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "hh/privacy/diffs/2025-05-22-0536.json",
-   "wayback_url": "https://web.archive.org/web/20250522/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2025-04-30-0934",
-   "ratio": 0.0208,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "согласие"
-   ],
-   "summary": "Изменено 2% документа: +10 / −5 строк",
-   "diff_path": "hh/offer/diffs/2025-04-30-0934.json",
-   "wayback_url": "https://web.archive.org/web/20250430/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-03-05-2315",
-   "ratio": 0.2808,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 28% документа: +82 / −66 строк",
-   "diff_path": "fl/privacy/diffs/2025-03-05-2315.json",
-   "wayback_url": "https://web.archive.org/web/20250305/https://st.fl.ru/about/documents/privacy_policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2025-02-21-1643",
-   "ratio": 0.0637,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 6% документа: +48 / −51 строк",
-   "diff_path": "fl/price/diffs/2025-02-21-1643.json",
-   "wayback_url": "https://web.archive.org/web/20250221/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "privacy_agreement",
-   "doc_title": "Соглашение о конфиденциальности",
-   "date": "2025-01-14-2305",
-   "ratio": 0.5714,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "согласие"
-   ],
-   "summary": "Изменено 57% документа: +6 / −38 строк",
-   "diff_path": "superjob/privacy_agreement/diffs/2025-01-14-2305.json",
-   "wayback_url": "https://web.archive.org/web/20250114/https://www.superjob.ru/info/privacy_agreement.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2025-01-08-1534",
-   "ratio": 0.0603,
-   "is_major": false,
-   "keywords": [
-    "персональные данные"
-   ],
-   "summary": "Изменено 6% документа: +3 / −7 строк",
-   "diff_path": "hh/privacy/diffs/2025-01-08-1534.json",
-   "wayback_url": "https://web.archive.org/web/20250108/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2024-12-17-2023",
-   "ratio": 0.2985,
-   "is_major": false,
-   "keywords": [
-    "ответственность",
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 30% документа: +198 / −85 строк",
-   "diff_path": "fl/price/diffs/2024-12-17-2023.json",
-   "wayback_url": "https://web.archive.org/web/20241217/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "pdn_consent",
-   "doc_title": "Согласие на обработку ПДн",
-   "date": "2024-12-17-1852",
-   "ratio": 0.3738,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 37% документа: +77 / −31 строк",
-   "diff_path": "fl/pdn_consent/diffs/2024-12-17-1852.json",
-   "wayback_url": "https://web.archive.org/web/20241217/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2024-12-17-0007",
-   "ratio": 0.0278,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд"
-   ],
-   "summary": "Изменено 3% документа: +5 / −5 строк",
-   "diff_path": "profi/privacy/diffs/2024-12-17-0007.json",
-   "wayback_url": "https://web.archive.org/web/20241217/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2024-12-03-0628",
-   "ratio": 0.4273,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "хранение данных"
-   ],
-   "summary": "Изменено 43% документа: +184 / −169 строк",
-   "diff_path": "hh/offer/diffs/2024-12-03-0628.json",
-   "wayback_url": "https://web.archive.org/web/20241203/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2024-11-26-1834",
-   "ratio": 0.0244,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +0 / −3 строк",
-   "diff_path": "hh/privacy/diffs/2024-11-26-1834.json",
-   "wayback_url": "https://web.archive.org/web/20241126/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "selectel",
-   "site_name": "Selectel",
-   "doc_id": "pd_policy",
-   "doc_title": "Политика обработки и защиты персональных данных",
-   "date": "2024-11-18-0219",
-   "ratio": 0.0587,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 6% документа: +21 / −5 строк",
-   "diff_path": "selectel/pd_policy/diffs/2024-11-18-0219.json",
-   "wayback_url": "https://web.archive.org/web/20241118/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "selectel",
-   "site_name": "Selectel",
-   "doc_id": "pd_policy",
-   "doc_title": "Политика обработки и защиты персональных данных",
-   "date": "2024-09-05-1704",
-   "ratio": 0.2825,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "суд",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 28% документа: +81 / −100 строк",
-   "diff_path": "selectel/pd_policy/diffs/2024-09-05-1704.json",
-   "wayback_url": "https://web.archive.org/web/20240905/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2024-08-29-1607",
-   "ratio": 0.0278,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "согласие"
-   ],
-   "summary": "Изменено 3% документа: +5 / −5 строк",
-   "diff_path": "profi/privacy/diffs/2024-08-29-1607.json",
-   "wayback_url": "https://web.archive.org/web/20240829/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2024-07-05-0116",
-   "ratio": 0.0079,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "hh/privacy/diffs/2024-07-05-0116.json",
-   "wayback_url": "https://web.archive.org/web/20240705/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2024-07-04-1433",
-   "ratio": 0.0356,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 4% документа: +11 / −12 строк",
-   "diff_path": "fl/regulations/diffs/2024-07-04-1433.json",
-   "wayback_url": "https://web.archive.org/web/20240704/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "vk",
-   "site_name": "VK",
-   "doc_id": "terms",
-   "doc_title": "Условия использования",
-   "date": "2024-07-03-0918",
-   "ratio": 0.0556,
-   "is_major": false,
-   "keywords": [
-    "third party"
-   ],
-   "summary": "Изменено 6% документа: +6 / −6 строк",
-   "diff_path": "vk/terms/diffs/2024-07-03-0918.json",
-   "wayback_url": "https://web.archive.org/web/20240703/https://vk.ru/terms",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2024-06-27-1725",
-   "ratio": 0.0159,
-   "is_major": false,
-   "keywords": [
-    "ответственность",
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 2% документа: +25 / −25 строк",
-   "diff_path": "fl/agreement/diffs/2024-06-27-1725.json",
-   "wayback_url": "https://web.archive.org/web/20240627/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2024-06-01-1750",
-   "ratio": 0.1614,
-   "is_major": false,
-   "keywords": [
-    "арбитраж",
-    "расторжение",
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 16% документа: +41 / −50 строк",
-   "diff_path": "fl/regulations/diffs/2024-06-01-1750.json",
-   "wayback_url": "https://web.archive.org/web/20240601/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "service",
-   "doc_title": "Описание сервиса (Приложение 4)",
-   "date": "2024-05-02-1207",
-   "ratio": 0.0672,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 7% документа: +6 / −7 строк",
-   "diff_path": "fl/service/diffs/2024-05-02-1207.json",
-   "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/appendix_4_service.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "offer_business",
-   "doc_title": "Оферта для бизнеса",
-   "date": "2024-05-02-1152",
-   "ratio": 0.0823,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 8% документа: +19 / −18 строк",
-   "diff_path": "fl/offer_business/diffs/2024-05-02-1152.json",
-   "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/offer_for_business.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2024-05-02-1148",
-   "ratio": 0.0784,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "согласие"
-   ],
-   "summary": "Изменено 8% документа: +121 / −109 строк",
-   "diff_path": "fl/agreement/diffs/2024-05-02-1148.json",
-   "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2024-03-06-0959",
-   "ratio": 0.0045,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 0% документа: +2 / −1 строк",
-   "diff_path": "hh/offer/diffs/2024-03-06-0959.json",
-   "wayback_url": "https://web.archive.org/web/20240306/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2024-02-28-1706",
-   "ratio": 0.0168,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +3 / −2 строк",
-   "diff_path": "profi/privacy/diffs/2024-02-28-1706.json",
-   "wayback_url": "https://web.archive.org/web/20240228/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2024-02-09-1704",
-   "ratio": 0.8403,
-   "is_major": true,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "расторжение",
-    "оплата",
-    "суд"
-   ],
-   "summary": "Изменено 84% документа: +200 / −13 строк",
-   "diff_path": "hh/offer/diffs/2024-02-09-1704.json",
-   "wayback_url": "https://web.archive.org/web/20240209/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2024-02-03-1843",
-   "ratio": 0.0197,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +7 / −7 строк",
-   "diff_path": "fl/regulations/diffs/2024-02-03-1843.json",
-   "wayback_url": "https://web.archive.org/web/20240203/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2024-02-01-0717",
-   "ratio": 0.0282,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 3% документа: +10 / −9 строк",
-   "diff_path": "fl/regulations/diffs/2024-02-01-0717.json",
-   "wayback_url": "https://web.archive.org/web/20240201/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2023-12-31-1701",
-   "ratio": 0.5849,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 58% документа: +62 / −42 строк",
-   "diff_path": "hh/privacy/diffs/2023-12-31-1701.json",
-   "wayback_url": "https://web.archive.org/web/20231231/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2023-12-22-2344",
-   "ratio": 0.2258,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "хранение данных"
-   ],
-   "summary": "Изменено 23% документа: +7 / −6 строк",
-   "diff_path": "hh/offer/diffs/2023-12-22-2344.json",
-   "wayback_url": "https://web.archive.org/web/20231222/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "selectel",
-   "site_name": "Selectel",
-   "doc_id": "pd_policy",
-   "doc_title": "Политика обработки и защиты персональных данных",
-   "date": "2023-11-27-0842",
-   "ratio": 0.3178,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "суд",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 32% документа: +109 / −72 строк",
-   "diff_path": "selectel/pd_policy/diffs/2023-11-27-0842.json",
-   "wayback_url": "https://web.archive.org/web/20231127/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2023-11-02-0007",
-   "ratio": 0.4412,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "оплата",
-    "суд",
-    "согласие"
-   ],
-   "summary": "Изменено 44% документа: +59 / −17 строк",
-   "diff_path": "profi/privacy/diffs/2023-11-02-0007.json",
-   "wayback_url": "https://web.archive.org/web/20231102/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2023-08-17-1749",
-   "ratio": 0.6091,
-   "is_major": true,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 61% документа: +43 / −67 строк",
-   "diff_path": "hh/privacy/diffs/2023-08-17-1749.json",
-   "wayback_url": "https://web.archive.org/web/20230817/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "vk",
-   "site_name": "VK",
-   "doc_id": "terms",
-   "doc_title": "Условия использования",
-   "date": "2023-08-02-1956",
-   "ratio": 0.0093,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "vk/terms/diffs/2023-08-02-1956.json",
-   "wayback_url": "https://web.archive.org/web/20230802/https://vk.ru/terms",
-   "retrospective": true
-  },
-  {
-   "site_id": "vk",
-   "site_name": "VK",
-   "doc_id": "terms",
-   "doc_title": "Условия использования",
-   "date": "2023-05-18-1519",
-   "ratio": 0.0278,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 3% документа: +3 / −3 строк",
-   "diff_path": "vk/terms/diffs/2023-05-18-1519.json",
-   "wayback_url": "https://web.archive.org/web/20230518/https://vk.ru/terms",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2023-05-12-1230",
-   "ratio": 0.0367,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 4% документа: +13 / −13 строк",
-   "diff_path": "fl/regulations/diffs/2023-05-12-1230.json",
-   "wayback_url": "https://web.archive.org/web/20230512/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2023-04-28-0114",
-   "ratio": 0.1,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 10% документа: +3 / −3 строк",
-   "diff_path": "hh/offer/diffs/2023-04-28-0114.json",
-   "wayback_url": "https://web.archive.org/web/20230428/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2023-04-11-0403",
-   "ratio": 0.0224,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +3 / −3 строк",
-   "diff_path": "hh/privacy/diffs/2023-04-11-0403.json",
-   "wayback_url": "https://web.archive.org/web/20230411/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "personal_data",
-   "doc_title": "Согласие на обработку персональных данных",
-   "date": "2023-03-07-0414",
-   "ratio": 0.02,
-   "is_major": false,
-   "keywords": [
-    "ответственность",
-    "хранение данных"
-   ],
-   "summary": "Изменено 2% документа: +2 / −2 строк",
-   "diff_path": "superjob/personal_data/diffs/2023-03-07-0414.json",
-   "wayback_url": "https://web.archive.org/web/20230307/https://www.superjob.ru/info/personalnye_dannye.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "selectel",
-   "site_name": "Selectel",
-   "doc_id": "pd_policy",
-   "doc_title": "Политика обработки и защиты персональных данных",
-   "date": "2023-02-19-2250",
-   "ratio": 0.1419,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 14% документа: +40 / −44 строк",
-   "diff_path": "selectel/pd_policy/diffs/2023-02-19-2250.json",
-   "wayback_url": "https://web.archive.org/web/20230219/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2023-02-17-0226",
-   "ratio": 0.0333,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 3% документа: +1 / −1 строк",
-   "diff_path": "hh/offer/diffs/2023-02-17-0226.json",
-   "wayback_url": "https://web.archive.org/web/20230217/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "vk",
-   "site_name": "VK",
-   "doc_id": "terms",
-   "doc_title": "Условия использования",
-   "date": "2023-02-03-1753",
-   "ratio": 0.0093,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "vk/terms/diffs/2023-02-03-1753.json",
-   "wayback_url": "https://web.archive.org/web/20230203/https://vk.ru/terms",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "pdn_consent",
-   "doc_title": "Согласие на обработку ПДн",
-   "date": "2023-01-25-0821",
-   "ratio": 0.3655,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 37% документа: +52 / −37 строк",
-   "diff_path": "fl/pdn_consent/diffs/2023-01-25-0821.json",
-   "wayback_url": "https://web.archive.org/web/20230125/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2023-01-01-0825",
-   "ratio": 0.6262,
-   "is_major": true,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 63% документа: +67 / −40 строк",
-   "diff_path": "hh/privacy/diffs/2023-01-01-0825.json",
-   "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2022-12-31-1342",
-   "ratio": 0.0125,
-   "is_major": false,
-   "keywords": [
-    "персональные данные"
-   ],
-   "summary": "Изменено 1% документа: +1 / −1 строк",
-   "diff_path": "hh/privacy/diffs/2022-12-31-1342.json",
-   "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2022-12-31-0812",
-   "ratio": 0.5,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "расторжение",
-    "оплата",
-    "суд"
-   ],
-   "summary": "Изменено 50% документа: +15 / −15 строк",
-   "diff_path": "hh/offer/diffs/2022-12-31-0812.json",
-   "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2022-12-29-1853",
-   "ratio": 0.0056,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 1% документа: +2 / −2 строк",
-   "diff_path": "fl/regulations/diffs/2022-12-29-1853.json",
-   "wayback_url": "https://web.archive.org/web/20221229/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2022-12-09-2027",
-   "ratio": 0.117,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 12% документа: +9 / −9 строк",
-   "diff_path": "profi/privacy/diffs/2022-12-09-2027.json",
-   "wayback_url": "https://web.archive.org/web/20221209/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2022-12-03-0327",
-   "ratio": 0.5,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "расторжение",
-    "оплата",
-    "суд"
-   ],
-   "summary": "Изменено 50% документа: +15 / −15 строк",
-   "diff_path": "hh/offer/diffs/2022-12-03-0327.json",
-   "wayback_url": "https://web.archive.org/web/20221203/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2022-10-18-2230",
-   "ratio": 0.0333,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "согласие"
-   ],
-   "summary": "Изменено 3% документа: +1 / −1 строк",
-   "diff_path": "hh/offer/diffs/2022-10-18-2230.json",
-   "wayback_url": "https://web.archive.org/web/20221018/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2022-10-06-1719",
-   "ratio": 0.023,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 2% документа: +25 / −25 строк",
-   "diff_path": "fl/price/diffs/2022-10-06-1719.json",
-   "wayback_url": "https://web.archive.org/web/20221006/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2022-10-01-0551",
-   "ratio": 0.6262,
-   "is_major": true,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 63% документа: +40 / −67 строк",
-   "diff_path": "hh/privacy/diffs/2022-10-01-0551.json",
-   "wayback_url": "https://web.archive.org/web/20221001/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2022-07-31-0526",
-   "ratio": 0.2208,
-   "is_major": false,
-   "keywords": [
-    "third party"
-   ],
-   "summary": "Изменено 22% документа: +17 / −8 строк",
-   "diff_path": "superjob/privacy/diffs/2022-07-31-0526.json",
-   "wayback_url": "https://web.archive.org/web/20220731/https://www.superjob.ru/info/privacy-policy.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2022-06-01-1326",
-   "ratio": 0.1373,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 14% документа: +2 / −21 строк",
-   "diff_path": "hh/privacy/diffs/2022-06-01-1326.json",
-   "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "pdn_consent",
-   "doc_title": "Согласие на обработку ПДн",
-   "date": "2022-04-28-2244",
-   "ratio": 0.2687,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 27% документа: +31 / −35 строк",
-   "diff_path": "fl/pdn_consent/diffs/2022-04-28-2244.json",
-   "wayback_url": "https://web.archive.org/web/20220428/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "service",
-   "doc_title": "Описание сервиса (Приложение 4)",
-   "date": "2022-03-31-2206",
-   "ratio": 0.6849,
-   "is_major": true,
-   "keywords": [
-    "ответственность",
-    "согласие"
-   ],
-   "summary": "Изменено 68% документа: +32 / −200 строк",
-   "diff_path": "fl/service/diffs/2022-03-31-2206.json",
-   "wayback_url": "https://web.archive.org/web/20220331/https://st.fl.ru/about/documents/appendix_4_service.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2022-03-31-2203",
-   "ratio": 0.0415,
-   "is_major": false,
-   "keywords": [
-    "оплата",
-    "суд",
-    "согласие"
-   ],
-   "summary": "Изменено 4% документа: +62 / −62 строк",
-   "diff_path": "fl/agreement/diffs/2022-03-31-2203.json",
-   "wayback_url": "https://web.archive.org/web/20220331/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "price",
-   "doc_title": "Прейскурант (Приложение 1)",
-   "date": "2022-03-31-2157",
-   "ratio": 0.0919,
-   "is_major": false,
-   "keywords": [
-    "оплата"
-   ],
-   "summary": "Изменено 9% документа: +96 / −65 строк",
-   "diff_path": "fl/price/diffs/2022-03-31-2157.json",
-   "wayback_url": "https://web.archive.org/web/20220331/https://st.fl.ru/about/documents/appendix_1_price.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "regulations",
-   "doc_title": "Регламент (Приложение 2)",
-   "date": "2022-03-27-0706",
-   "ratio": 0.0227,
-   "is_major": false,
-   "keywords": [
-    "согласие"
-   ],
-   "summary": "Изменено 2% документа: +8 / −7 строк",
-   "diff_path": "fl/regulations/diffs/2022-03-27-0706.json",
-   "wayback_url": "https://web.archive.org/web/20220327/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2022-03-14-0725",
-   "ratio": 0.2,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "хранение данных"
-   ],
-   "summary": "Изменено 20% документа: +6 / −6 строк",
-   "diff_path": "hh/offer/diffs/2022-03-14-0725.json",
-   "wayback_url": "https://web.archive.org/web/20220314/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "profi",
-   "site_name": "Profi.ru",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2022-03-14-0312",
-   "ratio": 0.0215,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "согласие"
-   ],
-   "summary": "Изменено 2% документа: +2 / −1 строк",
-   "diff_path": "profi/privacy/diffs/2022-03-14-0312.json",
-   "wayback_url": "https://web.archive.org/web/20220314/https://profi.ru/documents/privacy-policy/",
-   "retrospective": true
-  },
-  {
-   "site_id": "fl",
-   "site_name": "FL.ru",
-   "doc_id": "agreement",
-   "doc_title": "Соглашение об использовании сайта",
-   "date": "2022-02-16-1010",
-   "ratio": 0.1307,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "расторжение",
-    "оплата",
-    "согласие"
-   ],
-   "summary": "Изменено 13% документа: +197 / −175 строк",
-   "diff_path": "fl/agreement/diffs/2022-02-16-1010.json",
-   "wayback_url": "https://web.archive.org/web/20220216/https://st.fl.ru/about/documents/agreement_site.pdf",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2021-12-31-1724",
-   "ratio": 0.4459,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "суд",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 45% документа: +66 / −42 строк",
-   "diff_path": "hh/privacy/diffs/2021-12-31-1724.json",
-   "wayback_url": "https://web.archive.org/web/20211231/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "personal_data",
-   "doc_title": "Согласие на обработку персональных данных",
-   "date": "2021-11-30-1234",
-   "ratio": 0.3875,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие",
-    "cookies"
-   ],
-   "summary": "Изменено 39% документа: +25 / −17 строк",
-   "diff_path": "superjob/personal_data/diffs/2021-11-30-1234.json",
-   "wayback_url": "https://web.archive.org/web/20211130/https://www.superjob.ru/info/personalnye_dannye.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "privacy_agreement",
-   "doc_title": "Соглашение о конфиденциальности",
-   "date": "2021-10-21-1934",
-   "ratio": 0.2093,
-   "is_major": false,
-   "keywords": [
-    "персональные данные"
-   ],
-   "summary": "Изменено 21% документа: +12 / −10 строк",
-   "diff_path": "superjob/privacy_agreement/diffs/2021-10-21-1934.json",
-   "wayback_url": "https://web.archive.org/web/20211021/https://www.superjob.ru/info/privacy_agreement.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "offer",
-   "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
-   "date": "2021-10-11-0134",
-   "ratio": 0.1,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "оплата",
-    "суд",
-    "хранение данных"
-   ],
-   "summary": "Изменено 10% документа: +3 / −3 строк",
-   "diff_path": "hh/offer/diffs/2021-10-11-0134.json",
-   "wayback_url": "https://web.archive.org/web/20211011/https://hh.ru/account/agreement",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2021-08-30-0430",
-   "ratio": 0.0323,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 3% документа: +4 / −4 строк",
-   "diff_path": "hh/privacy/diffs/2021-08-30-0430.json",
-   "wayback_url": "https://web.archive.org/web/20210830/https://hh.ru/article/personal_data",
-   "retrospective": true
-  },
-  {
-   "site_id": "superjob",
-   "site_name": "SuperJob",
-   "doc_id": "personal_data",
-   "doc_title": "Согласие на обработку персональных данных",
-   "date": "2021-06-06-0640",
-   "ratio": 0.1765,
-   "is_major": false,
-   "keywords": [
-    "персональные данные",
-    "ответственность",
-    "хранение данных",
-    "согласие"
-   ],
-   "summary": "Изменено 18% документа: +12 / −8 строк",
-   "diff_path": "superjob/personal_data/diffs/2021-06-06-0640.json",
-   "wayback_url": "https://web.archive.org/web/20210606/https://www.superjob.ru/info/personalnye_dannye.html",
-   "retrospective": true
-  },
-  {
-   "site_id": "hh",
-   "site_name": "HeadHunter",
-   "doc_id": "privacy",
-   "doc_title": "Политика конфиденциальности",
-   "date": "2021-05-14-0413",
-   "ratio": 0.0492,
-   "is_major": false,
-   "keywords": [],
-   "summary": "Изменено 5% документа: +6 / −4 строк",
-   "diff_path": "hh/privacy/diffs/2021-05-14-0413.json",
-   "wayback_url": "https://web.archive.org/web/20210514/https://hh.ru/article/personal_data",
-   "retrospective": true
-  }
- ]
+  "updated": "2026-10-16T09:34:30+00:00",
+  "entries": [
+    {
+      "date": "2026-10-16",
+      "checked_at": "2026-10-16T09:34:30+00:00",
+      "site_id": "rutube",
+      "site_name": "Rutube",
+      "doc_id": "mediator_agreement",
+      "doc_title": "Приложение Ж — Медиатор",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://rutube.ru/info/mediator_agreement/",
+      "diff_path": "rutube/mediator_agreement/diffs/2026-10-16.json"
+    },
+    {
+      "date": "2026-10-16",
+      "checked_at": "2026-10-16T09:32:16+00:00",
+      "site_id": "rutube",
+      "site_name": "Rutube",
+      "doc_id": "privacy",
+      "doc_title": "Политика обработки персональных данных",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://rutube.ru/info/privacy/",
+      "diff_path": "rutube/privacy/diffs/2026-10-16.json"
+    },
+    {
+      "date": "2026-10-16",
+      "checked_at": "2026-10-16T09:29:20+00:00",
+      "site_id": "beget",
+      "site_name": "Beget",
+      "doc_id": "personal_data",
+      "doc_title": "Политика обработки персональных данных",
+      "is_major": false,
+      "keywords": [
+        "cookies"
+      ],
+      "summary": "Затронуты темы: cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://beget.com/files/personal-data.pdf",
+      "diff_path": "beget/personal_data/diffs/2026-10-16.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:19:57+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "sla_advanced",
+      "doc_title": "SLA — Advanced",
+      "is_major": false,
+      "keywords": [
+        "ответственность"
+      ],
+      "summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 84, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=",
+      "diff_path": "cloudru/sla_advanced/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:18:33+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "sla_evolution",
+      "doc_title": "SLA — Evolution",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 0, удалено: 58, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform=",
+      "diff_path": "cloudru/sla_evolution/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:18:04+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "limitations",
+      "doc_title": "Вводимые ограничения (Evolution)",
+      "is_major": false,
+      "keywords": [
+        "ответственность"
+      ],
+      "summary": "Затронуты темы: ответственность. Добавлено строк: 0, удалено: 14, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution",
+      "diff_path": "cloudru/limitations/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T19:17:37+00:00",
+      "site_id": "cloudru",
+      "site_name": "Cloud.ru",
+      "doc_id": "sla_general",
+      "doc_title": "SLA — общее соглашение",
+      "is_major": false,
+      "keywords": [],
+      "summary": "Добавлено строк: 0, удалено: 23, изменено: 0.",
+      "url": "https://cloud.ru/documents/contracts/terms-of-service/general/service-level-agreement?source-platform=",
+      "diff_path": "cloudru/sla_general/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-14",
+      "checked_at": "2026-10-14T12:29:29+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cc_terms",
+      "doc_title": "Условия использования сервиса «VK Реклама»",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 0, удалено: 45, изменено: 0.",
+      "url": "https://vk.ru/help?page=cc_terms",
+      "diff_path": "vk/cc_terms/diffs/2026-10-14.json"
+    },
+    {
+      "date": "2026-10-13",
+      "checked_at": "2026-10-13T19:16:44+00:00",
+      "site_id": "avito",
+      "site_name": "Avito",
+      "doc_id": "listing_policy",
+      "doc_title": "Политика размещения объявлений",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд"
+      ],
+      "summary": "Затронуты темы: персональные данные, суд. Добавлено строк: 11, удалено: 11, изменено: 11.",
+      "url": "https://www.avito.ru/legal/rules/listings/listing-policy",
+      "diff_path": "avito/listing_policy/diffs/2026-10-13-1916.json"
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "cookie",
+      "doc_title": "Использование cookie",
+      "date": "2026-10-13",
+      "ratio": 0.0989,
+      "is_major": false,
+      "keywords": [
+        "cookies"
+      ],
+      "summary": "Изменено 10% документа: +6 / −9 строк",
+      "diff_path": "fl/cookie/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/cookie_accept.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "pdn_consent",
+      "doc_title": "Согласие на обработку ПДн",
+      "date": "2026-10-13",
+      "ratio": 0.2414,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 24% документа: +42 / −49 строк",
+      "diff_path": "fl/pdn_consent/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "offer_business",
+      "doc_title": "Оферта для бизнеса",
+      "date": "2026-10-13",
+      "ratio": 0.2888,
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "суд",
+        "согласие"
+      ],
+      "summary": "Изменено 29% документа: +66 / −66 строк",
+      "diff_path": "fl/offer_business/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/offer_for_business.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "service",
+      "doc_title": "Описание сервиса (Приложение 4)",
+      "date": "2026-10-13",
+      "ratio": 0.3491,
+      "is_major": false,
+      "keywords": [
+        "согласие"
+      ],
+      "summary": "Изменено 35% документа: +25 / −37 строк",
+      "diff_path": "fl/service/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_4_service.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2026-10-13",
+      "ratio": 0.1084,
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 11% документа: +32 / −32 строк",
+      "diff_path": "fl/regulations/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2026-10-13",
+      "ratio": 0.0057,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +3 / −5 строк",
+      "diff_path": "fl/price/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-10-13",
+      "ratio": 0.2774,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 28% документа: +71 / −79 строк",
+      "diff_path": "fl/privacy/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/privacy_policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2026-10-13",
+      "ratio": 0.0597,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 6% документа: +90 / −88 строк",
+      "diff_path": "fl/agreement/diffs/2026-10-13.json",
+      "wayback_url": "https://web.archive.org/web/20261013/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "date": "2026-10-12",
+      "checked_at": "2026-10-12T09:39:38+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cc_terms",
+      "doc_title": "Условия использования сервиса «VK Реклама»",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 46, удалено: 0, изменено: 0.",
+      "url": "https://vk.ru/help?page=cc_terms",
+      "diff_path": "vk/cc_terms/diffs/2026-10-12.json"
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-10-11",
+      "ratio": 0.4078,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 41% документа: +32 / −41 строк",
+      "diff_path": "hh/privacy/diffs/2026-10-11.json",
+      "wayback_url": "https://web.archive.org/web/20261011/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2026-10-11",
+      "ratio": 0.0047,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 0% документа: +3 / −2 строк",
+      "diff_path": "hh/offer/diffs/2026-10-11.json",
+      "wayback_url": "https://web.archive.org/web/20261011/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2026-07-29-1039",
+      "ratio": 0.0628,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных"
+      ],
+      "summary": "Изменено 6% документа: +38 / −9 строк",
+      "diff_path": "hh/offer/diffs/2026-07-29-1039.json",
+      "wayback_url": "https://web.archive.org/web/20260729/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-07-23-1635",
+      "ratio": 0.0089,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2026-07-23-1635.json",
+      "wayback_url": "https://web.archive.org/web/20260723/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "yandex",
+      "site_name": "Yandex",
+      "doc_id": "rules",
+      "doc_title": "Условия использования сервисов Яндекса",
+      "date": "2026-05-30-1248",
+      "ratio": 0.0176,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +4 / −1 строк",
+      "diff_path": "yandex/rules/diffs/2026-05-30-1248.json",
+      "wayback_url": "https://web.archive.org/web/20260530/https://yandex.ru/legal/rules/ru/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-05-03-1014",
+      "ratio": 0.0268,
+      "is_major": false,
+      "keywords": [
+        "согласие"
+      ],
+      "summary": "Изменено 3% документа: +3 / −3 строк",
+      "diff_path": "hh/privacy/diffs/2026-05-03-1014.json",
+      "wayback_url": "https://web.archive.org/web/20260503/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-05-01-0824",
+      "ratio": 0.011,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +2 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2026-05-01-0824.json",
+      "wayback_url": "https://web.archive.org/web/20260501/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2026-04-30-0503",
+      "ratio": 0.0721,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "согласие"
+      ],
+      "summary": "Изменено 7% документа: +40 / −19 строк",
+      "diff_path": "hh/offer/diffs/2026-04-30-0503.json",
+      "wayback_url": "https://web.archive.org/web/20260430/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2026-02-22-0615",
+      "ratio": 0.0045,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 0% документа: +4 / −3 строк",
+      "diff_path": "fl/price/diffs/2026-02-22-0615.json",
+      "wayback_url": "https://web.archive.org/web/20260222/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "yandex",
+      "site_name": "Yandex",
+      "doc_id": "cloud_terms",
+      "doc_title": "Условия использования Яндекс Cloud",
+      "date": "2026-02-14-2232",
+      "ratio": 0.0076,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "yandex/cloud_terms/diffs/2026-02-14-2232.json",
+      "wayback_url": "https://web.archive.org/web/20260214/https://yandex.ru/legal/cloud_termsofuse/ru/?lang=ru",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2026-01-13-1600",
+      "ratio": 0.0348,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 3% документа: +1 / −4 строк",
+      "diff_path": "hh/privacy/diffs/2026-01-13-1600.json",
+      "wayback_url": "https://web.archive.org/web/20260113/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2026-01-03-2034",
+      "ratio": 0.1267,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "summary": "Изменено 13% документа: +195 / −195 строк",
+      "diff_path": "fl/agreement/diffs/2026-01-03-2034.json",
+      "wayback_url": "https://web.archive.org/web/20260103/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-12-29-2224",
+      "ratio": 0.0522,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 5% документа: +6 / −3 строк",
+      "diff_path": "hh/privacy/diffs/2025-12-29-2224.json",
+      "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-12-29-2217",
+      "ratio": 0.0206,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 2% документа: +10 / −9 строк",
+      "diff_path": "hh/offer/diffs/2025-12-29-2217.json",
+      "wayback_url": "https://web.archive.org/web/20251229/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2025-12-29-2038",
+      "ratio": 0.0604,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 6% документа: +51 / −16 строк",
+      "diff_path": "fl/price/diffs/2025-12-29-2038.json",
+      "wayback_url": "https://web.archive.org/web/20251229/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-12-27-1947",
+      "ratio": 0.011,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "summary": "Изменено 1% документа: +2 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2025-12-27-1947.json",
+      "wayback_url": "https://web.archive.org/web/20251227/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "recommendation",
+      "doc_title": "Правила применения рекомендательных алгоритмов",
+      "date": "2025-12-24-1614",
+      "ratio": 0.0526,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 5% документа: +3 / −2 строк",
+      "diff_path": "profi/recommendation/diffs/2025-12-24-1614.json",
+      "wayback_url": "https://web.archive.org/web/20251224/https://profi.ru/documents/recommendation-algorithms/",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2025-10-11-1320",
+      "ratio": 0.0858,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 9% документа: +65 / −59 строк",
+      "diff_path": "fl/price/diffs/2025-10-11-1320.json",
+      "wayback_url": "https://web.archive.org/web/20251011/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2025-09-02-1337",
+      "ratio": 0.0976,
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 10% документа: +32 / −28 строк",
+      "diff_path": "fl/regulations/diffs/2025-09-02-1337.json",
+      "wayback_url": "https://web.archive.org/web/20250902/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "pdn_consent",
+      "doc_title": "Согласие на обработку ПДн",
+      "date": "2025-08-25-1136",
+      "ratio": 0.4156,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 42% документа: +73 / −94 строк",
+      "diff_path": "fl/pdn_consent/diffs/2025-08-25-1136.json",
+      "wayback_url": "https://web.archive.org/web/20250825/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2025-08-23-1301",
+      "ratio": 0.1269,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "summary": "Изменено 13% документа: +200 / −195 строк",
+      "diff_path": "fl/agreement/diffs/2025-08-23-1301.json",
+      "wayback_url": "https://web.archive.org/web/20250823/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-08-21-0202",
+      "ratio": 0.273,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 27% документа: +79 / −83 строк",
+      "diff_path": "fl/privacy/diffs/2025-08-21-0202.json",
+      "wayback_url": "https://web.archive.org/web/20250821/https://st.fl.ru/about/documents/privacy_policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-08-15-2334",
+      "ratio": 0.0668,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "согласие"
+      ],
+      "summary": "Изменено 7% документа: +33 / −10 строк",
+      "diff_path": "hh/offer/diffs/2025-08-15-2334.json",
+      "wayback_url": "https://web.archive.org/web/20250815/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2025-08-05-0914",
+      "ratio": 0.1915,
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 19% документа: +58 / −63 строк",
+      "diff_path": "fl/regulations/diffs/2025-08-05-0914.json",
+      "wayback_url": "https://web.archive.org/web/20250805/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-08-02-1556",
+      "ratio": 0.0166,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2025-08-02-1556.json",
+      "wayback_url": "https://web.archive.org/web/20250802/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2025-07-02-1109",
+      "ratio": 0.0687,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 7% документа: +22 / −23 строк",
+      "diff_path": "fl/regulations/diffs/2025-07-02-1109.json",
+      "wayback_url": "https://web.archive.org/web/20250702/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-06-20-1645",
+      "ratio": 0.0089,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2025-06-20-1645.json",
+      "wayback_url": "https://web.archive.org/web/20250620/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2025-05-27-0926",
+      "ratio": 0.005,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 0% документа: +4 / −4 строк",
+      "diff_path": "fl/price/diffs/2025-05-27-0926.json",
+      "wayback_url": "https://web.archive.org/web/20250527/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2025-05-23-0909",
+      "ratio": 0.4333,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 43% документа: +5 / −13 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2025-05-23-0909.json",
+      "wayback_url": "https://web.archive.org/web/20250523/https://www.superjob.ru/info/privacy_agreement.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-05-22-0536",
+      "ratio": 0.0089,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2025-05-22-0536.json",
+      "wayback_url": "https://web.archive.org/web/20250522/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2025-04-30-0934",
+      "ratio": 0.0208,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "summary": "Изменено 2% документа: +10 / −5 строк",
+      "diff_path": "hh/offer/diffs/2025-04-30-0934.json",
+      "wayback_url": "https://web.archive.org/web/20250430/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-03-05-2315",
+      "ratio": 0.2808,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 28% документа: +82 / −66 строк",
+      "diff_path": "fl/privacy/diffs/2025-03-05-2315.json",
+      "wayback_url": "https://web.archive.org/web/20250305/https://st.fl.ru/about/documents/privacy_policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2025-02-21-1643",
+      "ratio": 0.0637,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 6% документа: +48 / −51 строк",
+      "diff_path": "fl/price/diffs/2025-02-21-1643.json",
+      "wayback_url": "https://web.archive.org/web/20250221/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2025-01-14-2305",
+      "ratio": 0.5714,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "summary": "Изменено 57% документа: +6 / −38 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2025-01-14-2305.json",
+      "wayback_url": "https://web.archive.org/web/20250114/https://www.superjob.ru/info/privacy_agreement.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2025-01-08-1534",
+      "ratio": 0.0603,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "summary": "Изменено 6% документа: +3 / −7 строк",
+      "diff_path": "hh/privacy/diffs/2025-01-08-1534.json",
+      "wayback_url": "https://web.archive.org/web/20250108/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2024-12-17-2023",
+      "ratio": 0.2985,
+      "is_major": false,
+      "keywords": [
+        "ответственность",
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 30% документа: +198 / −85 строк",
+      "diff_path": "fl/price/diffs/2024-12-17-2023.json",
+      "wayback_url": "https://web.archive.org/web/20241217/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "pdn_consent",
+      "doc_title": "Согласие на обработку ПДн",
+      "date": "2024-12-17-1852",
+      "ratio": 0.3738,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 37% документа: +77 / −31 строк",
+      "diff_path": "fl/pdn_consent/diffs/2024-12-17-1852.json",
+      "wayback_url": "https://web.archive.org/web/20241217/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-12-17-0007",
+      "ratio": 0.0278,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд"
+      ],
+      "summary": "Изменено 3% документа: +5 / −5 строк",
+      "diff_path": "profi/privacy/diffs/2024-12-17-0007.json",
+      "wayback_url": "https://web.archive.org/web/20241217/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2024-12-03-0628",
+      "ratio": 0.4273,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "summary": "Изменено 43% документа: +184 / −169 строк",
+      "diff_path": "hh/offer/diffs/2024-12-03-0628.json",
+      "wayback_url": "https://web.archive.org/web/20241203/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-11-26-1834",
+      "ratio": 0.0244,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +0 / −3 строк",
+      "diff_path": "hh/privacy/diffs/2024-11-26-1834.json",
+      "wayback_url": "https://web.archive.org/web/20241126/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2024-11-18-0219",
+      "ratio": 0.0587,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 6% документа: +21 / −5 строк",
+      "diff_path": "selectel/pd_policy/diffs/2024-11-18-0219.json",
+      "wayback_url": "https://web.archive.org/web/20241118/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2024-09-05-1704",
+      "ratio": 0.2825,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 28% документа: +81 / −100 строк",
+      "diff_path": "selectel/pd_policy/diffs/2024-09-05-1704.json",
+      "wayback_url": "https://web.archive.org/web/20240905/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-08-29-1607",
+      "ratio": 0.0278,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "summary": "Изменено 3% документа: +5 / −5 строк",
+      "diff_path": "profi/privacy/diffs/2024-08-29-1607.json",
+      "wayback_url": "https://web.archive.org/web/20240829/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-07-05-0116",
+      "ratio": 0.0079,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2024-07-05-0116.json",
+      "wayback_url": "https://web.archive.org/web/20240705/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2024-07-04-1433",
+      "ratio": 0.0356,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 4% документа: +11 / −12 строк",
+      "diff_path": "fl/regulations/diffs/2024-07-04-1433.json",
+      "wayback_url": "https://web.archive.org/web/20240704/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2024-07-03-0918",
+      "ratio": 0.0556,
+      "is_major": false,
+      "keywords": [
+        "third party"
+      ],
+      "summary": "Изменено 6% документа: +6 / −6 строк",
+      "diff_path": "vk/terms/diffs/2024-07-03-0918.json",
+      "wayback_url": "https://web.archive.org/web/20240703/https://vk.ru/terms",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2024-06-27-1725",
+      "ratio": 0.0159,
+      "is_major": false,
+      "keywords": [
+        "ответственность",
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 2% документа: +25 / −25 строк",
+      "diff_path": "fl/agreement/diffs/2024-06-27-1725.json",
+      "wayback_url": "https://web.archive.org/web/20240627/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2024-06-01-1750",
+      "ratio": 0.1614,
+      "is_major": false,
+      "keywords": [
+        "арбитраж",
+        "расторжение",
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 16% документа: +41 / −50 строк",
+      "diff_path": "fl/regulations/diffs/2024-06-01-1750.json",
+      "wayback_url": "https://web.archive.org/web/20240601/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "service",
+      "doc_title": "Описание сервиса (Приложение 4)",
+      "date": "2024-05-02-1207",
+      "ratio": 0.0672,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 7% документа: +6 / −7 строк",
+      "diff_path": "fl/service/diffs/2024-05-02-1207.json",
+      "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/appendix_4_service.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "offer_business",
+      "doc_title": "Оферта для бизнеса",
+      "date": "2024-05-02-1152",
+      "ratio": 0.0823,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 8% документа: +19 / −18 строк",
+      "diff_path": "fl/offer_business/diffs/2024-05-02-1152.json",
+      "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/offer_for_business.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2024-05-02-1148",
+      "ratio": 0.0784,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "согласие"
+      ],
+      "summary": "Изменено 8% документа: +121 / −109 строк",
+      "diff_path": "fl/agreement/diffs/2024-05-02-1148.json",
+      "wayback_url": "https://web.archive.org/web/20240502/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2024-03-06-0959",
+      "ratio": 0.0045,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 0% документа: +2 / −1 строк",
+      "diff_path": "hh/offer/diffs/2024-03-06-0959.json",
+      "wayback_url": "https://web.archive.org/web/20240306/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2024-02-28-1706",
+      "ratio": 0.0168,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +3 / −2 строк",
+      "diff_path": "profi/privacy/diffs/2024-02-28-1706.json",
+      "wayback_url": "https://web.archive.org/web/20240228/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2024-02-09-1704",
+      "ratio": 0.8403,
+      "is_major": true,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "суд"
+      ],
+      "summary": "Изменено 84% документа: +200 / −13 строк",
+      "diff_path": "hh/offer/diffs/2024-02-09-1704.json",
+      "wayback_url": "https://web.archive.org/web/20240209/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2024-02-03-1843",
+      "ratio": 0.0197,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +7 / −7 строк",
+      "diff_path": "fl/regulations/diffs/2024-02-03-1843.json",
+      "wayback_url": "https://web.archive.org/web/20240203/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2024-02-01-0717",
+      "ratio": 0.0282,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 3% документа: +10 / −9 строк",
+      "diff_path": "fl/regulations/diffs/2024-02-01-0717.json",
+      "wayback_url": "https://web.archive.org/web/20240201/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-12-31-1701",
+      "ratio": 0.5849,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 58% документа: +62 / −42 строк",
+      "diff_path": "hh/privacy/diffs/2023-12-31-1701.json",
+      "wayback_url": "https://web.archive.org/web/20231231/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2023-12-22-2344",
+      "ratio": 0.2258,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "summary": "Изменено 23% документа: +7 / −6 строк",
+      "diff_path": "hh/offer/diffs/2023-12-22-2344.json",
+      "wayback_url": "https://web.archive.org/web/20231222/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2023-11-27-0842",
+      "ratio": 0.3178,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "суд",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 32% документа: +109 / −72 строк",
+      "diff_path": "selectel/pd_policy/diffs/2023-11-27-0842.json",
+      "wayback_url": "https://web.archive.org/web/20231127/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-11-02-0007",
+      "ratio": 0.4412,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "оплата",
+        "суд",
+        "согласие"
+      ],
+      "summary": "Изменено 44% документа: +59 / −17 строк",
+      "diff_path": "profi/privacy/diffs/2023-11-02-0007.json",
+      "wayback_url": "https://web.archive.org/web/20231102/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-08-17-1749",
+      "ratio": 0.6091,
+      "is_major": true,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 61% документа: +43 / −67 строк",
+      "diff_path": "hh/privacy/diffs/2023-08-17-1749.json",
+      "wayback_url": "https://web.archive.org/web/20230817/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2023-08-02-1956",
+      "ratio": 0.0093,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "vk/terms/diffs/2023-08-02-1956.json",
+      "wayback_url": "https://web.archive.org/web/20230802/https://vk.ru/terms",
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2023-05-18-1519",
+      "ratio": 0.0278,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 3% документа: +3 / −3 строк",
+      "diff_path": "vk/terms/diffs/2023-05-18-1519.json",
+      "wayback_url": "https://web.archive.org/web/20230518/https://vk.ru/terms",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2023-05-12-1230",
+      "ratio": 0.0367,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 4% документа: +13 / −13 строк",
+      "diff_path": "fl/regulations/diffs/2023-05-12-1230.json",
+      "wayback_url": "https://web.archive.org/web/20230512/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2023-04-28-0114",
+      "ratio": 0.1,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 10% документа: +3 / −3 строк",
+      "diff_path": "hh/offer/diffs/2023-04-28-0114.json",
+      "wayback_url": "https://web.archive.org/web/20230428/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-04-11-0403",
+      "ratio": 0.0224,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +3 / −3 строк",
+      "diff_path": "hh/privacy/diffs/2023-04-11-0403.json",
+      "wayback_url": "https://web.archive.org/web/20230411/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2023-03-07-0414",
+      "ratio": 0.02,
+      "is_major": false,
+      "keywords": [
+        "ответственность",
+        "хранение данных"
+      ],
+      "summary": "Изменено 2% документа: +2 / −2 строк",
+      "diff_path": "superjob/personal_data/diffs/2023-03-07-0414.json",
+      "wayback_url": "https://web.archive.org/web/20230307/https://www.superjob.ru/info/personalnye_dannye.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "selectel",
+      "site_name": "Selectel",
+      "doc_id": "pd_policy",
+      "doc_title": "Политика обработки и защиты персональных данных",
+      "date": "2023-02-19-2250",
+      "ratio": 0.1419,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 14% документа: +40 / −44 строк",
+      "diff_path": "selectel/pd_policy/diffs/2023-02-19-2250.json",
+      "wayback_url": "https://web.archive.org/web/20230219/https://files.selectel.ru/docs/ru/personal-data-processing-and-protection-policy.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2023-02-17-0226",
+      "ratio": 0.0333,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 3% документа: +1 / −1 строк",
+      "diff_path": "hh/offer/diffs/2023-02-17-0226.json",
+      "wayback_url": "https://web.archive.org/web/20230217/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "terms",
+      "doc_title": "Условия использования",
+      "date": "2023-02-03-1753",
+      "ratio": 0.0093,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "vk/terms/diffs/2023-02-03-1753.json",
+      "wayback_url": "https://web.archive.org/web/20230203/https://vk.ru/terms",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "pdn_consent",
+      "doc_title": "Согласие на обработку ПДн",
+      "date": "2023-01-25-0821",
+      "ratio": 0.3655,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 37% документа: +52 / −37 строк",
+      "diff_path": "fl/pdn_consent/diffs/2023-01-25-0821.json",
+      "wayback_url": "https://web.archive.org/web/20230125/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2023-01-01-0825",
+      "ratio": 0.6262,
+      "is_major": true,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 63% документа: +67 / −40 строк",
+      "diff_path": "hh/privacy/diffs/2023-01-01-0825.json",
+      "wayback_url": "https://web.archive.org/web/20230101/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-12-31-1342",
+      "ratio": 0.0125,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "summary": "Изменено 1% документа: +1 / −1 строк",
+      "diff_path": "hh/privacy/diffs/2022-12-31-1342.json",
+      "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-12-31-0812",
+      "ratio": 0.5,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "суд"
+      ],
+      "summary": "Изменено 50% документа: +15 / −15 строк",
+      "diff_path": "hh/offer/diffs/2022-12-31-0812.json",
+      "wayback_url": "https://web.archive.org/web/20221231/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2022-12-29-1853",
+      "ratio": 0.0056,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 1% документа: +2 / −2 строк",
+      "diff_path": "fl/regulations/diffs/2022-12-29-1853.json",
+      "wayback_url": "https://web.archive.org/web/20221229/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-12-09-2027",
+      "ratio": 0.117,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 12% документа: +9 / −9 строк",
+      "diff_path": "profi/privacy/diffs/2022-12-09-2027.json",
+      "wayback_url": "https://web.archive.org/web/20221209/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-12-03-0327",
+      "ratio": 0.5,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "суд"
+      ],
+      "summary": "Изменено 50% документа: +15 / −15 строк",
+      "diff_path": "hh/offer/diffs/2022-12-03-0327.json",
+      "wayback_url": "https://web.archive.org/web/20221203/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-10-18-2230",
+      "ratio": 0.0333,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "согласие"
+      ],
+      "summary": "Изменено 3% документа: +1 / −1 строк",
+      "diff_path": "hh/offer/diffs/2022-10-18-2230.json",
+      "wayback_url": "https://web.archive.org/web/20221018/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2022-10-06-1719",
+      "ratio": 0.023,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 2% документа: +25 / −25 строк",
+      "diff_path": "fl/price/diffs/2022-10-06-1719.json",
+      "wayback_url": "https://web.archive.org/web/20221006/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-10-01-0551",
+      "ratio": 0.6262,
+      "is_major": true,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 63% документа: +40 / −67 строк",
+      "diff_path": "hh/privacy/diffs/2022-10-01-0551.json",
+      "wayback_url": "https://web.archive.org/web/20221001/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-07-31-0526",
+      "ratio": 0.2208,
+      "is_major": false,
+      "keywords": [
+        "third party"
+      ],
+      "summary": "Изменено 22% документа: +17 / −8 строк",
+      "diff_path": "superjob/privacy/diffs/2022-07-31-0526.json",
+      "wayback_url": "https://web.archive.org/web/20220731/https://www.superjob.ru/info/privacy-policy.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-06-01-1326",
+      "ratio": 0.1373,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 14% документа: +2 / −21 строк",
+      "diff_path": "hh/privacy/diffs/2022-06-01-1326.json",
+      "wayback_url": "https://web.archive.org/web/20220601/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "pdn_consent",
+      "doc_title": "Согласие на обработку ПДн",
+      "date": "2022-04-28-2244",
+      "ratio": 0.2687,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 27% документа: +31 / −35 строк",
+      "diff_path": "fl/pdn_consent/diffs/2022-04-28-2244.json",
+      "wayback_url": "https://web.archive.org/web/20220428/https://st.fl.ru/about/documents/soglasie_na_obrabotku_pdn.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "service",
+      "doc_title": "Описание сервиса (Приложение 4)",
+      "date": "2022-03-31-2206",
+      "ratio": 0.6849,
+      "is_major": true,
+      "keywords": [
+        "ответственность",
+        "согласие"
+      ],
+      "summary": "Изменено 68% документа: +32 / −200 строк",
+      "diff_path": "fl/service/diffs/2022-03-31-2206.json",
+      "wayback_url": "https://web.archive.org/web/20220331/https://st.fl.ru/about/documents/appendix_4_service.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2022-03-31-2203",
+      "ratio": 0.0415,
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "суд",
+        "согласие"
+      ],
+      "summary": "Изменено 4% документа: +62 / −62 строк",
+      "diff_path": "fl/agreement/diffs/2022-03-31-2203.json",
+      "wayback_url": "https://web.archive.org/web/20220331/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "price",
+      "doc_title": "Прейскурант (Приложение 1)",
+      "date": "2022-03-31-2157",
+      "ratio": 0.0919,
+      "is_major": false,
+      "keywords": [
+        "оплата"
+      ],
+      "summary": "Изменено 9% документа: +96 / −65 строк",
+      "diff_path": "fl/price/diffs/2022-03-31-2157.json",
+      "wayback_url": "https://web.archive.org/web/20220331/https://st.fl.ru/about/documents/appendix_1_price.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "regulations",
+      "doc_title": "Регламент (Приложение 2)",
+      "date": "2022-03-27-0706",
+      "ratio": 0.0227,
+      "is_major": false,
+      "keywords": [
+        "согласие"
+      ],
+      "summary": "Изменено 2% документа: +8 / −7 строк",
+      "diff_path": "fl/regulations/diffs/2022-03-27-0706.json",
+      "wayback_url": "https://web.archive.org/web/20220327/https://st.fl.ru/about/documents/appendix_2_regulations.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2022-03-14-0725",
+      "ratio": 0.2,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "summary": "Изменено 20% документа: +6 / −6 строк",
+      "diff_path": "hh/offer/diffs/2022-03-14-0725.json",
+      "wayback_url": "https://web.archive.org/web/20220314/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "profi",
+      "site_name": "Profi.ru",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2022-03-14-0312",
+      "ratio": 0.0215,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие"
+      ],
+      "summary": "Изменено 2% документа: +2 / −1 строк",
+      "diff_path": "profi/privacy/diffs/2022-03-14-0312.json",
+      "wayback_url": "https://web.archive.org/web/20220314/https://profi.ru/documents/privacy-policy/",
+      "retrospective": true
+    },
+    {
+      "site_id": "fl",
+      "site_name": "FL.ru",
+      "doc_id": "agreement",
+      "doc_title": "Соглашение об использовании сайта",
+      "date": "2022-02-16-1010",
+      "ratio": 0.1307,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "расторжение",
+        "оплата",
+        "согласие"
+      ],
+      "summary": "Изменено 13% документа: +197 / −175 строк",
+      "diff_path": "fl/agreement/diffs/2022-02-16-1010.json",
+      "wayback_url": "https://web.archive.org/web/20220216/https://st.fl.ru/about/documents/agreement_site.pdf",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-12-31-1724",
+      "ratio": 0.4459,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "суд",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 45% документа: +66 / −42 строк",
+      "diff_path": "hh/privacy/diffs/2021-12-31-1724.json",
+      "wayback_url": "https://web.archive.org/web/20211231/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2021-11-30-1234",
+      "ratio": 0.3875,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Изменено 39% документа: +25 / −17 строк",
+      "diff_path": "superjob/personal_data/diffs/2021-11-30-1234.json",
+      "wayback_url": "https://web.archive.org/web/20211130/https://www.superjob.ru/info/personalnye_dannye.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "privacy_agreement",
+      "doc_title": "Соглашение о конфиденциальности",
+      "date": "2021-10-21-1934",
+      "ratio": 0.2093,
+      "is_major": false,
+      "keywords": [
+        "персональные данные"
+      ],
+      "summary": "Изменено 21% документа: +12 / −10 строк",
+      "diff_path": "superjob/privacy_agreement/diffs/2021-10-21-1934.json",
+      "wayback_url": "https://web.archive.org/web/20211021/https://www.superjob.ru/info/privacy_agreement.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "offer",
+      "doc_title": "Соглашение по содействию в трудоустройстве и иных видах занятости",
+      "date": "2021-10-11-0134",
+      "ratio": 0.1,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "оплата",
+        "суд",
+        "хранение данных"
+      ],
+      "summary": "Изменено 10% документа: +3 / −3 строк",
+      "diff_path": "hh/offer/diffs/2021-10-11-0134.json",
+      "wayback_url": "https://web.archive.org/web/20211011/https://hh.ru/account/agreement",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-08-30-0430",
+      "ratio": 0.0323,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 3% документа: +4 / −4 строк",
+      "diff_path": "hh/privacy/diffs/2021-08-30-0430.json",
+      "wayback_url": "https://web.archive.org/web/20210830/https://hh.ru/article/personal_data",
+      "retrospective": true
+    },
+    {
+      "site_id": "superjob",
+      "site_name": "SuperJob",
+      "doc_id": "personal_data",
+      "doc_title": "Согласие на обработку персональных данных",
+      "date": "2021-06-06-0640",
+      "ratio": 0.1765,
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "ответственность",
+        "хранение данных",
+        "согласие"
+      ],
+      "summary": "Изменено 18% документа: +12 / −8 строк",
+      "diff_path": "superjob/personal_data/diffs/2021-06-06-0640.json",
+      "wayback_url": "https://web.archive.org/web/20210606/https://www.superjob.ru/info/personalnye_dannye.html",
+      "retrospective": true
+    },
+    {
+      "site_id": "hh",
+      "site_name": "HeadHunter",
+      "doc_id": "privacy",
+      "doc_title": "Политика конфиденциальности",
+      "date": "2021-05-14-0413",
+      "ratio": 0.0492,
+      "is_major": false,
+      "keywords": [],
+      "summary": "Изменено 5% документа: +6 / −4 строк",
+      "diff_path": "hh/privacy/diffs/2021-05-14-0413.json",
+      "wayback_url": "https://web.archive.org/web/20210514/https://hh.ru/article/personal_data",
+      "retrospective": true
+    }
+  ]
 }

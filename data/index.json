@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:16:12+00:00",
+  "generated_at": "2026-10-16T09:34:50+00:00",
   "sites": [
     {
       "site": {
@@ -1418,9 +1418,9 @@
           "url": "https://beget.com/files/personal-data.pdf",
           "selector": "",
           "first_check": "2026-10-14",
-          "last_check": "2026-10-14",
-          "total_versions": 1,
-          "last_hash": "b813a76f423a57abe15ee7ca9aa616aa14bfee725eda1f02db01d3bd15af232c"
+          "last_check": "2026-10-16",
+          "total_versions": 2,
+          "last_hash": "a25c7fab1113ac8512439e0c9cefc1902816a8364b9c4063551e0b558a352a2c"
         },
         {
           "id": "beget",
@@ -1435,8 +1435,22 @@
           "last_hash": "7637d69df75e29394397d9ce4f2a11b67580937476d4777ab12621c60fecdd29"
         }
       ],
-      "last_change": null,
-      "changes_count": 0
+      "last_change": {
+        "date": "2026-10-16",
+        "checked_at": "2026-10-16T09:29:20+00:00",
+        "site_id": "beget",
+        "site_name": "Beget",
+        "doc_id": "personal_data",
+        "doc_title": "Политика обработки персональных данных",
+        "is_major": false,
+        "keywords": [
+          "cookies"
+        ],
+        "summary": "Затронуты темы: cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+        "url": "https://beget.com/files/personal-data.pdf",
+        "diff_path": "beget/personal_data/diffs/2026-10-16.json"
+      },
+      "changes_count": 1
     },
     {
       "site": {
@@ -1743,9 +1757,9 @@
           "url": "https://rutube.ru/info/privacy/",
           "selector": "body",
           "first_check": "2026-10-14",
-          "last_check": "2026-10-14",
-          "total_versions": 1,
-          "last_hash": "fdebee0748b40dd5026eeef597255946b0e77e09604afaebcf68b9c4ff7d3a99"
+          "last_check": "2026-10-16",
+          "total_versions": 2,
+          "last_hash": "85a7dd348863484b27ecfaf6ef3e356d031f0d7e07f11bb8e4cc298c2725839b"
         },
         {
           "id": "rutube",
@@ -1827,9 +1841,9 @@
           "url": "https://rutube.ru/info/mediator_agreement/",
           "selector": "body",
           "first_check": "2026-10-14",
-          "last_check": "2026-10-14",
-          "total_versions": 1,
-          "last_hash": "b66bad82d6de7225db9df87bdbc862842767e97fd227daa0ae30577bbd524a14"
+          "last_check": "2026-10-16",
+          "total_versions": 2,
+          "last_hash": "decd976d262c41bfa79cfa11f00f20ad45687f95d08cdfb81a640318b7f42f88"
         },
         {
           "id": "rutube",
@@ -1892,11 +1906,76 @@
           "last_hash": "2877b484c760d58114cacbdfb9528fb603df2dc221ff034d3a1b34bdddf1b75a"
         }
       ],
-      "last_change": null,
-      "changes_count": 0
+      "last_change": {
+        "date": "2026-10-16",
+        "checked_at": "2026-10-16T09:34:30+00:00",
+        "site_id": "rutube",
+        "site_name": "Rutube",
+        "doc_id": "mediator_agreement",
+        "doc_title": "Приложение Ж — Медиатор",
+        "is_major": false,
+        "keywords": [
+          "персональные данные",
+          "согласие",
+          "cookies"
+        ],
+        "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+        "url": "https://rutube.ru/info/mediator_agreement/",
+        "diff_path": "rutube/mediator_agreement/diffs/2026-10-16.json"
+      },
+      "changes_count": 2
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-16",
+      "checked_at": "2026-10-16T09:34:30+00:00",
+      "site_id": "rutube",
+      "site_name": "Rutube",
+      "doc_id": "mediator_agreement",
+      "doc_title": "Приложение Ж — Медиатор",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://rutube.ru/info/mediator_agreement/",
+      "diff_path": "rutube/mediator_agreement/diffs/2026-10-16.json"
+    },
+    {
+      "date": "2026-10-16",
+      "checked_at": "2026-10-16T09:32:16+00:00",
+      "site_id": "rutube",
+      "site_name": "Rutube",
+      "doc_id": "privacy",
+      "doc_title": "Политика обработки персональных данных",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://rutube.ru/info/privacy/",
+      "diff_path": "rutube/privacy/diffs/2026-10-16.json"
+    },
+    {
+      "date": "2026-10-16",
+      "checked_at": "2026-10-16T09:29:20+00:00",
+      "site_id": "beget",
+      "site_name": "Beget",
+      "doc_id": "personal_data",
+      "doc_title": "Политика обработки персональных данных",
+      "is_major": false,
+      "keywords": [
+        "cookies"
+      ],
+      "summary": "Затронуты темы: cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://beget.com/files/personal-data.pdf",
+      "diff_path": "beget/personal_data/diffs/2026-10-16.json"
+    },
     {
       "date": "2026-10-14",
       "checked_at": "2026-10-14T19:19:57+00:00",

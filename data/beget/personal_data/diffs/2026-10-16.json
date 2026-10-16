@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0003
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [
+    "cookies"
+  ],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 216,
+      "old_text": "В таком случае сайт продолжит использовать только технически необходимые cookie\u0002файлы, которые обеспечивают его базовую функциональность.",
+      "new_text": "В таком случае сайт продолжит использовать только технически необходимые cookie-файлы, которые обеспечивают его базовую функциональность.",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "В таком случае сайт продолжит использовать только технически необходимые"
+        },
+        {
+          "type": "remove",
+          "text": "cookie\u0002файлы,"
+        },
+        {
+          "type": "add",
+          "text": "cookie-файлы,"
+        },
+        {
+          "type": "keep",
+          "text": "которые обеспечивают его базовую функциональность."
+        }
+      ]
+    }
+  ],
+  "site": "beget",
+  "doc_id": "personal_data",
+  "doc_title": "Политика обработки персональных данных",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-16",
+  "from_hash": "f61635c34798e719e7faac13c41bb7ee0d3f5259d1b3db7392fddc1a9d2febe0",
+  "to_hash": "a25c7fab1113ac8512439e0c9cefc1902816a8364b9c4063551e0b558a352a2c",
+  "url": "https://beget.com/files/personal-data.pdf",
+  "ai_summary": "Затронуты темы: cookies. Добавлено строк: 1, удалено: 1, изменено: 1."
+}
