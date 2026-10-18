@@ -1,463 +1,485 @@
 {
   "hh/privacy": {
-    "last_success": "2026-10-16T09:00:10+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:16:51+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://hh.ru/article/personal_data\nCall log:\n  - navigating to \"https://hh.ru/article/personal_data\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "hh/offer": {
-    "last_success": "2026-10-16T09:00:19+00:00",
+    "last_success": "2026-10-17T11:16:46+00:00",
+    "consecutive_errors": 2,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://hh.ru/account/agreement\nCall log:\n  - navigating to \"https://hh.ru/account/agreement\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
+  },
+  "superjob/privacy": {
+    "last_success": "2026-10-18T09:12:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
-  "superjob/privacy": {
-    "last_success": "2026-10-14T19:12:39+00:00",
-    "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://www.superjob.ru/info/privacy-policy.html\nCall log:\n  - navigating to \"https://www.superjob.ru/info/privacy-policy.html\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
-  },
   "habr/agreement": {
-    "last_success": "2026-10-16T09:00:40+00:00",
+    "last_success": "2026-10-18T09:01:36+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/tos": {
-    "last_success": "2026-10-16T09:00:44+00:00",
+    "last_success": "2026-10-18T09:02:38+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/toss": {
-    "last_success": "2026-10-16T09:00:49+00:00",
+    "last_success": "2026-10-18T09:03:44+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/tos_hbp": {
-    "last_success": "2026-10-16T09:00:54+00:00",
+    "last_success": "2026-10-18T09:03:51+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/toss_hbp": {
-    "last_success": "2026-10-16T09:01:55+00:00",
+    "last_success": "2026-10-18T09:03:55+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/api_rules": {
-    "last_success": "2026-10-16T09:01:46+00:00",
+    "last_success": "2026-10-18T09:04:00+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/price": {
-    "last_success": "2026-10-16T09:03:47+00:00",
+    "last_success": "2026-10-18T09:04:13+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "habr/recommendation_rules": {
-    "last_success": "2026-10-16T09:01:50+00:00",
+    "last_success": "2026-10-18T09:04:04+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "profi/recommendation": {
     "last_success": "2026-10-12T09:07:07+00:00",
-    "consecutive_errors": 25,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://profi.ru/documents/recommendation-algorithms/\nCall log:\n  - navigating to \"https://profi.ru/documents/recommendation-algorithms/\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 3
+    "consecutive_errors": 27,
+    "last_error": "validate: слишком короткий текст: 87 симв. (минимум 500)",
+    "days_stale": 5
   },
   "profi/privacy": {
     "last_success": "2026-10-12T09:07:11+00:00",
-    "consecutive_errors": 25,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://profi.ru/documents/privacy-policy/\nCall log:\n  - navigating to \"https://profi.ru/documents/privacy-policy/\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 3
+    "consecutive_errors": 27,
+    "last_error": "validate: слишком короткий текст: 87 симв. (минимум 500)",
+    "days_stale": 5
   },
   "vk/terms": {
-    "last_success": "2026-10-14T19:10:01+00:00",
+    "last_success": "2026-10-17T11:17:54+00:00",
     "consecutive_errors": 1,
-    "last_error": "validate: слишком короткий текст: 0 симв. (минимум 500)",
-    "days_stale": 1
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://vk.ru/terms\nCall log:\n  - navigating to \"https://vk.ru/terms\", waiting until \"commit\"\n",
+    "days_stale": 0
   },
   "vk/licence": {
-    "last_success": "2026-10-16T09:07:21+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
-  },
-  "vk/privacy": {
-    "last_success": "2026-10-14T19:11:06+00:00",
+    "last_success": "2026-10-17T11:18:38+00:00",
     "consecutive_errors": 1,
     "last_error": "validate: слишком короткий текст: 0 симв. (минимум 500)",
-    "days_stale": 1
+    "days_stale": 0
+  },
+  "vk/privacy": {
+    "last_success": "2026-10-17T11:18:58+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://vk.ru/privacy\nCall log:\n  - navigating to \"https://vk.ru/privacy\", waiting until \"commit\"\n",
+    "days_stale": 0
   },
   "vk/cc_terms": {
-    "last_success": "2026-10-16T09:09:45+00:00",
+    "last_success": "2026-10-18T09:11:02+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "yandex/rules": {
-    "last_success": "2026-10-16T09:15:22+00:00",
+    "last_success": "2026-10-18T09:15:12+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "yandex/cloud_terms": {
-    "last_success": "2026-10-16T09:16:27+00:00",
+    "last_success": "2026-10-18T09:15:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "superjob/personal_data": {
-    "last_success": "2026-10-14T19:13:02+00:00",
+    "last_success": "2026-10-17T11:20:06+00:00",
     "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://www.superjob.ru/info/personalnye_dannye.html\nCall log:\n  - navigating to \"https://www.superjob.ru/info/personalnye_dannye.html\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_error": "validate: слишком короткий текст: 143 симв. (минимум 500)",
+    "days_stale": 0
   },
   "superjob/personal_privacy": {
-    "last_success": "2026-10-14T19:13:24+00:00",
+    "last_success": "2026-10-17T11:20:26+00:00",
     "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://www.superjob.ru/info/personal_privacy.html\nCall log:\n  - navigating to \"https://www.superjob.ru/info/personal_privacy.html\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_error": "validate: слишком короткий текст: 143 симв. (минимум 500)",
+    "days_stale": 0
   },
   "superjob/oferta_poruchenie": {
-    "last_success": "2026-10-14T19:13:49+00:00",
+    "last_success": "2026-10-17T11:20:46+00:00",
     "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://www.superjob.ru/info/oferta-poruchenie-privacy.html\nCall log:\n  - navigating to \"https://www.superjob.ru/info/oferta-poruchenie-privacy.html\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_error": "validate: слишком короткий текст: 143 симв. (минимум 500)",
+    "days_stale": 0
   },
   "superjob/privacy_agreement": {
-    "last_success": "2026-10-14T19:14:09+00:00",
+    "last_success": "2026-10-17T11:21:06+00:00",
     "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://www.superjob.ru/info/privacy_agreement.html\nCall log:\n  - navigating to \"https://www.superjob.ru/info/privacy_agreement.html\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_error": "validate: слишком короткий текст: 143 симв. (минимум 500)",
+    "days_stale": 0
   },
   "selectel/pd_policy": {
-    "last_success": "2026-10-14T19:14:22+00:00",
-    "consecutive_errors": 1,
-    "last_error": "pdf fetch: HTTPSConnectionPool(host='files.selectel.ru', port=443): Max retries exceeded with url: /docs/ru/personal-data-processing-and-protection-policy.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
-    "days_stale": 1
+    "last_success": "2026-10-18T09:16:13+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "cloudru/confidentiality": {
-    "last_success": "2026-10-16T09:17:00+00:00",
+    "last_success": "2026-10-18T09:15:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/desc_terms": {
-    "last_success": "2026-10-14T19:14:55+00:00",
-    "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.ru/documents/contracts/terms-of-service/general/description-and-terms-of-services?source-platform=\nCall log:\n  - navigating to \"https://cloud.ru/documents/contracts/terms-of-service/general/description-and-terms-of-services?source-platform=\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_success": "2026-10-18T09:16:05+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "cloudru/sla_general": {
-    "last_success": "2026-10-16T09:18:35+00:00",
+    "last_success": "2026-10-18T09:15:44+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/tos_restrictions": {
-    "last_success": "2026-10-14T19:15:37+00:00",
-    "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.ru/documents/contracts/other-terms-of-service/terms-of-service-and-restrictions?source-platform=Evolution\nCall log:\n  - navigating to \"https://cloud.ru/documents/contracts/other-terms-of-service/terms-of-service-and-restrictions?source-platform=Evolution\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_success": "2026-10-18T09:16:26+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "cloudru/limitations": {
-    "last_success": "2026-10-14T19:17:54+00:00",
-    "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution\nCall log:\n  - navigating to \"https://cloud.ru/documents/contracts/other-terms-of-service/imposed-limitations?source-platform=Evolution\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_success": "2026-10-18T09:16:48+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "timeweb/pd_policy": {
-    "last_success": "2026-10-16T09:23:08+00:00",
+    "last_success": "2026-10-18T09:18:02+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/offer": {
-    "last_success": "2026-10-16T09:23:10+00:00",
+    "last_success": "2026-10-18T09:18:23+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_evolution": {
-    "last_success": "2026-10-14T19:18:23+00:00",
-    "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform=\nCall log:\n  - navigating to \"https://cloud.ru/documents/contracts/terms-of-service/evolution/service-level-agreement?source-platform=\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_success": "2026-10-18T09:17:09+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "timeweb/platform_rules": {
-    "last_success": "2026-10-16T09:23:54+00:00",
+    "last_success": "2026-10-18T09:18:36+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "timeweb/sla": {
-    "last_success": "2026-10-16T09:24:11+00:00",
+    "last_success": "2026-10-18T09:18:14+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "cloudru/sla_advanced": {
-    "last_success": "2026-10-14T19:19:49+00:00",
-    "consecutive_errors": 1,
-    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=\nCall log:\n  - navigating to \"https://cloud.ru/documents/contracts/terms-of-service/advanced/service-level-agreement?source-platform=\", waiting until \"domcontentloaded\"\n",
-    "days_stale": 1
+    "last_success": "2026-10-18T09:17:31+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
   },
   "vk/cloud_special_conditions": {
-    "last_success": "2026-10-16T09:09:14+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
-  },
-  "vk/cloud_offer_agreement": {
-    "last_success": "2026-10-16T09:09:22+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
-  },
-  "fl/agreement": {
-    "last_success": "2026-10-16T08:01:11+00:00",
+    "last_success": "2026-10-17T11:19:27+00:00",
     "consecutive_errors": 1,
-    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Max retries exceeded with url: /about/documents/agreement_site.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions\", waiting until \"domcontentloaded\"\n",
     "days_stale": 0
   },
-  "fl/privacy": {
-    "last_success": "2026-10-14T19:18:44+00:00",
+  "vk/cloud_offer_agreement": {
+    "last_success": "2026-10-17T11:19:34+00:00",
     "consecutive_errors": 1,
-    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Max retries exceeded with url: /about/documents/privacy_policy.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
-    "days_stale": 1
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/start/legal/offer/offer-agreement\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/start/legal/offer/offer-agreement\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
+  },
+  "fl/agreement": {
+    "last_success": "2026-10-18T09:20:23+00:00",
+    "consecutive_errors": 0,
+    "last_error": null
+  },
+  "fl/privacy": {
+    "last_success": "2026-10-17T11:22:43+00:00",
+    "consecutive_errors": 1,
+    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Read timed out. (read timeout=60)",
+    "days_stale": 0
   },
   "fl/price": {
-    "last_success": "2026-10-16T09:26:18+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:22:44+00:00",
+    "consecutive_errors": 1,
+    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Read timed out. (read timeout=60)",
+    "days_stale": 0
   },
   "fl/regulations": {
-    "last_success": "2026-10-16T09:26:13+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:22:45+00:00",
+    "consecutive_errors": 1,
+    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Read timed out. (read timeout=60)",
+    "days_stale": 0
   },
   "fl/service": {
-    "last_success": "2026-10-16T09:26:13+00:00",
+    "last_success": "2026-10-18T09:22:35+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "fl/offer_business": {
-    "last_success": "2026-10-16T09:26:15+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:22:47+00:00",
+    "consecutive_errors": 1,
+    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Read timed out. (read timeout=60)",
+    "days_stale": 0
   },
   "fl/pdn_consent": {
-    "last_success": "2026-10-16T09:26:16+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:22:48+00:00",
+    "consecutive_errors": 1,
+    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Read timed out. (read timeout=60)",
+    "days_stale": 0
   },
   "fl/cookie": {
-    "last_success": "2026-10-16T09:26:17+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:22:49+00:00",
+    "consecutive_errors": 1,
+    "last_error": "pdf fetch: HTTPSConnectionPool(host='st.fl.ru', port=443): Read timed out. (read timeout=60)",
+    "days_stale": 0
   },
   "avito/services_agreement": {
-    "last_success": "2026-10-16T09:26:49+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:23:54+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "avito/privacy": {
-    "last_success": "2026-10-16T09:26:40+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:22:54+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "avito/rec_technologies": {
-    "last_success": "2026-10-16T09:27:31+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:23:14+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "avito/ranking_ads": {
-    "last_success": "2026-10-16T09:30:52+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:23:34+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "avito/listing_policy": {
-    "last_success": "2026-10-16T09:28:07+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:24:14+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "avito/realty_listings": {
-    "last_success": "2026-10-16T09:27:46+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:24:55+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "avito/prohibited_items": {
-    "last_success": "2026-10-16T09:28:42+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:24:34+00:00",
+    "consecutive_errors": 1,
+    "last_error": "wayback fetch: wayback недоступен после ретраев",
+    "days_stale": 0
   },
   "ok/regulations": {
-    "last_success": "2026-10-16T09:28:11+00:00",
+    "last_success": "2026-10-18T09:36:13+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/privacy": {
-    "last_success": "2026-10-16T09:28:15+00:00",
+    "last_success": "2026-10-18T09:36:18+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/rtterms": {
-    "last_success": "2026-10-16T09:28:18+00:00",
+    "last_success": "2026-10-18T09:36:22+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/claimterms": {
-    "last_success": "2026-10-16T09:28:22+00:00",
+    "last_success": "2026-10-18T09:36:26+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "ok/childsafety": {
-    "last_success": "2026-10-16T09:28:25+00:00",
+    "last_success": "2026-10-18T09:36:30+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/pravila": {
-    "last_success": "2026-10-16T09:28:30+00:00",
+    "last_success": "2026-10-18T09:36:47+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/pravila_domains": {
-    "last_success": "2026-10-16T09:28:35+00:00",
+    "last_success": "2026-10-18T09:36:54+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/cloud_rules_ru": {
-    "last_success": "2026-10-16T09:28:40+00:00",
+    "last_success": "2026-10-18T09:37:00+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/cloud_rules_kz": {
-    "last_success": "2026-10-16T09:28:45+00:00",
+    "last_success": "2026-10-18T09:37:06+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/personal_data": {
-    "last_success": "2026-10-16T09:29:19+00:00",
+    "last_success": "2026-10-18T09:37:08+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/sla_vps": {
-    "last_success": "2026-10-16T09:28:50+00:00",
+    "last_success": "2026-10-18T09:37:12+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "beget/pci_dss": {
-    "last_success": "2026-10-16T09:28:55+00:00",
+    "last_success": "2026-10-18T09:37:17+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "vkcloud/offer_agreement": {
-    "last_success": "2026-10-16T09:29:19+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:01+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/privacy": {
-    "last_success": "2026-10-16T09:29:36+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:07+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/policy-privacy\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/platform_conditions": {
-    "last_success": "2026-10-16T09:29:47+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:14+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/platform-conditions\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/platform-conditions\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/terms": {
-    "last_success": "2026-10-16T09:30:01+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:20+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/terms\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/terms\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/special_conditions": {
-    "last_success": "2026-10-16T09:30:14+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:27+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/special-conditions\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/maintenance_regulations": {
-    "last_success": "2026-10-16T09:30:31+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:33+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/maintenance-regulations\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/maintenance-regulations\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/sla_common": {
-    "last_success": "2026-10-16T09:30:42+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:40+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/service-level-agreement/common-agreement\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/service-level-agreement/common-agreement\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/cdn_conditions": {
-    "last_success": "2026-10-16T09:30:53+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:46+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-cdn\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-cdn\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/marketplace_terms": {
-    "last_success": "2026-10-16T09:31:00+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:52+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-marketplace\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-marketplace\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "vkcloud/cloud_servers_conditions": {
-    "last_success": "2026-10-16T09:31:08+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:25:58+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers\nCall log:\n  - navigating to \"https://cloud.vk.ru/docs/ru/start/legal/offer/private-special-conditions/policy-servers\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "rutube/activities": {
-    "last_success": "2026-10-16T09:31:16+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:26:01+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://rutube.ru/info/activities/\nCall log:\n  - navigating to \"https://rutube.ru/info/activities/\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "rutube/agreement": {
-    "last_success": "2026-10-16T09:31:12+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:26:05+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://rutube.ru/info/agreement/\nCall log:\n  - navigating to \"https://rutube.ru/info/agreement/\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "rutube/privacy": {
-    "last_success": "2026-10-16T09:32:15+00:00",
-    "consecutive_errors": 0,
-    "last_error": null
+    "last_success": "2026-10-17T11:26:09+00:00",
+    "consecutive_errors": 1,
+    "last_error": "fetch: playwright: Page.goto: net::ERR_TIMED_OUT at https://rutube.ru/info/privacy/\nCall log:\n  - navigating to \"https://rutube.ru/info/privacy/\", waiting until \"domcontentloaded\"\n",
+    "days_stale": 0
   },
   "rutube/term_agreement": {
-    "last_success": "2026-10-16T09:31:57+00:00",
+    "last_success": "2026-10-18T09:58:24+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/socially_important": {
-    "last_success": "2026-10-16T09:32:02+00:00",
+    "last_success": "2026-10-18T09:59:35+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/advpr_agreement": {
-    "last_success": "2026-10-16T09:32:38+00:00",
+    "last_success": "2026-10-18T10:00:24+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/donate_agreement": {
-    "last_success": "2026-10-16T09:32:19+00:00",
+    "last_success": "2026-10-18T09:59:29+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/taboo_agreement": {
-    "last_success": "2026-10-16T09:33:19+00:00",
+    "last_success": "2026-10-18T09:59:46+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/ccl_agreement": {
-    "last_success": "2026-10-16T09:32:58+00:00",
+    "last_success": "2026-10-18T09:59:51+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/mediator_agreement": {
-    "last_success": "2026-10-16T09:34:29+00:00",
+    "last_success": "2026-10-18T09:59:56+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/erid_embed_ugc": {
-    "last_success": "2026-10-16T09:33:51+00:00",
+    "last_success": "2026-10-18T10:00:01+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/modmvpp": {
-    "last_success": "2026-10-16T09:34:33+00:00",
+    "last_success": "2026-10-18T10:00:09+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/recommendations": {
-    "last_success": "2026-10-16T09:34:25+00:00",
+    "last_success": "2026-10-18T10:00:13+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/cookies": {
-    "last_success": "2026-10-16T09:34:46+00:00",
+    "last_success": "2026-10-18T10:00:18+00:00",
     "consecutive_errors": 0,
     "last_error": null
   },
   "rutube/personal_abuse": {
-    "last_success": "2026-10-16T09:34:50+00:00",
+    "last_success": "2026-10-18T10:00:29+00:00",
     "consecutive_errors": 0,
     "last_error": null
   }
