@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0025
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 21,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "mediator_agreement",
+  "doc_title": "Приложение Ж — Медиатор",
+  "from_date": "2026-10-16",
+  "to_date": "2026-10-21",
+  "from_hash": "decd976d262c41bfa79cfa11f00f20ad45687f95d08cdfb81a640318b7f42f88",
+  "to_hash": "02d492735309240c5951126fdd515c2526b1b7f250c04eb809af6f8da1a1438b",
+  "url": "https://rutube.ru/info/mediator_agreement/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

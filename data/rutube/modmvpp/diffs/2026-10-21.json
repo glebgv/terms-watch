@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "lines_added": 1,
+    "lines_removed": 1,
+    "lines_changed": 1,
+    "change_ratio": 0.0003
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "modify",
+      "position": 572,
+      "old_text": "Москва, к/с № 30101810200000000823 в ГУ Банка России по ЦФО, БИК 044525823 Главная Shorts Каталог Подписки Моё",
+      "new_text": "Москва, к/с № 30101810200000000823 в ГУ Банка России по ЦФО,",
+      "word_diff": [
+        {
+          "type": "keep",
+          "text": "Москва, к/с № 30101810200000000823 в ГУ Банка России по ЦФО,"
+        },
+        {
+          "type": "remove",
+          "text": "БИК 044525823 Главная Shorts Каталог Подписки Моё"
+        }
+      ]
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "modmvpp",
+  "doc_title": "Соглашение на услугу доступа (активные пользователи)",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "d8fc182cc3fb23c6d657bb8e8fb261e078313d959583e9415d1210c5a1aaa79d",
+  "to_hash": "b3f553129d8a1c6b1b6bd741b56efa378c27a1b079b76992cd3051b484590a0f",
+  "url": "https://rutube.ru/info/modmvpp/",
+  "ai_summary": "Добавлено строк: 1, удалено: 1, изменено: 1."
+}

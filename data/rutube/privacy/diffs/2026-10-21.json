@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0002
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 417,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "privacy",
+  "doc_title": "Политика обработки персональных данных",
+  "from_date": "2026-10-16",
+  "to_date": "2026-10-21",
+  "from_hash": "85a7dd348863484b27ecfaf6ef3e356d031f0d7e07f11bb8e4cc298c2725839b",
+  "to_hash": "03ef9ae120fe1fd559bc2585462a239b753ae7c0b1e62bc01156014a0f662b70",
+  "url": "https://rutube.ru/info/privacy/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

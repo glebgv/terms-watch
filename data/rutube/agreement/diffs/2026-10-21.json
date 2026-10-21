@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0002
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 540,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "agreement",
+  "doc_title": "Генеральное пользовательское соглашение",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "ff359c6e565eff53334b96e878060cc4f4d4f2125a2ab9193a3bb8401028cefd",
+  "to_hash": "057ed553198762deee7580b145c688fe9d43d260bc7bfc3de6258250585ad92f",
+  "url": "https://rutube.ru/info/agreement/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

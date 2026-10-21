@@ -6,7 +6,7 @@
   "url": "https://rutube.ru/info/activities/",
   "selector": "body",
   "first_check": "2026-10-14",
-  "last_check": "2026-10-14",
-  "total_versions": 1,
-  "last_hash": "f41c669449296088ac20a40821f423d786231c0fda4881b6cbe5603842ec27bb"
+  "last_check": "2026-10-21",
+  "total_versions": 2,
+  "last_hash": "489013a129d39ede449b91f71740efc07497a34a0429659adf0a3d30a6ca7ac4"
 }

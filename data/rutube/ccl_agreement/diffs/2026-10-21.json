@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0018
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 24,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "ccl_agreement",
+  "doc_title": "Приложение Е — Лицензионное соглашение",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "0f76b2061976d46dc6352651fe8fe48782773cfa44c362cce761b0dd2b600eb9",
+  "to_hash": "42dc33e1e091bf7bd673c2790cf8e7c0a35137f29a9653b68c3f9e00244cd947",
+  "url": "https://rutube.ru/info/ccl_agreement/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

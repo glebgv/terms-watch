@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0018
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 102,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "cookies",
+  "doc_title": "Согласие на обработку пользовательских данных (cookies)",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "6767a177d8efebbcdb66859c846836105ede48006460e11d35effa058a7e6950",
+  "to_hash": "5b25df081c804beb06f2f5074567f6bdbeee8ddd7996111f6d9ac4e54cc2b837",
+  "url": "https://rutube.ru/info/cookies/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

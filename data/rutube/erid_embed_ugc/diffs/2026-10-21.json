@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0015
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 27,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "erid_embed_ugc",
+  "doc_title": "Приложение З — Реклама UGC-встраивания",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "2f5e1df1594b43359f6ab237e08fde42f2b6abe241f14e8ce3167a5fd3d0a6b5",
+  "to_hash": "6e2d5112317b8b203e357cae8f7ecae21792488c32f5ace7efa509f08073e5e7",
+  "url": "https://rutube.ru/info/erid_embed_ugc/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

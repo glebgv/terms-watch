@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0015
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 46,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "socially_important",
+  "doc_title": "Правила публикации общественно значимого контента",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "73513e95ec32527f12641e70b235c1e54331d53865900f6ff2cd16a899073ff0",
+  "to_hash": "16633ca0693a44529337c4d0bc559f44e2060ae70463ae4a3285fbc1c0643fab",
+  "url": "https://rutube.ru/info/socially_important/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

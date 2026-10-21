@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0026
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 65,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "recommendations",
+  "doc_title": "Правила применения рекомендательных технологий",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "fde78841f227c5e124133afdb4c8cdbacc99de523c76eed1d38703b4a5d8af8c",
+  "to_hash": "be1f9398d5692fa2c973a491193fb1359f2ef6b1f5df200020e8df15e121dd3d",
+  "url": "https://rutube.ru/info/recommendations/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}

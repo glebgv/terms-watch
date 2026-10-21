@@ -6,7 +6,7 @@
   "url": "https://rutube.ru/info/recommendations/",
   "selector": "body",
   "first_check": "2026-10-14",
-  "last_check": "2026-10-14",
-  "total_versions": 1,
-  "last_hash": "fde78841f227c5e124133afdb4c8cdbacc99de523c76eed1d38703b4a5d8af8c"
+  "last_check": "2026-10-21",
+  "total_versions": 2,
+  "last_hash": "be1f9398d5692fa2c973a491193fb1359f2ef6b1f5df200020e8df15e121dd3d"
 }

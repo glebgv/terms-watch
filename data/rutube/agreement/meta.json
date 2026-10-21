@@ -6,7 +6,7 @@
   "url": "https://rutube.ru/info/agreement/",
   "selector": "body",
   "first_check": "2026-10-14",
-  "last_check": "2026-10-14",
-  "total_versions": 1,
-  "last_hash": "ff359c6e565eff53334b96e878060cc4f4d4f2125a2ab9193a3bb8401028cefd"
+  "last_check": "2026-10-21",
+  "total_versions": 2,
+  "last_hash": "057ed553198762deee7580b145c688fe9d43d260bc7bfc3de6258250585ad92f"
 }

@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "lines_added": 0,
+    "lines_removed": 1,
+    "lines_changed": 0,
+    "change_ratio": 0.0006
+  },
+  "is_major": false,
+  "reordering_only": false,
+  "keywords": [],
+  "changes": [
+    {
+      "type": "remove",
+      "position": 132,
+      "text": "Главная Shorts Каталог Подписки Моё"
+    }
+  ],
+  "site": "rutube",
+  "doc_id": "term_agreement",
+  "doc_title": "Приложение А — Условия использования",
+  "from_date": "2026-10-14",
+  "to_date": "2026-10-21",
+  "from_hash": "50bf0801be0dde279ea6f51e94e00f173d20a0820b63359836d629a6209b8f6c",
+  "to_hash": "2b777b473df0ea374d64af36a1c50b4d9e835faed7ed05ddcfab2abdddec0886",
+  "url": "https://rutube.ru/info/term_agreement/",
+  "ai_summary": "Добавлено строк: 0, удалено: 1, изменено: 0."
+}
