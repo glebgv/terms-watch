@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:14:32+00:00",
+  "generated_at": "2026-10-23T09:10:20+00:00",
   "sites": [
     {
       "site": {
@@ -394,31 +394,28 @@
           "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
           "selector": "main, article, body",
           "first_check": "2026-10-11",
-          "last_check": "2026-10-12",
-          "total_versions": 1,
-          "last_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47"
+          "last_check": "2026-10-22",
+          "total_versions": 2,
+          "last_hash": "c62ba8484109d28e2f68520abfa6e9ef558da7d4f4c6b07c032c3d69266db596"
         }
       ],
       "last_change": {
-        "date": "2026-10-14",
-        "checked_at": "2026-10-14T12:29:29+00:00",
+        "date": "2026-10-22",
+        "checked_at": "2026-10-22T09:10:13+00:00",
         "site_id": "vk",
         "site_name": "VK",
-        "doc_id": "cc_terms",
-        "doc_title": "Условия использования сервиса «VK Реклама»",
+        "doc_id": "cloud_offer_agreement",
+        "doc_title": "Договор-оферта (VK Cloud)",
         "is_major": false,
         "keywords": [
-          "персональные данные",
-          "ответственность",
-          "суд",
-          "хранение данных",
-          "согласие"
+          "оплата",
+          "суд"
         ],
-        "summary": "Затронуты темы: персональные данные, ответственность, суд, хранение данных, согласие. Добавлено строк: 0, удалено: 45, изменено: 0.",
-        "url": "https://vk.ru/help?page=cc_terms",
-        "diff_path": "vk/cc_terms/diffs/2026-10-14.json"
+        "summary": "Затронуты темы: оплата, суд. Добавлено строк: 9, удалено: 8, изменено: 4.",
+        "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+        "diff_path": "vk/cloud_offer_agreement/diffs/2026-10-22.json"
       },
-      "changes_count": 6
+      "changes_count": 7
     },
     {
       "site": {
@@ -1522,9 +1519,9 @@
           "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
           "selector": "body",
           "first_check": "2026-10-14",
-          "last_check": "2026-10-14",
-          "total_versions": 1,
-          "last_hash": "dde1df08aeb765223b1a8e058c1daab97b4c7f1b56a7b6c58240cb82151f2a47"
+          "last_check": "2026-10-23",
+          "total_versions": 2,
+          "last_hash": "c62ba8484109d28e2f68520abfa6e9ef558da7d4f4c6b07c032c3d69266db596"
         },
         {
           "id": "vkcloud",
@@ -1635,8 +1632,23 @@
           "last_hash": "bb5dd6bc3f0883953a5e50c78d8fc05a02e52fa3770b85d4da3fb532a5ff6527"
         }
       ],
-      "last_change": null,
-      "changes_count": 0
+      "last_change": {
+        "date": "2026-10-23",
+        "checked_at": "2026-10-23T09:09:09+00:00",
+        "site_id": "vkcloud",
+        "site_name": "VK Cloud",
+        "doc_id": "offer_agreement",
+        "doc_title": "Договор-оферта на оказание услуг Платформы",
+        "is_major": false,
+        "keywords": [
+          "оплата",
+          "суд"
+        ],
+        "summary": "Затронуты темы: оплата, суд. Добавлено строк: 9, удалено: 8, изменено: 4.",
+        "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
+        "diff_path": "vkcloud/offer_agreement/diffs/2026-10-23.json"
+      },
+      "changes_count": 1
     },
     {
       "site": {
@@ -1923,6 +1935,38 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-23",
+      "checked_at": "2026-10-23T09:09:09+00:00",
+      "site_id": "vkcloud",
+      "site_name": "VK Cloud",
+      "doc_id": "offer_agreement",
+      "doc_title": "Договор-оферта на оказание услуг Платформы",
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "суд"
+      ],
+      "summary": "Затронуты темы: оплата, суд. Добавлено строк: 9, удалено: 8, изменено: 4.",
+      "url": "https://cloud.vk.ru/docs/ru/start/legal/offer/offer-agreement",
+      "diff_path": "vkcloud/offer_agreement/diffs/2026-10-23.json"
+    },
+    {
+      "date": "2026-10-22",
+      "checked_at": "2026-10-22T09:10:13+00:00",
+      "site_id": "vk",
+      "site_name": "VK",
+      "doc_id": "cloud_offer_agreement",
+      "doc_title": "Договор-оферта (VK Cloud)",
+      "is_major": false,
+      "keywords": [
+        "оплата",
+        "суд"
+      ],
+      "summary": "Затронуты темы: оплата, суд. Добавлено строк: 9, удалено: 8, изменено: 4.",
+      "url": "https://cloud.vk.ru/docs/start/legal/offer/offer-agreement",
+      "diff_path": "vk/cloud_offer_agreement/diffs/2026-10-22.json"
+    },
     {
       "date": "2026-10-21",
       "checked_at": "2026-10-21T09:14:30+00:00",
