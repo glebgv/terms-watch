@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:10:20+00:00",
+  "generated_at": "2026-10-27T09:13:43+00:00",
   "sites": [
     {
       "site": {
@@ -1805,9 +1805,9 @@
           "url": "https://rutube.ru/info/advpr_agreement/",
           "selector": "body",
           "first_check": "2026-10-14",
-          "last_check": "2026-10-21",
-          "total_versions": 3,
-          "last_hash": "25d3ee63b5df2524370545b23d33bf892c14ca93838c74f44417dce95d17923e"
+          "last_check": "2026-10-27",
+          "total_versions": 4,
+          "last_hash": "e81f0abaaae75c5561fc95fbe4269cf107f0a727c9653bb916cb6aed2fce8a03"
         },
         {
           "id": "rutube",
@@ -1919,22 +1919,43 @@
         }
       ],
       "last_change": {
-        "date": "2026-10-21",
-        "checked_at": "2026-10-21T09:14:30+00:00",
+        "date": "2026-10-27",
+        "checked_at": "2026-10-27T09:13:41+00:00",
         "site_id": "rutube",
         "site_name": "Rutube",
-        "doc_id": "personal_abuse",
-        "doc_title": "Согласие на обработку данных по жалобам",
+        "doc_id": "advpr_agreement",
+        "doc_title": "Приложение В — Рекламные услуги",
         "is_major": false,
-        "keywords": [],
-        "summary": "Добавлено строк: 0, удалено: 1, изменено: 0.",
-        "url": "https://rutube.ru/info/personal_abuse/",
-        "diff_path": "rutube/personal_abuse/diffs/2026-10-21.json"
+        "keywords": [
+          "персональные данные",
+          "согласие",
+          "cookies"
+        ],
+        "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+        "url": "https://rutube.ru/info/advpr_agreement/",
+        "diff_path": "rutube/advpr_agreement/diffs/2026-10-27.json"
       },
-      "changes_count": 18
+      "changes_count": 19
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "checked_at": "2026-10-27T09:13:41+00:00",
+      "site_id": "rutube",
+      "site_name": "Rutube",
+      "doc_id": "advpr_agreement",
+      "doc_title": "Приложение В — Рекламные услуги",
+      "is_major": false,
+      "keywords": [
+        "персональные данные",
+        "согласие",
+        "cookies"
+      ],
+      "summary": "Затронуты темы: персональные данные, согласие, cookies. Добавлено строк: 1, удалено: 1, изменено: 1.",
+      "url": "https://rutube.ru/info/advpr_agreement/",
+      "diff_path": "rutube/advpr_agreement/diffs/2026-10-27.json"
+    },
     {
       "date": "2026-10-23",
       "checked_at": "2026-10-23T09:09:09+00:00",
